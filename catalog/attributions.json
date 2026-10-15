@@ -6526,6 +6526,58 @@
     "original_collection_paths": ""
   },
   {
+    "asset_id": "contributor-jimgat-ws-c5-35-01",
+    "board": "ESP32-C5-Touch-LCD-3.5",
+    "manufacturer": "Waveshare",
+    "processor": "ESP32-C5",
+    "reference_type": "board photograph",
+    "review": "Contributor photograph; not an electrical or complete physical pinout validation",
+    "file": "media/7f1d8b9c90feab6a92200a9ba369aa5d5bf085d9460ec4a673c56aba73f73a8a.jpg",
+    "sha256": "7f1d8b9c90feab6a92200a9ba369aa5d5bf085d9460ec4a673c56aba73f73a8a",
+    "source_urls": "https://github.com/jimgat | https://github.com/JimGat/CYM/blob/dd7f20759c00b15b0537f0e11649a2fde1b6ed19/docs/hardware/waveshare-c5-touch-lcd-35.md",
+    "rights_status": "Photograph contributed by @jimgat. Explicit permission to publish and reframe/resize/rotate/mark up for this contribution; no blanket photo license or print clearance asserted.",
+    "original_collection_paths": ""
+  },
+  {
+    "asset_id": "contributor-jimgat-ws-c5-35-02",
+    "board": "ESP32-C5-Touch-LCD-3.5",
+    "manufacturer": "Waveshare",
+    "processor": "ESP32-C5",
+    "reference_type": "board photograph",
+    "review": "Contributor photograph; not an electrical or complete physical pinout validation",
+    "file": "media/77013a1a662bf6ea62af54aa5a64e4ccda094967c515abc03c10e9c7bfd3af13.jpg",
+    "sha256": "77013a1a662bf6ea62af54aa5a64e4ccda094967c515abc03c10e9c7bfd3af13",
+    "source_urls": "https://github.com/jimgat | https://github.com/JimGat/CYM/blob/dd7f20759c00b15b0537f0e11649a2fde1b6ed19/docs/hardware/waveshare-c5-touch-lcd-35.md",
+    "rights_status": "Photograph contributed by @jimgat. Explicit permission to publish and reframe/resize/rotate/mark up for this contribution; no blanket photo license or print clearance asserted.",
+    "original_collection_paths": ""
+  },
+  {
+    "asset_id": "contributor-jimgat-ws-c5-35-03",
+    "board": "ESP32-C5-Touch-LCD-3.5",
+    "manufacturer": "Waveshare",
+    "processor": "ESP32-C5",
+    "reference_type": "board photograph",
+    "review": "Contributor photograph; not an electrical or complete physical pinout validation",
+    "file": "media/24d71c2d3c33905c1449ce7e4a16b7613b60f186a39ad12ea0e70b0a606c3bbd.jpg",
+    "sha256": "24d71c2d3c33905c1449ce7e4a16b7613b60f186a39ad12ea0e70b0a606c3bbd",
+    "source_urls": "https://github.com/jimgat | https://github.com/JimGat/CYM/blob/dd7f20759c00b15b0537f0e11649a2fde1b6ed19/docs/hardware/waveshare-c5-touch-lcd-35.md",
+    "rights_status": "Photograph contributed by @jimgat. Explicit permission to publish and reframe/resize/rotate/mark up for this contribution; no blanket photo license or print clearance asserted.",
+    "original_collection_paths": ""
+  },
+  {
+    "asset_id": "contributor-jimgat-ws-c5-35-04",
+    "board": "ESP32-C5-Touch-LCD-3.5",
+    "manufacturer": "Waveshare",
+    "processor": "ESP32-C5",
+    "reference_type": "board photograph",
+    "review": "Contributor photograph; not an electrical or complete physical pinout validation",
+    "file": "media/5bf77ff4a627bf8252a8331828dcc2d22143eb00fe375bf542a108b2c76ec4ef.jpg",
+    "sha256": "5bf77ff4a627bf8252a8331828dcc2d22143eb00fe375bf542a108b2c76ec4ef",
+    "source_urls": "https://github.com/jimgat | https://github.com/JimGat/CYM/blob/dd7f20759c00b15b0537f0e11649a2fde1b6ed19/docs/hardware/waveshare-c5-touch-lcd-35.md",
+    "rights_status": "Photograph contributed by @jimgat. Explicit permission to publish and reframe/resize/rotate/mark up for this contribution; no blanket photo license or print clearance asserted.",
+    "original_collection_paths": ""
+  },
+  {
     "asset_id": "WS-316",
     "board": "ESP32-C5-WIFI6-KIT",
     "manufacturer": "Waveshare",

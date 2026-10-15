@@ -2173,7 +2173,7 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | [ESP32-C5-Pico](boards/waveshare/esp32-c5/esp32-c5-pico--277b134c/README.md) | ESP32-C5 | 2 | 2 |
 | [ESP32-C5-Touch-LCD-1.69](boards/waveshare/esp32-c5/esp32-c5-touch-lcd-1.69--01a0d0c0/README.md) | ESP32-C5 | 2 | 2 |
 | [ESP32-C5-Touch-LCD-2.8](boards/waveshare/esp32-c5/esp32-c5-touch-lcd-2.8--c2a0ab2b/README.md) | ESP32-C5 | 2 | 2 |
-| [ESP32-C5-Touch-LCD-3.5](boards/waveshare/esp32-c5/esp32-c5-touch-lcd-3-5--ea6f9bfd/README.md) | ESP32-C5 | 3 | 0 |
+| [ESP32-C5-Touch-LCD-3.5](boards/waveshare/esp32-c5/esp32-c5-touch-lcd-3-5--ea6f9bfd/README.md) | ESP32-C5 | 7 | 0 |
 | [ESP32-C5-WIFI6-KIT](boards/waveshare/esp32-c5/esp32-c5-wifi6-kit--e082a949/README.md) | ESP32-C5 | 3 | 3 |
 | [ESP32-C5-Zero](boards/waveshare/esp32-c5/esp32-c5-zero--aa5824f4/README.md) | ESP32-C5 | 2 | 2 |
 | [ESP32-C6 1.47inch Display Development Board](boards/waveshare/esp32-c6/esp32-c6-1-47inch-display-development-board--0a56bbd8/README.md) | ESP32-C6 | 3 | 1 |

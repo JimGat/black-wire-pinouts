@@ -16701,5 +16701,404 @@
         }
       ]
     }
+  ],
+  "waveshare-esp32-esp32-c5-touch-lcd-3-5": [
+    {
+      "connector": "J3 / schematic-numbered reference",
+      "scope": "Manufacturer schematic net names for all 32 J3 positions. Contributor @jimgat reports continuity observations and GPS operation on the camera/battery assembly, SKU 35419; these are not all-pin measurements. GPIO4/R60 is an additional onboard selector route, not a sixth numbered spare J3 GPIO.",
+      "orientation": "Logical schematic numbering only. Physical mating-face orientation and pin 1 are not established; use the matching hardware drawing before wiring.",
+      "source": {
+        "url": "https://github.com/waveshareteam/ESP32-C5-Touch-LCD-3.5/raw/main/schematic/ESP32-C5-Touch-LCD-3.5.pdf",
+        "sha256": "b2140f11620022301fe3c92d5c003e6d6b9e1db9cb111cd54f892eeb7a840485",
+        "locator": "Page 1, PinOut/J3 symbol and GPIO selector matrix"
+      },
+      "review": "Schematic-derived reference; assembly observations contributed by @jimgat; independent all-connector electrical review pending",
+      "pins": [
+        {
+          "label": "VBUS",
+          "position": "Schematic pin 1",
+          "purpose": "USB supply rail",
+          "notes": "Power net only; do not infer allowed backfeed or supply current.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 1,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "VBAT1",
+          "position": "Schematic pin 2",
+          "purpose": "Battery supply rail, not regulated 3.3 V",
+          "notes": "Battery rail; not a regulated 3.3 V output. No external-power wiring qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 2,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "GND",
+          "position": "Schematic pin 3",
+          "purpose": "Ground reference",
+          "notes": "Schematic net only; no independent header-contact continuity test supplied.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 3,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "GND",
+          "position": "Schematic pin 4",
+          "purpose": "Ground reference",
+          "notes": "Schematic net only; no independent header-contact continuity test supplied.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 4,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "SWDIO",
+          "position": "Schematic pin 5",
+          "purpose": "Helper-controller debug data",
+          "notes": "Helper-controller debug net; not an ESP32 GPIO claim.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 5,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "EXIO8",
+          "position": "Schematic pin 6",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO8",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 6,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "NC",
+          "position": "Schematic pin 7",
+          "purpose": "No connection shown",
+          "notes": "Explicit schematic no-connect marker.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 7,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "EXIO9",
+          "position": "Schematic pin 8",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO9",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 8,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "NC",
+          "position": "Schematic pin 9",
+          "purpose": "No connection shown",
+          "notes": "Explicit schematic no-connect marker.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 9,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "EXIO10",
+          "position": "Schematic pin 10",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO10",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 10,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "NC/GPIO22",
+          "position": "Schematic pin 11",
+          "purpose": "Variant/no-connect designation; native route unconfirmed",
+          "notes": "Variant/NC label; no tested ESP32-C5 native route established.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 11,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "EXIO11",
+          "position": "Schematic pin 12",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO11",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 12,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "NC/GPIO21",
+          "position": "Schematic pin 13",
+          "purpose": "Variant/no-connect designation; native route unconfirmed",
+          "notes": "Variant/NC label; no tested ESP32-C5 native route established.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 13,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "EXIO12",
+          "position": "Schematic pin 14",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO12",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 14,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "GPIO0_OUT",
+          "position": "Schematic pin 15",
+          "purpose": "Selectable native GPIO0 route",
+          "notes": "GPIO0 via R55; contributor reports no native route at J3; CAM_D0 selected on tested assembly.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 15,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "EXIO13",
+          "position": "Schematic pin 16",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO13",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 16,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "GPIO1_OUT",
+          "position": "Schematic pin 17",
+          "purpose": "Selectable native GPIO1 route",
+          "notes": "GPIO1 via R58; contributor reports no native route at J3; CAM_D1 selected on tested assembly.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 17,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "EXIO14",
+          "position": "Schematic pin 18",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO14",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 18,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "GPIO9_OUT",
+          "position": "Schematic pin 19",
+          "purpose": "Selectable native GPIO9 route",
+          "notes": "GPIO9 via R57; contributor reports no native route at J3; SDCS selected on tested assembly.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 19,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "EXIO15",
+          "position": "Schematic pin 20",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO15",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 20,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "GPIO28_OUT",
+          "position": "Schematic pin 21",
+          "purpose": "Native GPIO28; contributor-tested GPS receive",
+          "notes": "GPIO28: contributor-reported ATGM336H receive-only GPS LOCK; UART1 RX, 9600 baud, TX disabled. BOOT strap caveat. Number 21 is schematic-derived, not independently pin-number continuity-tested.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 21,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "CHIP_PU",
+          "position": "Schematic pin 22",
+          "purpose": "ESP32 reset/enable",
+          "notes": "Reset/enable net; not a spare native GPIO.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 22,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "EXIO_ADC",
+          "position": "Schematic pin 23",
+          "purpose": "Helper-controller analog input",
+          "notes": "Helper-controller ADC net, not automatically an ESP32 ADC pin; electrical range not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 23,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "PWRON",
+          "position": "Schematic pin 24",
+          "purpose": "Power-control signal",
+          "notes": "Power-control net; not a spare native GPIO.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 24,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "ESP32_SCL",
+          "position": "Schematic pin 25",
+          "purpose": "Shared I2C clock, GPIO26",
+          "notes": "GPIO26 per schematic matrix/BSP; shared onboard I2C; no separate header continuity test supplied.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 25,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "U0TXD",
+          "position": "Schematic pin 26",
+          "purpose": "Selectable GPIO11 route; assembly-dependent",
+          "notes": "GPIO11 via R56; contributor reports no native route at J3; CAM_PCLK selected on tested assembly. Net name does not mandate UART0.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 26,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "ESP32_SDA",
+          "position": "Schematic pin 27",
+          "purpose": "Shared I2C data, GPIO27",
+          "notes": "GPIO27 per schematic matrix/BSP; shared onboard I2C; no separate header continuity test supplied.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 27,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "U0RXD",
+          "position": "Schematic pin 28",
+          "purpose": "Selectable GPIO12 route; assembly-dependent",
+          "notes": "GPIO12 via R59; contributor reports no native route at J3; CAM_VSYNC2 selected on tested assembly. Net name does not mandate UART0.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 28,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "GND",
+          "position": "Schematic pin 29",
+          "purpose": "Ground reference",
+          "notes": "Schematic net only; no independent header-contact continuity test supplied.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 29,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "GND",
+          "position": "Schematic pin 30",
+          "purpose": "Ground reference",
+          "notes": "Schematic net only; no independent header-contact continuity test supplied.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 30,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "VCC3V3",
+          "position": "Schematic pin 31",
+          "purpose": "3.3 V supply rail",
+          "notes": "Schematic net only; no independent header-contact continuity test supplied.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 31,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "VCC3V3",
+          "position": "Schematic pin 32",
+          "purpose": "3.3 V supply rail",
+          "notes": "Schematic net only; no independent header-contact continuity test supplied.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 32,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        }
+      ]
+    }
   ]
 }
