@@ -20,6 +20,10 @@ Continuity method reported for the selector tests: continuity/beep mode, battery
 
 ATGM336H GPS: @jimgat reports working receive-only GPS with UART1 RX=GPIO28, ESP32 UART TX disabled, 9600 baud and common ground. GPIO28 also shares the BOOT button: continuity confirmed by @jimgat. Holding GPIO28 to GND during reset/power-up for more than 100 ms entered boot mode in the contributor test; this is an observed test condition, not a specified minimum timing. A connected external device must tolerate that line being pulled to GND. Do not press BOOT against an actively driven GPS TX/push-pull output; isolate or disconnect the driver first. GPIO28 cannot be treated as an independent input while BOOT is used; application input and BOOT operation are not simultaneously independent.
 
+## External I2C
+
+Contributor @jimgat functionally verified external I2C on the tested camera/battery specimen by connecting an external air-quality sensor and successfully polling it. Sensor model, I2C address, bus speed, supply voltage and pull-up arrangement were not supplied; no general electrical limits or compatibility with other sensors are inferred. Manufacturer schematic/BSP assignments are ESP32_SCL=GPIO26 (schematic J3 pin 25) and ESP32_SDA=GPIO27 (schematic J3 pin 27). The reported polling test verifies external-bus operation on this specimen; it does not independently establish physical mating-face orientation or separate continuity measurements for each contact.
+
 ## Supply and control observations
 
 ### VBUS (Schematic pin 1)
@@ -46,4 +50,4 @@ All J3 ground contacts are reported continuity-tested; their schematic positions
 
 ## Evidence boundaries
 
-The GPS, voltage, reset, power-button and BOOT observations are functional/electrical contributor evidence. No exact voltage readings, instrument specifications, current limits, battery chemistry, charger design, protection topology or universal BOOT minimum pulse width were supplied. No such values are inferred. Unknown external power and charging behavior remains unknown.
+The external I2C polling, GPS, voltage, reset, power-button and BOOT observations are functional/electrical contributor evidence. No exact voltage readings, instrument specifications, current limits, battery chemistry, charger design, protection topology or universal BOOT minimum pulse width were supplied. No such values are inferred. Unknown external power and charging behavior remains unknown.

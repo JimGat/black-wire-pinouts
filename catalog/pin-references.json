@@ -16705,7 +16705,7 @@
   "waveshare-esp32-esp32-c5-touch-lcd-3-5": [
     {
       "connector": "J3 / schematic-numbered reference",
-      "scope": "32-position schematic-numbered J3 reference with contributor tests by @jimgat on camera/battery specimen SKU 35419. \"Pin functions · map needed\" means this table does not establish physical mating-face orientation. IMPORTANT: GPIO0/1/9 and U0TXD/GPIO11/U0RXD/GPIO12 are confirmed disconnected from their native GPIO routes on this specimen; firmware cannot reconnect them. GPIO28 supports tested receive-only GPS but shares BOOT and must not be actively driven when grounded. See individual rows for supply, ground, RST, PWR and BOOT tests and unqualified electrical limits. GPIO4/R60 is an additional onboard selector, not another numbered spare J3 GPIO.",
+      "scope": "32-position schematic-numbered J3 reference with contributor tests by @jimgat on camera/battery specimen SKU 35419. \"Pin functions · map needed\" means this table does not establish physical mating-face orientation. IMPORTANT: GPIO0/1/9 and U0TXD/GPIO11/U0RXD/GPIO12 are confirmed disconnected from their native GPIO routes on this specimen; firmware cannot reconnect them. GPIO28 supports tested receive-only GPS but shares BOOT and must not be actively driven when grounded. See individual rows for supply, ground, RST, PWR and BOOT tests and unqualified electrical limits. GPIO4/R60 is an additional onboard selector, not another numbered spare J3 GPIO. External I2C was also functionally verified with an air-quality sensor; see ESP32_SCL and ESP32_SDA.",
       "orientation": "Logical schematic numbering only. Physical mating-face orientation and pin 1 are not established; use the matching hardware drawing before wiring.",
       "source": {
         "url": "https://github.com/waveshareteam/ESP32-C5-Touch-LCD-3.5/raw/main/schematic/ESP32-C5-Touch-LCD-3.5.pdf",
@@ -17006,12 +17006,12 @@
           "label": "ESP32_SCL",
           "position": "Schematic pin 25",
           "purpose": "Shared I2C clock, GPIO26",
-          "notes": "GPIO26 per schematic matrix/BSP; shared onboard I2C; no separate header continuity test supplied.",
+          "notes": "GPIO26 assignment per manufacturer schematic matrix/BSP; shared onboard I2C bus. Contributor @jimgat functionally verified external I2C on the tested camera/battery specimen by connecting an external air-quality sensor and successfully polling it. Sensor model, I2C address, bus speed, supply voltage and pull-up arrangement were not supplied; no general electrical limits or compatibility with other sensors are inferred. This functional test is not a separate per-contact continuity test or an oriented physical pin map.",
           "evidence": {
             "page": 1,
             "connector": "J3",
             "schematicPin": 25,
-            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+            "evidenceClass": "manufacturer-schematic numbering and GPIO assignment; contributor-reported external I2C functional polling test"
           }
         },
         {
@@ -17030,12 +17030,12 @@
           "label": "ESP32_SDA",
           "position": "Schematic pin 27",
           "purpose": "Shared I2C data, GPIO27",
-          "notes": "GPIO27 per schematic matrix/BSP; shared onboard I2C; no separate header continuity test supplied.",
+          "notes": "GPIO27 assignment per manufacturer schematic matrix/BSP; shared onboard I2C bus. Contributor @jimgat functionally verified external I2C on the tested camera/battery specimen by connecting an external air-quality sensor and successfully polling it. Sensor model, I2C address, bus speed, supply voltage and pull-up arrangement were not supplied; no general electrical limits or compatibility with other sensors are inferred. This functional test is not a separate per-contact continuity test or an oriented physical pin map.",
           "evidence": {
             "page": 1,
             "connector": "J3",
             "schematicPin": 27,
-            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+            "evidenceClass": "manufacturer-schematic numbering and GPIO assignment; contributor-reported external I2C functional polling test"
           }
         },
         {
