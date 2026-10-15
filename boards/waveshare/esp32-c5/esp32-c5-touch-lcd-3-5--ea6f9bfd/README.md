@@ -4,7 +4,7 @@
 
 Revision: Not identified; contributor specimen ESP32-C5-Touch-LCD-3.5-C, SKU 35419
 
-Coverage: Manufacturer schematic reference with contributor-reported continuity and GPS observations for SKU 35419; physical connector orientation and all-pin electrical review pending
+Coverage: J3 schematic-numbered functions and contributor-tested continuity, supply, reset, power-button, BOOT and receive-only GPS observations for SKU 35419; physical mating-face map and electrical limits remain unqualified
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=waveshare-esp32-esp32-c5-touch-lcd-3-5)
 
@@ -18,7 +18,7 @@ Board datasheet: **not yet recorded**. Visual reference: **available**.
 - **hardware-guide / board**: [Manufacturer pin and hardware documentation](https://docs.waveshare.com/ESP32-C5-Touch-LCD-3.5) · online
 - **hardware-guide / board**: [Contributor assembly observations and J3 reference](https://github.com/JimGat/CYM/blob/dd7f20759c00b15b0537f0e11649a2fde1b6ed19/docs/hardware/waveshare-c5-touch-lcd-35.md) · online
 
-Camera/battery assembly observations contributed by @jimgat for SKU 35419. Schematic net names, reported unpowered continuity and reported GPS operation are different evidence classes. Do not generalize assembly routing to every variant.
+Contributor @jimgat: tests apply to one camera/battery specimen, SKU 35419; PCB revision unknown. Camera/battery specimen SKU 35419: @jimgat confirmed by unpowered continuity from the J3 contact to the unconnected 0-ohm selector pad that the labeled GPIO0, GPIO1, GPIO9, U0TXD/GPIO11 and U0RXD/GPIO12 routes are not connected through to their native ESP32 GPIOs on this specimen. Camera routes (GPIO0/1/11/12) and SDCS (GPIO9) are selected instead per the schematic selector matrix. Disabling the camera in firmware does not reconnect an unpopulated hardware route. Do not assume the same routing on every camera-model board or revision. GPIO4/R60 is an additional onboard selector, not another numbered spare J3 GPIO. ATGM336H GPS: @jimgat reports working receive-only GPS with UART1 RX=GPIO28, ESP32 UART TX disabled, 9600 baud and common ground. GPIO28 also shares the BOOT button: continuity confirmed by @jimgat. Holding GPIO28 to GND during reset/power-up for more than 100 ms entered boot mode in the contributor test; this is an observed test condition, not a specified minimum timing. A connected external device must tolerate that line being pulled to GND. Do not press BOOT against an actively driven GPS TX/push-pull output; isolate or disconnect the driver first. GPIO28 cannot be treated as an independent input while BOOT is used; application input and BOOT operation are not simultaneously independent. Power and controls: VBUS/5V, VBAT1, GND, RST/CHIP_PU and PWR/PWRON tests and unknown power limits are recorded in their individual Pin names & purpose rows. The supplied 500 mAh battery capacity is not a header-current or charger rating.
 
 [Documentation coverage and remaining gaps](../../../../DOCUMENTATION.md)
 
@@ -88,7 +88,7 @@ SHA-256: `b2140f11620022301fe3c92d5c003e6d6b9e1db9cb111cd54f892eeb7a840485`
 
 [Source 1](https://github.com/jimgat) · [Source 2](https://github.com/JimGat/CYM/blob/dd7f20759c00b15b0537f0e11649a2fde1b6ed19/docs/hardware/waveshare-c5-touch-lcd-35.md)
 
-Rear-label and header photograph of contributor specimen ESP32-C5-Touch-LCD-3.5-C, SKU 35419. Printed labels do not establish internal continuity or a verified mating-face numbering.
+J3 header and rear sticker on contributor specimen SKU 35419. Sticker aliases confirmed by @jimgat: VBUS=5V, CHIP_PU=RST, PWRON=PWR. Continuity and functional results, disconnected native GPIO routes, and power limits are in Documentation and Pin names & purpose. This photograph alone is not an oriented physical pin map.
 
 Image revision: Not identified; SKU 35419 contributor specimen
 
@@ -124,7 +124,7 @@ SHA-256: `77013a1a662bf6ea62af54aa5a64e4ccda094967c515abc03c10e9c7bfd3af13`
 
 [Source 1](https://github.com/jimgat) · [Source 2](https://github.com/JimGat/CYM/blob/dd7f20759c00b15b0537f0e11649a2fde1b6ed19/docs/hardware/waveshare-c5-touch-lcd-35.md)
 
-Contributor @jimgat reports GPS LOCK with ATGM336H, UART1 RX=GPIO28, TX disabled, 9600 baud and common ground. GPIO28 is a BOOT strap: avoid pressing BOOT while driven by the GPS transmitter. Schematic pin 21 is source numbering, not independent physical contact verification.
+ATGM336H GPS: @jimgat reports working receive-only GPS with UART1 RX=GPIO28, ESP32 UART TX disabled, 9600 baud and common ground. GPIO28 also shares the BOOT button: continuity confirmed by @jimgat. Holding GPIO28 to GND during reset/power-up for more than 100 ms entered boot mode in the contributor test; this is an observed test condition, not a specified minimum timing. A connected external device must tolerate that line being pulled to GND. Do not press BOOT against an actively driven GPS TX/push-pull output; isolate or disconnect the driver first. GPIO28 cannot be treated as an independent input while BOOT is used; application input and BOOT operation are not simultaneously independent. Schematic pin 21 is source numbering, not an independently oriented physical contact map.
 
 Image revision: Not identified; SKU 35419 contributor specimen
 
