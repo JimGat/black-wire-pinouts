@@ -4,7 +4,7 @@
 
 Revision: Unverified source identity
 
-Coverage: Source collection; review pending
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=source-board-58a3464523a4a2c02e)
 
@@ -12,8 +12,9 @@ Coverage: Source collection; review pending
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://docs.m5stack.com/en/unit/IMU%20Pro%20Mini%20Unit)
+[Manufacturer model documentation](https://docs.m5stack.com/en/unit/IMU%20Pro%20Mini%20Unit)
 
+- **hardware-guide / board**: [Unit Mini IMU-Pro — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/unit/Unit_Mini_IMU-Pro.pdf) · [saved document](../../../../library/media/9b433c9e20a899cf310beb9405d452b7d46e4034aed8f33939d027b67ed4a04a.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -36,5 +37,23 @@ Original source index: Dimensions. This file is searchable but has not been prom
 Image revision: Not identified
 
 SHA-256: `a643585c5155a74c30ba63499079e9964d7e18f1941779d5f58d216809807760`
+
+## Unit Mini IMU-Pro — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![Unit Mini IMU-Pro reference preview](../../../../library/thumbs/9b433c9e20a899cf310beb9405d452b7d46e4034aed8f33939d027b67ed4a04a.webp)](../../../../library/media/9b433c9e20a899cf310beb9405d452b7d46e4034aed8f33939d027b67ed4a04a.pdf)
+
+[Open original reference](../../../../library/media/9b433c9e20a899cf310beb9405d452b7d46e4034aed8f33939d027b67ed4a04a.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/unit/Unit_Mini_IMU-Pro.pdf) · [Source 2](https://docs.m5stack.com/en/unit/IMU%20Pro%20Mini%20Unit)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `9b433c9e20a899cf310beb9405d452b7d46e4034aed8f33939d027b67ed4a04a`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

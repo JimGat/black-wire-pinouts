@@ -4,7 +4,7 @@
 
 Revision: Unverified source identity
 
-Coverage: Manufacturer references reviewed by scope; independent electrical and all-connector review pending
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=source-board-5ecba9322a25331bc8)
 
@@ -12,13 +12,14 @@ Coverage: Manufacturer references reviewed by scope; independent electrical and 
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer hardware documentation](https://docs.m5stack.com/en/base/StackChan_Body)
+[Manufacturer model documentation](https://docs.m5stack.com/en/base/StackChan_Body)
 
 - **schematic / recorded-source**: [StackChan Base Adapter Board Schematic PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1205/SCH_Adapter.pdf) · [saved document](../../../../library/media/8d0b419244dd0ef18ca371742a5f63b5ab9b55712cd97d6a459fad7b27e7dbbb.pdf)
 - **schematic / recorded-source**: [StackChan Base Power Board Schematic PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1205/SCH_Power.pdf) · [saved document](../../../../library/media/cbffdb4b2baee62a13e221b43398f2cbe7f1cd16719aba9782026a902b7dd265.pdf)
 - **schematic / recorded-source**: [StackChan Base Ring Board Schematic PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1205/SCH_Ring.pdf) · [saved document](../../../../library/media/ff0d6ba39502fdbed437828f1b1aedd5e371dd2ea16054d8c7cd114dddc6a10c.pdf)
 - **schematic / recorded-source**: [StackChan Base Touch Board Schematic PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1205/SCH_Touch.pdf) · [saved document](../../../../library/media/75ec0ca5af5c4f03d7abe6a0c7835c9d0ba3a323eb0b723bdf6aeab5a3c2ac1c.pdf)
 - **hardware-guide / board**: [Manufacturer pin and hardware documentation](https://docs.m5stack.com/en/base/StackChan_Body) · online
+- **hardware-guide / board**: [StackChan Body — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/base/StackChan_Body.pdf) · [saved document](../../../../library/media/56f67a002fc9ccd62e8881809cfefd3af7feb2b481ebd19a1ea64182d24bf0d3.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -113,5 +114,23 @@ Manufacturer source retained unchanged. Manufacturer source and first-page previ
 Image revision: As supplied in the original; match exact board revision
 
 SHA-256: `75ec0ca5af5c4f03d7abe6a0c7835c9d0ba3a323eb0b723bdf6aeab5a3c2ac1c`
+
+## StackChan Body — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![StackChan Body reference preview](../../../../library/thumbs/56f67a002fc9ccd62e8881809cfefd3af7feb2b481ebd19a1ea64182d24bf0d3.webp)](../../../../library/media/56f67a002fc9ccd62e8881809cfefd3af7feb2b481ebd19a1ea64182d24bf0d3.pdf)
+
+[Open original reference](../../../../library/media/56f67a002fc9ccd62e8881809cfefd3af7feb2b481ebd19a1ea64182d24bf0d3.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/base/StackChan_Body.pdf) · [Source 2](https://docs.m5stack.com/en/base/StackChan_Body)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `56f67a002fc9ccd62e8881809cfefd3af7feb2b481ebd19a1ea64182d24bf0d3`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

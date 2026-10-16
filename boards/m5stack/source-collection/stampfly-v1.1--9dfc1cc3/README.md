@@ -4,7 +4,7 @@
 
 Revision: Unverified source identity
 
-Coverage: Manufacturer references reviewed by scope; independent electrical and all-connector review pending
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=source-board-00671040984b2260ab)
 
@@ -12,12 +12,13 @@ Coverage: Manufacturer references reviewed by scope; independent electrical and 
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer hardware documentation](https://docs.m5stack.com/en/app/StampFly_v1.1)
+[Manufacturer model documentation](https://docs.m5stack.com/en/app/StampFly_v1.1)
 
 - **schematic / recorded-source**: [StampS3_Fly_Hat Schematic PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1069/StampS3_Fly_Hat.pdf) · [saved document](../../../../library/media/bdd7b6ae25cb69f92ffa86f407b0c9b4cf4886bb930bf7cc9312ee76bc113dea.pdf)
 - **schematic / recorded-source**: [Stamp_Fly Schematic PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1069/Stamp_Fly_v1.0.pdf) · [saved document](../../../../library/media/cd723159b898d840743cbd470388d74a61ae57bc26bc336251670979214111f4.pdf)
 - **schematic / recorded-source**: [PMW3901MB Schematic PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1069/Sch_PMW3901MB_SPI.pdf) · [saved document](../../../../library/media/f8a7d9e79c124a9ed680124977a285e10c406262756532b006e835fa925085a6.pdf)
 - **hardware-guide / board**: [Manufacturer pin and hardware documentation](https://docs.m5stack.com/en/app/StampFly_v1.1) · online
+- **hardware-guide / board**: [StampFly v1.1 — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/app/StampFly_v1.1.pdf) · [saved document](../../../../library/media/2f43ca653b3f080dde4a869a4b3fbdaa65805e06663dcaab93804ea2958f85c9.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -94,5 +95,23 @@ Manufacturer source retained unchanged. Manufacturer source and first-page previ
 Image revision: As supplied in the original; match exact board revision
 
 SHA-256: `f8a7d9e79c124a9ed680124977a285e10c406262756532b006e835fa925085a6`
+
+## StampFly v1.1 — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![StampFly v1.1 reference preview](../../../../library/thumbs/2f43ca653b3f080dde4a869a4b3fbdaa65805e06663dcaab93804ea2958f85c9.webp)](../../../../library/media/2f43ca653b3f080dde4a869a4b3fbdaa65805e06663dcaab93804ea2958f85c9.pdf)
+
+[Open original reference](../../../../library/media/2f43ca653b3f080dde4a869a4b3fbdaa65805e06663dcaab93804ea2958f85c9.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/app/StampFly_v1.1.pdf) · [Source 2](https://docs.m5stack.com/en/app/StampFly_v1.1)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `2f43ca653b3f080dde4a869a4b3fbdaa65805e06663dcaab93804ea2958f85c9`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

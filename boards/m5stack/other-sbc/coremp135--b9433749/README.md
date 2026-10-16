@@ -4,7 +4,7 @@
 
 Revision: Not identified
 
-Coverage: GPIO reference collected; physical pinout needed
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=m5stack-other-sbc-coremp135)
 
@@ -14,8 +14,10 @@ Device category: **Controllers & instruments**
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://docs.m5stack.com/en/core/M5CoreMP135)
+[Manufacturer model documentation](https://docs.m5stack.com/en/core/M5CoreMP135)
 
+- **schematic / board**: [CoreMP135 Schematics PDF — schematic](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/497/Sch_M5_CoreMP135_2024-04-24.pdf) · [saved document](../../../../library/media/bbe7da21022472dfa81fbbd74dbb202b2f31e505264a592db39310a350a92918.pdf)
+- **schematic / board**: [CoreMP135 MidLayer Schematics PDF — schematic](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/497/Sch_M5_CoreMP1_MidLayer_2024-04-24.pdf) · [saved document](../../../../library/media/9215bb5d36afa7ab18fa7a00d965702a1cc96b9828b9fa669b147dbe478bf607.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -56,5 +58,41 @@ Original source index: Dimensions. This file is searchable but has not been prom
 Image revision: Not identified
 
 SHA-256: `90f396543cae00185a17254df7558b6abdeedf17f1cf41916c108e5ae4212d99`
+
+## CoreMP135 Schematics PDF — schematic
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![CoreMP135 reference preview](../../../../library/thumbs/bbe7da21022472dfa81fbbd74dbb202b2f31e505264a592db39310a350a92918.webp)](../../../../library/media/bbe7da21022472dfa81fbbd74dbb202b2f31e505264a592db39310a350a92918.pdf)
+
+[Open original reference](../../../../library/media/bbe7da21022472dfa81fbbd74dbb202b2f31e505264a592db39310a350a92918.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/497/Sch_M5_CoreMP135_2024-04-24.pdf) · [Source 2](https://docs.m5stack.com/en/core/M5CoreMP135)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a circuit schematic, not a physical board pinout.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `bbe7da21022472dfa81fbbd74dbb202b2f31e505264a592db39310a350a92918`
+
+## CoreMP135 MidLayer Schematics PDF — schematic
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![CoreMP135 reference preview](../../../../library/thumbs/9215bb5d36afa7ab18fa7a00d965702a1cc96b9828b9fa669b147dbe478bf607.webp)](../../../../library/media/9215bb5d36afa7ab18fa7a00d965702a1cc96b9828b9fa669b147dbe478bf607.pdf)
+
+[Open original reference](../../../../library/media/9215bb5d36afa7ab18fa7a00d965702a1cc96b9828b9fa669b147dbe478bf607.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/497/Sch_M5_CoreMP1_MidLayer_2024-04-24.pdf) · [Source 2](https://docs.m5stack.com/en/core/M5CoreMP135)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a circuit schematic, not a physical board pinout.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `9215bb5d36afa7ab18fa7a00d965702a1cc96b9828b9fa669b147dbe478bf607`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

@@ -4,7 +4,7 @@
 
 Revision: Unverified source identity
 
-Coverage: Source collection; review pending
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=source-board-2bf34f5de70db40699)
 
@@ -14,8 +14,10 @@ Device category: **Controllers & instruments**
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://docs.m5stack.com/en/atom/Atomic%20QRCode2%20Base)
+[Manufacturer model documentation](https://docs.m5stack.com/en/atom/Atomic%20QRCode2%20Base)
 
+- **hardware-guide / board**: [Atomic QRCode2 Base — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/atom/Atomic_QRCode2_Base.pdf) · [saved document](../../../../library/media/f62eb59f4f88de0d3e540661305539a05dc3b77105c27222f0e5fc47dd230364.pdf)
+- **schematic / board**: [Atomic QRCode2 Base Schematics PDF — schematic](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/536/SCH_AtomicQRCode_V2.0pdf.pdf) · [saved document](../../../../library/media/6086898bc96c23e1ae4ca2d4871911a730b419da5b6ca2b6d817fa4bc85fcc1c.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -38,5 +40,41 @@ Original source index: Dimensions. This file is searchable but has not been prom
 Image revision: Not identified
 
 SHA-256: `aa7d2f32f80d0685c95895e1c9e52d077697c6f030519279f2e5bf14a9950746`
+
+## Atomic QRCode2 Base — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![Atomic QRCode2 Base reference preview](../../../../library/thumbs/f62eb59f4f88de0d3e540661305539a05dc3b77105c27222f0e5fc47dd230364.webp)](../../../../library/media/f62eb59f4f88de0d3e540661305539a05dc3b77105c27222f0e5fc47dd230364.pdf)
+
+[Open original reference](../../../../library/media/f62eb59f4f88de0d3e540661305539a05dc3b77105c27222f0e5fc47dd230364.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/atom/Atomic_QRCode2_Base.pdf) · [Source 2](https://docs.m5stack.com/en/atom/Atomic%20QRCode2%20Base)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `f62eb59f4f88de0d3e540661305539a05dc3b77105c27222f0e5fc47dd230364`
+
+## Atomic QRCode2 Base Schematics PDF — schematic
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![Atomic QRCode2 Base reference preview](../../../../library/thumbs/6086898bc96c23e1ae4ca2d4871911a730b419da5b6ca2b6d817fa4bc85fcc1c.webp)](../../../../library/media/6086898bc96c23e1ae4ca2d4871911a730b419da5b6ca2b6d817fa4bc85fcc1c.pdf)
+
+[Open original reference](../../../../library/media/6086898bc96c23e1ae4ca2d4871911a730b419da5b6ca2b6d817fa4bc85fcc1c.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/536/SCH_AtomicQRCode_V2.0pdf.pdf) · [Source 2](https://docs.m5stack.com/en/atom/Atomic%20QRCode2%20Base)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a circuit schematic, not a physical board pinout.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `6086898bc96c23e1ae4ca2d4871911a730b419da5b6ca2b6d817fa4bc85fcc1c`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

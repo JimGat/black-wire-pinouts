@@ -4,7 +4,11 @@
 
 These are two independent release streams. A **collection release** contains images, PDFs, indexes and attribution records. A **desktop app release** contains an application for the operating systems listed in that release. A collection ZIP is not a desktop installer.
 
-## Current source snapshot / 2026.10.2
+## Current source snapshot / 2026.10.3
+
+[Waveshare, M5Stack and NodeMCU review](docs/EXPANSION-2026.10.3.md): 3 new records, 6 enriched records, 11 added references and 10 external terminal-purpose rows. First Edition / 2026. Older releases remain immutable.
+
+## Previous source snapshot / 2026.10.2
 
 [Vendor reference expansion](docs/EXPANSION-2026.10.2.md): 10 new records, 124 enriched records, 232 reference attachments and 159 external pin-purpose rows. Available in source and the browser guide; no new desktop installer or collection ZIP is distributed. Older releases remain immutable.
 

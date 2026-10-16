@@ -4,7 +4,7 @@
 
 Revision: Unverified source identity
 
-Coverage: Source collection; review pending
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=source-board-6d75103d33b3617063)
 
@@ -12,8 +12,9 @@ Coverage: Source collection; review pending
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://docs.m5stack.com/en/unit/hex)
+[Manufacturer model documentation](https://docs.m5stack.com/en/unit/hex)
 
+- **hardware-guide / board**: [Unit HEX — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/unit/Unit_HEX.pdf) · [saved document](../../../../library/media/a685b6b4875a17eda6b994d25005744c5714591e4531ae63710101dfb9055f91.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -36,5 +37,23 @@ Original source index: Dimensions. This file is searchable but has not been prom
 Image revision: Not identified
 
 SHA-256: `fff1ae11ad4db3f58f476b8286313e9000946dd5ff8dc7bc9007cb453e9f339b`
+
+## Unit HEX — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![Unit HEX reference preview](../../../../library/thumbs/a685b6b4875a17eda6b994d25005744c5714591e4531ae63710101dfb9055f91.webp)](../../../../library/media/a685b6b4875a17eda6b994d25005744c5714591e4531ae63710101dfb9055f91.pdf)
+
+[Open original reference](../../../../library/media/a685b6b4875a17eda6b994d25005744c5714591e4531ae63710101dfb9055f91.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/unit/Unit_HEX.pdf) · [Source 2](https://docs.m5stack.com/en/unit/hex)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `a685b6b4875a17eda6b994d25005744c5714591e4531ae63710101dfb9055f91`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

@@ -4,7 +4,7 @@
 
 Revision: Not identified
 
-Coverage: Pinout image collected
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=waveshare-rp2350-rp2350-touch-amoled-1-64)
 
@@ -12,8 +12,10 @@ Coverage: Pinout image collected
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://www.waveshare.com/rp2350-touch-amoled-1.64-m.htm)
+[Manufacturer model documentation](https://www.waveshare.com/wiki/RP2350-Touch-AMOLED-1.64)
 
+- **schematic / board**: [Pico 2 Schematic — schematic](https://files.waveshare.com/wiki/common/Pico-2-schematic.pdf) · [saved document](../../../../library/media/66093b01f7b4cb3cfdd35cf0c4419c2630495f585e584bacbdfafa8676b937e6.pdf)
+- **schematic / board**: [Schematic — schematic](https://files.waveshare.com/wiki/RP2350-Touch-AMOLED-1.64/RP2350-Touch-AMOLED-1.64.pdf) · [saved document](../../../../library/media/8ad03093d28af56b231e49537ad988aa4ad61f64715e6ca6b24bd758e468acbe.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -72,5 +74,41 @@ Source image saved from Spotpear. Manufacturer matched using visible branding, m
 Image revision: Not identified
 
 SHA-256: `fbd53bf5b4d4f67bbf4a9ee1e2a17388579e3f0c7c238532de501e2a6cf9b8c3`
+
+## Pico 2 Schematic — schematic
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![RP2350-Touch-AMOLED-1.64 reference preview](../../../../library/thumbs/66093b01f7b4cb3cfdd35cf0c4419c2630495f585e584bacbdfafa8676b937e6.webp)](../../../../library/media/66093b01f7b4cb3cfdd35cf0c4419c2630495f585e584bacbdfafa8676b937e6.pdf)
+
+[Open original reference](../../../../library/media/66093b01f7b4cb3cfdd35cf0c4419c2630495f585e584bacbdfafa8676b937e6.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: Waveshare.
+
+[Source 1](https://files.waveshare.com/wiki/common/Pico-2-schematic.pdf) · [Source 2](https://docs.waveshare.com/RP2350-Touch-LCD-1.54/Resources-And-Documents)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a circuit schematic, not a physical board pinout.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `66093b01f7b4cb3cfdd35cf0c4419c2630495f585e584bacbdfafa8676b937e6`
+
+## Schematic — schematic
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![RP2350-Touch-AMOLED-1.64 reference preview](../../../../library/thumbs/8ad03093d28af56b231e49537ad988aa4ad61f64715e6ca6b24bd758e468acbe.webp)](../../../../library/media/8ad03093d28af56b231e49537ad988aa4ad61f64715e6ca6b24bd758e468acbe.pdf)
+
+[Open original reference](../../../../library/media/8ad03093d28af56b231e49537ad988aa4ad61f64715e6ca6b24bd758e468acbe.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: Waveshare.
+
+[Source 1](https://files.waveshare.com/wiki/RP2350-Touch-AMOLED-1.64/RP2350-Touch-AMOLED-1.64.pdf) · [Source 2](https://www.waveshare.com/wiki/RP2350-Touch-AMOLED-1.64)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a circuit schematic, not a physical board pinout.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `8ad03093d28af56b231e49537ad988aa4ad61f64715e6ca6b24bd758e468acbe`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

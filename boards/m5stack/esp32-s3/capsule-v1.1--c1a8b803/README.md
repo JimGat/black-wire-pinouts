@@ -4,7 +4,7 @@
 
 Revision: Not identified
 
-Coverage: Manufacturer references reviewed by scope; independent electrical and all-connector review pending
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=m5stack-gpio-device-capsule-v1-1)
 
@@ -14,11 +14,12 @@ Device category: **Wearables**
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer hardware documentation](https://docs.m5stack.com/en/core/Capsule_v1.1)
+[Manufacturer model documentation](https://docs.m5stack.com/en/core/Capsule_v1.1)
 
 - **schematic / board**: [Capsule v1.1 Schematics PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/496/Sch_M5Capsule.pdf) · [saved document](../../../../library/media/d084743583727e028c48654a447ec41c46e26e42885522007368e1672e12ac7e.pdf)
 - **schematic / recorded-source**: [Stamp-S3A Schematics PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1150/Sch_StampS3_v0.3.3.pdf) · [saved document](../../../../library/media/2f9610aecc5a5d2ee51b33c75df31cf90c7639d2997e7a2bb147ba8d46b46966.pdf)
 - **hardware-guide / board**: [Manufacturer pin and hardware documentation](https://docs.m5stack.com/en/core/Capsule_v1.1) · online
+- **hardware-guide / board**: [Capsule v1.1 — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/core/Capsule_v1.1.pdf) · [saved document](../../../../library/media/b2a01ca9df4791cd6c6518c14cbfee16683714c18b54d017d4d9ef37b40b0fd3.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -95,5 +96,23 @@ Manufacturer source retained unchanged. Source identity and visual scope inspect
 Image revision: As supplied in the original; match exact board revision
 
 SHA-256: `2f9610aecc5a5d2ee51b33c75df31cf90c7639d2997e7a2bb147ba8d46b46966`
+
+## Capsule v1.1 — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![Capsule v1.1 reference preview](../../../../library/thumbs/b2a01ca9df4791cd6c6518c14cbfee16683714c18b54d017d4d9ef37b40b0fd3.webp)](../../../../library/media/b2a01ca9df4791cd6c6518c14cbfee16683714c18b54d017d4d9ef37b40b0fd3.pdf)
+
+[Open original reference](../../../../library/media/b2a01ca9df4791cd6c6518c14cbfee16683714c18b54d017d4d9ef37b40b0fd3.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/core/Capsule_v1.1.pdf) · [Source 2](https://docs.m5stack.com/en/core/Capsule_v1.1)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `b2a01ca9df4791cd6c6518c14cbfee16683714c18b54d017d4d9ef37b40b0fd3`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

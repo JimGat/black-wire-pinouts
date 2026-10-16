@@ -2,7 +2,7 @@
 
 [Search devices in the browser guide](https://valleytech-black-wire-guide.pages.dev/?tab=devices) · [All boards](BROWSE.md) · [First Edition](EDITION.md)
 
-**337 device records with references.** Includes handhelds, radio nodes, wearables, cameras, displays and controllers. Counts include unreviewed source records and supporting references; not every record has a full physical pinout.
+**341 device records with references.** Includes handhelds, radio nodes, wearables, cameras, displays and controllers. Counts include unreviewed source records and supporting references; not every record has a full physical pinout.
 
 Original manufacturer images remain unchanged. Revision and partial-map notes live on each device page.
 
@@ -14,9 +14,9 @@ Original manufacturer images remain unchanged. Revision and partial-map notes li
 | Inland | [Inland ESP32-CAM WiFi Bluetooth Camera Modules - Pair](boards/inland/esp32/inland-esp32-cam-wifi-bluetooth-camera-modules-pair--4e93d847/README.md) | ESP32 | 0 | 1 |
 | LILYGO | [T-Camera Plus S3](boards/lilygo/esp32-s3/t-camera-plus-s3--1c483964/README.md) | ESP32-S3 | 1 | 1 |
 | LILYGO | [T-Camera-S3](boards/lilygo/esp32-s3/t-camera-s3--91dd0d7e/README.md) | ESP32-S3 | 1 | 1 |
-| M5Stack | [M5Camera](boards/m5stack/esp32-original/m5camera--d6433470/README.md) | ESP32 original | 0 | 1 |
-| M5Stack | [UnitV-OV2640](boards/m5stack/gpio-device/unitv-ov2640--31f9f70a/README.md) | Not recorded | 1 | 2 |
-| M5Stack | [UnitV-OV7740](boards/m5stack/gpio-device/unitv-ov7740--f72a5472/README.md) | Not recorded | 1 | 2 |
+| M5Stack | [M5Camera](boards/m5stack/esp32-original/m5camera--d6433470/README.md) | ESP32 original | 0 | 2 |
+| M5Stack | [UnitV-OV2640](boards/m5stack/gpio-device/unitv-ov2640--31f9f70a/README.md) | Not recorded | 1 | 3 |
+| M5Stack | [UnitV-OV7740](boards/m5stack/gpio-device/unitv-ov7740--f72a5472/README.md) | Not recorded | 1 | 3 |
 | M5Stack | [Xiaozhi Card Kit](boards/m5stack/esp32-s3/xiaozhi-card-kit--da4a6d59/README.md) | ESP32-S3 | 1 | 3 |
 | Seeed Studio | [RS485 Vision AI Camera](boards/seeed-studio/gpio-device/rs485-vision-ai-camera--4ed16d82/README.md) | Not recorded | 1 | 1 |
 | Seeed Studio | [reCamera 2002](boards/seeed-studio/source-collection/recamera-2002--056203f2/README.md) | Not recorded | 0 | 2 |
@@ -91,84 +91,87 @@ Original manufacturer images remain unchanged. Revision and partial-map notes li
 | LILYGO | [T3-TCXO](boards/lilygo/esp32-original/t3-tcxo--602c6c22/README.md) | ESP32 original | 1 | 1 |
 | LILYGO | [T4-S3-2.41](boards/lilygo/esp32-s3/t4-s3-2.41--5beb838c/README.md) | ESP32-S3 | 1 | 1 |
 | LILYGO | [T5-4.7-S3 Capacitive Touch](boards/lilygo/esp32-s3/t5-4.7-s3-capacitive-touch--a869276a/README.md) | ESP32-S3 | 1 | 1 |
-| M5Stack | [ATOM Lite ESP32 IoT](boards/m5stack/esp32-original/atom-lite-esp32-iot--60a1b810/README.md) | ESP32 original | 1 | 1 |
+| M5Stack | [ATOM Lite ESP32 IoT](boards/m5stack/esp32-original/atom-lite-esp32-iot--60a1b810/README.md) | ESP32 original | 1 | 2 |
 | M5Stack | [ATOM Matrix ESP32](boards/m5stack/esp32-original/atom-matrix-esp32--9c80ed51/README.md) | ESP32 original | 1 | 1 |
-| M5Stack | [Atom DTU NBIoT2](boards/m5stack/source-collection/atom-dtu-nbiot2--2c98e202/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atom DTU NBIoT2 v1.1](boards/m5stack/source-collection/atom-dtu-nbiot2-v1.1--90daea37/README.md) | Not recorded | 0 | 2 |
+| M5Stack | [Atom DTU NBIoT2](boards/m5stack/source-collection/atom-dtu-nbiot2--2c98e202/README.md) | Not recorded | 0 | 3 |
+| M5Stack | [Atom DTU NBIoT2 v1.1](boards/m5stack/source-collection/atom-dtu-nbiot2-v1.1--90daea37/README.md) | Not recorded | 0 | 3 |
 | M5Stack | [Atom Hub Proto](boards/m5stack/source-collection/atom-hub-proto--c0a82a47/README.md) | Not recorded | 0 | 1 |
 | M5Stack | [Atom JoyStick](boards/m5stack/source-collection/atom-joystick--98bf203b/README.md) | Not recorded | 0 | 1 |
 | M5Stack | [Atom JoyStick v1.1](boards/m5stack/source-collection/atom-joystick-v1.1--96a823e3/README.md) | Not recorded | 0 | 2 |
-| M5Stack | [Atom Mate](boards/m5stack/source-collection/atom-mate--9ce2ae76/README.md) | Not recorded | 0 | 1 |
+| M5Stack | [Atom Mate](boards/m5stack/source-collection/atom-mate--9ce2ae76/README.md) | Not recorded | 0 | 2 |
 | M5Stack | [Atom Printer](boards/m5stack/gpio-device/atom-printer--5e9e6aa8/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atom QRCode v1.1](boards/m5stack/source-collection/atom-qrcode-v1.1--4f85b1c8/README.md) | Not recorded | 0 | 1 |
+| M5Stack | [Atom QRCode v1.1](boards/m5stack/source-collection/atom-qrcode-v1.1--4f85b1c8/README.md) | Not recorded | 0 | 2 |
 | M5Stack | [Atom Socket](boards/m5stack/source-collection/atom-socket--492597e4/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atom Switch](boards/m5stack/source-collection/atom-switch--2082c441/README.md) | Not recorded | 0 | 1 |
+| M5Stack | [Atom Switch](boards/m5stack/source-collection/atom-switch--2082c441/README.md) | Not recorded | 0 | 2 |
 | M5Stack | [Atom TFCard](boards/m5stack/source-collection/atom-tfcard--6ce87675/README.md) | Not recorded | 0 | 1 |
 | M5Stack | [Atom Voice](boards/m5stack/source-collection/atom-voice--90a026fd/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atom VoiceS3R](boards/m5stack/source-collection/atom-voices3r--b21f9edd/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atom-Lite](boards/m5stack/source-collection/atom-lite--d4513ac7/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atom-Matrix](boards/m5stack/source-collection/atom-matrix--0aad1a75/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atom-Matrix v1.1](boards/m5stack/esp32-original/atom-matrix-v1.1--62c5695c/README.md) | ESP32 original | 1 | 1 |
+| M5Stack | [Atom VoiceS3R](boards/m5stack/source-collection/atom-voices3r--b21f9edd/README.md) | Not recorded | 0 | 4 |
+| M5Stack | [Atom-Lite](boards/m5stack/source-collection/atom-lite--d4513ac7/README.md) | Not recorded | 1 | 3 |
+| M5Stack | [Atom-Matrix](boards/m5stack/source-collection/atom-matrix--0aad1a75/README.md) | Not recorded | 0 | 2 |
+| M5Stack | [Atom-Matrix v1.1](boards/m5stack/esp32-original/atom-matrix-v1.1--62c5695c/README.md) | ESP32 original | 1 | 3 |
 | M5Stack | [AtomS3](boards/m5stack/source-collection/atoms3--7a9309fa/README.md) | Not recorded | 0 | 1 |
 | M5Stack | [AtomS3 Dev Kit w/ 0.85-inch Screen](boards/m5stack/esp32-s3/atoms3-dev-kit-w-0.85-inch-screen--473300c4/README.md) | ESP32-S3 | 1 | 1 |
-| M5Stack | [AtomS3 Lite ESP32S3 Dev Kit](boards/m5stack/esp32-s3/atoms3-lite-esp32s3-dev-kit--3dbd4798/README.md) | ESP32-S3 | 1 | 1 |
+| M5Stack | [AtomS3 Lite ESP32S3 Dev Kit](boards/m5stack/esp32-s3/atoms3-lite-esp32s3-dev-kit--3dbd4798/README.md) | ESP32-S3 | 1 | 3 |
 | M5Stack | [AtomS3R](boards/m5stack/esp32-s3/atoms3r--c2a8bea8/README.md) | ESP32-S3 | 1 | 1 |
-| M5Stack | [AtomS3R-CAM](boards/m5stack/esp32-s3/atoms3r-cam--d82f4c24/README.md) | ESP32-S3 | 1 | 2 |
-| M5Stack | [AtomS3R-CAM AI Chatbot](boards/m5stack/esp32-s3/atoms3r-cam-ai-chatbot--8305f722/README.md) | ESP32-S3 | 1 | 1 |
-| M5Stack | [AtomS3R-Ext](boards/m5stack/esp32-s3/atoms3r-ext--ee5b2e49/README.md) | ESP32-S3 | 1 | 2 |
-| M5Stack | [AtomS3R-M12](boards/m5stack/esp32-s3/atoms3r-m12--6bfae22f/README.md) | ESP32-S3 | 1 | 2 |
-| M5Stack | [AtomS3R-M12 Volcengine Kit](boards/m5stack/esp32-s3/atoms3r-m12-volcengine-kit--4938b284/README.md) | ESP32-S3 | 1 | 1 |
-| M5Stack | [AtomS3U](boards/m5stack/esp32-s3/atoms3u--f7bbe3a8/README.md) | ESP32-S3 | 1 | 2 |
-| M5Stack | [AtomU](boards/m5stack/esp32-original/atomu--45dd178f/README.md) | ESP32 original | 1 | 1 |
+| M5Stack | [AtomS3R-CAM](boards/m5stack/esp32-s3/atoms3r-cam--d82f4c24/README.md) | ESP32-S3 | 1 | 5 |
+| M5Stack | [AtomS3R-CAM AI Chatbot](boards/m5stack/esp32-s3/atoms3r-cam-ai-chatbot--8305f722/README.md) | ESP32-S3 | 1 | 3 |
+| M5Stack | [AtomS3R-Ext](boards/m5stack/esp32-s3/atoms3r-ext--ee5b2e49/README.md) | ESP32-S3 | 1 | 4 |
+| M5Stack | [AtomS3R-M12](boards/m5stack/esp32-s3/atoms3r-m12--6bfae22f/README.md) | ESP32-S3 | 1 | 5 |
+| M5Stack | [AtomS3R-M12 Volcengine Kit](boards/m5stack/esp32-s3/atoms3r-m12-volcengine-kit--4938b284/README.md) | ESP32-S3 | 1 | 3 |
+| M5Stack | [AtomS3U](boards/m5stack/esp32-s3/atoms3u--f7bbe3a8/README.md) | ESP32-S3 | 1 | 3 |
+| M5Stack | [AtomU](boards/m5stack/esp32-original/atomu--45dd178f/README.md) | ESP32 original | 1 | 2 |
 | M5Stack | [Atomic](boards/m5stack/source-collection/atomic--18909e56/README.md) | Not recorded | 0 | 1 |
 | M5Stack | [Atomic Audio-3.5 Base](boards/m5stack/source-collection/atomic-audio-3.5-base--28c751d2/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atomic Battery Base](boards/m5stack/source-collection/atomic-battery-base--66ed689c/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atomic CAN Base](boards/m5stack/source-collection/atomic-can-base--3864bf5a/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atomic GPS Base](boards/m5stack/source-collection/atomic-gps-base--50ac30a1/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atomic GPS Base v2.0](boards/m5stack/source-collection/atomic-gps-base-v2.0--eb658755/README.md) | Not recorded | 0 | 1 |
+| M5Stack | [Atomic Battery Base](boards/m5stack/source-collection/atomic-battery-base--66ed689c/README.md) | Not recorded | 0 | 2 |
+| M5Stack | [Atomic CAN Base](boards/m5stack/source-collection/atomic-can-base--3864bf5a/README.md) | Not recorded | 0 | 2 |
+| M5Stack | [Atomic GPS Base](boards/m5stack/source-collection/atomic-gps-base--50ac30a1/README.md) | Not recorded | 0 | 2 |
+| M5Stack | [Atomic GPS Base v2.0](boards/m5stack/source-collection/atomic-gps-base-v2.0--eb658755/README.md) | Not recorded | 0 | 3 |
 | M5Stack | [Atomic Motion Base](boards/m5stack/source-collection/atomic-motion-base--6183f6c7/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atomic PoE Base](boards/m5stack/source-collection/atomic-poe-base--8d9eb2f3/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atomic QRCode2 Base](boards/m5stack/source-collection/atomic-qrcode2-base--1ed4204e/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atomic SPK Base](boards/m5stack/source-collection/atomic-spk-base--cd092f52/README.md) | Not recorded | 0 | 1 |
+| M5Stack | [Atomic PoE Base](boards/m5stack/source-collection/atomic-poe-base--8d9eb2f3/README.md) | Not recorded | 0 | 2 |
+| M5Stack | [Atomic QRCode2 Base](boards/m5stack/source-collection/atomic-qrcode2-base--1ed4204e/README.md) | Not recorded | 0 | 3 |
+| M5Stack | [Atomic SPK Base](boards/m5stack/source-collection/atomic-spk-base--cd092f52/README.md) | Not recorded | 0 | 2 |
 | M5Stack | [Atomic Stepmotor Base](boards/m5stack/source-collection/atomic-stepmotor-base--b7725769/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atomic ToChain Base](boards/m5stack/source-collection/atomic-tochain-base--073adae5/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atomic ToUnit Base](boards/m5stack/source-collection/atomic-tounit-base--08d633cb/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atomic Voice Base](boards/m5stack/source-collection/atomic-voice-base--3383a8ef/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Bala](boards/m5stack/gpio-device/bala--cd67d443/README.md) | Not recorded | 0 | 1 |
+| M5Stack | [Atomic ToChain Base](boards/m5stack/source-collection/atomic-tochain-base--073adae5/README.md) | Not recorded | 0 | 3 |
+| M5Stack | [Atomic ToUnit Base](boards/m5stack/source-collection/atomic-tounit-base--08d633cb/README.md) | Not recorded | 0 | 2 |
+| M5Stack | [Atomic Voice Base](boards/m5stack/source-collection/atomic-voice-base--3383a8ef/README.md) | Not recorded | 0 | 3 |
+| M5Stack | [Bala](boards/m5stack/gpio-device/bala--cd67d443/README.md) | Not recorded | 0 | 2 |
 | M5Stack | [Basic](boards/m5stack/source-collection/basic--7fa515d0/README.md) | Not recorded | 0 | 1 |
 | M5Stack | [Core Metal](boards/m5stack/source-collection/core-metal--6ccc39c0/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Core2](boards/m5stack/esp32-original/core2--0a447d1b/README.md) | ESP32 original | 0 | 2 |
+| M5Stack | [Core2](boards/m5stack/esp32-original/core2--0a447d1b/README.md) | ESP32 original | 0 | 4 |
+| M5Stack | [Core2 ESP32 IoT](boards/m5stack/esp32-original/core2-esp32-iot--1bca0fea/README.md) | ESP32 original | 0 | 2 |
 | M5Stack | [Core2 For AWS](boards/m5stack/source-collection/core2-for-aws--a6876e4a/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Core2 For AWS v1.3](boards/m5stack/source-collection/core2-for-aws-v1.3--013215c0/README.md) | Not recorded | 0 | 3 |
+| M5Stack | [Core2 For AWS v1.3](boards/m5stack/source-collection/core2-for-aws-v1.3--013215c0/README.md) | Not recorded | 0 | 4 |
 | M5Stack | [Core2 v1.1](boards/m5stack/esp32-original/core2-v1.1--64a2cd79/README.md) | ESP32 original | 0 | 1 |
 | M5Stack | [Core2 v1.3](boards/m5stack/source-collection/core2-v1.3--cbce64b8/README.md) | Not recorded | 0 | 3 |
 | M5Stack | [CoreInk](boards/m5stack/source-collection/coreink--bfc56923/README.md) | Not recorded | 0 | 1 |
 | M5Stack | [CoreInk Proto Base](boards/m5stack/source-collection/coreink-proto-base--9ed9f9d0/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [CoreMP135](boards/m5stack/other-sbc/coremp135--b9433749/README.md) | Not recorded | 0 | 2 |
-| M5Stack | [CoreS3](boards/m5stack/esp32-s3/cores3--0f73cee2/README.md) | ESP32-S3 | 0 | 2 |
+| M5Stack | [CoreMP135](boards/m5stack/other-sbc/coremp135--b9433749/README.md) | Not recorded | 0 | 4 |
+| M5Stack | [CoreS3](boards/m5stack/esp32-s3/cores3--0f73cee2/README.md) | ESP32-S3 | 0 | 5 |
+| M5Stack | [CoreS3 ESP32 IoT](boards/m5stack/esp32-s3/cores3-esp32-iot--d3e976ce/README.md) | ESP32-S3 | 0 | 3 |
 | M5Stack | [CoreS3 Thread BR](boards/m5stack/source-collection/cores3-thread-br--b0305370/README.md) | Not recorded | 0 | 1 |
 | M5Stack | [CoreS3-Lite](boards/m5stack/esp32-s3/cores3-lite--22c50451/README.md) | ESP32-S3 | 0 | 2 |
 | M5Stack | [CoreS3-SE](boards/m5stack/esp32-s3/cores3-se--da913d60/README.md) | ESP32-S3 | 0 | 1 |
-| M5Stack | [Dial v1.1](boards/m5stack/source-collection/dial-v1.1--51f32751/README.md) | Not recorded | 0 | 1 |
+| M5Stack | [Dial - Smart Rotary Knob with Touch Screen](boards/m5stack/esp32-s3/dial-smart-rotary-knob-with-touch-screen--7c5dad04/README.md) | ESP32-S3 | 0 | 1 |
+| M5Stack | [Dial v1.1](boards/m5stack/source-collection/dial-v1.1--51f32751/README.md) | Not recorded | 0 | 3 |
 | M5Stack | [DinMeter v1.1](boards/m5stack/esp32-s3fn8/dinmeter-v1-1--d619c2e2/README.md) | ESP32-S3FN8 | 0 | 1 |
 | M5Stack | [Faces Kit](boards/m5stack/esp32-original/faces-kit--48163c96/README.md) | ESP32 original | 0 | 1 |
 | M5Stack | [Fire](boards/m5stack/source-collection/fire--5f2df3bb/README.md) | Not recorded | 0 | 2 |
 | M5Stack | [M5GO-Lite](boards/m5stack/esp32-original/m5go-lite--30b49007/README.md) | ESP32 original | 0 | 1 |
-| M5Stack | [Paper](boards/m5stack/source-collection/paper--8258c917/README.md) | Not recorded | 0 | 1 |
+| M5Stack | [Paper](boards/m5stack/source-collection/paper--8258c917/README.md) | Not recorded | 0 | 2 |
 | M5Stack | [PaperColor](boards/m5stack/source-collection/papercolor--deae4834/README.md) | Not recorded | 0 | 2 |
-| M5Stack | [PaperMono](boards/m5stack/source-collection/papermono--4e2a3be2/README.md) | Not recorded | 0 | 2 |
-| M5Stack | [PaperMono-Lite](boards/m5stack/esp32-s3r8/papermono-lite--aa91cb06/README.md) | ESP32-S3R8 | 0 | 1 |
+| M5Stack | [PaperMono](boards/m5stack/source-collection/papermono--4e2a3be2/README.md) | Not recorded | 0 | 3 |
+| M5Stack | [PaperMono-Lite](boards/m5stack/esp32-s3r8/papermono-lite--aa91cb06/README.md) | ESP32-S3R8 | 0 | 2 |
 | M5Stack | [PaperS3](boards/m5stack/source-collection/papers3--adfc71d1/README.md) | Not recorded | 0 | 1 |
 | M5Stack | [StackChan Core](boards/m5stack/esp32-s3/stackchan-core--417d7268/README.md) | ESP32-S3 | 0 | 1 |
-| M5Stack | [Station-485](boards/m5stack/esp32-original/station-485--089eaecf/README.md) | ESP32 original | 1 | 2 |
-| M5Stack | [Station-Bat](boards/m5stack/esp32-original/station-bat--7aa23e61/README.md) | ESP32 original | 1 | 2 |
+| M5Stack | [Station-485](boards/m5stack/esp32-original/station-485--089eaecf/README.md) | ESP32 original | 1 | 4 |
+| M5Stack | [Station-Bat](boards/m5stack/esp32-original/station-bat--7aa23e61/README.md) | ESP32 original | 1 | 3 |
 | M5Stack | [StickC-Plus](boards/m5stack/esp32-original/stickc-plus--ab7c68a6/README.md) | ESP32 original | 2 | 2 |
-| M5Stack | [StickC-Plus SE](boards/m5stack/source-collection/stickc-plus-se--2e2ee474/README.md) | Not recorded | 0 | 2 |
-| M5Stack | [StickS3](boards/m5stack/source-collection/sticks3--dfd8c6ca/README.md) | Not recorded | 0 | 2 |
+| M5Stack | [StickC-Plus SE](boards/m5stack/source-collection/stickc-plus-se--2e2ee474/README.md) | Not recorded | 0 | 3 |
+| M5Stack | [StickS3](boards/m5stack/source-collection/sticks3--dfd8c6ca/README.md) | Not recorded | 0 | 3 |
 | M5Stack | [StickT2](boards/m5stack/source-collection/stickt2--ec1f5dc9/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Tough](boards/m5stack/source-collection/tough--3692b841/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [ToughC5](boards/m5stack/esp32-c5hr8/toughc5--b3b41daf/README.md) | ESP32-C5HR8 | 0 | 1 |
-| M5Stack | [Unit PoE-P4](boards/m5stack/esp32-p4/unit-poe-p4--287ba2ba/README.md) | ESP32-P4 | 1 | 5 |
+| M5Stack | [Tough](boards/m5stack/source-collection/tough--3692b841/README.md) | Not recorded | 0 | 2 |
+| M5Stack | [ToughC5](boards/m5stack/esp32-c5hr8/toughc5--b3b41daf/README.md) | ESP32-C5HR8 | 0 | 6 |
+| M5Stack | [Unit PoE-P4](boards/m5stack/esp32-p4/unit-poe-p4--287ba2ba/README.md) | ESP32-P4 | 1 | 6 |
 | Seeed Studio | [SenseCAP M2 Multi-Platform Gateway](boards/seeed-studio/source-collection/sensecap-m2-multi-platform-gateway--1dfbbd2c/README.md) | Not recorded | 0 | 2 |
 | SparkFun | [BlueSMiRF v2](boards/sparkfun/esp32/bluesmirf-v2--9287d8aa/README.md) | ESP32 | 4 | 4 |
 | SparkFun | [IoT Brushless Motor Driver](boards/sparkfun/esp32/iot-brushless-motor-driver--e49b720f/README.md) | ESP32 | 2 | 2 |
@@ -226,9 +229,9 @@ Original manufacturer images remain unchanged. Revision and partial-map notes li
 | LILYGO | [T3-S3 E-Paper](boards/lilygo/esp32-s3/t3-s3-e-paper--29453065/README.md) | ESP32-S3 | 1 | 1 |
 | LILYGO | [T5-4.7 E-Paper S3 Pro](boards/lilygo/esp32-s3/t5-4.7-e-paper-s3-pro--d77a054d/README.md) | ESP32-S3 | 1 | 1 |
 | LILYGO | [T5-4.7-S3 E-Paper Pro Lite](boards/lilygo/esp32-s3/t5-4.7-s3-e-paper-pro-lite--4975952e/README.md) | ESP32-S3 | 1 | 1 |
-| M5Stack | [Atom Display](boards/m5stack/source-collection/atom-display--50021de6/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Atomic Display Base](boards/m5stack/source-collection/atomic-display-base--20fcd7cc/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [M5Stack Tab5 IoT Development Kit](boards/m5stack/esp32-p4/m5stack-tab5-iot-development-kit--afd4122f/README.md) | ESP32-P4 | 1 | 1 |
+| M5Stack | [Atom Display](boards/m5stack/source-collection/atom-display--50021de6/README.md) | Not recorded | 0 | 3 |
+| M5Stack | [Atomic Display Base](boards/m5stack/source-collection/atomic-display-base--20fcd7cc/README.md) | Not recorded | 0 | 3 |
+| M5Stack | [M5Stack Tab5 IoT Development Kit](boards/m5stack/esp32-p4/m5stack-tab5-iot-development-kit--afd4122f/README.md) | ESP32-P4 | 1 | 2 |
 | QDtech | [E32R28T ESP32-32E 2.8-inch resistive display](boards/qdtech/esp32-wroom-32e/e32r28t-esp32-32e-2-8-inch-resistive-display--3576badc/README.md) | ESP32-WROOM-32E | 0 | 4 |
 | QDtech | [E32R35T ESP32-32E 3.5-inch resistive display](boards/qdtech/esp32-wroom-32e/e32r35t-esp32-32e-3-5-inch-resistive-display--f0304b2d/README.md) | ESP32-WROOM-32E | 0 | 4 |
 | Seeed Studio | [SenseCAP Indicator](boards/seeed-studio/esp32-s3/sensecap-indicator--fc7a36c2/README.md) | ESP32-S3 | 1 | 3 |
@@ -269,13 +272,19 @@ Original manufacturer images remain unchanged. Revision and partial-map notes li
 | LILYGO | [T-Embed CC1101 Plus](boards/lilygo/esp32-s3/t-embed-cc1101-plus--03a154ce/README.md) | ESP32-S3 | 2 | 2 |
 | LILYGO | [T-Embed SI4732](boards/lilygo/esp32-s3/t-embed-si4732--3e5f171e/README.md) | ESP32-S3 | 1 | 1 |
 | LILYGO | [T-Keyboard S3 Pro](boards/lilygo/esp32-s3/t-keyboard-s3-pro--1d7e38f0/README.md) | ESP32-S3 | 1 | 1 |
-| M5Stack | [Cardputer](boards/m5stack/source-collection/cardputer--dc0288bf/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Cardputer Accessory Kit](boards/m5stack/source-collection/cardputer-accessory-kit--b728559a/README.md) | Not recorded | 0 | 1 |
+| M5Stack | [Cardputer](boards/m5stack/source-collection/cardputer--dc0288bf/README.md) | Not recorded | 0 | 3 |
+| M5Stack | [Cardputer Accessory Kit](boards/m5stack/source-collection/cardputer-accessory-kit--b728559a/README.md) | Not recorded | 0 | 2 |
 | M5Stack | [Cardputer Mesh Kit](boards/m5stack/source-collection/cardputer-mesh-kit--411284d3/README.md) | Not recorded | 0 | 4 |
 | M5Stack | [Cardputer-Adv](boards/m5stack/esp32-s3/cardputer-adv--52772803/README.md) | ESP32-S3 | 1 | 4 |
 | M5Stack | [CardputerZero](boards/m5stack/raspberry-pi-cm0/cardputerzero--f53c0029/README.md) · pre-release documentation | Raspberry Pi CM0 | 2 | 3 |
 | OpenSourceSDRLab | [PortaPack H4M](boards/opensourcesdrlab/gpio-device/portapack-h4m--aaba0987/README.md) | Not recorded | 1 | 1 |
 | WiPhone | [WiPhone Bus Pirate Daughter Board V1.1](boards/wiphone/pic24fj64ga002/wiphone-bus-pirate-daughter-board-v1-1--2bc59329/README.md) | PIC24FJ64GA002 | 3 | 4 |
+
+## Radio nodes & LoRa
+
+| Manufacturer | Device | Processor | Pinout images | References |
+|---|---|---|---:|---:|
+| Waveshare | [ESP32-S3-LR1121-OLED-1.54](boards/waveshare/esp32-s3/esp32-s3-lr1121-oled-1-54--f8aec5f5/README.md) | ESP32-S3 | 1 | 2 |
 
 ## Radios & GNSS
 
@@ -329,7 +338,7 @@ Original manufacturer images remain unchanged. Revision and partial-map notes li
 | LILYGO | [T-LoRa Pager](boards/lilygo/esp32-s3/t-lora-pager--5dc2dcfe/README.md) | ESP32-S3 | 1 | 1 |
 | LILYGO | [T-TWR](boards/lilygo/esp32-s3/t-twr--32d9dc25/README.md) | ESP32-S3 | 1 | 1 |
 | LILYGO | [T-TWR-Plus](boards/lilygo/esp32-s3/t-twr-plus--9f789403/README.md) | ESP32-S3 | 1 | 1 |
-| M5Stack | [Atom DTU LoRaWAN-CN470](boards/m5stack/source-collection/atom-dtu-lorawan-cn470--91a6f9ad/README.md) | Not recorded | 0 | 1 |
+| M5Stack | [Atom DTU LoRaWAN-CN470](boards/m5stack/source-collection/atom-dtu-lorawan-cn470--91a6f9ad/README.md) | Not recorded | 0 | 2 |
 | OpenSourceSDRLab | [PortaPack H4M Pro](boards/opensourcesdrlab/hackrf-pro-h4m-pro/portapack-h4m-pro--789886c7/README.md) | HackRF Pro / H4M Pro | 0 | 6 |
 | Seeed Studio | [SenseCAP A1101 (LoRaWAN Vision AI Sensor)](boards/seeed-studio/source-collection/sensecap-a1101-lorawan-vision-ai-sensor--cf659ba6/README.md) | Not recorded | 0 | 1 |
 | Seeed Studio | [SenseCAP Card Tracker T1000-E](boards/seeed-studio/source-collection/sensecap-card-tracker-t1000-e--70e5528b/README.md) | Not recorded | 0 | 3 |
@@ -365,10 +374,10 @@ Original manufacturer images remain unchanged. Revision and partial-map notes li
 | LILYGO | [T-Watch S3](boards/lilygo/esp32-s3/t-watch-s3--dff2dd9a/README.md) | ESP32-S3 | 1 | 1 |
 | LILYGO | [T-Watch S3 Plus](boards/lilygo/esp32-s3/t-watch-s3-plus--7bf0f678/README.md) | ESP32-S3 | 1 | 1 |
 | LILYGO | [T-Watch Ultra](boards/lilygo/esp32/t-watch-ultra--6abad869/README.md) | ESP32 | 1 | 1 |
-| M5Stack | [Capsule](boards/m5stack/esp32-s3/capsule--8cbfd0c9/README.md) | ESP32-S3 | 1 | 2 |
-| M5Stack | [Capsule Proto](boards/m5stack/source-collection/capsule-proto--53fb5f97/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [Capsule v1.1](boards/m5stack/esp32-s3/capsule-v1.1--c1a8b803/README.md) | ESP32-S3 | 1 | 4 |
-| M5Stack | [Stick Watch Accessory Kit](boards/m5stack/source-collection/stick-watch-accessory-kit--734c1c50/README.md) | Not recorded | 0 | 3 |
+| M5Stack | [Capsule](boards/m5stack/esp32-s3/capsule--8cbfd0c9/README.md) | ESP32-S3 | 1 | 3 |
+| M5Stack | [Capsule Proto](boards/m5stack/source-collection/capsule-proto--53fb5f97/README.md) | Not recorded | 0 | 2 |
+| M5Stack | [Capsule v1.1](boards/m5stack/esp32-s3/capsule-v1.1--c1a8b803/README.md) | ESP32-S3 | 1 | 5 |
+| M5Stack | [Stick Watch Accessory Kit](boards/m5stack/source-collection/stick-watch-accessory-kit--734c1c50/README.md) | Not recorded | 0 | 4 |
 | M5Stack | [StickC-Plus2 Watch Kit](boards/m5stack/source-collection/stickc-plus2-watch-kit--934703df/README.md) | Not recorded | 0 | 1 |
 | Seeed Studio | [SenseCAP Watcher](boards/seeed-studio/source-collection/sensecap-watcher--be0123e3/README.md) | Not recorded | 0 | 5 |
 | Seeed Studio | [SenseCAP Watcher for XiaoZhi](boards/seeed-studio/gpio-device/sensecap-watcher-for-xiaozhi--7f5d279b/README.md) | Not recorded | 0 | 1 |

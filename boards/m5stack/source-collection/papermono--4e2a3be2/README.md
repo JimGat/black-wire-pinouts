@@ -4,7 +4,7 @@
 
 Revision: Unverified source identity
 
-Coverage: Manufacturer references reviewed by scope; independent electrical and all-connector review pending
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=source-board-ec1a5f98814395d523)
 
@@ -14,10 +14,11 @@ Device category: **Controllers & instruments**
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer hardware documentation](https://docs.m5stack.com/en/core/PaperMono)
+[Manufacturer model documentation](https://docs.m5stack.com/en/core/PaperMono)
 
 - **schematic / board**: [PaperMono Schematics PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1267/PaperMono_SCH_V0.6.2_20260522.pdf) · [saved document](../../../../library/media/b5abecac97cb043a6d1af7a673f2111d40d9254b0b5108635cb924d9b37ad6fa.pdf)
 - **hardware-guide / board**: [Manufacturer pin and hardware documentation](https://docs.m5stack.com/en/core/PaperMono) · online
+- **hardware-guide / board**: [PaperMono — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/core/PaperMono.pdf) · [saved document](../../../../library/media/4397e9877652163a5d8f6561779a96240964891d02509b732aa3fd0ee4e7a492.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -58,5 +59,23 @@ Manufacturer source retained unchanged. Manufacturer source and first-page previ
 Image revision: As supplied in the original; match exact board revision
 
 SHA-256: `b5abecac97cb043a6d1af7a673f2111d40d9254b0b5108635cb924d9b37ad6fa`
+
+## PaperMono — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![PaperMono reference preview](../../../../library/thumbs/4397e9877652163a5d8f6561779a96240964891d02509b732aa3fd0ee4e7a492.webp)](../../../../library/media/4397e9877652163a5d8f6561779a96240964891d02509b732aa3fd0ee4e7a492.pdf)
+
+[Open original reference](../../../../library/media/4397e9877652163a5d8f6561779a96240964891d02509b732aa3fd0ee4e7a492.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/core/PaperMono.pdf) · [Source 2](https://docs.m5stack.com/en/core/PaperMono)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `4397e9877652163a5d8f6561779a96240964891d02509b732aa3fd0ee4e7a492`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

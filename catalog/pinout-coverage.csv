@@ -383,17 +383,17 @@ m5stack-esp32-atoms3-lite-esp32s3-dev-kit,AtomS3 Lite ESP32S3 Dev Kit,M5Stack,bo
 m5stack-esp32-atoms3r,AtomS3R,M5Stack,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 m5stack-esp32-atoms3u-esp32s3-dev-kit,AtomS3U ESP32S3 Dev Kit,M5Stack,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-esp32-atomu-esp32,AtomU ESP32,M5Stack,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-m5stack-esp32-core2-esp32-iot,Core2 ESP32 IoT,M5Stack,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+m5stack-esp32-core2-esp32-iot,Core2 ESP32 IoT,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-esp32-cores3,CoreS3,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-m5stack-esp32-cores3-esp32-iot,CoreS3 ESP32 IoT,M5Stack,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+m5stack-esp32-cores3-esp32-iot,CoreS3 ESP32 IoT,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-esp32-cores3-se-esp32s3-iot,CoreS3 SE ESP32S3 IoT,M5Stack,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-m5stack-esp32-dial-smart-rotary-knob-with-touch-screen,Dial - Smart Rotary Knob with Touch Screen,M5Stack,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+m5stack-esp32-dial-smart-rotary-knob-with-touch-screen,Dial - Smart Rotary Knob with Touch Screen,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-esp32-esp32-basic-core-iot,ESP32 Basic Core IoT,M5Stack,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-m5stack-esp32-m5paper-esp32-dev-kit,M5Paper ESP32 Dev Kit,M5Stack,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-m5stack-esp32-cardputer-m5stamps3-powered-mini-computer,M5Stack CardPuter - M5StampS3 powered mini computer,M5Stack,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-m5stack-esp32-cardputer-m5stamps3-powered-mini-computer-microros,M5Stack CardPuter - M5StampS3 powered mini computer (MicroROS),M5Stack,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-m5stack-esp32-din-meter-w-m5stamps3,M5Stack Din Meter w/ M5StampS3,M5Stack,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-m5stack-esp32-fire-iot,M5Stack FIRE IoT,M5Stack,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+m5stack-esp32-m5paper-esp32-dev-kit,M5Paper ESP32 Dev Kit,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+m5stack-esp32-cardputer-m5stamps3-powered-mini-computer,M5Stack CardPuter - M5StampS3 powered mini computer,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+m5stack-esp32-cardputer-m5stamps3-powered-mini-computer-microros,M5Stack CardPuter - M5StampS3 powered mini computer (MicroROS),M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+m5stack-esp32-din-meter-w-m5stamps3,M5Stack Din Meter w/ M5StampS3,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+m5stack-esp32-fire-iot,M5Stack FIRE IoT,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-esp32-tab5-iot-development-kit,M5Stack Tab5 IoT Development Kit,M5Stack,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 m5stack-esp32-timer-camera-x,M5Stack Timer Camera X,M5Stack,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-esp32-m5stamp-c3,M5Stamp C3,M5Stack,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
@@ -617,7 +617,7 @@ waveshare-esp32-esp32-s3-can-2ch,ESP32-S3-CAN-2CH,Waveshare,board,pinout-source,
 waveshare-esp32-esp32-s3-dev-kit-n8r8,ESP32-S3-DEV-KIT-N8R8,Waveshare,board,pinout-source,3,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 waveshare-esp32-esp32-s3-dualeye-lcd-1-28,ESP32-S3-DualEye-LCD-1.28,Waveshare,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 waveshare-esp32-esp32-s3-dualeye-touch-lcd-1-28,ESP32-S3-DualEye-Touch-LCD-1.28,Waveshare,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-waveshare-esp32-esp32-s3-epaper-1-54,ESP32-S3-ePaper-1.54,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+waveshare-esp32-esp32-s3-epaper-1-54,ESP32-S3-ePaper-1.54,Waveshare,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 waveshare-esp32-esp32-s3-epaper-1-54g,ESP32-S3-ePaper-1.54G,Waveshare,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 waveshare-esp32-esp32-s3-epaper-13-3e6,ESP32-S3-ePaper-13.3E6,Waveshare,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 waveshare-esp32-esp32-s3-epaper-3-97,ESP32-S3-ePaper-3.97,Waveshare,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
@@ -694,10 +694,10 @@ waveshare-esp32-esp32-s3-touch-lcd-7c-box,ESP32-S3-Touch-LCD-7C-BOX,Waveshare,bo
 waveshare-esp32-esp32-s3-zero,ESP32-S3-Zero,Waveshare,board,pinout-source,4,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 waveshare-esp32-esp32-touch-lcd-3-5,ESP32-Touch-LCD-3.5,Waveshare,board,pinout-source,3,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 waveshare-esp32-esp32s3-lcd-1-28,ESP32S3-LCD-1.28,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-waveshare-esp32-esp32s3-touch-lcd-2,ESP32S3-TOUCH-LCD-2,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+waveshare-esp32-esp32s3-touch-lcd-2,ESP32S3-TOUCH-LCD-2,Waveshare,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 waveshare-esp32-esp32s3-touch-lcd-2-8,ESP32S3-TOUCH-LCD-2.8,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 waveshare-esp32-servo-driver-with-esp32,Servo Driver with ESP32,Waveshare,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-waveshare-esp32-esp32-s3-tiny-n8r8,Waveshare ESP32-S3-Tiny-N8R8,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+waveshare-esp32-esp32-s3-tiny-n8r8,Waveshare ESP32-S3-Tiny-N8R8,Waveshare,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 weact-studio-esp32-can485devboardv1-esp32,CAN485DevBoardV1 ESP32,WeAct Studio,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 weact-studio-esp32-esp32-core-board,ESP32 Core Board,WeAct Studio,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 weact-studio-esp32-esp32-c5-a,ESP32-C5-A,WeAct Studio,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
@@ -763,7 +763,7 @@ m5stack-expansion-stamp-uwb-f,Stamp UWB F,M5Stack,board,pinout-source,1,0,0,0,Fa
 m5stack-expansion-stamp-addon-c6-for-p4,Stamp-AddOn C6 For P4,M5Stack,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 m5stack-expansion-stamp-addon-cam0308,Stamp-AddOn Cam0308,M5Stack,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 m5stack-expansion-stamp-addon-cam3660,Stamp-AddOn Cam3660,M5Stack,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
-m5stack-expansion-unit-8servos2-i2c,Unit 8Servos2-I2C,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+m5stack-expansion-unit-8servos2-i2c,Unit 8Servos2-I2C,M5Stack,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 m5stack-expansion-unit-ac-measure,Unit AC Measure,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-expansion-unit-cardkb,Unit CardKB,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-expansion-unit-cardkb-v1-1,Unit CardKB v1.1,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
@@ -1196,7 +1196,7 @@ stmicroelectronics-other-stm8a-discovery,STM8A-DISCOVERY,STMicroelectronics,boar
 stmicroelectronics-other-stm8l-discovery,STM8L-DISCOVERY,STMicroelectronics,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 stmicroelectronics-other-stm8s-discovery,STM8S-DISCOVERY,STMicroelectronics,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 stmicroelectronics-other-stm8svldiscovery,STM8SVLDISCOVERY,STMicroelectronics,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-waveshare-other-core103r,Core103R,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+waveshare-other-core103r,Core103R,Waveshare,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 waveshare-other-core103v,Core103V,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 waveshare-other-core103z,Core103Z,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 waveshare-other-core107v,Core107V,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
@@ -1234,7 +1234,7 @@ waveshare-other-jetson-orin-nx-16g-dev-kit,JETSON-ORIN-NX-16G-DEV-KIT,Waveshare,
 waveshare-other-jetson-tx2-nx-dev-kit,JETSON-TX2-NX-DEV-KIT,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 waveshare-other-jetson-xavier-nx-dev-kit,JETSON-XAVIER-NX-DEV-KIT,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 waveshare-other-nrf51822-eval-kit,NRF51822 Eval Kit,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-waveshare-other-nrf52840-eval-kit,NRF52840 Eval Kit,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+waveshare-other-nrf52840-eval-kit,NRF52840 Eval Kit,Waveshare,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 waveshare-other-open051c,Open051C,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 waveshare-other-open103c,Open103C,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 waveshare-other-open103r,Open103R,Waveshare,board,missing,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
@@ -1778,7 +1778,7 @@ source-board-d821d9916a24b95388,Atom Switch,M5Stack,board,reference-only,0,0,0,0
 source-board-2d16b7a61d15ccb3db,Atom TFCard,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 source-board-7241298c7f9e0d6a09,Atom Voice,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 source-board-1c1077044dcd101eba,Atom VoiceS3R,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-source-board-474ca0108b4acc2297,Atom-Lite,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+source-board-474ca0108b4acc2297,Atom-Lite,M5Stack,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 source-board-41f8fa131b3051248e,Atom-Matrix,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 source-board-e238e5312b86803043,Atomic,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 source-board-ddb091241f3a888f96,Atomic Audio-3.5 Base,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
@@ -1921,7 +1921,7 @@ source-board-252d28a0c9ecfb3277,Stamp ISP,M5Stack,board,reference-only,0,0,0,0,F
 source-board-60f1879faa5e41dd97,Stamp Timer Power,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 source-board-4a3f46fbd1ee9fafcc,Air Quality,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 source-board-c7abeb928b8dabd964,Air Quality v1.1,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-source-board-a363aa4df93d30377d,Arduino Nesso N1,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+source-board-a363aa4df93d30377d,Arduino Nesso N1,M5Stack,board,pinout-source,3,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 source-board-2e468ee183dfdf8945,Dial v1.1,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 source-board-78312b711a6be4a8c3,DinMeter,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 source-board-f896f8e97d84ac2686,NanoC6,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
@@ -1940,8 +1940,8 @@ source-board-d469340b08b191e4f2,Stamp IO,M5Stack,board,reference-only,0,0,0,0,Fa
 source-board-530769f84cc4ce6441,Stamp PWR485,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 source-board-26502d3bfd4e3d490f,Stamp-C3,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 source-board-3f9607529b57eb2ff6,Stamp-S3 BreakOut,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-source-board-8894cb7c12ef3c5b52,Stamp-S3A PIN1.27,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-source-board-aacdff2ecaa00a03c9,Stamp-S3A PIN2.54,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+source-board-8894cb7c12ef3c5b52,Stamp-S3A PIN1.27,M5Stack,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
+source-board-aacdff2ecaa00a03c9,Stamp-S3A PIN2.54,M5Stack,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 source-board-a88a1fadbe8a66e238,StamPLC,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 source-board-caaf0accdd6bf81861,StamPLC AC,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 source-board-a59b6e38adee032109,StamPLC IO,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
@@ -2704,7 +2704,7 @@ reyax-rylr998,RYLR998 UART LoRa transceiver module,REYAX,board,pinout-source,1,0
 seeed-wio-sx1262-lf,Wio-SX1262-LF LoRaWAN module,Seeed Studio,board,functions-only,0,1,1,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-chain-mic,Chain MIC,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-chain-switch,Chain Switch,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-m5stack-toughc5,ToughC5,M5Stack,board,functions-only,0,0,4,16,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+m5stack-toughc5,ToughC5,M5Stack,board,functions-only,0,2,4,16,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-papermono-lite,PaperMono-Lite,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-stackchan-core,StackChan Core,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-chain-rgb,Chain RGB,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
@@ -2712,6 +2712,9 @@ m5stack-dinmeter-v1-1,DinMeter v1.1,M5Stack,board,reference-only,0,0,0,0,False,P
 m5stack-ai-pyramid-pro,AI Pyramid-Pro,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 arduino-uno-breakout-carrier,UNO Breakout Carrier,Arduino,board,pinout-source,2,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 renesas-ek-ra8p1-v1,EK-RA8P1 v1,Renesas,board,pinout-source,1,5,5,0,False,Independent all-connector completeness review; Revision match and electrical limits
+waveshare-esp32-s3-lr1121-oled-1-54,ESP32-S3-LR1121-OLED-1.54,Waveshare,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
+waveshare-esp32-s3-rs485-wled,ESP32-S3-RS485-WLED,Waveshare,board,functions-only,0,0,1,10,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+m5stack-base-plc-m12-v1-1,Base PLC-M12 v1.1,M5Stack,board,functions-only,0,1,1,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 maker-adafruit-ca3cc11716cc,Adafruit MAX98357 I2S Class-D Amps - Stereo and Mono,Adafruit,maker,pinout-source,1,0,1,9,False,Independent all-connector completeness review; Revision match and electrical limits
 maker-existing-m5stack-expansion-module-gps-v2-0,Module GPS v2.0,M5Stack,maker,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 maker-existing-source-board-44364c1110885a327e,Module GPS v2.1,M5Stack,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
@@ -3102,7 +3105,7 @@ maker-existing-source-board-65eb2a314dd301abcc,Unit 2Relay,M5Stack,maker,referen
 maker-existing-source-board-7a1c360932c2af5e64,Unit 4Relay,M5Stack,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 maker-existing-source-board-aac83aba13e5a6ef0c,Unit 8Servos,M5Stack,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 maker-existing-source-board-1236d859c33d2398ca,Unit 8Servos2-Chain,M5Stack,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-maker-existing-m5stack-expansion-unit-8servos2-i2c,Unit 8Servos2-I2C,M5Stack,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+maker-existing-m5stack-expansion-unit-8servos2-i2c,Unit 8Servos2-I2C,M5Stack,maker,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 maker-existing-source-board-801de8099af0a1c5c4,Unit Buzzer,M5Stack,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 maker-existing-source-board-d68745531c69f4b7db,Unit Relay,M5Stack,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 maker-pololu-c9f3c19279b1,A4988 Stepper Motor Driver Carrier,Pololu,maker,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits

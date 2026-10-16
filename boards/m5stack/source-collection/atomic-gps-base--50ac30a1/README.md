@@ -4,7 +4,7 @@
 
 Revision: Unverified source identity
 
-Coverage: Source collection; review pending
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=source-board-de7bf9d45be54755ea)
 
@@ -14,8 +14,9 @@ Device category: **Controllers & instruments**
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://docs.m5stack.com/en/atom/Atomic%20GPS%20Base)
+[Manufacturer model documentation](https://docs.m5stack.com/en/atom/Atomic%20GPS%20Base)
 
+- **hardware-guide / board**: [Atomic GPS Base — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/atom/Atomic_GPS_Base.pdf) · [saved document](../../../../library/media/6687f18e93f41e9e1f22345e4a3c60bc8abc3884f4b7151e6b33c591a23f4798.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -38,5 +39,23 @@ Original source index: Dimensions. This file is searchable but has not been prom
 Image revision: Not identified
 
 SHA-256: `430a78a77a68fef39a2a00b072d55450f8437bed664f6592af50032058c83d45`
+
+## Atomic GPS Base — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![Atomic GPS Base reference preview](../../../../library/thumbs/6687f18e93f41e9e1f22345e4a3c60bc8abc3884f4b7151e6b33c591a23f4798.webp)](../../../../library/media/6687f18e93f41e9e1f22345e4a3c60bc8abc3884f4b7151e6b33c591a23f4798.pdf)
+
+[Open original reference](../../../../library/media/6687f18e93f41e9e1f22345e4a3c60bc8abc3884f4b7151e6b33c591a23f4798.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/atom/Atomic_GPS_Base.pdf) · [Source 2](https://docs.m5stack.com/en/atom/Atomic%20GPS%20Base)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `6687f18e93f41e9e1f22345e4a3c60bc8abc3884f4b7151e6b33c591a23f4798`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.
