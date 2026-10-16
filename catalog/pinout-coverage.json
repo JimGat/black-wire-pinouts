@@ -58022,7 +58022,7 @@
       "functionSheetCount": 0,
       "purposeRows": 33,
       "completeDeviceApproved": false,
-      "scope": "Manufacturer-labeled board pinout available; match exact hardware revision. FPC mating face, cable orientation, host mapping and independent all-connector electrical correctness remain unverified.",
+      "scope": "C5 host: direct expansion FPC plus additional UART; Classic CYD: SD-slot SPI shim plus signal/UART leads. Manufacturer-labeled board pinout available; match exact hardware revision. FPC mating face, cable orientation, host mapping and independent all-connector electrical correctness remain unverified.",
       "missing": [
         "Independent all-connector completeness review",
         "Revision match and electrical limits"
@@ -58039,7 +58039,7 @@
       "functionSheetCount": 0,
       "purposeRows": 20,
       "completeDeviceApproved": false,
-      "scope": "Manufacturer-labeled board pinout available; match exact hardware revision. FPC mating face, cable orientation, host mapping and independent all-connector electrical correctness remain unverified.",
+      "scope": "C5 host: direct expansion FPC plus additional UART; Classic CYD: SD-slot SPI shim plus signal/UART leads. Manufacturer-labeled board pinout available; match exact hardware revision. FPC mating face, cable orientation, host mapping and independent all-connector electrical correctness remain unverified.",
       "missing": [
         "Independent all-connector completeness review",
         "Revision match and electrical limits"
