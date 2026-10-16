@@ -6,9 +6,9 @@
   "summary": {
     "board": {
       "pinout-source": 1069,
-      "reference-only": 983,
+      "reference-only": 982,
       "missing": 627,
-      "functions-only": 37
+      "functions-only": 38
     },
     "maker": {
       "pinout-source": 176,
@@ -9647,13 +9647,13 @@
       "name": "ESP32-C5-Touch-LCD-3.5",
       "brand": "Waveshare",
       "kind": "board",
-      "status": "reference-only",
+      "status": "functions-only",
       "physicalCount": 0,
-      "functionTableCount": 0,
+      "functionTableCount": 1,
       "functionSheetCount": 0,
-      "purposeRows": 0,
+      "purposeRows": 32,
       "completeDeviceApproved": false,
-      "scope": "A physical pinout and per-pin purpose reference are still needed. Photos and other supporting documents do not establish pin order.",
+      "scope": "Pin functions documented; use the matching source image to locate the connector. Physical order is not established by a function table.",
       "missing": [
         "Physical connector map",
         "Independent all-connector completeness review",

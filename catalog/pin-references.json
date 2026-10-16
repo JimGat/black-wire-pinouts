@@ -16776,5 +16776,404 @@
         }
       ]
     }
+  ],
+  "waveshare-esp32-esp32-c5-touch-lcd-3-5": [
+    {
+      "connector": "J3 / schematic-numbered reference",
+      "scope": "32-position schematic-numbered J3 reference with contributor tests by @jimgat on camera/battery specimen SKU 35419. \"Pin functions · map needed\" means this table does not establish physical mating-face orientation. IMPORTANT: GPIO0/1/9 and U0TXD/GPIO11/U0RXD/GPIO12 are confirmed disconnected from their native GPIO routes on this specimen; firmware cannot reconnect them. GPIO28 supports tested receive-only GPS but shares BOOT and must not be actively driven when grounded. See individual rows for supply, ground, RST, PWR and BOOT tests and unqualified electrical limits. GPIO4/R60 is an additional onboard selector, not another numbered spare J3 GPIO. External I2C was also functionally verified with an air-quality sensor; see ESP32_SCL and ESP32_SDA.",
+      "orientation": "Logical schematic numbering only. Physical mating-face orientation and pin 1 are not established; use the matching hardware drawing before wiring.",
+      "source": {
+        "url": "https://github.com/waveshareteam/ESP32-C5-Touch-LCD-3.5/raw/main/schematic/ESP32-C5-Touch-LCD-3.5.pdf",
+        "sha256": "b2140f11620022301fe3c92d5c003e6d6b9e1db9cb111cd54f892eeb7a840485",
+        "locator": "Page 1, PinOut/J3 symbol and GPIO selector matrix"
+      },
+      "review": "Manufacturer schematic numbering plus @jimgat-reported continuity, voltage and functional tests on one specimen; exact PCB revision, mating-face orientation and independent all-connector electrical qualification remain unconfirmed",
+      "pins": [
+        {
+          "label": "VBUS",
+          "position": "Schematic pin 1",
+          "purpose": "5 V / VBUS supply bus before the 3.3 V regulator",
+          "notes": "Rear sticker label: 5V. Contributor @jimgat confirms continuity to the 5 V bus before the 3.3 V regulator, and reports that this contact can accept supply voltage and provides voltage with USB connected. Not a 5 V buck-boost output. Current/power handling, allowed input range, reverse-current protection and simultaneous USB/external-supply safety have not been qualified; do not assume safe backfeeding or parallel supplies.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 1,
+            "evidenceClass": "manufacturer-schematic numbering; contributor-reported continuity and supply observation"
+          }
+        },
+        {
+          "label": "VBAT1",
+          "position": "Schematic pin 2",
+          "purpose": "Battery supply rail, not regulated 3.3 V",
+          "notes": "Contributor @jimgat confirms battery voltage by continuity and voltage measurement to GND. Supplied battery: 500 mAh (capacity, not a current rating). Not a regulated 3.3 V output. Header-current capability and charging-circuit behavior with an external battery are unknown; external battery/parallel battery wiring is not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 2,
+            "evidenceClass": "manufacturer-schematic numbering; contributor-reported continuity and voltage measurement"
+          }
+        },
+        {
+          "label": "GND",
+          "position": "Schematic pin 3",
+          "purpose": "Ground reference",
+          "notes": "Contributor @jimgat confirms continuity for all J3 ground contacts on the tested camera/battery specimen. Current capacity and physical mating-face orientation have not been qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 3,
+            "evidenceClass": "manufacturer-schematic numbering; contributor-reported continuity test"
+          }
+        },
+        {
+          "label": "GND",
+          "position": "Schematic pin 4",
+          "purpose": "Ground reference",
+          "notes": "Contributor @jimgat confirms continuity for all J3 ground contacts on the tested camera/battery specimen. Current capacity and physical mating-face orientation have not been qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 4,
+            "evidenceClass": "manufacturer-schematic numbering; contributor-reported continuity test"
+          }
+        },
+        {
+          "label": "SWDIO",
+          "position": "Schematic pin 5",
+          "purpose": "Helper-controller debug data",
+          "notes": "Helper-controller debug net; not an ESP32 GPIO claim.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 5,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "EXIO8",
+          "position": "Schematic pin 6",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO8",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 6,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "NC",
+          "position": "Schematic pin 7",
+          "purpose": "No connection shown",
+          "notes": "Explicit schematic no-connect marker.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 7,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "EXIO9",
+          "position": "Schematic pin 8",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO9",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 8,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "NC",
+          "position": "Schematic pin 9",
+          "purpose": "No connection shown",
+          "notes": "Explicit schematic no-connect marker.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 9,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "EXIO10",
+          "position": "Schematic pin 10",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO10",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 10,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "NC/GPIO22",
+          "position": "Schematic pin 11",
+          "purpose": "Variant/no-connect designation; native route unconfirmed",
+          "notes": "Variant/NC label; no tested ESP32-C5 native route established.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 11,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "EXIO11",
+          "position": "Schematic pin 12",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO11",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 12,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "NC/GPIO21",
+          "position": "Schematic pin 13",
+          "purpose": "Variant/no-connect designation; native route unconfirmed",
+          "notes": "Variant/NC label; no tested ESP32-C5 native route established.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 13,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "EXIO12",
+          "position": "Schematic pin 14",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO12",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 14,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "GPIO0_OUT",
+          "position": "Schematic pin 15",
+          "purpose": "Selectable native GPIO0 route",
+          "notes": "GPIO0 via R55; @jimgat confirms no native route at J3 on the tested specimen by unpowered continuity to the unconnected 0-ohm selector pad; CAM_D0 selected on tested assembly. Disabling the camera in firmware cannot reconnect this hardware route.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 15,
+            "evidenceClass": "manufacturer-schematic numbering and selector matrix; contributor-reported unpowered continuity test"
+          }
+        },
+        {
+          "label": "EXIO13",
+          "position": "Schematic pin 16",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO13",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 16,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "GPIO1_OUT",
+          "position": "Schematic pin 17",
+          "purpose": "Selectable native GPIO1 route",
+          "notes": "GPIO1 via R58; @jimgat confirms no native route at J3 on the tested specimen by unpowered continuity to the unconnected 0-ohm selector pad; CAM_D1 selected on tested assembly. Disabling the camera in firmware cannot reconnect this hardware route.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 17,
+            "evidenceClass": "manufacturer-schematic numbering and selector matrix; contributor-reported unpowered continuity test"
+          }
+        },
+        {
+          "label": "EXIO14",
+          "position": "Schematic pin 18",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO14",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 18,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "GPIO9_OUT",
+          "position": "Schematic pin 19",
+          "purpose": "Selectable native GPIO9 route",
+          "notes": "GPIO9 via R57; @jimgat confirms no native route at J3 on the tested specimen by unpowered continuity to the unconnected 0-ohm selector pad; SDCS selected on tested assembly. Disabling the camera in firmware cannot reconnect this hardware route.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 19,
+            "evidenceClass": "manufacturer-schematic numbering and selector matrix; contributor-reported unpowered continuity test"
+          }
+        },
+        {
+          "label": "EXIO15",
+          "position": "Schematic pin 20",
+          "purpose": "CH32V006 helper-controller expansion signal; not ESP32 GPIO15",
+          "notes": "CH32V006 helper-controller expansion line; not the same-numbered ESP32 GPIO. External behavior/limits not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 20,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "GPIO28_OUT",
+          "position": "Schematic pin 21",
+          "purpose": "Native GPIO28; contributor-tested GPS receive",
+          "notes": "ATGM336H GPS: @jimgat reports working receive-only GPS with UART1 RX=GPIO28, ESP32 UART TX disabled, 9600 baud and common ground. GPIO28 also shares the BOOT button: continuity confirmed by @jimgat. Holding GPIO28 to GND during reset/power-up for more than 100 ms entered boot mode in the contributor test; this is an observed test condition, not a specified minimum timing. A connected external device must tolerate that line being pulled to GND. Do not press BOOT against an actively driven GPS TX/push-pull output; isolate or disconnect the driver first. GPIO28 cannot be treated as an independent input while BOOT is used; application input and BOOT operation are not simultaneously independent. Position 21 is manufacturer schematic numbering; a physical mating-face orientation has not been established.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 21,
+            "evidenceClass": "manufacturer-schematic numbering; contributor-reported continuity and functional test"
+          }
+        },
+        {
+          "label": "CHIP_PU",
+          "position": "Schematic pin 22",
+          "purpose": "RST / ESP32 reset-enable",
+          "notes": "Rear sticker label: RST. Contributor @jimgat functionally confirms that pulling this contact to GND resets the device. Reset/enable signal, not a spare GPIO.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 22,
+            "evidenceClass": "manufacturer-schematic numbering; contributor-reported functional test"
+          }
+        },
+        {
+          "label": "EXIO_ADC",
+          "position": "Schematic pin 23",
+          "purpose": "Helper-controller analog input",
+          "notes": "Helper-controller ADC net, not automatically an ESP32 ADC pin; electrical range not qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 23,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "PWRON",
+          "position": "Schematic pin 24",
+          "purpose": "PWR / power-button control",
+          "notes": "Rear sticker label: PWR. Contributor @jimgat functionally confirms that a momentary connection to GND with the unit off powers it on; holding to GND for 5 seconds while powered turns it off. Power-control signal, not a spare GPIO.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 24,
+            "evidenceClass": "manufacturer-schematic numbering; contributor-reported functional test"
+          }
+        },
+        {
+          "label": "ESP32_SCL",
+          "position": "Schematic pin 25",
+          "purpose": "Shared I2C clock, GPIO26",
+          "notes": "GPIO26 assignment per manufacturer schematic matrix/BSP; shared onboard I2C bus. Contributor @jimgat functionally verified external I2C on the tested camera/battery specimen by connecting an external air-quality sensor and successfully polling it. Sensor model, I2C address, bus speed, supply voltage and pull-up arrangement were not supplied; no general electrical limits or compatibility with other sensors are inferred. This functional test is not a separate per-contact continuity test or an oriented physical pin map.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 25,
+            "evidenceClass": "manufacturer-schematic numbering and GPIO assignment; contributor-reported external I2C functional polling test"
+          }
+        },
+        {
+          "label": "U0TXD",
+          "position": "Schematic pin 26",
+          "purpose": "Selectable GPIO11 route; assembly-dependent",
+          "notes": "GPIO11 via R56; @jimgat confirms no native route at J3 on the tested specimen by unpowered continuity to the unconnected 0-ohm selector pad; CAM_PCLK selected on tested assembly. Net name does not mandate UART0. Disabling the camera in firmware cannot reconnect this hardware route.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 26,
+            "evidenceClass": "manufacturer-schematic numbering and selector matrix; contributor-reported unpowered continuity test"
+          }
+        },
+        {
+          "label": "ESP32_SDA",
+          "position": "Schematic pin 27",
+          "purpose": "Shared I2C data, GPIO27",
+          "notes": "GPIO27 assignment per manufacturer schematic matrix/BSP; shared onboard I2C bus. Contributor @jimgat functionally verified external I2C on the tested camera/battery specimen by connecting an external air-quality sensor and successfully polling it. Sensor model, I2C address, bus speed, supply voltage and pull-up arrangement were not supplied; no general electrical limits or compatibility with other sensors are inferred. This functional test is not a separate per-contact continuity test or an oriented physical pin map.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 27,
+            "evidenceClass": "manufacturer-schematic numbering and GPIO assignment; contributor-reported external I2C functional polling test"
+          }
+        },
+        {
+          "label": "U0RXD",
+          "position": "Schematic pin 28",
+          "purpose": "Selectable GPIO12 route; assembly-dependent",
+          "notes": "GPIO12 via R59; @jimgat confirms no native route at J3 on the tested specimen by unpowered continuity to the unconnected 0-ohm selector pad; CAM_VSYNC2 selected on tested assembly. Net name does not mandate UART0. Disabling the camera in firmware cannot reconnect this hardware route.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 28,
+            "evidenceClass": "manufacturer-schematic numbering and selector matrix; contributor-reported unpowered continuity test"
+          }
+        },
+        {
+          "label": "GND",
+          "position": "Schematic pin 29",
+          "purpose": "Ground reference",
+          "notes": "Contributor @jimgat confirms continuity for all J3 ground contacts on the tested camera/battery specimen. Current capacity and physical mating-face orientation have not been qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 29,
+            "evidenceClass": "manufacturer-schematic numbering; contributor-reported continuity test"
+          }
+        },
+        {
+          "label": "GND",
+          "position": "Schematic pin 30",
+          "purpose": "Ground reference",
+          "notes": "Contributor @jimgat confirms continuity for all J3 ground contacts on the tested camera/battery specimen. Current capacity and physical mating-face orientation have not been qualified.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 30,
+            "evidenceClass": "manufacturer-schematic numbering; contributor-reported continuity test"
+          }
+        },
+        {
+          "label": "VCC3V3",
+          "position": "Schematic pin 31",
+          "purpose": "3.3 V supply rail",
+          "notes": "Schematic net only; no independent header-contact continuity test supplied.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 31,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        },
+        {
+          "label": "VCC3V3",
+          "position": "Schematic pin 32",
+          "purpose": "3.3 V supply rail",
+          "notes": "Schematic net only; no independent header-contact continuity test supplied.",
+          "evidence": {
+            "page": 1,
+            "connector": "J3",
+            "schematicPin": 32,
+            "evidenceClass": "manufacturer-schematic; contributor observations separately qualified"
+          }
+        }
+      ]
+    }
   ]
 }

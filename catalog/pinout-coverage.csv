@@ -549,7 +549,7 @@ waveshare-esp32-esp32-c5-mini-kit,ESP32-C5-MINI-KIT,Waveshare,board,pinout-sourc
 waveshare-esp32-esp32-c5-pico,ESP32-C5-Pico,Waveshare,board,pinout-source,2,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 waveshare-esp32-esp32-c5-touch-lcd-1-69,ESP32-C5-Touch-LCD-1.69,Waveshare,board,pinout-source,2,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 waveshare-esp32-esp32-c5-touch-lcd-2-8,ESP32-C5-Touch-LCD-2.8,Waveshare,board,pinout-source,2,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
-waveshare-esp32-esp32-c5-touch-lcd-3-5,ESP32-C5-Touch-LCD-3.5,Waveshare,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+waveshare-esp32-esp32-c5-touch-lcd-3-5,ESP32-C5-Touch-LCD-3.5,Waveshare,board,functions-only,0,0,1,32,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 waveshare-esp32-esp32-c5-wifi6-kit,ESP32-C5-WIFI6-KIT,Waveshare,board,pinout-source,3,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 waveshare-esp32-esp32-c5-zero,ESP32-C5-Zero,Waveshare,board,pinout-source,2,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 waveshare-esp32-esp32-c6-1-47inch-display-development-board,ESP32-C6 1.47inch Display Development Board,Waveshare,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
