@@ -4,7 +4,7 @@
 
 Revision: Not identified
 
-Coverage: GPIO reference collected; physical pinout needed
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=m5stack-expansion-module-usb-v1-2)
 
@@ -12,8 +12,9 @@ Coverage: GPIO reference collected; physical pinout needed
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://docs.m5stack.com/en/module/USB%20v1.2%20Module)
+[Manufacturer model documentation](https://docs.m5stack.com/en/module/USB%20v1.2%20Module)
 
+- **schematic / board**: [Module USB v1.2 Schematics PDF — schematic](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/544/SCH_USBHost_V1.2.pdf) · [saved document](../../../../library/media/bfcf7d84c1b873d5a7590f5ab92cd0fbb1d1c5d075aea1a845de066186b6b320.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -54,5 +55,23 @@ Original source index: Dimensions. This file is searchable but has not been prom
 Image revision: Not identified
 
 SHA-256: `904223cb5b5913b4ed81f3b22f427c258dccb46529ec5e6b03682a4365b29723`
+
+## Module USB v1.2 Schematics PDF — schematic
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![Module USB v1.2 reference preview](../../../../library/thumbs/bfcf7d84c1b873d5a7590f5ab92cd0fbb1d1c5d075aea1a845de066186b6b320.webp)](../../../../library/media/bfcf7d84c1b873d5a7590f5ab92cd0fbb1d1c5d075aea1a845de066186b6b320.pdf)
+
+[Open original reference](../../../../library/media/bfcf7d84c1b873d5a7590f5ab92cd0fbb1d1c5d075aea1a845de066186b6b320.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/544/SCH_USBHost_V1.2.pdf) · [Source 2](https://docs.m5stack.com/en/module/USB%20v1.2%20Module)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a circuit schematic, not a physical board pinout.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `bfcf7d84c1b873d5a7590f5ab92cd0fbb1d1c5d075aea1a845de066186b6b320`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

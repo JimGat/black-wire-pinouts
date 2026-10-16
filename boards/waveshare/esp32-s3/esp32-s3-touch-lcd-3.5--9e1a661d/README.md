@@ -4,7 +4,7 @@
 
 Revision: Not identified
 
-Coverage: Pinout image collected
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=waveshare-esp32-esp32-s3-touch-lcd-3-5)
 
@@ -12,8 +12,10 @@ Coverage: Pinout image collected
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://www.waveshare.com/esp32-s3-touch-lcd-3.5.htm)
+[Manufacturer model documentation](https://docs.waveshare.com/ESP32-S3-Touch-LCD-3.5/Resources-And-Documents)
 
+- **schematic / board**: [ESP32-S3-Touch-LCD-3.5 V2 Schematic — schematic](https://files.waveshare.com/wiki/ESP32-S3-Touch-LCD-3.5/ESP32-S3-Touch-LCD-3.5_Rev2.0.pdf) · [saved document](../../../../library/media/4704a21df091fc5a54aab009a00bdb4f70d94f7b98dc9385d7afe9d2f9b1d481.pdf)
+- **schematic / board**: [ESP32-S3-Touch-LCD-3.5 V1 Schematic — schematic](https://files.waveshare.com/wiki/ESP32-S3-Touch-LCD-3.5/ESP32-S3-Touch-LCD-3.5-Schematic.pdf) · [saved document](../../../../library/media/1fc6459d66b420605c1e667ce47ff73adc80cdbed42501d58f0d773f4fd7cfcc.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -72,5 +74,41 @@ SHA-256: `7860dd9ede0f17a083114551d40682ddd7c845e4f6af3f2a7346c279a420212a`
 Image revision: Not identified
 
 SHA-256: `331ec56cf3a6fc1a0113fdbe697b7622a25e43eab8c68b5547dd563606c0052b`
+
+## ESP32-S3-Touch-LCD-3.5 V2 Schematic — schematic
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![ESP32-S3-Touch-LCD-3.5 reference preview](../../../../library/thumbs/4704a21df091fc5a54aab009a00bdb4f70d94f7b98dc9385d7afe9d2f9b1d481.webp)](../../../../library/media/4704a21df091fc5a54aab009a00bdb4f70d94f7b98dc9385d7afe9d2f9b1d481.pdf)
+
+[Open original reference](../../../../library/media/4704a21df091fc5a54aab009a00bdb4f70d94f7b98dc9385d7afe9d2f9b1d481.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: Waveshare.
+
+[Source 1](https://files.waveshare.com/wiki/ESP32-S3-Touch-LCD-3.5/ESP32-S3-Touch-LCD-3.5_Rev2.0.pdf) · [Source 2](https://docs.waveshare.com/ESP32-S3-Touch-LCD-3.5/Resources-And-Documents)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a circuit schematic, not a physical board pinout.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `4704a21df091fc5a54aab009a00bdb4f70d94f7b98dc9385d7afe9d2f9b1d481`
+
+## ESP32-S3-Touch-LCD-3.5 V1 Schematic — schematic
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![ESP32-S3-Touch-LCD-3.5 reference preview](../../../../library/thumbs/1fc6459d66b420605c1e667ce47ff73adc80cdbed42501d58f0d773f4fd7cfcc.webp)](../../../../library/media/1fc6459d66b420605c1e667ce47ff73adc80cdbed42501d58f0d773f4fd7cfcc.pdf)
+
+[Open original reference](../../../../library/media/1fc6459d66b420605c1e667ce47ff73adc80cdbed42501d58f0d773f4fd7cfcc.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: Waveshare.
+
+[Source 1](https://files.waveshare.com/wiki/ESP32-S3-Touch-LCD-3.5/ESP32-S3-Touch-LCD-3.5-Schematic.pdf) · [Source 2](https://docs.waveshare.com/ESP32-S3-Touch-LCD-3.5/Resources-And-Documents)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a circuit schematic, not a physical board pinout.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `1fc6459d66b420605c1e667ce47ff73adc80cdbed42501d58f0d773f4fd7cfcc`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

@@ -4,7 +4,7 @@
 
 Revision: Not identified
 
-Coverage: Pinout image collected
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=m5stack-gpio-device-capsule)
 
@@ -14,8 +14,9 @@ Device category: **Wearables**
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://docs.m5stack.com/en/core/M5Capsule)
+[Manufacturer model documentation](https://docs.m5stack.com/en/core/M5Capsule)
 
+- **schematic / board**: [Capsule Schematics PDF — schematic](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/496/Sch_M5Capsule.pdf) · [saved document](../../../../library/media/d084743583727e028c48654a447ec41c46e26e42885522007368e1672e12ac7e.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -56,5 +57,23 @@ Original source index: Dimensions. This file is searchable but has not been prom
 Image revision: Not identified
 
 SHA-256: `0b81f9f17a103b6d50549f854b7ba833bf07171a9c5113c87463e78780fd6207`
+
+## Capsule Schematics PDF — schematic
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![Capsule reference preview](../../../../library/thumbs/d084743583727e028c48654a447ec41c46e26e42885522007368e1672e12ac7e.webp)](../../../../library/media/d084743583727e028c48654a447ec41c46e26e42885522007368e1672e12ac7e.pdf)
+
+[Open original reference](../../../../library/media/d084743583727e028c48654a447ec41c46e26e42885522007368e1672e12ac7e.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/496/Sch_M5Capsule.pdf) · [Source 2](https://docs.m5stack.com/en/core/M5Capsule)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a circuit schematic, not a physical board pinout.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `d084743583727e028c48654a447ec41c46e26e42885522007368e1672e12ac7e`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

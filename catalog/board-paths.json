@@ -2073,5 +2073,18 @@
   "renesas-ek-ra8p1-v1": "boards/renesas/ra8p1/ek-ra8p1-v1--3fcdf426/README.md",
   "waveshare-esp32-s3-lr1121-oled-1-54": "boards/waveshare/esp32-s3/esp32-s3-lr1121-oled-1-54--f8aec5f5/README.md",
   "waveshare-esp32-s3-rs485-wled": "boards/waveshare/esp32-s3/esp32-s3-rs485-wled--f1890b69/README.md",
-  "m5stack-base-plc-m12-v1-1": "boards/m5stack/expansion-module/base-plc-m12-v1-1--c3da5d6c/README.md"
+  "m5stack-base-plc-m12-v1-1": "boards/m5stack/expansion-module/base-plc-m12-v1-1--c3da5d6c/README.md",
+  "m5stack-esp32-core2-esp32-iot": "boards/m5stack/esp32-original/core2-esp32-iot--1bca0fea/README.md",
+  "m5stack-esp32-cores3-esp32-iot": "boards/m5stack/esp32-s3/cores3-esp32-iot--d3e976ce/README.md",
+  "m5stack-esp32-dial-smart-rotary-knob-with-touch-screen": "boards/m5stack/esp32-s3/dial-smart-rotary-knob-with-touch-screen--7c5dad04/README.md",
+  "m5stack-esp32-m5paper-esp32-dev-kit": "boards/m5stack/esp32-original/m5paper-esp32-dev-kit--ebf85768/README.md",
+  "m5stack-esp32-cardputer-m5stamps3-powered-mini-computer": "boards/m5stack/esp32-s3/m5stack-cardputer-m5stamps3-powered-mini-computer--72476bc2/README.md",
+  "m5stack-esp32-cardputer-m5stamps3-powered-mini-computer-microros": "boards/m5stack/esp32-s3/m5stack-cardputer-m5stamps3-powered-mini-computer-microros--52fedaa4/README.md",
+  "m5stack-esp32-din-meter-w-m5stamps3": "boards/m5stack/esp32-s3/m5stack-din-meter-w-m5stamps3--267e0ce2/README.md",
+  "m5stack-esp32-fire-iot": "boards/m5stack/esp32-original/m5stack-fire-iot--48c32837/README.md",
+  "waveshare-esp32-esp32-s3-epaper-1-54": "boards/waveshare/esp32-s3/esp32-s3-epaper-1-54--9da84a5d/README.md",
+  "waveshare-esp32-esp32s3-touch-lcd-2": "boards/waveshare/esp32-s3/esp32s3-touch-lcd-2--7e518958/README.md",
+  "waveshare-esp32-esp32-s3-tiny-n8r8": "boards/waveshare/esp32-s3/waveshare-esp32-s3-tiny-n8r8--b89e1662/README.md",
+  "waveshare-other-core103r": "boards/waveshare/other/core103r--26e11b1b/README.md",
+  "waveshare-other-nrf52840-eval-kit": "boards/waveshare/other/nrf52840-eval-kit--50fbe575/README.md"
 }

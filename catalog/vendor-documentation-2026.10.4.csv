@@ -1,0 +1,789 @@
+id,brand,name,physicalPinoutImages,references,savedPDFs,boardDatasheets,componentDatasheets,hardwareGuides,schematics,website,physicalGap
+m5stack-esp32-atom-echo-smart-speaker,M5Stack,ATOM Echo Smart Speaker,0,0,0,0,0,0,0,https://docs.m5stack.com/en/atom/atomecho,No physical board pinout recorded
+m5stack-esp32-atom-lite-esp32-iot,M5Stack,ATOM Lite ESP32 IoT,1,2,1,0,0,1,0,https://docs.m5stack.com/en/core/ATOM%20Lite,Physical map available; exact scope and revision review required
+m5stack-esp32-atom-matrix-esp32,M5Stack,ATOM Matrix ESP32,1,1,0,0,0,0,0,https://docs.m5stack.com/en/core/atom_matrix,Physical map available; exact scope and revision review required
+m5stack-esp32-atoms3-dev-kit-w-0-85-inch-screen,M5Stack,AtomS3 Dev Kit w/ 0.85-inch Screen,1,1,0,0,0,0,0,https://docs.m5stack.com/en/core/AtomS3,Physical map available; exact scope and revision review required
+m5stack-esp32-atoms3-lite-esp32s3-dev-kit,M5Stack,AtomS3 Lite ESP32S3 Dev Kit,1,3,2,0,0,1,1,https://docs.m5stack.com/en/core/AtomS3%20Lite,Physical map available; exact scope and revision review required
+m5stack-esp32-atoms3r,M5Stack,AtomS3R,1,1,0,0,0,0,0,https://docs.m5stack.com/en/core/AtomS3R,Physical map available; exact scope and revision review required
+m5stack-esp32-atoms3u-esp32s3-dev-kit,M5Stack,AtomS3U ESP32S3 Dev Kit,0,0,0,0,0,0,0,https://shop.m5stack.com/products/atoms3u,No physical board pinout recorded
+m5stack-esp32-atomu-esp32,M5Stack,AtomU ESP32,0,0,0,0,0,0,0,https://docs.m5stack.com/en/core/atom_u,No physical board pinout recorded
+m5stack-esp32-core2-esp32-iot,M5Stack,Core2 ESP32 IoT,0,2,2,0,0,1,1,https://docs.m5stack.com/en/core/core2,No physical board pinout recorded
+m5stack-esp32-cores3,M5Stack,CoreS3,0,5,3,0,0,1,2,https://docs.m5stack.com/en/core/cores3,No physical board pinout recorded
+m5stack-esp32-cores3-esp32-iot,M5Stack,CoreS3 ESP32 IoT,0,3,3,0,0,1,2,https://docs.m5stack.com/en/core/cores3,No physical board pinout recorded
+m5stack-esp32-cores3-se-esp32s3-iot,M5Stack,CoreS3 SE ESP32S3 IoT,0,0,0,0,0,0,0,https://docs.m5stack.com/en/core/CoreS3%20SE,No physical board pinout recorded
+m5stack-esp32-dial-smart-rotary-knob-with-touch-screen,M5Stack,Dial - Smart Rotary Knob with Touch Screen,0,1,1,0,0,0,1,https://docs.m5stack.com/en/core/M5Dial,No physical board pinout recorded
+m5stack-esp32-esp32-basic-core-iot,M5Stack,ESP32 Basic Core IoT,0,0,0,0,0,0,0,https://docs.m5stack.com/en/core/basic_v2.6,No physical board pinout recorded
+m5stack-esp32-m5paper-esp32-dev-kit,M5Stack,M5Paper ESP32 Dev Kit,0,1,1,0,0,0,1,https://docs.m5stack.com/en/core/m5paper,No physical board pinout recorded
+m5stack-esp32-cardputer-m5stamps3-powered-mini-computer,M5Stack,M5Stack CardPuter - M5StampS3 powered mini computer,0,2,2,0,0,0,2,https://docs.m5stack.com/en/core/Cardputer,No physical board pinout recorded
+m5stack-esp32-cardputer-m5stamps3-powered-mini-computer-microros,M5Stack,M5Stack CardPuter - M5StampS3 powered mini computer (MicroROS),0,2,2,0,0,0,2,https://docs.m5stack.com/en/core/Cardputer,No physical board pinout recorded
+m5stack-esp32-din-meter-w-m5stamps3,M5Stack,M5Stack Din Meter w/ M5StampS3,0,2,2,0,0,1,1,https://docs.m5stack.com/en/core/M5DinMeter,No physical board pinout recorded
+m5stack-esp32-fire-iot,M5Stack,M5Stack FIRE IoT,0,2,2,0,0,1,1,https://docs.m5stack.com/en/core/fire_v2.6,No physical board pinout recorded
+m5stack-esp32-tab5-iot-development-kit,M5Stack,M5Stack Tab5 IoT Development Kit,1,2,1,0,0,1,0,https://docs.m5stack.com/en/core/Tab5,Physical map available; exact scope and revision review required
+m5stack-esp32-timer-camera-x,M5Stack,M5Stack Timer Camera X,0,0,0,0,0,0,0,https://docs.m5stack.com/en/unit/timercam_x,No physical board pinout recorded
+m5stack-esp32-m5stamp-c3,M5Stack,M5Stamp C3,1,2,1,0,0,1,0,https://docs.m5stack.com/en/core/stamp_c3,Physical map available; exact scope and revision review required
+m5stack-esp32-m5stamp-s3,M5Stack,M5Stamp S3,0,0,0,0,0,0,0,https://shop.m5stack.com/products/m5stamp-esp32s3-module,No physical board pinout recorded
+m5stack-esp32-m5stickc-esp32-pico-mini-iot,M5Stack,M5StickC ESP32-PICO Mini IoT,0,0,0,0,0,0,0,https://docs.m5stack.com/en/core/m5stickc,No physical board pinout recorded
+m5stack-esp32-m5stickc-plus-esp32-pico-mini-iot,M5Stack,M5StickC PLUS ESP32-PICO Mini IoT,0,0,0,0,0,0,0,https://docs.m5stack.com/en/core/m5stickc_plus,No physical board pinout recorded
+m5stack-esp32-stamp-c6lora,M5Stack,Stamp C6LoRa,1,4,2,0,0,2,1,https://docs.m5stack.com/en/core/Stamp_C6LoRa,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-c3-mate,M5Stack,Stamp-C3 Mate,1,1,0,0,0,0,0,https://docs.m5stack.com/en/core/stamp_c3_mate,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-c3u,M5Stack,Stamp-C3U,1,1,0,0,0,0,0,https://docs.m5stack.com/en/core/stamp_c3u,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-c3u-mate,M5Stack,Stamp-C3U Mate,1,1,0,0,0,0,0,https://docs.m5stack.com/en/core/stamp_c3u_mate,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-c5,M5Stack,Stamp-C5,1,4,2,0,0,2,1,https://docs.m5stack.com/en/core/Stamp-C5,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-c5-dip,M5Stack,Stamp-C5 DIP,1,3,1,0,0,1,1,https://docs.m5stack.com/en/core/Stamp-C5_DIP,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-p4,M5Stack,Stamp-P4,1,3,1,0,0,1,1,https://docs.m5stack.com/en/core/Stamp-P4,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-pico,M5Stack,Stamp-Pico,1,4,1,0,0,1,0,https://docs.m5stack.com/en/core/stamp_pico,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-pico-diy-kit,M5Stack,Stamp-Pico DIY Kit,1,1,0,0,0,0,0,https://docs.m5stack.com/en/core/stamp_pico_diy_kit,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-pico-mate,M5Stack,Stamp-Pico Mate,1,1,0,0,0,0,0,https://docs.m5stack.com/en/core/stamp_pico_mate,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-s3,M5Stack,Stamp-S3,1,2,0,0,0,0,0,https://docs.m5stack.com/en/core/StampS3,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-s3-pin1-27,M5Stack,Stamp-S3 PIN1.27,2,2,0,0,0,0,0,https://docs.m5stack.com/en/core/M5StampS3%20PIN1.27,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-s3-pin2-54,M5Stack,Stamp-S3 PIN2.54,2,3,1,0,0,1,0,https://docs.m5stack.com/en/core/M5StampS3%20PIN2.54,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-s3a,M5Stack,Stamp-S3A,1,3,2,0,0,1,1,https://docs.m5stack.com/en/core/Stamp-S3A,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-s3bat,M5Stack,Stamp-S3Bat,1,3,1,0,0,1,0,https://docs.m5stack.com/en/core/Stamp-S3Bat,Physical map available; exact scope and revision review required
+m5stack-esp32-stamp-s3bat-dip,M5Stack,Stamp-S3Bat DIP,1,3,1,0,0,1,1,https://docs.m5stack.com/en/core/Stamp-S3Bat_DIP,Physical map available; exact scope and revision review required
+nodemcu-esp32-devkit-0-9,NodeMCU,NodeMCU DevKit 0.9,1,3,2,0,0,2,1,https://github.com/nodemcu/nodemcu-devkit/tree/b0f19d6d1c49b6db4aef56ddba789a7f92f6ecce,Physical map available; exact scope and revision review required
+nodemcu-esp32-devkit-1-0,NodeMCU,NodeMCU DevKit 1.0,1,3,2,0,0,2,1,https://github.com/nodemcu/nodemcu-devkit-v1.0/tree/7cb0a330a25fad85e701c768ef46064c17d54446,Physical map available; exact scope and revision review required
+nodemcu-esp32-esp32-c2,NodeMCU,NodeMCU ESP32-C2,0,0,0,0,0,0,0,,No physical board pinout recorded
+waveshare-esp32-e-paper-esp32-driver-board,Waveshare,E-Paper ESP32 Driver Board,0,2,2,0,0,1,2,https://www.waveshare.com/wiki/E-Paper_ESP32_Driver_Board,No physical board pinout recorded
+waveshare-esp32-e-paper-esp8266-driver-board,Waveshare,E-Paper ESP8266 Driver Board,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/E-Paper_ESP8266_Driver_Board,No physical board pinout recorded
+waveshare-esp32-esp32-one,Waveshare,ESP32 One,1,1,0,0,0,0,0,https://www.waveshare.com/wiki/ESP32_One,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c3-lcd-0-71,Waveshare,ESP32-C3-LCD-0.71,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-c3-lcd-0.71.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c3-lcd-1-47,Waveshare,ESP32-C3-LCD-1.47,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-c3-lcd-1.47.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c3-zero,Waveshare,ESP32-C3-Zero,3,3,0,0,0,0,0,https://www.waveshare.com/esp32-c3-zero.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c5-lcd-1-47,Waveshare,ESP32-C5-LCD-1.47,1,1,0,0,0,0,0,https://www.waveshare.com/esp32-c5-lcd-1.47.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c5-lcd-2-73,Waveshare,ESP32-C5-LCD-2.73,0,1,1,0,0,1,1,https://docs.waveshare.com/ESP32-C5-LCD-2.73/Resources-And-Documents,No physical board pinout recorded
+waveshare-esp32-esp32-c5-mini-kit,Waveshare,ESP32-C5-MINI-KIT,2,4,2,0,1,1,1,https://docs.waveshare.com/ESP32-C5-MINI-KIT,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c5-pico,Waveshare,ESP32-C5-Pico,2,4,2,0,1,1,1,https://docs.waveshare.com/ESP32-C5-Pico,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c5-touch-lcd-1-69,Waveshare,ESP32-C5-Touch-LCD-1.69,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-c5-touch-lcd-1.69.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c5-touch-lcd-2-8,Waveshare,ESP32-C5-Touch-LCD-2.8,2,3,1,0,0,0,1,https://docs.waveshare.com/ESP32-C5-Touch-LCD-2.8/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c5-touch-lcd-3-5,Waveshare,ESP32-C5-Touch-LCD-3.5,0,3,1,0,0,1,1,https://docs.waveshare.com/ESP32-C5-Touch-LCD-3.5,No physical board pinout recorded
+waveshare-esp32-esp32-c5-wifi6-kit,Waveshare,ESP32-C5-WIFI6-KIT,3,4,1,0,0,0,1,https://www.waveshare.com/wiki/ESP32-C5-WIFI6-KIT-NXRX,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c5-zero,Waveshare,ESP32-C5-Zero,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-c5-zero.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-1-47inch-display-development-board,Waveshare,ESP32-C6 1.47inch Display Development Board,1,3,1,0,0,1,1,https://docs.waveshare.com/ESP32-C6-LCD-1.47,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-dev-kit-n8,Waveshare,ESP32-C6-DEV-KIT-N8,3,3,0,0,0,0,0,https://www.waveshare.com/esp32-c6-dev-kit-n8.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-epaper-1-54,Waveshare,ESP32-C6-ePaper-1.54,0,2,0,0,0,1,0,https://docs.waveshare.com/ESP32-C6-ePaper-1.54,No physical board pinout recorded
+waveshare-esp32-esp32-c6-geek,Waveshare,ESP32-C6-GEEK,0,3,2,0,0,1,2,https://docs.waveshare.com/ESP32-C6-GEEK,No physical board pinout recorded
+waveshare-esp32-esp32-c6-lcd-0-85,Waveshare,ESP32-C6-LCD-0.85,0,1,0,0,0,0,0,https://docs.waveshare.com/ESP32-C6-LCD-0.85,No physical board pinout recorded
+waveshare-esp32-esp32-c6-lcd-1-28,Waveshare,ESP32-C6-LCD-1.28,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-c6-lcd-1.28.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-lcd-1-3,Waveshare,ESP32-C6-LCD-1.3,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-c6-lcd-1.3.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-lcd-1-47,Waveshare,ESP32-C6-LCD-1.47,2,4,1,0,0,1,1,https://docs.waveshare.com/ESP32-C6-LCD-1.47,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-lcd-1-69,Waveshare,ESP32-C6-LCD-1.69,3,3,0,0,0,0,0,https://www.waveshare.com/esp32-c6-lcd-1.69.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-lcd-1-9,Waveshare,ESP32-C6-LCD-1.9,1,1,0,0,0,0,0,https://www.waveshare.com/esp32-c6-lcd-1.9.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-lcd-2-73,Waveshare,ESP32-C6-LCD-2.73,0,1,1,0,0,1,1,https://docs.waveshare.com/ESP32-C6-LCD-2.73/Resources-And-Documents,No physical board pinout recorded
+waveshare-esp32-esp32-c6-pico,Waveshare,ESP32-C6-Pico,2,2,0,0,0,0,0,https://docs.waveshare.com/ESP32-C6-Pico,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-touch-amoled-1-32,Waveshare,ESP32-C6-Touch-AMOLED-1.32,1,2,1,0,0,0,1,https://www.waveshare.com/wiki/ESP32-C6-Touch-AMOLED-1.32,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-touch-amoled-1-43,Waveshare,ESP32-C6-Touch-AMOLED-1.43,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/ESP32-C6-Touch-AMOLED-1.43,No physical board pinout recorded
+waveshare-esp32-esp32-c6-touch-amoled-1-64,Waveshare,ESP32-C6-Touch-AMOLED-1.64,1,1,0,0,0,0,0,https://www.waveshare.com/esp32-c6-touch-amoled-1.64.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-touch-amoled-1-8,Waveshare,ESP32-C6-Touch-AMOLED-1.8,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-c6-touch-amoled-1.8.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-touch-amoled-2-06,Waveshare,ESP32-C6-Touch-AMOLED-2.06,0,2,0,0,0,0,0,https://www.waveshare.com/esp32-c6-touch-amoled-2.06.htm,No physical board pinout recorded
+waveshare-esp32-esp32-c6-touch-amoled-2-16,Waveshare,ESP32-C6-Touch-AMOLED-2.16,0,3,1,0,0,1,1,https://docs.waveshare.com/ESP32-C6-Touch-AMOLED-2.16,No physical board pinout recorded
+waveshare-esp32-esp32-c6-touch-lcd-1-28,Waveshare,ESP32-C6-Touch-LCD-1.28,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-c6-touch-lcd-1.28.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-touch-lcd-1-47,Waveshare,ESP32-C6-Touch-LCD-1.47,3,4,1,0,0,0,1,https://www.waveshare.com/wiki/ESP32-C6-Touch-LCD-1.47,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-touch-lcd-1-54,Waveshare,ESP32-C6-Touch-LCD-1.54,0,1,0,0,0,1,0,https://docs.waveshare.com/ESP32-C6-Touch-LCD-1.54,No physical board pinout recorded
+waveshare-esp32-esp32-c6-touch-lcd-1-69,Waveshare,ESP32-C6-Touch-LCD-1.69,3,3,0,0,0,0,0,https://www.waveshare.com/esp32-c6-touch-lcd-1.69.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-touch-lcd-1-83,Waveshare,ESP32-C6-Touch-LCD-1.83,0,3,0,0,0,0,0,https://www.waveshare.com/wiki/ESP32-C6-Touch-LCD-1.83,No physical board pinout recorded
+waveshare-esp32-esp32-c6-touch-lcd-2-8,Waveshare,ESP32-C6-Touch-LCD-2.8,2,3,1,0,0,0,1,https://docs.waveshare.com/ESP32-C6-Touch-LCD-2.8/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-zero,Waveshare,ESP32-C6-Zero,3,3,0,0,0,0,0,https://www.waveshare.com/esp32-c6-zero.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-c6-zero-b,Waveshare,ESP32-C6-Zero-B,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-c6-zero-b.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-cam,Waveshare,ESP32-CAM,1,1,0,0,0,0,0,https://www.waveshare.com/esp32-cam.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-dev-kit-xx,Waveshare,ESP32-DEV-KIT-XX,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-dev-kit-wroxx.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-h2-dev-kit-n4,Waveshare,ESP32-H2-DEV-KIT-N4,3,3,0,0,0,0,0,https://www.waveshare.com/esp32-h2-dev-kit-n4.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-h2-zero,Waveshare,ESP32-H2-Zero,3,4,1,0,0,0,1,https://docs.waveshare.com/ESP32-H2-Zero/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-86-panel-eth-2ro,Waveshare,ESP32-P4-86-Panel-ETH-2RO,0,4,2,0,0,1,2,https://www.waveshare.com/wiki/ESP32-P4-86-Panel-ETH-2RO,No physical board pinout recorded
+waveshare-esp32-esp32-p4-core-dev-kit,Waveshare,ESP32-P4-Core-DEV-KIT,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-p4-core-dev-kit.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-eth,Waveshare,ESP32-P4-ETH,3,3,0,0,0,0,0,https://www.waveshare.com/esp32-p4-eth.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-module,Waveshare,ESP32-P4-Module,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-p4-module.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-module-dev-kit,Waveshare,ESP32-P4-Module-DEV-KIT,2,4,1,0,0,1,1,https://docs.waveshare.com/ESP32-P4-Module-DEV-KIT,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-nano,Waveshare,ESP32-P4-NANO,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-p4-nano.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-nano-wifi6-db,Waveshare,ESP32-P4-NANO-WIFI6-DB,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-p4-nano-wifi6-db.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-pico,Waveshare,ESP32-P4-Pico,2,3,1,0,0,0,1,https://www.waveshare.com/wiki/ESP32-P4-Pico,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-wifi6,Waveshare,ESP32-P4-WIFI6,2,2,0,0,0,0,0,https://docs.waveshare.com/ESP32-P4-WIFI6,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-wifi6-db,Waveshare,ESP32-P4-WIFI6-DB,2,4,1,0,0,1,1,https://docs.waveshare.com/ESP32-P4-WIFI6-DB,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-wifi6-dev-kit,Waveshare,ESP32-P4-WIFI6-DEV-KIT,3,3,0,0,0,0,0,https://www.waveshare.com/esp32-p4-wifi6-dev-kit.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-wifi6-poe-eth,Waveshare,ESP32-P4-WIFI6-POE-ETH,4,4,0,0,0,0,0,https://docs.waveshare.com/ESP32-P4-WIFI6-POE-ETH,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-wifi6-touch-lcd-shared-7-8-10-1-reference,Waveshare,ESP32-P4-WIFI6-Touch-LCD (shared 7-8-10.1 reference),1,1,0,0,0,0,0,,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-wifi6-touch-lcd-3-4c,Waveshare,ESP32-P4-WIFI6-Touch-LCD-3.4C,0,2,1,0,0,1,1,https://www.waveshare.com/wiki/ESP32-P4-WIFI6-Touch-LCD-3.4C,No physical board pinout recorded
+waveshare-esp32-esp32-p4-wifi6-touch-lcd-3-5,Waveshare,ESP32-P4-WIFI6-Touch-LCD-3.5,0,2,1,0,0,1,1,https://docs.waveshare.com/ESP32-P4-WIFI6-Touch-LCD-3.5,No physical board pinout recorded
+waveshare-esp32-esp32-p4-wifi6-touch-lcd-4-3,Waveshare,ESP32-P4-WIFI6-Touch-LCD-4.3,1,1,0,0,0,0,0,https://docs.waveshare.com/ESP32-P4-WIFI6-Touch-LCD-4.3,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-wifi6-touch-lcd-4b,Waveshare,ESP32-P4-WIFI6-Touch-LCD-4B,0,4,2,0,0,1,2,https://www.waveshare.com/wiki/ESP32-P4-WIFI6-Touch-LCD-4B,No physical board pinout recorded
+waveshare-esp32-esp32-p4-wifi6-touch-lcd-4c,Waveshare,ESP32-P4-WIFI6-Touch-LCD-4C,0,2,1,0,0,1,1,https://www.waveshare.com/wiki/ESP32-P4-WIFI6-Touch-LCD-4C,No physical board pinout recorded
+waveshare-esp32-esp32-p4-wifi6-touch-lcd-5,Waveshare,ESP32-P4-WIFI6-Touch-LCD-5,1,1,0,0,0,0,0,https://docs.waveshare.com/ESP32-P4-WIFI6-Touch-LCD-5,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-wifi6-touch-lcd-7b,Waveshare,ESP32-P4-WIFI6-Touch-LCD-7B,0,2,1,0,0,1,1,https://www.waveshare.com/wiki/ESP32-P4-WIFI6-Touch-LCD-7B,No physical board pinout recorded
+waveshare-esp32-esp32-p4-wifi6-touch-lcd-x,Waveshare,ESP32-P4-WIFI6-Touch-LCD-X,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-p4-wifi6-touch-lcd-7-8-10.1.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-p4-wifi6-touch-lcd-xc,Waveshare,ESP32-P4-WIFI6-Touch-LCD-XC,0,2,1,0,0,1,1,https://docs.waveshare.com/ESP32-P4-WIFI6-Touch-LCD-XC,No physical board pinout recorded
+waveshare-esp32-esp32-s2-lcd-0-96,Waveshare,ESP32-S2-LCD-0.96,3,4,1,0,0,1,1,https://www.waveshare.com/wiki/ESP32-S2-Pico,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s2-pico,Waveshare,ESP32-S2-Pico,2,3,1,0,0,1,1,https://www.waveshare.com/wiki/ESP32-S2-Pico,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s2-pico-with-lcd,Waveshare,ESP32-S2-Pico with LCD,1,2,1,0,0,1,1,https://www.waveshare.com/wiki/ESP32-S2-Pico,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-1-47inch-display-development-board,Waveshare,ESP32-S3 1.47inch Display Development Board,0,0,0,0,0,0,0,https://www.waveshare.com/esp32-s3-lcd-1.47.htm,No physical board pinout recorded
+waveshare-esp32-esp32-s3-eth-development-board,Waveshare,ESP32-S3 ETH Development Board,1,3,1,0,0,1,1,https://docs.waveshare.com/ESP32-S3-ETH,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-a7670e-4g,Waveshare,ESP32-S3-A7670E-4G,1,1,0,0,0,0,0,https://www.waveshare.com/esp32-s3-a7670e-4g.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-amoled-1-91,Waveshare,ESP32-S3-AMOLED-1.91,2,3,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-AMOLED-1.91/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-audio-board,Waveshare,ESP32-S3-AUDIO-Board,3,4,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-AUDIO-Board/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-cam-ovxxxx,Waveshare,ESP32-S3-CAM-OVxxxx,1,3,2,0,0,0,2,https://docs.waveshare.com/ESP32-S3-CAM-OVxxxx/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-can-2ch,Waveshare,ESP32-S3-CAN-2CH,2,3,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-CAN-2CH/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-dev-kit-n8r8,Waveshare,ESP32-S3-DEV-KIT-N8R8,3,4,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-DEV-KIT-N8R8/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-dualeye-lcd-1-28,Waveshare,ESP32-S3-DualEye-LCD-1.28,0,2,1,0,0,1,1,https://www.waveshare.com/wiki/ESP32-S3-DualEye-LCD-1.28,No physical board pinout recorded
+waveshare-esp32-esp32-s3-dualeye-touch-lcd-1-28,Waveshare,ESP32-S3-DualEye-Touch-LCD-1.28,0,3,2,0,0,1,2,https://docs.waveshare.com/ESP32-S3-DualEye-Touch-LCD-1.28/Resources-And-Documents,No physical board pinout recorded
+waveshare-esp32-esp32-s3-epaper-1-54,Waveshare,ESP32-S3-ePaper-1.54,0,1,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-ePaper-1.54/Resources-And-Documents,No physical board pinout recorded
+waveshare-esp32-esp32-s3-epaper-1-54g,Waveshare,ESP32-S3-ePaper-1.54G,1,2,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-ePaper-1.54G/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-epaper-13-3e6,Waveshare,ESP32-S3-ePaper-13.3E6,0,2,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-ePaper-13.3E6/Resources-And-Documents,No physical board pinout recorded
+waveshare-esp32-esp32-s3-epaper-3-97,Waveshare,ESP32-S3-ePaper-3.97,0,2,1,0,0,1,1,https://docs.waveshare.com/ESP32-S3-ePaper-3.97,No physical board pinout recorded
+waveshare-esp32-esp32-s3-eth,Waveshare,ESP32-S3-ETH,3,5,1,0,0,1,1,https://docs.waveshare.com/ESP32-S3-ETH,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-eth-8di-8ro,Waveshare,ESP32-S3-ETH-8DI-8RO,1,1,0,0,0,0,0,https://www.waveshare.com/wiki/ESP32-S3-ETH-8DI-8RO,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-eth-8di-8ro-c,Waveshare,ESP32-S3-ETH-8DI-8RO-C,1,1,0,0,0,0,0,https://www.waveshare.com/wiki/ESP32-S3-ETH-8DI-8RO-C,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-geek,Waveshare,ESP32-S3-GEEK,2,3,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-GEEK/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-knob-touch-lcd-1-8,Waveshare,ESP32-S3-Knob-Touch-LCD-1.8,0,2,0,0,0,1,0,https://www.waveshare.com/wiki/ESP32-S3-Knob-Touch-LCD-1.8,No physical board pinout recorded
+waveshare-esp32-esp32-s3-lcd-0-85,Waveshare,ESP32-S3-LCD-0.85,0,2,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-LCD-0.85/Resources-And-Documents,No physical board pinout recorded
+waveshare-esp32-esp32-s3-lcd-1-28,Waveshare,ESP32-S3-LCD-1.28,4,5,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-LCD-1.28,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-lcd-1-3,Waveshare,ESP32-S3-LCD-1.3,1,2,1,0,0,0,1,https://www.waveshare.com/wiki/ESP32-S3-LCD-1.3,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-lcd-1-47,Waveshare,ESP32-S3-LCD-1.47,1,1,0,0,0,0,0,https://www.waveshare.com/esp32-s3-lcd-1.47.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-lcd-1-47b,Waveshare,ESP32-S3-LCD-1.47B,1,1,0,0,0,0,0,https://www.waveshare.com/wiki/ESP32-S3-LCD-1.47B,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-lcd-1-69,Waveshare,ESP32-S3-LCD-1.69,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-s3-lcd-1.69.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-lcd-1-85,Waveshare,ESP32-S3-LCD-1.85,1,2,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Touch-LCD-1.85/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-lcd-1-9,Waveshare,ESP32-S3-LCD-1.9,1,3,2,0,0,0,2,https://docs.waveshare.com/ESP32-S3-LCD-1.9/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-lcd-2,Waveshare,ESP32-S3-LCD-2,3,4,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-LCD-2/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-lcd-2-8,Waveshare,ESP32-S3-LCD-2.8,2,5,2,0,0,1,2,https://docs.waveshare.com/ESP32-S3-LCD-2.8/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-lcd-2-8b,Waveshare,ESP32-S3-LCD-2.8B,1,2,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-LCD-2.8B/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-lcd-2-8c,Waveshare,ESP32-S3-LCD-2.8C,1,2,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-LCD-2.8C/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-lcd-3-16,Waveshare,ESP32-S3-LCD-3.16,0,4,2,0,0,1,2,https://www.waveshare.com/wiki/ESP32-S3-LCD-3.16,No physical board pinout recorded
+waveshare-esp32-esp32-s3-lcd-driver-board,Waveshare,ESP32-S3-LCD-Driver-Board,2,3,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-LCD-Driver-Board/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-lr1121-xf,Waveshare,ESP32-S3-LR1121-XF,1,3,2,0,0,0,2,https://docs.waveshare.com/ESP32-S3-LR1121-XF/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-matrix,Waveshare,ESP32-S3-Matrix,3,5,1,0,0,1,1,https://docs.waveshare.com/ESP32-S3-Matrix,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-matrix-development-board,Waveshare,ESP32-S3-Matrix Development Board,1,3,1,0,0,1,1,https://docs.waveshare.com/ESP32-S3-Matrix,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-nano,Waveshare,ESP32-S3-Nano,2,3,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Nano/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-photopainter,Waveshare,ESP32-S3-PhotoPainter,0,1,1,0,0,1,1,https://www.waveshare.com/wiki/ESP32-S3-PhotoPainter,No physical board pinout recorded
+waveshare-esp32-esp32-s3-pico,Waveshare,ESP32-S3-Pico,2,3,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Pico/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-poe-eth-8di-8do,Waveshare,ESP32-S3-POE-ETH-8DI-8DO,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/ESP32-S3-POE-ETH-8DI-8DO,No physical board pinout recorded
+waveshare-esp32-esp32-s3-relay-1ch,Waveshare,ESP32-S3-Relay-1CH,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-s3-relay-1ch.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-relay-6ch,Waveshare,ESP32-S3-Relay-6CH,2,3,1,0,0,0,1,https://www.waveshare.com/wiki/ESP32-S3-Relay-6CH,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-rgb-matrix,Waveshare,ESP32-S3-RGB-Matrix,0,2,0,0,0,1,0,https://docs.waveshare.com/ESP32-S3-RGB-Matrix,No physical board pinout recorded
+waveshare-esp32-esp32-s3-rlcd-4-2,Waveshare,ESP32-S3-RLCD-4.2,1,2,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-RLCD-4.2/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-rs485-can,Waveshare,ESP32-S3-RS485-CAN,2,2,0,0,0,0,0,https://www.waveshare.com/esp32-s3-rs485-can.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-sim7670g-4g,Waveshare,ESP32-S3-SIM7670G-4G,1,1,0,0,0,0,0,https://www.waveshare.com/esp32-s3-sim7670g-4g.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-tiny,Waveshare,ESP32-S3-Tiny,3,5,2,0,0,0,2,https://docs.waveshare.com/ESP32-S3-Tiny/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-amoled-1-32,Waveshare,ESP32-S3-Touch-AMOLED-1.32,1,2,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-1.32/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-amoled-1-43,Waveshare,ESP32-S3-Touch-AMOLED-1.43,1,2,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-1.43,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-amoled-1-43c,Waveshare,ESP32-S3-Touch-AMOLED-1.43C,0,3,1,0,0,1,1,https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-1.43C,No physical board pinout recorded
+waveshare-esp32-esp32-s3-touch-amoled-1-64,Waveshare,ESP32-S3-Touch-AMOLED-1.64,1,3,2,0,0,0,2,https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-1.64/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-amoled-1-75,Waveshare,ESP32-S3-Touch-AMOLED-1.75,0,2,1,0,0,1,1,https://www.waveshare.com/wiki/ESP32-S3-Touch-AMOLED-1.75,No physical board pinout recorded
+waveshare-esp32-esp32-s3-touch-amoled-1-75c,Waveshare,ESP32-S3-Touch-AMOLED-1.75C,0,2,1,0,0,1,1,https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-1.75C,No physical board pinout recorded
+waveshare-esp32-esp32-s3-touch-amoled-1-8,Waveshare,ESP32-S3-Touch-AMOLED-1.8,3,4,1,0,0,0,1,https://www.waveshare.com/wiki/ESP32-S3-Touch-AMOLED-1.8,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-amoled-2-06,Waveshare,ESP32-S3-Touch-AMOLED-2.06,0,2,0,0,0,0,0,https://www.waveshare.com/esp32-s3-touch-amoled-2.06.htm,No physical board pinout recorded
+waveshare-esp32-esp32-s3-touch-amoled-2-16,Waveshare,ESP32-S3-Touch-AMOLED-2.16,0,2,1,0,0,1,1,https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-2.16,No physical board pinout recorded
+waveshare-esp32-esp32-s3-touch-amoled-2-41,Waveshare,ESP32-S3-Touch-AMOLED-2.41,1,2,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-2.41/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-1-28,Waveshare,ESP32-S3-Touch-LCD-1.28,3,5,2,0,0,0,2,https://docs.waveshare.com/ESP32-S3-Touch-LCD-1.28/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-1-46,Waveshare,ESP32-S3-Touch-LCD-1.46,1,2,1,0,0,0,1,https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-1.46B,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-1-46b,Waveshare,ESP32-S3-Touch-LCD-1.46B,2,3,1,0,0,0,1,https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-1.46B,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-1-47,Waveshare,ESP32-S3-Touch-LCD-1.47,3,4,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Touch-LCD-1.47/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-1-54,Waveshare,ESP32-S3-Touch-LCD-1.54,0,2,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Touch-LCD-1.54/Resources-And-Documents,No physical board pinout recorded
+waveshare-esp32-esp32-s3-touch-lcd-1-69,Waveshare,ESP32-S3-Touch-LCD-1.69,3,4,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Touch-LCD-1.69/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-1-83,Waveshare,ESP32-S3-Touch-LCD-1.83,1,2,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Touch-LCD-1.83/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-1-85,Waveshare,ESP32-S3-Touch-LCD-1.85,2,5,3,0,0,0,3,https://docs.waveshare.com/ESP32-S3-Touch-LCD-1.85C/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-1-85b,Waveshare,ESP32-S3-Touch-LCD-1.85B,0,1,0,0,0,1,0,https://docs.waveshare.com/ESP32-S3-Touch-LCD-1.85B,No physical board pinout recorded
+waveshare-esp32-esp32-s3-touch-lcd-1-85c,Waveshare,ESP32-S3-Touch-LCD-1.85C,2,4,2,0,0,0,2,https://docs.waveshare.com/ESP32-S3-Touch-LCD-1.85C/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-2,Waveshare,ESP32-S3-Touch-LCD-2,3,4,1,0,0,0,1,https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-2,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-2-1,Waveshare,ESP32-S3-Touch-LCD-2.1,3,4,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Touch-LCD-2.1/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-2-8,Waveshare,ESP32-S3-Touch-LCD-2.8,1,3,1,0,0,1,1,https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-2.8,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-2-8b,Waveshare,ESP32-S3-Touch-LCD-2.8B,2,3,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Touch-LCD-2.8B/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-2-8c,Waveshare,ESP32-S3-Touch-LCD-2.8C,1,2,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Touch-LCD-2.8C/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-3-49,Waveshare,ESP32-S3-Touch-LCD-3.49,0,3,1,0,0,1,1,https://docs.waveshare.com/ESP32-S3-Touch-LCD-3.49/Resources-And-Documents,No physical board pinout recorded
+waveshare-esp32-esp32-s3-touch-lcd-3-5,Waveshare,ESP32-S3-Touch-LCD-3.5,3,5,2,0,0,0,2,https://docs.waveshare.com/ESP32-S3-Touch-LCD-3.5/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-3-5b,Waveshare,ESP32-S3-Touch-LCD-3.5B,3,5,2,0,0,0,2,https://docs.waveshare.com/ESP32-S3-Touch-LCD-3.5B/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-4,Waveshare,ESP32-S3-Touch-LCD-4,0,6,4,0,0,1,4,https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-4,No physical board pinout recorded
+waveshare-esp32-esp32-s3-touch-lcd-4-3,Waveshare,ESP32-S3-Touch-LCD-4.3,0,2,1,0,0,1,1,https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-4.3,No physical board pinout recorded
+waveshare-esp32-esp32-s3-touch-lcd-4-3b,Waveshare,ESP32-S3-Touch-LCD-4.3B,2,3,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Touch-LCD-4.3B,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-4-3c,Waveshare,ESP32-S3-Touch-LCD-4.3C,1,2,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Touch-LCD-4.3C/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-4b,Waveshare,ESP32-S3-Touch-LCD-4B,0,2,1,0,0,1,1,https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-4B,No physical board pinout recorded
+waveshare-esp32-esp32-s3-touch-lcd-5,Waveshare,ESP32-S3-Touch-LCD-5,3,4,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Touch-LCD-5,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-s3-touch-lcd-7,Waveshare,ESP32-S3-Touch-LCD-7,0,2,1,0,0,1,1,https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-7,No physical board pinout recorded
+waveshare-esp32-esp32-s3-touch-lcd-7b,Waveshare,ESP32-S3-Touch-LCD-7B,0,2,1,0,0,1,1,https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-7B,No physical board pinout recorded
+waveshare-esp32-esp32-s3-touch-lcd-7c-box,Waveshare,ESP32-S3-Touch-LCD-7C-BOX,0,4,2,0,0,1,2,https://docs.waveshare.com/ESP32-S3-Touch-LCD-7C-BOX/Resources-And-Documents,No physical board pinout recorded
+waveshare-esp32-esp32-s3-zero,Waveshare,ESP32-S3-Zero,4,5,1,0,0,0,1,https://docs.waveshare.com/ESP32-S3-Zero/Resources-And-Documents,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32-touch-lcd-3-5,Waveshare,ESP32-Touch-LCD-3.5,3,3,0,0,0,0,0,https://www.waveshare.com/esp32-touch-lcd-3.5.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32s3-lcd-1-28,Waveshare,ESP32S3-LCD-1.28,0,0,0,0,0,0,0,https://www.waveshare.com/esp32-s3-lcd-1.28.htm,No physical board pinout recorded
+waveshare-esp32-esp32s3-touch-lcd-2,Waveshare,ESP32S3-TOUCH-LCD-2,1,1,0,0,0,0,0,https://www.waveshare.com/esp32-s3-touch-lcd-2.htm,Physical map available; exact scope and revision review required
+waveshare-esp32-esp32s3-touch-lcd-2-8,Waveshare,ESP32S3-TOUCH-LCD-2.8,0,0,0,0,0,0,0,https://www.waveshare.com/esp32-s3-touch-lcd-2.8.htm,No physical board pinout recorded
+waveshare-esp32-servo-driver-with-esp32,Waveshare,Servo Driver with ESP32,0,2,2,0,0,1,2,https://www.waveshare.com/wiki/Servo_Driver_with_ESP32,No physical board pinout recorded
+waveshare-esp32-esp32-s3-tiny-n8r8,Waveshare,Waveshare ESP32-S3-Tiny-N8R8,1,1,0,0,0,0,0,https://www.waveshare.com/esp32-s3-tiny.htm?sku=33914,Physical map available; exact scope and revision review required
+m5stack-expansion-addon-display-in-for-poe-p4,M5Stack,AddOn Display In For PoE-P4,1,4,2,0,0,1,1,https://docs.m5stack.com/en/addon/AddOn_Display_In_For_PoE-P4,Physical map available; exact scope and revision review required
+m5stack-expansion-addon-display-out-for-poe-p4,M5Stack,AddOn Display Out For PoE-P4,1,4,2,0,0,2,1,https://docs.m5stack.com/en/addon/AddOn_Display_Out_For_PoE-P4,Physical map available; exact scope and revision review required
+m5stack-expansion-atomic-port-abc-base,M5Stack,Atomic Port ABC Base,1,2,0,0,0,0,0,https://docs.m5stack.com/en/atom/AtomPortABC,Physical map available; exact scope and revision review required
+m5stack-expansion-base-bottom,M5Stack,Base Bottom,1,2,1,0,0,1,0,https://docs.m5stack.com/en/base/core_bottom,Physical map available; exact scope and revision review required
+m5stack-expansion-butterfly-launcher,M5Stack,Butterfly Launcher,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/butterfly,No physical board pinout recorded
+m5stack-expansion-display-1-14-for-sticks3,M5Stack,Display 1.14 For StickS3,1,3,1,0,0,1,0,https://docs.m5stack.com/en/accessory/display/Display_1.14_For_StickS3,Physical map available; exact scope and revision review required
+m5stack-expansion-faces-calculator,M5Stack,Faces Calculator,0,1,0,0,0,0,0,https://docs.m5stack.com/en/module/faces_calculator,No physical board pinout recorded
+m5stack-expansion-faces-encoder,M5Stack,Faces Encoder,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/encoder,No physical board pinout recorded
+m5stack-expansion-faces-gamepad,M5Stack,Faces Gamepad,0,1,0,0,0,0,0,https://docs.m5stack.com/en/module/faces_gameboy,No physical board pinout recorded
+m5stack-expansion-faces-joystick,M5Stack,Faces Joystick,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/joystick,No physical board pinout recorded
+m5stack-expansion-faces-qwerty,M5Stack,Faces QWERTY,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/faces_keyboard,No physical board pinout recorded
+m5stack-expansion-hat-8servos,M5Stack,Hat 8Servos,1,1,0,0,0,0,0,https://docs.m5stack.com/en/hat/hat-8servos,Physical map available; exact scope and revision review required
+m5stack-expansion-hat-cardkb,M5Stack,Hat CardKB,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/hat-cardkb,No physical board pinout recorded
+m5stack-expansion-module-audio,M5Stack,Module Audio,1,4,2,0,0,1,1,https://docs.m5stack.com/en/module/Module-Audio,Physical map available; exact scope and revision review required
+m5stack-expansion-module-dcmotor,M5Stack,Module DCMotor,0,2,0,0,0,0,0,https://docs.m5stack.com/en/module/lego_plus,No physical board pinout recorded
+m5stack-expansion-module-goplus,M5Stack,Module GoPlus,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/goplus,No physical board pinout recorded
+m5stack-expansion-module-gps-v2-0,M5Stack,Module GPS v2.0,1,3,1,0,0,0,1,https://docs.m5stack.com/en/module/Module%20GPS%20v2.0,Physical map available; exact scope and revision review required
+m5stack-expansion-module-llm,M5Stack,Module LLM,1,3,1,0,0,1,0,https://docs.m5stack.com/en/module/Module-LLM,Physical map available; exact scope and revision review required
+m5stack-expansion-module-llm-kit,M5Stack,Module LLM Kit,1,3,1,0,0,0,1,https://docs.m5stack.com/en/module/Module%20LLM%20Kit,Physical map available; exact scope and revision review required
+m5stack-expansion-module-plus,M5Stack,Module Plus,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/plus,No physical board pinout recorded
+m5stack-expansion-module-servo,M5Stack,Module Servo,0,1,0,0,0,0,0,https://docs.m5stack.com/en/module/servo,No physical board pinout recorded
+m5stack-expansion-module-stepmotor,M5Stack,Module Stepmotor,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/stepmotor,No physical board pinout recorded
+m5stack-expansion-module-usb-v1-2,M5Stack,Module USB v1.2,0,3,1,0,0,0,1,https://docs.m5stack.com/en/module/USB%20v1.2%20Module,No physical board pinout recorded
+m5stack-expansion-module13-2-lan,M5Stack,Module13.2 LAN,1,4,2,0,0,1,1,https://docs.m5stack.com/en/module/LAN%20Module%2013.2,Physical map available; exact scope and revision review required
+m5stack-expansion-module13-2-lora-1262,M5Stack,Module13.2 LoRa-1262,1,4,2,0,0,2,1,https://docs.m5stack.com/en/module/Module13.2_LoRa-1262,Physical map available; exact scope and revision review required
+m5stack-expansion-module13-2-pwrcan,M5Stack,Module13.2 PwrCAN,1,4,2,0,0,1,1,https://docs.m5stack.com/en/module/Module13.2-PwrCAN,Physical map available; exact scope and revision review required
+m5stack-expansion-module13-2-stepmotor-driver-v1-1,M5Stack,Module13.2 Stepmotor Driver v1.1,1,2,0,0,0,0,0,https://docs.m5stack.com/en/module/Stepmotor%20Driver%20Module13.2%20v1.1,Physical map available; exact scope and revision review required
+m5stack-expansion-stamp-lora-1262,M5Stack,Stamp LoRa-1262,3,7,1,0,0,1,1,https://docs.m5stack.com/en/stamp/Stamp_LoRa-1262,Physical map available; exact scope and revision review required
+m5stack-expansion-stamp-lora-1262-i,M5Stack,Stamp LoRa-1262 I,1,1,0,0,0,0,0,https://docs.m5stack.com/en/stamp/Stamp_LoRa-1262,Physical map available; exact scope and revision review required
+m5stack-expansion-stamp-lora-1262-if,M5Stack,Stamp LoRa-1262 IF,1,1,0,0,0,0,0,https://docs.m5stack.com/en/stamp/Stamp_LoRa-1262,Physical map available; exact scope and revision review required
+m5stack-expansion-stamp-uwb,M5Stack,Stamp UWB,1,4,2,0,0,2,1,https://docs.m5stack.com/en/stamp/Stamp_UWB,Physical map available; exact scope and revision review required
+m5stack-expansion-stamp-uwb-f,M5Stack,Stamp UWB F,1,3,1,0,0,1,1,https://docs.m5stack.com/en/stamp/Stamp_UWB_F,Physical map available; exact scope and revision review required
+m5stack-expansion-stamp-addon-c6-for-p4,M5Stack,Stamp-AddOn C6 For P4,1,4,2,0,0,2,1,https://docs.m5stack.com/en/stamp/Stamp-AddOn_C6_For_P4,Physical map available; exact scope and revision review required
+m5stack-expansion-stamp-addon-cam0308,M5Stack,Stamp-AddOn Cam0308,1,3,1,0,0,1,1,https://docs.m5stack.com/en/stamp/Stamp-AddOn_Cam0308,Physical map available; exact scope and revision review required
+m5stack-expansion-stamp-addon-cam3660,M5Stack,Stamp-AddOn Cam3660,1,1,0,0,0,0,0,https://docs.m5stack.com/en/stamp/Stamp-AddOn_Cam3660,Physical map available; exact scope and revision review required
+m5stack-expansion-unit-8servos2-i2c,M5Stack,Unit 8Servos2-I2C,1,4,2,0,0,2,1,https://docs.m5stack.com/en/unit/Unit_8Servos2-I2C,Physical map available; exact scope and revision review required
+m5stack-expansion-unit-ac-measure,M5Stack,Unit AC Measure,0,3,1,0,0,0,1,https://docs.m5stack.com/en/unit/AC%20Measure%20Unit,No physical board pinout recorded
+m5stack-expansion-unit-cardkb,M5Stack,Unit CardKB,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/cardkb,No physical board pinout recorded
+m5stack-expansion-unit-cardkb-v1-1,M5Stack,Unit CardKB v1.1,0,3,1,0,0,1,0,https://docs.m5stack.com/en/unit/cardkb_1.1,No physical board pinout recorded
+m5stack-expansion-unit-pbhub,M5Stack,Unit PbHub,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/pbhub,No physical board pinout recorded
+m5stack-expansion-unit-trace,M5Stack,Unit Trace,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/trace,No physical board pinout recorded
+m5stack-expansion-unit-typec-to-grove,M5Stack,Unit TypeC to Grove,1,4,2,0,0,1,1,https://docs.m5stack.com/en/unit/typec2grove,Physical map available; exact scope and revision review required
+waveshare-expansion-8-8-dsi-touch-a,Waveshare,8.8-DSI-TOUCH-A,1,1,0,0,0,0,0,,Physical map available; exact scope and revision review required
+waveshare-expansion-ddsm210,Waveshare,DDSM210,1,1,0,0,0,0,0,,Physical map available; exact scope and revision review required
+waveshare-expansion-ddsm315,Waveshare,DDSM315,1,1,0,0,0,0,0,,Physical map available; exact scope and revision review required
+waveshare-expansion-imx415-8mp-usb-camera-b,Waveshare,IMX415 8MP USB Camera (B),1,1,0,0,0,0,0,,Physical map available; exact scope and revision review required
+waveshare-expansion-os05a20-5mp-usb-camera-b,Waveshare,OS05A20 5MP USB Camera (B),1,1,0,0,0,0,0,,Physical map available; exact scope and revision review required
+waveshare-expansion-os05a20-5mp-usb-camera-c,Waveshare,OS05A20 5MP USB Camera (C),1,1,0,0,0,0,0,,Physical map available; exact scope and revision review required
+waveshare-expansion-pcie-to-minipcie-gbe-usb3-2-hat-plus,Waveshare,PCIe TO MiniPCIe GbE USB3.2 HAT Plus,1,1,0,0,0,0,0,,Physical map available; exact scope and revision review required
+waveshare-expansion-ups-power-module-c,Waveshare,UPS Power Module (C),1,1,0,0,0,0,0,,Physical map available; exact scope and revision review required
+m5stack-gpio-device-atom-printer,M5Stack,Atom Printer,0,1,0,0,0,0,0,https://docs.m5stack.com/en/atom/atom_printer,No physical board pinout recorded
+m5stack-gpio-device-atom-matrix-v1-1,M5Stack,Atom-Matrix v1.1,1,3,2,0,0,1,1,https://docs.m5stack.com/en/core/Atom-Matrix_v1.1,Physical map available; exact scope and revision review required
+m5stack-gpio-device-atoms3r-cam,M5Stack,AtomS3R-CAM,1,5,3,0,0,1,2,https://docs.m5stack.com/en/core/AtomS3R%20Cam,Physical map available; exact scope and revision review required
+m5stack-gpio-device-atoms3r-cam-ai-chatbot,M5Stack,AtomS3R-CAM AI Chatbot,1,3,2,0,0,0,2,https://docs.m5stack.com/en/core/AtomS3R-CAM%20AI%20Chatbot,Physical map available; exact scope and revision review required
+m5stack-gpio-device-atoms3r-ext,M5Stack,AtomS3R-Ext,1,4,2,0,0,0,2,https://docs.m5stack.com/en/core/AtomS3R%20Cam,Physical map available; exact scope and revision review required
+m5stack-gpio-device-atoms3r-m12,M5Stack,AtomS3R-M12,1,5,3,0,0,1,2,https://docs.m5stack.com/en/core/AtomS3R-M12,Physical map available; exact scope and revision review required
+m5stack-gpio-device-atoms3r-m12-volcengine-kit,M5Stack,AtomS3R-M12 Volcengine Kit,1,3,2,0,0,0,2,https://docs.m5stack.com/en/core/AtomS3R-M12%20Volcengine%20Kit,Physical map available; exact scope and revision review required
+m5stack-gpio-device-atoms3u,M5Stack,AtomS3U,1,3,1,0,0,0,1,https://docs.m5stack.com/en/core/AtomS3U,Physical map available; exact scope and revision review required
+m5stack-gpio-device-atomu,M5Stack,AtomU,1,2,1,0,0,1,0,https://docs.m5stack.com/en/core/ATOM%20U,Physical map available; exact scope and revision review required
+m5stack-gpio-device-bala,M5Stack,Bala,0,2,1,0,0,1,0,https://docs.m5stack.com/en/app/bala,No physical board pinout recorded
+m5stack-gpio-device-capsule,M5Stack,Capsule,1,3,1,0,0,0,1,https://docs.m5stack.com/en/core/M5Capsule,Physical map available; exact scope and revision review required
+m5stack-gpio-device-capsule-v1-1,M5Stack,Capsule v1.1,1,5,3,0,0,2,2,https://docs.m5stack.com/en/core/Capsule_v1.1,Physical map available; exact scope and revision review required
+m5stack-gpio-device-cardputer-adv,M5Stack,Cardputer-Adv,1,4,2,0,0,1,2,https://docs.m5stack.com/en/core/Cardputer-Adv,Physical map available; exact scope and revision review required
+m5stack-gpio-device-cardputerzero,M5Stack,CardputerZero,2,3,0,0,0,0,0,https://docs.m5stack.com/en/CardputerZero,Physical map available; exact scope and revision review required
+m5stack-gpio-device-core2,M5Stack,Core2,0,4,2,0,0,1,1,https://docs.m5stack.com/en/core/core2,No physical board pinout recorded
+m5stack-gpio-device-core2-v1-1,M5Stack,Core2 v1.1,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/Core2%20v1.1,No physical board pinout recorded
+m5stack-gpio-device-cores3-lite,M5Stack,CoreS3-Lite,0,2,0,0,0,0,0,https://docs.m5stack.com/en/core/CoreS3-Lite,No physical board pinout recorded
+m5stack-gpio-device-cores3-se,M5Stack,CoreS3-SE,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/M5CoreS3%20SE,No physical board pinout recorded
+m5stack-gpio-device-faces-kit,M5Stack,Faces Kit,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/face_kit,No physical board pinout recorded
+m5stack-gpio-device-m5camera,M5Stack,M5Camera,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/m5camera,No physical board pinout recorded
+m5stack-gpio-device-m5go-lite,M5Stack,M5GO-Lite,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/m5go_lite,No physical board pinout recorded
+m5stack-gpio-device-station-485,M5Stack,Station-485,1,4,2,0,0,1,1,https://docs.m5stack.com/en/core/station_485,Physical map available; exact scope and revision review required
+m5stack-gpio-device-station-bat,M5Stack,Station-Bat,1,3,1,0,0,1,0,https://docs.m5stack.com/en/core/station_bat,Physical map available; exact scope and revision review required
+m5stack-gpio-device-stickc-plus,M5Stack,StickC-Plus,2,2,0,0,0,0,0,https://docs.m5stack.com/en/core/m5stickc_plus,Physical map available; exact scope and revision review required
+m5stack-gpio-device-unit-poe-p4,M5Stack,Unit PoE-P4,1,6,4,0,0,2,3,https://docs.m5stack.com/en/unit/Unit_PoE-P4,Physical map available; exact scope and revision review required
+m5stack-gpio-device-unitv-ov2640,M5Stack,UnitV-OV2640,1,3,1,0,0,1,0,https://docs.m5stack.com/en/unit/unitv,Physical map available; exact scope and revision review required
+m5stack-gpio-device-unitv-ov7740,M5Stack,UnitV-OV7740,1,3,1,0,0,1,0,https://docs.m5stack.com/en/unit/unitv_ov7740,Physical map available; exact scope and revision review required
+m5stack-gpio-device-xiaozhi-card-kit,M5Stack,Xiaozhi Card Kit,1,3,0,0,0,0,0,https://docs.m5stack.com/en/core/Xiaozhi_Card_Kit,Physical map available; exact scope and revision review required
+waveshare-other-core103r,Waveshare,Core103R,0,1,1,0,0,0,1,https://www.waveshare.com/wiki/Core103R,No physical board pinout recorded
+waveshare-other-core103v,Waveshare,Core103V,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core103V,No physical board pinout recorded
+waveshare-other-core103z,Waveshare,Core103Z,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core103Z,No physical board pinout recorded
+waveshare-other-core107v,Waveshare,Core107V,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core107V,No physical board pinout recorded
+waveshare-other-core1106,Waveshare,Core1106,0,0,0,0,0,0,0,https://www.waveshare.com/core1106.htm,No physical board pinout recorded
+waveshare-other-core205r,Waveshare,Core205R,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core205R,No physical board pinout recorded
+waveshare-other-core2530,Waveshare,Core2530,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core2530,No physical board pinout recorded
+waveshare-other-core2530-b,Waveshare,Core2530 (B),0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core2530_(B),No physical board pinout recorded
+waveshare-other-core3506,Waveshare,Core3506,0,0,0,0,0,0,0,https://www.waveshare.com/core3506.htm,No physical board pinout recorded
+waveshare-other-core3566,Waveshare,Core3566,0,0,0,0,0,0,0,https://www.waveshare.com/core3566.htm,No physical board pinout recorded
+waveshare-other-core3566-kit,Waveshare,Core3566-kit,0,0,0,0,0,0,0,https://www.waveshare.com/core3566-kit.htm,No physical board pinout recorded
+waveshare-other-core3576,Waveshare,Core3576,0,0,0,0,0,0,0,https://www.waveshare.com/core3576-module.htm,No physical board pinout recorded
+waveshare-other-core3s250e,Waveshare,Core3S250E,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core3S250E,No physical board pinout recorded
+waveshare-other-core3s500e,Waveshare,Core3S500E,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core3S500E,No physical board pinout recorded
+waveshare-other-core405r,Waveshare,Core405R,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core405R,No physical board pinout recorded
+waveshare-other-core407i,Waveshare,Core407I,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core407I,No physical board pinout recorded
+waveshare-other-core407v,Waveshare,Core407V,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core407V,No physical board pinout recorded
+waveshare-other-core407z,Waveshare,Core407Z,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core407Z,No physical board pinout recorded
+waveshare-other-core429i,Waveshare,Core429I,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core429I,No physical board pinout recorded
+waveshare-other-core4337,Waveshare,Core4337,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core4337,No physical board pinout recorded
+waveshare-other-core4357,Waveshare,Core4357,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core4357,No physical board pinout recorded
+waveshare-other-core51822,Waveshare,Core51822,1,1,0,0,0,0,0,https://www.waveshare.com/core51822.htm,Physical map available; exact scope and revision review required
+waveshare-other-core51822-b,Waveshare,Core51822 (B),1,2,1,0,0,0,1,https://www.waveshare.com/wiki/Core51822_(B),Physical map available; exact scope and revision review required
+waveshare-other-core52840,Waveshare,Core52840,1,1,0,0,0,0,0,https://www.waveshare.com/core52840.htm,Physical map available; exact scope and revision review required
+waveshare-other-core746i,Waveshare,Core746I,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Core746I,No physical board pinout recorded
+waveshare-other-coreep4ce10,Waveshare,CoreEP4CE10,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/CoreEP4CE10,No physical board pinout recorded
+waveshare-other-coreep4ce6,Waveshare,CoreEP4CE6,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/CoreEP4CE6,No physical board pinout recorded
+waveshare-other-evk407i,Waveshare,EVK407I,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/EVK407I,No physical board pinout recorded
+waveshare-other-ex-stm8-q48a-105,Waveshare,EX-STM8-Q48A-105,0,0,0,0,0,0,0,https://www.waveshare.com/ex-stm8-q48a-105-standard.htm,No physical board pinout recorded
+waveshare-other-ex-stm8-q64a-207,Waveshare,EX-STM8-Q64A-207,0,0,0,0,0,0,0,https://www.waveshare.com/ex-stm8-q64a-207-premium.htm,No physical board pinout recorded
+waveshare-other-jetson-nano-mini,Waveshare,JETSON NANO MINI,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/JETSON_NANO_MINI,No physical board pinout recorded
+waveshare-other-jetson-nano-dev-kit,Waveshare,JETSON-NANO-DEV-KIT,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/JETSON-NANO-DEV-KIT,No physical board pinout recorded
+waveshare-other-jetson-nano-dev-kit-a,Waveshare,JETSON-NANO-DEV-KIT-A,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/JETSON-NANO-DEV-KIT-A,No physical board pinout recorded
+waveshare-other-jetson-nano-lite-dev-kit,Waveshare,JETSON-NANO-LITE-DEV-KIT,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/JETSON-NANO-LITE-DEV-KIT,No physical board pinout recorded
+waveshare-other-jetson-orin-nx-16g-dev-kit,Waveshare,JETSON-ORIN-NX-16G-DEV-KIT,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/JETSON-ORIN-NX-16G-DEV-KIT,No physical board pinout recorded
+waveshare-other-jetson-tx2-nx-dev-kit,Waveshare,JETSON-TX2-NX-DEV-KIT,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/JETSON-TX2-NX-DEV-KIT,No physical board pinout recorded
+waveshare-other-jetson-xavier-nx-dev-kit,Waveshare,JETSON-XAVIER-NX-DEV-KIT,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/JETSON-XAVIER-NX-DEV-KIT,No physical board pinout recorded
+waveshare-other-nrf51822-eval-kit,Waveshare,NRF51822 Eval Kit,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/NRF51822_Eval_Kit,No physical board pinout recorded
+waveshare-other-nrf52840-eval-kit,Waveshare,NRF52840 Eval Kit,1,2,1,0,0,0,1,https://www.waveshare.com/wiki/NRF52840_Eval_Kit,Physical map available; exact scope and revision review required
+waveshare-other-open051c,Waveshare,Open051C,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open051C,No physical board pinout recorded
+waveshare-other-open103c,Waveshare,Open103C,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open103C,No physical board pinout recorded
+waveshare-other-open103r,Waveshare,Open103R,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open103R,No physical board pinout recorded
+waveshare-other-open103v,Waveshare,Open103V,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open103V,No physical board pinout recorded
+waveshare-other-open103z,Waveshare,Open103Z,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open103Z,No physical board pinout recorded
+waveshare-other-open107v,Waveshare,Open107V,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open107V,No physical board pinout recorded
+waveshare-other-open1114,Waveshare,Open1114,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open1114,No physical board pinout recorded
+waveshare-other-open1343,Waveshare,Open1343,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open1343,No physical board pinout recorded
+waveshare-other-open16f877a,Waveshare,Open16F877A,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open16F877A,No physical board pinout recorded
+waveshare-other-open1768,Waveshare,Open1768,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open1768,No physical board pinout recorded
+waveshare-other-open1788,Waveshare,Open1788,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open1788,No physical board pinout recorded
+waveshare-other-open18f4520,Waveshare,Open18F4520,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open18F4520,No physical board pinout recorded
+waveshare-other-open205r-c,Waveshare,Open205R-C,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open205R-C,No physical board pinout recorded
+waveshare-other-open32f0-d,Waveshare,Open32F0-D,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open32F0-D,No physical board pinout recorded
+waveshare-other-open32f3-d,Waveshare,Open32F3-D,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open32F3-D,No physical board pinout recorded
+waveshare-other-open32l-d,Waveshare,Open32L-D,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open32L-D,No physical board pinout recorded
+waveshare-other-open3s500e,Waveshare,Open3S500E,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open3S500E,No physical board pinout recorded
+waveshare-other-open405r-c,Waveshare,Open405R-C,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open405R-C,No physical board pinout recorded
+waveshare-other-open407i-c,Waveshare,Open407I-C,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open407I-C,No physical board pinout recorded
+waveshare-other-open407v-c,Waveshare,Open407V-C,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open407V-C,No physical board pinout recorded
+waveshare-other-open407v-d,Waveshare,Open407V-D,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open407V-D,No physical board pinout recorded
+waveshare-other-open407z-c,Waveshare,Open407Z-C,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open407Z-C,No physical board pinout recorded
+waveshare-other-open429i-c,Waveshare,Open429I-C,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open429I-C,No physical board pinout recorded
+waveshare-other-open429z-d,Waveshare,Open429Z-D,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open429Z-D,No physical board pinout recorded
+waveshare-other-open746i-c,Waveshare,Open746I-C,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Open746I-C,No physical board pinout recorded
+waveshare-other-openep4ce10-c,Waveshare,OpenEP4CE10-C,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/OpenEP4CE10-C,No physical board pinout recorded
+waveshare-other-openep4ce6-c,Waveshare,OpenEP4CE6-C,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/OpenEP4CE6-C,No physical board pinout recorded
+waveshare-other-openepm1270,Waveshare,OpenEPM1270,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/OpenEPM1270,No physical board pinout recorded
+waveshare-other-openm128,Waveshare,OpenM128,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/OpenM128,No physical board pinout recorded
+waveshare-other-port103z,Waveshare,Port103Z,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Port103Z,No physical board pinout recorded
+waveshare-other-port407z,Waveshare,Port407Z,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/Port407Z,No physical board pinout recorded
+waveshare-other-r3-plus,Waveshare,R3 PLUS,1,1,0,0,0,0,0,https://www.waveshare.com/wiki/R3_PLUS,Physical map available; exact scope and revision review required
+waveshare-other-uno-plus,Waveshare,UNO PLUS,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/UNO_PLUS,No physical board pinout recorded
+waveshare-other-xcore407i,Waveshare,XCore407I,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/XCore407I,No physical board pinout recorded
+waveshare-other-xnucleo-f030r8,Waveshare,XNUCLEO-F030R8,1,1,0,0,0,1,0,https://www.waveshare.com/wiki/XNUCLEO-F030R8,Physical map available; exact scope and revision review required
+waveshare-other-xnucleo-f103rb,Waveshare,XNUCLEO-F103RB,1,1,0,0,0,1,0,https://www.waveshare.com/wiki/XNUCLEO-F103RB,Physical map available; exact scope and revision review required
+waveshare-other-xnucleo-f302r8,Waveshare,XNUCLEO-F302R8,0,0,0,0,0,0,0,https://www.waveshare.com/wiki/XNUCLEO-F302R8,No physical board pinout recorded
+waveshare-other-xnucleo-f401re,Waveshare,XNUCLEO-F401RE,1,1,0,0,0,1,0,https://www.waveshare.com/wiki/XNUCLEO-F401RE,Physical map available; exact scope and revision review required
+waveshare-other-xnucleo-f411re,Waveshare,XNUCLEO-F411RE,1,1,0,0,0,1,0,https://www.waveshare.com/wiki/XNUCLEO-F411RE,Physical map available; exact scope and revision review required
+m5stack-other-sbc-cm4stack,M5Stack,CM4Stack,0,4,2,0,0,1,1,https://docs.m5stack.com/en/core/CM4Stack,No physical board pinout recorded
+m5stack-other-sbc-coremp135,M5Stack,CoreMP135,0,4,2,0,0,0,2,https://docs.m5stack.com/en/core/M5CoreMP135,No physical board pinout recorded
+m5stack-other-sbc-llm630-compute-kit,M5Stack,LLM630 Compute Kit,0,4,2,0,0,1,1,https://docs.m5stack.com/en/core/LLM630%20Compute%20Kit,No physical board pinout recorded
+waveshare-rp2040-rp2040-ble,Waveshare,RP2040-BLE,2,2,0,0,0,0,0,https://www.waveshare.com/rp2040-ble.htm,Physical map available; exact scope and revision review required
+waveshare-rp2040-rp2040-eth,Waveshare,RP2040-ETH,1,3,2,0,0,0,2,https://www.waveshare.com/wiki/RP2040-ETH,Physical map available; exact scope and revision review required
+waveshare-rp2040-rp2040-geek,Waveshare,RP2040-GEEK,0,1,1,0,0,1,1,https://www.waveshare.com/wiki/RP2040-GEEK,No physical board pinout recorded
+waveshare-rp2040-rp2040-keyboard-3,Waveshare,RP2040-Keyboard-3,0,1,1,0,0,1,1,https://www.waveshare.com/wiki/RP2040-Keyboard-3,No physical board pinout recorded
+waveshare-rp2040-rp2040-lcd-0-96,Waveshare,RP2040-LCD-0.96,2,2,0,0,0,0,0,https://www.waveshare.com/rp2040-lcd-0.96.htm,Physical map available; exact scope and revision review required
+waveshare-rp2040-rp2040-lcd-0-99-b,Waveshare,RP2040-LCD-0.99-B,0,1,1,0,0,1,1,https://www.waveshare.com/wiki/RP2040-LCD-0.99-B,No physical board pinout recorded
+waveshare-rp2040-rp2040-lcd-1-28,Waveshare,RP2040-LCD-1.28,2,2,0,0,0,0,0,https://www.waveshare.com/rp2040-lcd-1.28.htm,Physical map available; exact scope and revision review required
+waveshare-rp2040-rp2040-lora,Waveshare,RP2040-LoRa,1,1,0,0,0,0,0,https://www.waveshare.com/wiki/RP2040-LoRa,Physical map available; exact scope and revision review required
+waveshare-rp2040-rp2040-matrix,Waveshare,RP2040-Matrix,1,1,0,0,0,0,0,https://www.waveshare.com/wiki/RP2040-Matrix,Physical map available; exact scope and revision review required
+waveshare-rp2040-rp2040-one,Waveshare,RP2040-One,1,1,0,0,0,0,0,https://www.waveshare.com/wiki/RP2040-One,Physical map available; exact scope and revision review required
+waveshare-rp2040-rp2040-pizero,Waveshare,RP2040-PiZero,0,1,1,0,0,1,1,https://www.waveshare.com/wiki/RP2040-PiZero,No physical board pinout recorded
+waveshare-rp2040-rp2040-plus,Waveshare,RP2040-Plus,3,3,0,0,0,0,0,https://www.waveshare.com/rp2040-plus.htm,Physical map available; exact scope and revision review required
+waveshare-rp2040-rp2040-plus-with-16mb-flash,Waveshare,RP2040-Plus with 16MB Flash,0,0,0,0,0,0,0,https://www.waveshare.com/rp2040-plus.htm,No physical board pinout recorded
+waveshare-rp2040-rp2040-plus-with-4mb-flash,Waveshare,RP2040-Plus with 4MB Flash,0,0,0,0,0,0,0,https://www.waveshare.com/rp2040-plus.htm,No physical board pinout recorded
+waveshare-rp2040-rp2040-tiny,Waveshare,RP2040-Tiny,2,5,3,0,0,0,3,https://www.waveshare.com/wiki/RP2040-Tiny,Physical map available; exact scope and revision review required
+waveshare-rp2040-rp2040-touch-lcd-1-28,Waveshare,RP2040-Touch-LCD-1.28,1,1,0,0,0,0,0,https://www.waveshare.com/wiki/RP2040-Touch-LCD-1.28,Physical map available; exact scope and revision review required
+waveshare-rp2040-rp2040-touch-lcd-1-69,Waveshare,RP2040-Touch-LCD-1.69,2,2,0,0,0,0,0,https://www.waveshare.com/rp2040-touch-lcd-1.69.htm,Physical map available; exact scope and revision review required
+waveshare-rp2040-rp2040-zero,Waveshare,RP2040-Zero,3,3,0,0,0,0,0,https://www.waveshare.com/rp2040-zero.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-core2350b,Waveshare,Core2350B,1,3,2,0,0,0,2,https://www.waveshare.com/wiki/Core2350B0,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-can,Waveshare,RP2350-CAN,2,4,2,0,0,0,2,https://www.waveshare.com/wiki/RP2350-CAN,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-eth,Waveshare,RP2350-ETH,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-eth.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-eth-8di-8ro,Waveshare,RP2350-ETH-8DI-8RO,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-eth-8di-8ro.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-geek,Waveshare,RP2350-GEEK,0,1,1,0,0,1,1,https://www.waveshare.com/wiki/RP2350-GEEK,No physical board pinout recorded
+waveshare-rp2350-rp2350-lcd-0-85,Waveshare,RP2350-LCD-0.85,0,4,2,0,0,1,2,https://docs.waveshare.com/RP2350-Touch-LCD-1.54/Resources-And-Documents,No physical board pinout recorded
+waveshare-rp2350-rp2350-lcd-0-96,Waveshare,RP2350-LCD-0.96,1,1,0,0,0,0,0,https://www.waveshare.com/wiki/RP2350-LCD-0.96,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-lcd-1-28,Waveshare,RP2350-LCD-1.28,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-lcd-1.28.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-lcd-1-47-a,Waveshare,RP2350-LCD-1.47-A,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-lcd-1.47-a.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-lcd-1-47-b,Waveshare,RP2350-LCD-1.47-B,1,1,0,0,0,0,0,https://www.waveshare.com/wiki/RP2350-LCD-1.47-B,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-matrix,Waveshare,RP2350-Matrix,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-matrix.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-one,Waveshare,RP2350-One,1,1,0,0,0,0,0,https://www.waveshare.com/wiki/RP2350-One,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-pizero,Waveshare,RP2350-PiZero,0,1,1,0,0,1,1,https://www.waveshare.com/wiki/RP2350-PiZero,No physical board pinout recorded
+waveshare-rp2350-rp2350-plus,Waveshare,RP2350-Plus,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-plus.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-poe-eth,Waveshare,RP2350-POE-ETH,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-poe-eth.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-relay-6ch,Waveshare,RP2350-Relay-6CH,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-relay-6ch.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-tiny,Waveshare,RP2350-Tiny,1,1,0,0,0,0,0,https://www.waveshare.com/wiki/RP2350-Tiny,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-amoled-1-43,Waveshare,RP2350-Touch-AMOLED-1.43,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-touch-amoled-1.43.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-amoled-1-64,Waveshare,RP2350-Touch-AMOLED-1.64,2,5,2,0,0,0,2,https://www.waveshare.com/wiki/RP2350-Touch-AMOLED-1.64,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-amoled-1-75,Waveshare,RP2350-Touch-AMOLED-1.75,0,1,0,0,0,0,0,https://docs.waveshare.com/RP2350-Touch-AMOLED-1.75,No physical board pinout recorded
+waveshare-rp2350-rp2350-touch-amoled-1-8,Waveshare,RP2350-Touch-AMOLED-1.8,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-touch-amoled-1.8.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-amoled-2-41,Waveshare,RP2350-Touch-AMOLED-2.41,2,3,0,0,0,0,0,https://www.waveshare.com/rp2350-touch-amoled-2.41.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-epaper-1-54,Waveshare,RP2350-Touch-ePaper-1.54,0,4,2,0,0,1,2,https://docs.waveshare.com/RP2350-Touch-LCD-1.54/Resources-And-Documents,No physical board pinout recorded
+waveshare-rp2350-rp2350-touch-lcd-1-28,Waveshare,RP2350-Touch-LCD-1.28,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-touch-lcd-1.28.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-lcd-1-46,Waveshare,RP2350-Touch-LCD-1.46,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-touch-lcd-1.46.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-lcd-1-54,Waveshare,RP2350-Touch-LCD-1.54,0,4,2,0,0,1,2,https://docs.waveshare.com/RP2350-Touch-LCD-1.54/Resources-And-Documents,No physical board pinout recorded
+waveshare-rp2350-rp2350-touch-lcd-1-69,Waveshare,RP2350-Touch-LCD-1.69,2,4,2,0,0,0,2,https://www.waveshare.com/wiki/RP2350-Touch-LCD-1.69,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-lcd-1-85c,Waveshare,RP2350-Touch-LCD-1.85C,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-touch-lcd-1.85c.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-lcd-2,Waveshare,RP2350-Touch-LCD-2,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-touch-lcd-2.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-lcd-2-1,Waveshare,RP2350-Touch-LCD-2.1,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-touch-lcd-2.1.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-lcd-2-8,Waveshare,RP2350-Touch-LCD-2.8,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-touch-lcd-2.8.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-lcd-2-8c,Waveshare,RP2350-Touch-LCD-2.8C,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-touch-lcd-2.8c.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-lcd-3-49,Waveshare,RP2350-Touch-LCD-3.49,2,4,2,0,0,0,2,https://www.waveshare.com/wiki/RP2350-Touch-LCD-3.49,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-lcd-3-5,Waveshare,RP2350-Touch-LCD-3.5,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-touch-lcd-3.5.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-lcd-4,Waveshare,RP2350-Touch-LCD-4,0,1,1,0,0,1,1,https://www.waveshare.com/wiki/RP2350-Touch-LCD-4,No physical board pinout recorded
+waveshare-rp2350-rp2350-touch-lcd-4-3b,Waveshare,RP2350-Touch-LCD-4.3B,1,1,0,0,0,0,0,https://www.waveshare.com/rp2350-touch-lcd-4.3b.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-touch-lcd-7,Waveshare,RP2350-Touch-LCD-7,0,1,1,0,0,1,1,https://www.waveshare.com/wiki/RP2350-Touch-LCD-7,No physical board pinout recorded
+waveshare-rp2350-rp2350-usb-a,Waveshare,RP2350-USB-A,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-usb-a.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-usb-c,Waveshare,RP2350-USB-C,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-usb-c.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-zero,Waveshare,RP2350-Zero,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-zero.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350-zero-cm,Waveshare,RP2350-Zero-CM,2,2,0,0,0,0,0,https://www.waveshare.com/rp2350-zero-cm.htm,Physical map available; exact scope and revision review required
+waveshare-rp2350-rp2350b-plus-w,Waveshare,RP2350B-Plus-W,3,3,0,0,0,0,0,https://www.waveshare.com/rp2350b-plus-w.htm,Physical map available; exact scope and revision review required
+source-board-57492cac1e1ae8b467,M5Stack,6060-Push,0,1,0,0,0,0,0,https://docs.m5stack.com/en/1515/6060-push,No physical board pinout recorded
+source-board-da525b9c655706bb3f,M5Stack,Aluminium Extrusions,0,5,0,0,0,0,0,https://docs.m5stack.com/en/1515/ap,No physical board pinout recorded
+source-board-49d8c6099b3a7b5286,M5Stack,Connector,0,12,1,0,0,1,0,https://docs.m5stack.com/en/1515/connectors,No physical board pinout recorded
+source-board-d11fb46eaa1e2c11c3,M5Stack,Corner,0,3,1,0,0,1,0,https://docs.m5stack.com/en/1515/corner,No physical board pinout recorded
+source-board-c7bfcef1d68fc45b83,M5Stack,Nut,0,1,0,0,0,0,0,https://docs.m5stack.com/en/1515/nut,No physical board pinout recorded
+source-board-b58ecc1d34dcdc3e04,M5Stack,1.27-Socket Kit for Stamp-S3,0,2,1,0,0,1,0,https://docs.m5stack.com/en/accessory/1.27-Socket%20Kit%20for%20StampS3,No physical board pinout recorded
+source-board-0a22ad2de84e38d923,M5Stack,485T,0,2,1,0,0,0,1,https://docs.m5stack.com/en/accessory/485t,No physical board pinout recorded
+source-board-bf541458bf93d6b6b1,M5Stack,Atomic ToChain Base,0,3,2,0,0,1,1,https://docs.m5stack.com/en/accessory/Atomic_ToChain_Base,No physical board pinout recorded
+source-board-4c6dddf9466ba9c6e6,M5Stack,Atomic ToUnit Base,0,2,1,0,0,1,0,https://docs.m5stack.com/en/accessory/Atomic_ToUnit_Base,No physical board pinout recorded
+source-board-61dc2315aba1d78807,M5Stack,BAVG to Socket,0,2,1,0,0,1,0,https://docs.m5stack.com/en/accessory/converter/bavg2socket,No physical board pinout recorded
+source-board-c1836e18c8afadc61f,M5Stack,Bus Socket SMD 13.2,0,2,1,0,0,1,0,https://docs.m5stack.com/en/accessory/bus_socket_smd_13.2,No physical board pinout recorded
+source-board-b430b7d9b47753112b,M5Stack,CamModule SC850SL,0,2,1,0,0,0,1,https://docs.m5stack.com/en/accessory/CamModule_SC850SL,No physical board pinout recorded
+source-board-42bedf822aedda5aac,M5Stack,Capsule Proto,0,2,1,0,0,1,0,https://docs.m5stack.com/en/accessory/Capsule-proto,No physical board pinout recorded
+source-board-7f3220c8f565ad56c8,M5Stack,Cardputer Accessory Kit,0,2,1,0,0,1,0,https://docs.m5stack.com/en/accessory/Cardputer%20Accessory%20Kit,No physical board pinout recorded
+source-board-dbd35b902578999c85,M5Stack,Chain Bridge,0,3,2,0,0,1,1,https://docs.m5stack.com/en/accessory/converter/Chain_Bridge,No physical board pinout recorded
+source-board-826db93b53b37a89ef,M5Stack,Chain Return,0,1,0,0,0,0,0,https://docs.m5stack.com/en/accessory/converter/Chain_Return,No physical board pinout recorded
+source-board-60237e7bb4061c03d2,M5Stack,CLIP-A,0,5,1,0,0,1,0,https://docs.m5stack.com/en/accessory/CLIP-A,No physical board pinout recorded
+source-board-a193e8448eda7a6fb6,M5Stack,CLIP-B,0,4,1,0,0,1,0,https://docs.m5stack.com/en/accessory/CLIP-B,No physical board pinout recorded
+source-board-5a60b64daebe8b5c0e,M5Stack,Display 1.14 Inch,0,1,0,0,0,0,0,https://docs.m5stack.com/en/accessory/display/Display_1.14_Inch,No physical board pinout recorded
+source-board-47b9df028bbb8a10b4,M5Stack,Frame,0,1,0,0,0,0,0,https://docs.m5stack.com/en/accessory/frame,No physical board pinout recorded
+source-board-6e4b9ee9a0f3979694,M5Stack,Grove Converter,0,2,1,0,0,1,0,https://docs.m5stack.com/en/accessory/Grove_Converter,No physical board pinout recorded
+source-board-da76e277a8985719d4,M5Stack,Grove T,0,1,0,0,0,0,0,https://docs.m5stack.com/en/accessory/converter/grove_t,No physical board pinout recorded
+source-board-8b7bc8abf33e9365fe,M5Stack,Grove to 4P,0,2,1,0,0,1,0,https://docs.m5stack.com/en/accessory/converter/grove_to_4p,No physical board pinout recorded
+source-board-8cb9bff718fbbf41b6,M5Stack,Grove to Grove,0,2,1,0,0,1,0,https://docs.m5stack.com/en/accessory/converter/grove2grove,No physical board pinout recorded
+source-board-cc0272832d61950412,M5Stack,Grove to PIN,0,1,0,0,0,0,0,https://docs.m5stack.com/en/accessory/converter/Connector_Grove_to_PIN,No physical board pinout recorded
+source-board-9e85c320e96566c801,M5Stack,Grove to Servo,0,1,0,0,0,0,0,https://docs.m5stack.com/en/accessory/converter/Grove_to_Servo,No physical board pinout recorded
+source-board-1a18c2638cb34d6a64,M5Stack,Grove to USBC,0,3,2,0,0,1,1,https://docs.m5stack.com/en/accessory/Grove2USB-C,No physical board pinout recorded
+source-board-d1dbab67bcc1e40dfe,M5Stack,Guide Rail,0,1,0,0,0,0,0,https://docs.m5stack.com/en/accessory/guide_rail,No physical board pinout recorded
+source-board-954672a436eee96512,M5Stack,HY2.0-4P SMD,0,1,0,0,0,0,0,https://docs.m5stack.com/en/accessory/converter/hy2.0_4p_smd,No physical board pinout recorded
+source-board-2aa95729cf01c806de,M5Stack,KeyCap,0,1,0,0,0,0,0,https://docs.m5stack.com/en/accessory/KeyCap,No physical board pinout recorded
+source-board-474f37d1111c89e165,M5Stack,Magnet Nut,0,2,1,0,0,1,0,https://docs.m5stack.com/en/accessory/Magnet_Nut,No physical board pinout recorded
+source-board-e6d5bcae9df6feb312,M5Stack,Magnetic Type-C Cable,0,2,1,0,0,1,0,https://docs.m5stack.com/en/accessory/M5%20Magnetic%20Type-C%20Cable,No physical board pinout recorded
+source-board-b481048324688ec6c4,M5Stack,Module Proto Frame,0,1,0,0,0,0,0,https://docs.m5stack.com/en/accessory/proto_module_frame,No physical board pinout recorded
+source-board-6449cd36be938ca196,M5Stack,Panel Frame,0,1,0,0,0,0,0,https://docs.m5stack.com/en/accessory/panel_frame,No physical board pinout recorded
+source-board-571cc8955eea98117f,M5Stack,Proto Board,0,1,0,0,0,0,0,https://docs.m5stack.com/en/accessory/proto_board,No physical board pinout recorded
+source-board-31b1a147337ceaa48e,M5Stack,SandwichC,0,2,1,0,0,1,0,https://docs.m5stack.com/en/accessory/sandwichc,No physical board pinout recorded
+source-board-1f73053fe9b2e13ec0,M5Stack,Servo Kit 180°,0,2,1,0,0,1,0,https://docs.m5stack.com/en/accessory/servo_kit,No physical board pinout recorded
+source-board-78bad7861e820767c0,M5Stack,Stamp-S3 GroveBreakOut,0,3,2,0,0,1,1,https://docs.m5stack.com/en/accessory/StampS3%20GroveBreakOut,No physical board pinout recorded
+source-board-dc0349f59be7face17,M5Stack,Stick Watch Accessory Kit,0,4,1,0,0,1,0,https://docs.m5stack.com/en/accessory/Stick_Watch_Accessory_Kit,No physical board pinout recorded
+source-board-4682de2b379124784c,M5Stack,StickC-Plus2 Watch Kit,0,1,0,0,0,0,0,https://docs.m5stack.com/en/accessory/M5StickC%20Plus2%20with%20Watch%20Accessories,No physical board pinout recorded
+source-board-762c4c86bf177e5fd1,M5Stack,Unit Proto Case,0,2,1,0,0,1,0,https://docs.m5stack.com/en/accessory/proto_unit_case,No physical board pinout recorded
+source-board-33ddabc2939210a641,M5Stack,Watch Dev Kit v1.1,0,1,0,0,0,0,0,https://docs.m5stack.com/en/accessory/WATCH%20v1.1%20Dev%20Kit,No physical board pinout recorded
+source-board-a3ee65a1394cc4d38c,M5Stack,Atom Display,0,3,2,0,0,1,1,https://docs.m5stack.com/en/atom/atom_display,No physical board pinout recorded
+source-board-208741696f5b5c40f5,M5Stack,Atom DTU LoRaWAN-CN470,0,2,1,0,0,1,0,https://docs.m5stack.com/en/atom/Atom%20DTU%20LoRaWAN-CN470,No physical board pinout recorded
+source-board-d86cb3a1d711815839,M5Stack,Atom DTU NBIoT2,0,3,2,0,0,1,1,https://docs.m5stack.com/en/atom/Atom%20DTU_NB_IoT2,No physical board pinout recorded
+source-board-59012570dfcf09c535,M5Stack,Atom DTU NBIoT2 v1.1,0,3,2,0,0,2,1,https://docs.m5stack.com/en/atom/Atom_DTU_NBIoT2_v1.1,No physical board pinout recorded
+source-board-aa931d3d6bb37fa0e3,M5Stack,Atom Hub Proto,0,1,0,0,0,0,0,https://docs.m5stack.com/en/atom/atomhub,No physical board pinout recorded
+source-board-cf4122c1d7809c7742,M5Stack,Atom Mate,0,2,1,0,0,1,0,https://docs.m5stack.com/en/atom/atom_mate,No physical board pinout recorded
+source-board-4f4a1ccca28f3161bc,M5Stack,Atom QRCode v1.1,0,2,1,0,0,1,0,https://docs.m5stack.com/en/atom/ATOM%20QR-CODE%20Kit,No physical board pinout recorded
+source-board-6ce7c855d2c2fd76a1,M5Stack,Atom Socket,0,1,0,0,0,0,0,https://docs.m5stack.com/en/atom/atom_socket,No physical board pinout recorded
+source-board-d821d9916a24b95388,M5Stack,Atom Switch,0,2,1,0,0,1,0,https://docs.m5stack.com/en/atom/atomhub_switch,No physical board pinout recorded
+source-board-2d16b7a61d15ccb3db,M5Stack,Atom TFCard,0,1,0,0,0,0,0,https://docs.m5stack.com/en/atom/atomictf,No physical board pinout recorded
+source-board-7241298c7f9e0d6a09,M5Stack,Atom Voice,0,1,0,0,0,0,0,https://docs.m5stack.com/en/atom/atomecho,No physical board pinout recorded
+source-board-1c1077044dcd101eba,M5Stack,Atom VoiceS3R,0,4,3,0,0,1,2,https://docs.m5stack.com/en/core/Atom_EchoS3R,No physical board pinout recorded
+source-board-474ca0108b4acc2297,M5Stack,Atom-Lite,1,3,1,0,0,1,0,https://docs.m5stack.com/en/core/ATOM%20Lite,Physical map available; exact scope and revision review required
+source-board-41f8fa131b3051248e,M5Stack,Atom-Matrix,0,2,1,0,0,1,0,https://docs.m5stack.com/en/core/ATOM%20Matrix,No physical board pinout recorded
+source-board-e238e5312b86803043,M5Stack,Atomic,0,1,0,0,0,0,0,https://docs.m5stack.com/en/atom/atomic,No physical board pinout recorded
+source-board-ddb091241f3a888f96,M5Stack,Atomic Audio-3.5 Base,0,1,0,0,0,0,0,https://docs.m5stack.com/en/atom/Atomic_Audio-3.5_Base,No physical board pinout recorded
+source-board-a86363e851e441d1f3,M5Stack,Atomic Battery Base,0,2,1,0,0,1,0,https://docs.m5stack.com/en/atom/Atomic%20Battery%20Base,No physical board pinout recorded
+source-board-d967181ddc065b5c5b,M5Stack,Atomic CAN Base,0,2,1,0,0,1,0,https://docs.m5stack.com/en/atom/Atomic%20CAN%20Base,No physical board pinout recorded
+source-board-01b49114bc8c1f6a97,M5Stack,Atomic Display Base,0,3,2,0,0,1,1,https://docs.m5stack.com/en/atom/Atomic%20Display%20Base,No physical board pinout recorded
+source-board-de7bf9d45be54755ea,M5Stack,Atomic GPS Base,0,2,1,0,0,1,0,https://docs.m5stack.com/en/atom/Atomic%20GPS%20Base,No physical board pinout recorded
+source-board-d8f1456f5c9d5feb9d,M5Stack,Atomic GPS Base v2.0,0,3,2,0,0,1,1,https://docs.m5stack.com/en/atom/Atomic_GPS_Base_v2.0,No physical board pinout recorded
+source-board-6e44b53e5d49d49550,M5Stack,Atomic Motion Base,0,1,0,0,0,0,0,https://docs.m5stack.com/en/atom/Atomic%20Motion%20Base,No physical board pinout recorded
+source-board-0e99ed6e4a3fa9eed5,M5Stack,Atomic PoE Base,0,2,1,0,0,1,0,https://docs.m5stack.com/en/atom/Atomic%20PoE%20Base,No physical board pinout recorded
+source-board-2bf34f5de70db40699,M5Stack,Atomic QRCode2 Base,0,3,2,0,0,1,1,https://docs.m5stack.com/en/atom/Atomic%20QRCode2%20Base,No physical board pinout recorded
+source-board-631525883d75f9b024,M5Stack,Atomic SPK Base,0,2,1,0,0,1,0,https://docs.m5stack.com/en/atom/Atomic%20SPK%20Base,No physical board pinout recorded
+source-board-06fe25e5fc818123d1,M5Stack,Atomic Stepmotor Base,0,1,0,0,0,0,0,https://docs.m5stack.com/en/atom/Atomic%20Stepmotor%20Base,No physical board pinout recorded
+source-board-0faecc933796bd04ba,M5Stack,Atomic Voice Base,0,3,2,0,0,1,1,https://docs.m5stack.com/en/atom/Atomic%20Echo%20Base,No physical board pinout recorded
+source-board-db00a56414b9489bd5,M5Stack,AtomS3,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/AtomS3,No physical board pinout recorded
+source-board-016709a97c893351b5,M5Stack,Tail Bat,0,2,1,0,0,1,0,https://docs.m5stack.com/en/atom/tailbat,No physical board pinout recorded
+source-board-a50b02ed4a8c219c1c,M5Stack,Tail RS485,0,1,0,0,0,0,0,https://docs.m5stack.com/en/atom/tail485,No physical board pinout recorded
+source-board-1b6514403a237a2b59,M5Stack,Voice Pyramid,0,2,1,0,0,0,1,https://docs.m5stack.com/en/atom/Echo_Pyramid,No physical board pinout recorded
+source-board-9e5ac27cf6564d62a7,M5Stack,Base AAA,0,2,1,0,0,1,0,https://docs.m5stack.com/en/base/base_aaa,No physical board pinout recorded
+source-board-222dd07c366a164425,M5Stack,Base AC Power,0,1,0,0,0,0,0,https://docs.m5stack.com/en/base/ac_power,No physical board pinout recorded
+source-board-05fc81318ac639cb54,M5Stack,Base Bottom v1.1,0,3,2,0,0,1,1,https://docs.m5stack.com/en/base/BLACK-BOTTOM_V1.1,No physical board pinout recorded
+source-board-ebd0730db329290f94,M5Stack,Base BTC,0,3,2,0,0,1,1,https://docs.m5stack.com/en/base/btc_base,No physical board pinout recorded
+source-board-776cf248a085c91f5b,M5Stack,Base DIN,0,2,1,0,0,0,1,https://docs.m5stack.com/en/base/DIN%20BASE,No physical board pinout recorded
+source-board-e3736b3da12836828d,M5Stack,Base DMX,0,4,3,0,0,1,2,https://docs.m5stack.com/en/base/DMX_Base,No physical board pinout recorded
+source-board-b06551639f7a523f9f,M5Stack,Base Dual 16340,0,3,2,0,0,2,1,https://docs.m5stack.com/en/base/Base_Dual_16340,No physical board pinout recorded
+source-board-1765fafdbeffdee8ac,M5Stack,Base LAN,0,3,2,0,0,1,1,https://docs.m5stack.com/en/base/lan_base,No physical board pinout recorded
+source-board-595c083ddc9277addb,M5Stack,Base LAN PoE v1.2,0,1,0,0,0,0,0,https://docs.m5stack.com/en/base/lan_poe_v12,No physical board pinout recorded
+source-board-8db6b3a7d82af5e109,M5Stack,Base M5GO Bottom,0,3,2,0,0,1,1,https://docs.m5stack.com/en/base/m5go_bottom,No physical board pinout recorded
+source-board-f7de86290aace08049,M5Stack,Base M5GO Bottom2 v1.3,0,3,2,0,0,2,1,https://docs.m5stack.com/en/base/Base_M5GO_Bottom2_v1.3,No physical board pinout recorded
+source-board-51455af15d25dddd34,M5Stack,Base M5GO Charger,0,2,1,0,0,1,0,https://docs.m5stack.com/en/base/m5go_charger,No physical board pinout recorded
+source-board-94cf55d3384002471a,M5Stack,Base PLC-M12,0,2,1,0,0,1,0,https://docs.m5stack.com/en/base/plc_m12,No physical board pinout recorded
+source-board-fddbe7e2c2e3a86e03,M5Stack,Base X,0,2,1,0,0,1,0,https://docs.m5stack.com/en/base/basex,No physical board pinout recorded
+source-board-b3ff3fa15c5e1dc487,M5Stack,Base15,0,3,2,0,0,1,1,https://docs.m5stack.com/en/base/base15,No physical board pinout recorded
+source-board-78096def53a41357fa,M5Stack,Base26,0,1,0,0,0,0,0,https://docs.m5stack.com/en/base/base26,No physical board pinout recorded
+source-board-9febb1a95664acbbdf,M5Stack,IoT Base CatM,0,2,1,0,0,1,0,https://docs.m5stack.com/en/base/iot_base_catm,No physical board pinout recorded
+source-board-91f67729d0cbe1a390,M5Stack,IoT Base NBIoT-CN,0,2,1,0,0,1,0,https://docs.m5stack.com/en/base/iot_base_nb_cn,No physical board pinout recorded
+source-board-4387171815548b2ff4,M5Stack,IoT Base Thermal Online CatM,0,1,0,0,0,0,0,https://docs.m5stack.com/en/base/thermalonline_catm,No physical board pinout recorded
+source-board-5ecba9322a25331bc8,M5Stack,StackChan Body,0,6,5,0,0,2,4,https://docs.m5stack.com/en/base/StackChan_Body,No physical board pinout recorded
+source-board-c9149fec7e585fb545,M5Stack,Cap CC1101,0,3,2,0,0,2,1,https://docs.m5stack.com/en/cap/Cap_CC1101,No physical board pinout recorded
+source-board-58b723a0e6d0c4f9f5,M5Stack,Cap LoRa-1262,0,3,2,0,0,2,1,https://docs.m5stack.com/en/cap/Cap_LoRa-1262,No physical board pinout recorded
+source-board-6feafee61eb3334d5e,M5Stack,Cap LoRa868,0,2,1,0,0,1,0,https://docs.m5stack.com/en/cap/Cap_LoRa868,No physical board pinout recorded
+source-board-b1a05b454e3b933e4e,M5Stack,Cardputer,0,3,2,0,0,0,2,https://docs.m5stack.com/en/core/Cardputer,No physical board pinout recorded
+source-board-d77e014d519192bc08,M5Stack,Cardputer Mesh Kit,0,4,3,0,0,1,3,https://docs.m5stack.com/en/core/Cardputer_Mesh_Kit,No physical board pinout recorded
+source-board-f5f80748f890bf0b9a,M5Stack,Chain Angle,0,2,1,0,0,0,1,https://docs.m5stack.com/en/chain/Chain_Angle,No physical board pinout recorded
+source-board-86185be9fb0acf9187,M5Stack,Chain Blank,0,2,1,0,0,0,1,https://docs.m5stack.com/en/chain/Chain_Blank,No physical board pinout recorded
+source-board-018197c2ee57fb1b2f,M5Stack,Chain Buzzer,0,3,2,0,0,2,1,https://docs.m5stack.com/en/chain/Chain_Buzzer,No physical board pinout recorded
+source-board-60579f1faed5fea3f0,M5Stack,Chain DualKey,0,3,2,0,0,1,1,https://docs.m5stack.com/en/chain/Chain_DualKey,No physical board pinout recorded
+source-board-afc62a0b699d555d6b,M5Stack,Chain Encoder,0,1,0,0,0,0,0,https://docs.m5stack.com/en/chain/Chain_Encoder,No physical board pinout recorded
+source-board-b75894da7240bc0597,M5Stack,Chain Joystick,0,3,2,0,0,1,1,https://docs.m5stack.com/en/chain/Chain_Joystick,No physical board pinout recorded
+source-board-11fe49807dca386af1,M5Stack,Chain Key,0,1,0,0,0,0,0,https://docs.m5stack.com/en/chain/Chain_Key,No physical board pinout recorded
+source-board-f3beadd48f89c7cd3e,M5Stack,Chain Mono,0,2,1,0,0,1,1,https://docs.m5stack.com/en/chain/Chain_Mono,No physical board pinout recorded
+source-board-43452e19ccc479c268,M5Stack,Chain Mount,0,1,0,0,0,0,0,https://docs.m5stack.com/en/chain/Chain_Mount,No physical board pinout recorded
+source-board-9a4821dd6b3132ad0e,M5Stack,Chain PIR,0,2,1,0,0,0,1,https://docs.m5stack.com/en/chain/Chain_PIR,No physical board pinout recorded
+source-board-f7a61346daa4a5d9d1,M5Stack,Chain ToF,0,3,2,0,0,2,1,https://docs.m5stack.com/en/chain/Chain_ToF,No physical board pinout recorded
+source-board-b5d19cbbec5a5c8ee7,M5Stack,AI Pyramid,0,4,3,0,0,1,3,https://docs.m5stack.com/en/ai_hardware/AI_Pyramid,No physical board pinout recorded
+source-board-df22717fc35261a7fc,M5Stack,LLM-8850 Card,0,1,0,0,0,0,0,https://docs.m5stack.com/en/ai_hardware/LLM-8850_Card,No physical board pinout recorded
+source-board-7636669ce880cc63ca,M5Stack,LLM-8850 Kit,0,1,0,0,0,0,0,https://docs.m5stack.com/en/ai_hardware/LLM-8850_Kit,No physical board pinout recorded
+source-board-b39a307feb2956657f,M5Stack,Basic,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/basic,No physical board pinout recorded
+source-board-7248f9fc326a4d6853,M5Stack,Core Metal,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/CORE%20Metal,No physical board pinout recorded
+source-board-d43cf2169f45b52c21,M5Stack,Core2 For AWS,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/core2_for_aws,No physical board pinout recorded
+source-board-e26c1d94097665811a,M5Stack,Core2 For AWS v1.3,0,4,3,0,0,2,2,https://docs.m5stack.com/en/core/Core2_For_AWS_v1.3,No physical board pinout recorded
+source-board-4bb8e8491bfda69bc4,M5Stack,Core2 v1.3,0,3,2,0,0,1,2,https://docs.m5stack.com/en/core/Core2_v1.3,No physical board pinout recorded
+source-board-9a155c0d44af0ff70d,M5Stack,CoreS3 Thread BR,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/CoreS3_Thread_BR,No physical board pinout recorded
+source-board-5b49f71851046f66df,M5Stack,Fire,0,2,0,0,0,0,0,https://docs.m5stack.com/en/core/fire,No physical board pinout recorded
+source-board-4cc4250cd910efda18,M5Stack,StackChan,0,2,0,0,0,0,0,https://docs.m5stack.com/en/StackChan,No physical board pinout recorded
+source-board-16add3f5d8350cb185,M5Stack,Tough,0,2,1,0,0,0,1,https://docs.m5stack.com/en/core/tough,No physical board pinout recorded
+source-board-b565ce3b072df52f79,M5Stack,Faces Bottom3,0,3,1,0,0,1,1,https://docs.m5stack.com/en/faces/Faces_Bottom3,No physical board pinout recorded
+source-board-9eefc93576d6d2e68e,M5Stack,Faces Calculator3,0,3,2,0,0,2,1,https://docs.m5stack.com/en/faces/Faces_Calculator3,No physical board pinout recorded
+source-board-84312f51f4f10bbd1a,M5Stack,Faces Gamepad3,0,3,2,0,0,2,1,https://docs.m5stack.com/en/faces/Faces_Gamepad3,No physical board pinout recorded
+source-board-a390fe2249279e4af6,M5Stack,Faces Keyboard3,0,3,2,0,0,2,1,https://docs.m5stack.com/en/faces/Faces_Keyboard3,No physical board pinout recorded
+source-board-cf10c114c8ee9a736d,M5Stack,Hat 18650C,0,3,2,0,0,1,1,https://docs.m5stack.com/en/hat/hat-18650,No physical board pinout recorded
+source-board-105bcbcfa4c4e66ee4,M5Stack,Hat 8Servos v1.1,0,3,2,0,0,1,1,https://docs.m5stack.com/en/hat/hat_8servos_1.1,No physical board pinout recorded
+source-board-4877090d95c8cc8f2d,M5Stack,Hat ADC,0,3,2,0,0,1,1,https://docs.m5stack.com/en/hat/hat-adc,No physical board pinout recorded
+source-board-ee823cc0c739cc68a9,M5Stack,Hat CBack Driver,0,1,0,0,0,0,0,https://docs.m5stack.com/en/hat/c_back_driver,No physical board pinout recorded
+source-board-3555cd753818111656,M5Stack,Hat CBack NBIoT,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/C-BACK%20NB-IoT(SIM7020G),No physical board pinout recorded
+source-board-1d0ea8ec55f0a394ad,M5Stack,Hat DAC2,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/Hat-DAC2,No physical board pinout recorded
+source-board-399ef10be4806ce3ed,M5Stack,Hat DLight,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/hat_dlight,No physical board pinout recorded
+source-board-3cedaa892782fc5525,M5Stack,Hat ENV-III,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/hat_envIII,No physical board pinout recorded
+source-board-7b5f0350320324f1f7,M5Stack,Hat Finger,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/hat-finger,No physical board pinout recorded
+source-board-d2d3f4c368230182e4,M5Stack,Hat JoyC,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/hat-joyc,No physical board pinout recorded
+source-board-e6b5d24c07beacbcef,M5Stack,Hat Joystick,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/hat-joystick,No physical board pinout recorded
+source-board-649edcf48a6fd38ddc,M5Stack,Hat Mini EncoderC,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/MiniEncoderC%20Hat,No physical board pinout recorded
+source-board-dc2d1e6efbc6a3aec1,M5Stack,Hat Mini JoyC,0,2,1,0,0,0,1,https://docs.m5stack.com/en/hat/MiniJoyC,No physical board pinout recorded
+source-board-3dd88ccd022a68d8c4,M5Stack,Hat NCIR,0,2,1,0,0,0,1,https://docs.m5stack.com/en/hat/hat-ncir,No physical board pinout recorded
+source-board-58e701d75367d6990c,M5Stack,Hat PIR,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/hat-pir,No physical board pinout recorded
+source-board-370b1f4efeb3ea0a02,M5Stack,Hat Proto,0,2,1,0,0,0,1,https://docs.m5stack.com/en/hat/hat-proto,No physical board pinout recorded
+source-board-b74501e755e031e6a7,M5Stack,Hat RS485,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/hat-rs485,No physical board pinout recorded
+source-board-ed7f3f5ab940b544a5,M5Stack,Hat Servo,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/hat-servo,No physical board pinout recorded
+source-board-11ec39816e44d7ec1f,M5Stack,Hat SPK,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/hat-spk,No physical board pinout recorded
+source-board-cc4c1aeca6adcb313e,M5Stack,Hat Thermal,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/hat-thermal,No physical board pinout recorded
+source-board-6f2f741b0af65afa7a,M5Stack,Hat ToF,0,2,1,0,0,1,0,https://docs.m5stack.com/en/hat/hat-tof,No physical board pinout recorded
+source-board-dd1dfe21c8f7ff15bc,M5Stack,Hat Vibrator,0,3,2,0,0,1,1,https://docs.m5stack.com/en/hat/HAT-Vibrator,No physical board pinout recorded
+source-board-7f498022d5cd12274a,M5Stack,Atom JoyStick,0,1,0,0,0,0,0,https://docs.m5stack.com/en/app/Atom%20JoyStick,No physical board pinout recorded
+source-board-e79956a4c0b01a40b6,M5Stack,Atom JoyStick v1.1,0,2,1,0,0,1,1,https://docs.m5stack.com/en/app/Atom_JoyStick_v1.1,No physical board pinout recorded
+source-board-226e53b100adda2b6a,M5Stack,BugC2,0,3,2,0,0,1,1,https://docs.m5stack.com/en/app/BUGC2,No physical board pinout recorded
+source-board-0b2d1ea98a7d7a686e,M5Stack,Demo Board,0,2,1,0,0,1,0,https://docs.m5stack.com/en/app/demo-board,No physical board pinout recorded
+source-board-1be2470e4282a1d527,M5Stack,Demo Board-SHT30,0,1,0,0,0,0,0,https://docs.m5stack.com/en/app/demo-board_sht30,No physical board pinout recorded
+source-board-0d52d9da07e5dc63a9,M5Stack,LidarBot,0,1,0,0,0,0,0,https://docs.m5stack.com/en/app/lidarbot,No physical board pinout recorded
+source-board-d8775e9e36120c2195,M5Stack,PM2.5 Air Quality Kit-SHT30,0,4,3,0,0,1,2,https://docs.m5stack.com/en/app/PM2.5_Air_Quality_Kit-SHT30,No physical board pinout recorded
+source-board-0b4fcf9abac318ec5a,M5Stack,Scales Kit,0,1,0,0,0,0,0,https://docs.m5stack.com/en/app/scales_kit,No physical board pinout recorded
+source-board-5e4088c95cfe8d7990,M5Stack,StampFly,0,1,0,0,0,0,0,https://docs.m5stack.com/en/app/Stamp%20Fly,No physical board pinout recorded
+source-board-00671040984b2260ab,M5Stack,StampFly v1.1,0,5,4,0,0,2,3,https://docs.m5stack.com/en/app/StampFly_v1.1,No physical board pinout recorded
+source-board-8ab88ebf65cd65ab2c,M5Stack,T-Lite,0,2,1,0,0,1,0,https://docs.m5stack.com/en/app/T-Lite,No physical board pinout recorded
+source-board-6e3dc9690edea8068a,M5Stack,Module 4EncoderMotor,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/Module-4EncoderMotor,No physical board pinout recorded
+source-board-a56f7ffa7285274433,M5Stack,Module 4EncoderMotor v1.1,0,2,1,0,0,0,1,https://docs.m5stack.com/en/module/Module_4EncoderMotor_V1.1,No physical board pinout recorded
+source-board-3b299715f598234f5a,M5Stack,Module Air Quality,0,1,0,0,0,0,0,https://docs.m5stack.com/en/module/PM2.5%20AIR%20QUALITY%20KIT%20(Excluding%20Core),No physical board pinout recorded
+source-board-30d9237b1f6dcddf5c,M5Stack,Module ASR,0,3,2,0,0,1,1,https://docs.m5stack.com/en/module/Module_ASR,No physical board pinout recorded
+source-board-c203ae1acad081e528,M5Stack,Module Battery,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/battery,No physical board pinout recorded
+source-board-4a5f789a23ee2fe5d5,M5Stack,Module Bus,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/bus,No physical board pinout recorded
+source-board-27ec83602a0e893308,M5Stack,Module CC1101,0,2,1,0,0,0,1,https://docs.m5stack.com/en/module/Module_CC1101,No physical board pinout recorded
+source-board-83e8ae5da6a0f34206,M5Stack,Module COMMU,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/commu,No physical board pinout recorded
+source-board-a3728068228391b3e1,M5Stack,Module COMX Cat1,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/comx_cat1,No physical board pinout recorded
+source-board-c560ffe2964a48351a,M5Stack,Module ExtPort For Core2,0,4,2,0,0,1,1,https://docs.m5stack.com/en/module/extport_for_core2,No physical board pinout recorded
+source-board-95f3859b605dab0a85,M5Stack,Module Fan v1.1,0,3,2,0,0,1,1,https://docs.m5stack.com/en/module/Module%20Fan%20v1.1,No physical board pinout recorded
+source-board-c6c79d67f42fa85245,M5Stack,Module Gateway H2,0,1,0,0,0,0,0,https://docs.m5stack.com/en/module/Module%20Gateway%20H2,No physical board pinout recorded
+source-board-44364c1110885a327e,M5Stack,Module GPS v2.1,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/Module_GPS_v2.1,No physical board pinout recorded
+source-board-05507662d78ca9da33,M5Stack,Module HMI,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/HMI%20Module,No physical board pinout recorded
+source-board-5184d306f94dee5e99,M5Stack,Module LoRa433 v1.1,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/Module-LoRa433_V1.1,No physical board pinout recorded
+source-board-19fedbc3541758cfe4,M5Stack,Module LoRaWAN-EU868,0,1,0,0,0,0,0,https://docs.m5stack.com/en/module/Module_LoRaWAN-EU868,No physical board pinout recorded
+source-board-f09cfb45256c52238e,M5Stack,Module Proto,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/proto,No physical board pinout recorded
+source-board-ca5ac5069f3672db8c,M5Stack,Module13.2 2Relay,0,3,2,0,0,1,1,https://docs.m5stack.com/en/module/2Relay,No physical board pinout recorded
+source-board-9180b6a15972b74fad,M5Stack,Module13.2 4In8Out,0,3,2,0,0,1,1,https://docs.m5stack.com/en/module/4in8out,No physical board pinout recorded
+source-board-de2383c9a997eba58a,M5Stack,Module13.2 4Relay v1.1,0,3,2,0,0,1,1,https://docs.m5stack.com/en/module/4Relay%20Module%2013.2_V1.1,No physical board pinout recorded
+source-board-0b4a243a3290908eda,M5Stack,Module13.2 AIN4-20mA,0,3,2,0,0,1,1,https://docs.m5stack.com/en/module/AIN4-20mA%20Module%2013.2,No physical board pinout recorded
+source-board-a0521067c5e5c9ec95,M5Stack,Module13.2 Battery,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/battery13.2,No physical board pinout recorded
+source-board-0297d6aa0621cf50c4,M5Stack,Module13.2 BLDC Drvier,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/odrive,No physical board pinout recorded
+source-board-8e3d770acbcff70eaa,M5Stack,Module13.2 Display,0,3,2,0,0,1,1,https://docs.m5stack.com/en/module/Display%20Module%2013.2,No physical board pinout recorded
+source-board-4973313592458e3a6a,M5Stack,Module13.2 Dual Kmeter,0,2,1,0,0,0,1,https://docs.m5stack.com/en/module/DualKmeter%20Module13.2,No physical board pinout recorded
+source-board-0792da4c3ab81f4173,M5Stack,Module13.2 ECG,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/ecg,No physical board pinout recorded
+source-board-b51092673193244dbf,M5Stack,Module13.2 GoPlus2,0,1,0,0,0,0,0,https://docs.m5stack.com/en/module/goplus2,No physical board pinout recorded
+source-board-84d351cb075336ebda,M5Stack,Module13.2 GRBL,0,3,2,0,0,1,1,https://docs.m5stack.com/en/module/grbl13.2,No physical board pinout recorded
+source-board-c72b7f5c7431b5dc7f,M5Stack,Module13.2 PPS,0,2,1,0,0,0,1,https://docs.m5stack.com/en/module/Module13.2-PPS,No physical board pinout recorded
+source-board-8fbf3b9eb29a1eb700,M5Stack,Module13.2 Proto,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/proto13.2,No physical board pinout recorded
+source-board-d80bde771aecefeb74,M5Stack,Module13.2 Proto-Meas,0,2,1,0,0,1,0,https://docs.m5stack.com/en/module/proto13.2_mesu,No physical board pinout recorded
+source-board-b9e9cca64dddf0e6aa,M5Stack,Module13.2 QRCode,0,2,1,0,0,0,1,https://docs.m5stack.com/en/module/Module13.2_QRCode,No physical board pinout recorded
+source-board-428d05b083fd4de67e,M5Stack,Module13.2 RCA,0,2,1,0,0,0,1,https://docs.m5stack.com/en/module/RCA%20Module%2013.2,No physical board pinout recorded
+source-board-5e56132d0a5c47db56,M5Stack,Module13.2 RS232F,0,3,2,0,0,1,1,https://docs.m5stack.com/en/module/RS232F%20Module%2013.2,No physical board pinout recorded
+source-board-f0d28a23bf4b251145,M5Stack,Module13.2 Servo2,0,3,2,0,0,1,1,https://docs.m5stack.com/en/module/servo2,No physical board pinout recorded
+source-board-252d28a0c9ecfb3277,M5Stack,Stamp ISP,0,2,1,0,0,0,1,https://docs.m5stack.com/en/module/StampISP,No physical board pinout recorded
+source-board-60f1879faa5e41dd97,M5Stack,Stamp Timer Power,0,3,2,0,0,1,1,https://docs.m5stack.com/en/module/StampTimerPower,No physical board pinout recorded
+source-board-4a3f46fbd1ee9fafcc,M5Stack,Air Quality,0,3,2,0,0,1,1,https://docs.m5stack.com/en/core/Air_Quality,No physical board pinout recorded
+source-board-c7abeb928b8dabd964,M5Stack,Air Quality v1.1,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/Air_Quality_v1.1,No physical board pinout recorded
+source-board-a363aa4df93d30377d,M5Stack,Arduino Nesso N1,3,8,1,0,0,1,0,https://docs.m5stack.com/en/core/Arduino_Nesso_N1,Physical map available; exact scope and revision review required
+source-board-2e468ee183dfdf8945,M5Stack,Dial v1.1,0,3,2,0,0,1,1,https://docs.m5stack.com/en/core/M5Dial%20V1.1,No physical board pinout recorded
+source-board-78312b711a6be4a8c3,M5Stack,DinMeter,0,3,2,0,0,1,1,https://docs.m5stack.com/en/core/M5DinMeter,No physical board pinout recorded
+source-board-f896f8e97d84ac2686,M5Stack,NanoC6,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/M5NanoC6,No physical board pinout recorded
+source-board-6185da76f83b0f69dd,M5Stack,PowerHub,0,4,3,0,0,1,2,https://docs.m5stack.com/en/core/PowerHub,No physical board pinout recorded
+source-board-e457087f1495af50c8,M5Stack,StopWatch,0,2,1,0,0,1,1,https://docs.m5stack.com/en/core/StopWatch,No physical board pinout recorded
+source-board-8acd9ca04c54eb4648,M5Stack,SwitchC6,0,2,1,0,0,1,0,https://docs.m5stack.com/en/iot/SwitchC6,No physical board pinout recorded
+source-board-e1d2f2e92df36ccd92,M5Stack,VAMeter,0,3,2,0,0,1,1,https://docs.m5stack.com/en/core/VA%20Meter,No physical board pinout recorded
+source-board-96cbaa9b0a7a27839f,M5Stack,CoreInk,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/coreink,No physical board pinout recorded
+source-board-30a956c87d7dcf4e3c,M5Stack,CoreInk Proto Base,0,1,0,0,0,0,0,https://docs.m5stack.com/en/coreink/proto_base,No physical board pinout recorded
+source-board-5654dd9b9e82931965,M5Stack,Paper,0,2,1,0,0,0,1,https://docs.m5stack.com/en/core/m5paper,No physical board pinout recorded
+source-board-dcfd0558f06c475600,M5Stack,PaperColor,0,2,1,0,0,1,1,https://docs.m5stack.com/en/core/PaperColor,No physical board pinout recorded
+source-board-ec1a5f98814395d523,M5Stack,PaperMono,0,3,2,0,0,2,1,https://docs.m5stack.com/en/core/PaperMono,No physical board pinout recorded
+source-board-7a09d81ba79e06acb2,M5Stack,PaperS3,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/PaperS3,No physical board pinout recorded
+source-board-fce2e6219b7df281a8,M5Stack,Stamp Cat1,0,3,2,0,0,1,1,https://docs.m5stack.com/en/stamp/stamp_cat1,No physical board pinout recorded
+source-board-d469340b08b191e4f2,M5Stack,Stamp IO,0,2,1,0,0,0,1,https://docs.m5stack.com/en/stamp/stamp_io,No physical board pinout recorded
+source-board-530769f84cc4ce6441,M5Stack,Stamp PWR485,0,2,1,0,0,0,1,https://docs.m5stack.com/en/stamp/stamp_pwr485,No physical board pinout recorded
+source-board-26502d3bfd4e3d490f,M5Stack,Stamp-C3,0,2,1,0,0,1,0,https://docs.m5stack.com/en/core/stamp_c3,No physical board pinout recorded
+source-board-3f9607529b57eb2ff6,M5Stack,Stamp-S3 BreakOut,0,2,1,0,0,1,0,https://docs.m5stack.com/en/stamp/StampS3BreakOut,No physical board pinout recorded
+source-board-8894cb7c12ef3c5b52,M5Stack,Stamp-S3A PIN1.27,1,4,2,0,0,1,1,https://docs.m5stack.com/en/core/Stamp-S3A_PIN127,Physical map available; exact scope and revision review required
+source-board-aacdff2ecaa00a03c9,M5Stack,Stamp-S3A PIN2.54,1,4,2,0,0,1,1,https://docs.m5stack.com/en/core/Stamp-S3A_PIN254,Physical map available; exact scope and revision review required
+source-board-a88a1fadbe8a66e238,M5Stack,StamPLC,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/StamPLC,No physical board pinout recorded
+source-board-caaf0accdd6bf81861,M5Stack,StamPLC AC,0,1,0,0,0,0,0,https://docs.m5stack.com/en/stamplc/StamPLC_AC,No physical board pinout recorded
+source-board-a59b6e38adee032109,M5Stack,StamPLC IO,0,2,1,0,0,0,1,https://docs.m5stack.com/en/stamplc/StamPLC_IO,No physical board pinout recorded
+source-board-74eada22f46e8feb79,M5Stack,StamPLC PoE,0,3,2,0,0,2,1,https://docs.m5stack.com/en/stamplc/StamPLC_PoE,No physical board pinout recorded
+source-board-33e2cea8feb8e51971,M5Stack,StickC-Plus SE,0,3,2,0,0,2,1,https://docs.m5stack.com/en/core/StickC-Plus_SE,No physical board pinout recorded
+source-board-baa53577358800c353,M5Stack,StickS3,0,3,2,0,0,2,1,https://docs.m5stack.com/en/core/StickS3,No physical board pinout recorded
+source-board-b62f34dd7646a14976,M5Stack,StickT2,0,1,0,0,0,0,0,https://docs.m5stack.com/en/core/m5stickt,No physical board pinout recorded
+source-board-f638cdc063642c1013,M5Stack,Tab5,0,4,2,0,0,2,1,https://docs.m5stack.com/en/core/Tab5,No physical board pinout recorded
+source-board-2c598ac059aab841e4,M5Stack,Tab5 Keyboard,0,2,1,0,0,1,0,https://docs.m5stack.com/en/tab5/Tab5_Keyboard,No physical board pinout recorded
+source-board-1555d961d806689c58,M5Stack,ESP32-CAM PSRAM,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/ESP32CAM-PSRAM,No physical board pinout recorded
+source-board-19e516de7475584e02,M5Stack,M5Camera-X,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/m5camera_x,No physical board pinout recorded
+source-board-95245d48ae18b8809f,M5Stack,TimerCamera-F,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/timercam_f,No physical board pinout recorded
+source-board-65eb2a314dd301abcc,M5Stack,Unit 2Relay,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/2relay,No physical board pinout recorded
+source-board-11aeaf594ae1cec034,M5Stack,Unit 3.96,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/396port,No physical board pinout recorded
+source-board-7a1c360932c2af5e64,M5Stack,Unit 4Relay,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/4relay,No physical board pinout recorded
+source-board-0711046c6ae397d072,M5Stack,Unit 8Angle,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/8Angle,No physical board pinout recorded
+source-board-834f40b2126ac18fbc,M5Stack,Unit 8Encoder,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/8Encoder,No physical board pinout recorded
+source-board-aac83aba13e5a6ef0c,M5Stack,Unit 8Servos,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/8Servos%20Unit,No physical board pinout recorded
+source-board-1236d859c33d2398ca,M5Stack,Unit 8Servos2-Chain,0,2,1,0,0,1,1,https://docs.m5stack.com/en/unit/Unit_8Servos2-Chain,No physical board pinout recorded
+source-board-c9be29dd4aabd2546e,M5Stack,Unit Accel,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/accel,No physical board pinout recorded
+source-board-5ed3e9384fdd5e49f7,M5Stack,Unit ACSSR,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/acssr,No physical board pinout recorded
+source-board-0cbb8cb1ff28e5754b,M5Stack,Unit ADC,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/adc,No physical board pinout recorded
+source-board-6f842c1018055cc899,M5Stack,Unit AIN4-20mA,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/AIN4-20mA%20Unit,No physical board pinout recorded
+source-board-a7f71367218db84e3a,M5Stack,Unit AMeter,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/Ameter%20Unit,No physical board pinout recorded
+source-board-17bd07bc39eefffb8d,M5Stack,Unit Angle,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/angle,No physical board pinout recorded
+source-board-8d4a15e405a597d1dd,M5Stack,Unit ASR,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/Unit%20ASR,No physical board pinout recorded
+source-board-5beb5c4cbdf08dc7a4,M5Stack,Unit AudioPlayer,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit_AudioPlayer,No physical board pinout recorded
+source-board-a428555279fa49793a,M5Stack,Unit BLDC Driver,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit-BLDC%20Driver,No physical board pinout recorded
+source-board-93f8f5b86b82e353c4,M5Stack,Unit Button,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/button,No physical board pinout recorded
+source-board-801de8099af0a1c5c4,M5Stack,Unit Buzzer,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/buzzer,No physical board pinout recorded
+source-board-a5c1c864be6e705563,M5Stack,Unit ByteButton,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit%20ByteButton,No physical board pinout recorded
+source-board-49a7e629a0418a8886,M5Stack,Unit ByteSwitch,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit%20ByteSwitch,No physical board pinout recorded
+source-board-4cbd9ff0b6a21ef607,M5Stack,Unit C6L,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit_C6L,No physical board pinout recorded
+source-board-833dff9546137267f1,M5Stack,Unit Camera,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/Unit%20Camera,No physical board pinout recorded
+source-board-83b053da889c2603e0,M5Stack,Unit CamS3,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/Unit-CamS3,No physical board pinout recorded
+source-board-399179cf665cf2d916,M5Stack,Unit CardKB2,0,3,2,0,0,2,1,https://docs.m5stack.com/en/unit/Unit_CardKB2,No physical board pinout recorded
+source-board-d282e51761a64c9876,M5Stack,Unit Cat1-CN,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit_Cat1-CN,No physical board pinout recorded
+source-board-6383c92a87a114d737,M5Stack,Unit Catch,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/catch,No physical board pinout recorded
+source-board-4d02ce62687c830d61,M5Stack,Unit CatM GNSS,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/catm_gnss,No physical board pinout recorded
+source-board-676c051d840ed74fac,M5Stack,Unit ChainBus,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/Unit_ChainBus,No physical board pinout recorded
+source-board-f2b5b135d118cd8838,M5Stack,Unit CO2,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/co2,No physical board pinout recorded
+source-board-db86e14f80111eba4c,M5Stack,Unit CO2L,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/CO2L,No physical board pinout recorded
+source-board-9a0f004d0cc6c8536e,M5Stack,Unit Color,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/COLOR,No physical board pinout recorded
+source-board-8ce1cf3d0ee0a51ed1,M5Stack,Unit DAC,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/dac,No physical board pinout recorded
+source-board-18ed5c1f767cc2e793,M5Stack,Unit DAC2,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/Unit-DAC2,No physical board pinout recorded
+source-board-4a314d8882fe8ac2fe,M5Stack,Unit DDS,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/dds,No physical board pinout recorded
+source-board-d890bd2a0d89c86ad4,M5Stack,Unit DLight,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/DLight%20Unit,No physical board pinout recorded
+source-board-1c76a6c25ec80de5ed,M5Stack,Unit DMX,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/Unit-DMX,No physical board pinout recorded
+source-board-943d0b181f92dbfc8e,M5Stack,Unit Dual Button,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/dual_button,No physical board pinout recorded
+source-board-695142eef6e58984e3,M5Stack,Unit Earth,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/earth,No physical board pinout recorded
+source-board-a70dad63858e101475,M5Stack,Unit Encoder,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/encoder,No physical board pinout recorded
+source-board-0473b4084149e1e41f,M5Stack,Unit ENV-III,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/envIII,No physical board pinout recorded
+source-board-7d1e4ea106c3456c6e,M5Stack,Unit EXT.IO,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/extio,No physical board pinout recorded
+source-board-57db784a8a3386d537,M5Stack,Unit ExtEncoder,0,4,2,0,0,1,1,https://docs.m5stack.com/en/unit/ExtEncoder%20Unit,No physical board pinout recorded
+source-board-f9da2d5a1b80c5b285,M5Stack,Unit Fader,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/fader,No physical board pinout recorded
+source-board-48f3df202a3e5ba049,M5Stack,Unit Fan,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/unit_fan,No physical board pinout recorded
+source-board-8535ed7db495c46a54,M5Stack,Unit Finger,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/finger,No physical board pinout recorded
+source-board-6f6f329bfe576d3657,M5Stack,Unit Fingerprint2,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit_Fingerprint2,No physical board pinout recorded
+source-board-c41af7f5f00e2de084,M5Stack,Unit FlashLight,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/FlashLight,No physical board pinout recorded
+source-board-19e3832e05505eee62,M5Stack,Unit Gateway H2,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit%20Gateway%20H2,No physical board pinout recorded
+source-board-46e754cf4dc301964c,M5Stack,Unit Gesture,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/Gesture,No physical board pinout recorded
+source-board-0f797f4fc6408ab69e,M5Stack,Unit Glass,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Glass%20Unit,No physical board pinout recorded
+source-board-3cae9c1bced8e16a80,M5Stack,Unit Glass2,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/Glass2%20Unit,No physical board pinout recorded
+source-board-4469908e23dfc1079d,M5Stack,Unit GPS,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/gps,No physical board pinout recorded
+source-board-7cb5c281a1564e4e60,M5Stack,Unit Grove to Grove,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/unit_grove2grove,No physical board pinout recorded
+source-board-7b051a6f89f7b3a4ec,M5Stack,Unit Heart,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/heart,No physical board pinout recorded
+source-board-6d75103d33b3617063,M5Stack,Unit HEX,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/hex,No physical board pinout recorded
+source-board-ec1ecab334af3f64bb,M5Stack,Unit Hub,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/hub,No physical board pinout recorded
+source-board-160e2efda6b63a95da,M5Stack,Unit ID,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/id,No physical board pinout recorded
+source-board-d82cd9b4c678a7e51d,M5Stack,Unit IR,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/ir,No physical board pinout recorded
+source-board-8b464318f392fbaf9c,M5Stack,Unit Joystick v1.1,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/joystick_1.1,No physical board pinout recorded
+source-board-637ca1de735dc5e859,M5Stack,Unit Joystick2,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/Unit-JoyStick2,No physical board pinout recorded
+source-board-91a88779058500669a,M5Stack,Unit Key,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/key,No physical board pinout recorded
+source-board-37fa4c27be8e1e21b0,M5Stack,Unit KMeter-ISO,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/KMeterISO%20Unit,No physical board pinout recorded
+source-board-4a0ca9b6dca33a5d46,M5Stack,Unit Laser RX,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/laser-rx,No physical board pinout recorded
+source-board-583a02cdb5e4a40a07,M5Stack,Unit LCD,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/lcd,No physical board pinout recorded
+source-board-13ce62af46e87a241c,M5Stack,Unit Light,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/LIGHT,No physical board pinout recorded
+source-board-2527d2ea1ad559d94d,M5Stack,Unit Limit,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit%20Limit,No physical board pinout recorded
+source-board-cfb352c345e0ddda30,M5Stack,Unit LoRaE220-433,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/Unit%20LoRaE220-433,No physical board pinout recorded
+source-board-6d9ef7d2c385a09d32,M5Stack,Unit MIDI,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit-MIDI,No physical board pinout recorded
+source-board-470857140b66a94f21,M5Stack,Unit Mini BPS v1.1,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/BPS(QMP6988),No physical board pinout recorded
+source-board-3a474e2b3486b9fc9a,M5Stack,Unit Mini CAN,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit-Mini%20CAN,No physical board pinout recorded
+source-board-58a3464523a4a2c02e,M5Stack,Unit Mini IMU-Pro,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/IMU%20Pro%20Mini%20Unit,No physical board pinout recorded
+source-board-006d629d6c06146f9f,M5Stack,Unit Mini OLED,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/MiniOLED%20Unit,No physical board pinout recorded
+source-board-018e46d081f1e9de6a,M5Stack,Unit Mini PDM,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/pdm,No physical board pinout recorded
+source-board-d98aa688f305d3abc1,M5Stack,Unit Mini Proto,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/mini-proto,No physical board pinout recorded
+source-board-ca806d76c33d111205,M5Stack,Unit Mini Scales,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/Unit-Mini%20Scales,No physical board pinout recorded
+source-board-ae1823dbebbc124a83,M5Stack,Unit Mini ToF-90°,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit%20Mini%20ToF-90,No physical board pinout recorded
+source-board-30f44e0d1f3cddc27a,M5Stack,Unit MQ,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit_MQ,No physical board pinout recorded
+source-board-5b1db598f87b36cea5,M5Stack,Unit MQTT,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/mqtt,No physical board pinout recorded
+source-board-1e341275ea454a4761,M5Stack,Unit NBIoT2,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit%20NB-IoT2(SIM7028),No physical board pinout recorded
+source-board-e91ee02407ca7da244,M5Stack,Unit NCIR,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/ncir,No physical board pinout recorded
+source-board-41bab4646e04facc82,M5Stack,Unit NCIR2,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/NCIR2,No physical board pinout recorded
+source-board-70d2c75f72335b6063,M5Stack,Unit Neco,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Neco%20Unit,No physical board pinout recorded
+source-board-71358175817868c0a7,M5Stack,Unit NeoHEX,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/neohex,No physical board pinout recorded
+source-board-78a7dee46ac529b42e,M5Stack,Unit NFC,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit_NFC,No physical board pinout recorded
+source-board-ee98e1a23278e9d676,M5Stack,Unit OLED,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/oled,No physical board pinout recorded
+source-board-f9ca4d6557f8a63eb1,M5Stack,Unit OP180,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/OP180,No physical board pinout recorded
+source-board-d8ff421aaf3fa9b688,M5Stack,Unit OP90,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/OP.90,No physical board pinout recorded
+source-board-ba9e5f605961dcedee,M5Stack,Unit PaHub,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/pahub,No physical board pinout recorded
+source-board-2d9e671dd6280fac66,M5Stack,Unit PaHub v2.1,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/Unit-PaHub%20v2.1,No physical board pinout recorded
+source-board-ab6064cda4c6d6cbe9,M5Stack,Unit PIR,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/PIR,No physical board pinout recorded
+source-board-f995d7ef19a31f3d9a,M5Stack,Unit PoE CAM-W,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/PoECAM-W,No physical board pinout recorded
+source-board-2477653d0c88e3be88,M5Stack,Unit PoE CAM-W v1.1,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/M5PoECAM-W%20V1.1,No physical board pinout recorded
+source-board-7ef12a9cd3c02d0fcf,M5Stack,Unit Proto,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/proto,No physical board pinout recorded
+source-board-d31271066d46e5fd4b,M5Stack,Unit Puzzle,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/Unit-Puzzle,No physical board pinout recorded
+source-board-1ca67ec53bf2a3ce3a,M5Stack,Unit QRCode,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit-QRCode,No physical board pinout recorded
+source-board-cfb551b6de8e6c1587,M5Stack,Unit RCA,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/RCA,No physical board pinout recorded
+source-board-3d09118d5e48953680,M5Stack,Unit Reflective IR,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit-Reflective%20IR,No physical board pinout recorded
+source-board-d68745531c69f4b7db,M5Stack,Unit Relay,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/relay,No physical board pinout recorded
+source-board-f9bf0afb3681ad50aa,M5Stack,Unit RGB,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/rgb,No physical board pinout recorded
+source-board-2f8863fd57f131c6f0,M5Stack,Unit Roller485,0,6,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit-Roller485,No physical board pinout recorded
+source-board-5b205f64cb5a1f17ef,M5Stack,Unit Scales,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/UNIT%20Scales,No physical board pinout recorded
+source-board-be68305d414b05d2df,M5Stack,Unit Scroll,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/UNIT-Scroll,No physical board pinout recorded
+source-board-0deb3cc52909696465,M5Stack,Unit SSR,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/ssr,No physical board pinout recorded
+source-board-bcfccaf958283fb56a,M5Stack,Unit Step16,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit_Step16,No physical board pinout recorded
+source-board-0e3122dd0f2d467be1,M5Stack,Unit Thermal2,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/Thermal2,No physical board pinout recorded
+source-board-d3430af2798820c2fa,M5Stack,Unit TimerPWR,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit-TimerPWR,No physical board pinout recorded
+source-board-310aca6f9b5384b17b,M5Stack,Unit TMOS PIR,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/UNIT-TMOS%20PIR,No physical board pinout recorded
+source-board-b435576274d054c7ef,M5Stack,Unit ToF,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/TOF,No physical board pinout recorded
+source-board-e19808c11c1b09dfd3,M5Stack,Unit ToF4M,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/Unit-ToF4M,No physical board pinout recorded
+source-board-f128bcb679828e9993,M5Stack,Unit Tube Pressure,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/tube_pressure,No physical board pinout recorded
+source-board-c360f4f6b8e1f0310a,M5Stack,Unit UHF-RFID,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/uhf_rfid,No physical board pinout recorded
+source-board-a2285d667efa547c38,M5Stack,Unit Ultrasonic,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/Ultrasonic,No physical board pinout recorded
+source-board-1944bd7d1e9fc877a6,M5Stack,Unit Ultrasonic-I2C,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/ULTRASONIC%20I2C,No physical board pinout recorded
+source-board-fd2e7091a16298609a,M5Stack,Unit UWB,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/uwb,No physical board pinout recorded
+source-board-cc26469cbed814787b,M5Stack,Unit Vibrator,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/vibrator,No physical board pinout recorded
+source-board-4828539aa387945544,M5Stack,Unit Watering,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/watering,No physical board pinout recorded
+source-board-12e23574aab03d88d0,M5Stack,Unit Weight,0,3,2,0,0,1,1,https://docs.m5stack.com/en/unit/WEIGHT,No physical board pinout recorded
+source-board-3f04e1ad26e264e446,M5Stack,Unit Weight-I2C,0,2,1,0,0,0,1,https://docs.m5stack.com/en/unit/Unit-Weight%20I2C,No physical board pinout recorded
+source-board-4e7417c1932cd71113,M5Stack,UnitV-M12,0,2,1,0,0,1,0,https://docs.m5stack.com/en/unit/UNIT-V%20M12,No physical board pinout recorded
+source-board-b6cf96dfe427e79e40,M5Stack,UnitV2,0,3,0,0,0,0,0,https://docs.m5stack.com/en/unit/unitv2,No physical board pinout recorded
+source-board-2cd1c4eb9846edebf1,M5Stack,UnitV2-M12,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/unitv2_m12,No physical board pinout recorded
+source-board-cb0b52d3056fb07548,M5Stack,UnitV2-USB,0,1,0,0,0,0,0,https://docs.m5stack.com/en/unit/unitv2_usb,No physical board pinout recorded
+source-board-43f9349d98852db142,Waveshare,Micro-bit V2,0,1,0,0,0,0,0,,No physical board pinout recorded
+m5stack-chain-mic,M5Stack,Chain MIC,0,2,2,0,0,2,1,https://docs.m5stack.com/en/chain/Chain_MIC,No physical board pinout recorded
+m5stack-chain-switch,M5Stack,Chain Switch,0,1,1,0,0,1,1,https://docs.m5stack.com/en/chain/Chain_Switch,No physical board pinout recorded
+m5stack-toughc5,M5Stack,ToughC5,0,6,3,0,1,2,1,https://docs.m5stack.com/en/core/ToughC5,No physical board pinout recorded
+m5stack-papermono-lite,M5Stack,PaperMono-Lite,0,2,2,0,0,2,1,https://docs.m5stack.com/en/core/PaperMono-Lite,No physical board pinout recorded
+m5stack-stackchan-core,M5Stack,StackChan Core,0,1,1,0,0,1,1,https://docs.m5stack.com/en/core/StackChan_Core,No physical board pinout recorded
+m5stack-chain-rgb,M5Stack,Chain RGB,0,2,2,0,0,2,1,https://docs.m5stack.com/en/chain/Chain_RGB,No physical board pinout recorded
+m5stack-dinmeter-v1-1,M5Stack,DinMeter v1.1,0,1,1,0,0,1,1,https://docs.m5stack.com/en/core/DinMeter_v1.1,No physical board pinout recorded
+m5stack-ai-pyramid-pro,M5Stack,AI Pyramid-Pro,0,3,3,0,0,1,3,https://docs.m5stack.com/en/ai_hardware/AI_Pyramid-Pro,No physical board pinout recorded
+waveshare-esp32-s3-lr1121-oled-1-54,Waveshare,ESP32-S3-LR1121-OLED-1.54,1,2,1,0,0,1,1,https://docs.waveshare.com/ESP32-S3-LR1121-OLED-1.54,Physical map available; exact scope and revision review required
+waveshare-esp32-s3-rs485-wled,Waveshare,ESP32-S3-RS485-WLED,0,1,0,0,0,1,0,https://docs.waveshare.com/ESP32-S3-RS485-WLED,No physical board pinout recorded
+m5stack-base-plc-m12-v1-1,M5Stack,Base PLC-M12 v1.1,0,2,1,0,0,2,0,https://docs.m5stack.com/en/base/Base_PLC-M12_v1.1,No physical board pinout recorded

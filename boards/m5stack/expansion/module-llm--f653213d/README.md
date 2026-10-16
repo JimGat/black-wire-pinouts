@@ -4,7 +4,7 @@
 
 Revision: Not identified
 
-Coverage: Pinout image collected
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=m5stack-expansion-module-llm)
 
@@ -12,8 +12,9 @@ Coverage: Pinout image collected
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://docs.m5stack.com/en/module/Module-LLM)
+[Manufacturer model documentation](https://docs.m5stack.com/en/module/Module-LLM)
 
+- **hardware-guide / board**: [Module LLM — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/module/Module_LLM.pdf) · [saved document](../../../../library/media/51b94749942703b491db165325a11b1db338273c2736091eb28a162aee8cd0fb.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -54,5 +55,23 @@ Original source index: Dimensions. This file is searchable but has not been prom
 Image revision: Not identified
 
 SHA-256: `5e0f04c4ead024e5b13988a3b01e84c68cf02aa9291dedca96854335ca0ff1ad`
+
+## Module LLM — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![Module LLM reference preview](../../../../library/thumbs/51b94749942703b491db165325a11b1db338273c2736091eb28a162aee8cd0fb.webp)](../../../../library/media/51b94749942703b491db165325a11b1db338273c2736091eb28a162aee8cd0fb.pdf)
+
+[Open original reference](../../../../library/media/51b94749942703b491db165325a11b1db338273c2736091eb28a162aee8cd0fb.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/module/Module_LLM.pdf) · [Source 2](https://docs.m5stack.com/en/module/Module-LLM)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `51b94749942703b491db165325a11b1db338273c2736091eb28a162aee8cd0fb`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

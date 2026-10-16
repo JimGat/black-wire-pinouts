@@ -4,7 +4,7 @@
 
 Revision: Not identified
 
-Coverage: GPIO reference collected; physical pinout needed
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=m5stack-expansion-module-goplus)
 
@@ -12,8 +12,9 @@ Coverage: GPIO reference collected; physical pinout needed
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://docs.m5stack.com/en/module/goplus)
+[Manufacturer model documentation](https://docs.m5stack.com/en/module/goplus)
 
+- **hardware-guide / board**: [Module GoPlus — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/module/Module_GoPlus.pdf) · [saved document](../../../../library/media/ab1364a21cb8933ac59d55f37ae389441832a1b7e2ece9c0ee554310b810fc84.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -36,5 +37,23 @@ Imported from existing M5Stack Board Reference; original working path preserved.
 Image revision: Not identified
 
 SHA-256: `b4d54e2c19d4d31bd8dd28671a8b5ca6540502456486ad74358e884c4906a8c4`
+
+## Module GoPlus — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![Module GoPlus reference preview](../../../../library/thumbs/ab1364a21cb8933ac59d55f37ae389441832a1b7e2ece9c0ee554310b810fc84.webp)](../../../../library/media/ab1364a21cb8933ac59d55f37ae389441832a1b7e2ece9c0ee554310b810fc84.pdf)
+
+[Open original reference](../../../../library/media/ab1364a21cb8933ac59d55f37ae389441832a1b7e2ece9c0ee554310b810fc84.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/module/Module_GoPlus.pdf) · [Source 2](https://docs.m5stack.com/en/module/goplus)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `ab1364a21cb8933ac59d55f37ae389441832a1b7e2ece9c0ee554310b810fc84`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

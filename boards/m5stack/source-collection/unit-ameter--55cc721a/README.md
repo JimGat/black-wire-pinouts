@@ -4,7 +4,7 @@
 
 Revision: Unverified source identity
 
-Coverage: Source collection; review pending
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=source-board-a7f71367218db84e3a)
 
@@ -12,8 +12,9 @@ Coverage: Source collection; review pending
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://docs.m5stack.com/en/unit/Ameter%20Unit)
+[Manufacturer model documentation](https://docs.m5stack.com/en/unit/Ameter%20Unit)
 
+- **hardware-guide / board**: [Unit AMeter — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/unit/Unit_AMeter.pdf) · [saved document](../../../../library/media/fb6d4f1cb5126c8e58d2f196732abd43f3df00c34701b25df859c2d1f4080f41.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -36,5 +37,23 @@ Original source index: Dimensions. This file is searchable but has not been prom
 Image revision: Not identified
 
 SHA-256: `9a9f09918d22d8ea79572ddc396b9fb4d3c6d6a4d4b0acc5fa64ea3cf9d06993`
+
+## Unit AMeter — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![Unit AMeter reference preview](../../../../library/thumbs/fb6d4f1cb5126c8e58d2f196732abd43f3df00c34701b25df859c2d1f4080f41.webp)](../../../../library/media/fb6d4f1cb5126c8e58d2f196732abd43f3df00c34701b25df859c2d1f4080f41.pdf)
+
+[Open original reference](../../../../library/media/fb6d4f1cb5126c8e58d2f196732abd43f3df00c34701b25df859c2d1f4080f41.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/unit/Unit_AMeter.pdf) · [Source 2](https://docs.m5stack.com/en/unit/Ameter%20Unit)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `fb6d4f1cb5126c8e58d2f196732abd43f3df00c34701b25df859c2d1f4080f41`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

@@ -4,7 +4,7 @@
 
 Revision: Unverified source identity
 
-Coverage: Manufacturer references reviewed by scope; independent electrical and all-connector review pending
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=source-board-e26c1d94097665811a)
 
@@ -14,11 +14,12 @@ Device category: **Controllers & instruments**
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer hardware documentation](https://docs.m5stack.com/en/core/Core2_For_AWS_v1.3)
+[Manufacturer model documentation](https://docs.m5stack.com/en/core/Core2_For_AWS_v1.3)
 
 - **schematic / recorded-source**: [Core2 Schematics PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/644/CORE2_V1.0_SCH.pdf) · [saved document](../../../../library/media/4a59d16291c7de9d9deda31fe154c8b5ac3c8f92209f6f8206d72f97afeea94f.pdf)
 - **schematic / recorded-source**: [M5GO-Bottom For AWS v1.3 Schematics PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1226/SCH_M5GO_Bottom2_SCH_Main_V1.3_AWS_Version_2026_01_30_10_06_42.pdf) · [saved document](../../../../library/media/10e007d004efaa888ee524af118f184d6eab7b1b8faef53bd2847cacfc6766ef.pdf)
 - **hardware-guide / board**: [Manufacturer pin and hardware documentation](https://docs.m5stack.com/en/core/Core2_For_AWS_v1.3) · online
+- **hardware-guide / board**: [Core2 For AWS v1.3 — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/core/Core2_For_AWS_v1.3.pdf) · [saved document](../../../../library/media/f50fc37ceac17125dd2af1c990f861d18d5b4e8f9d05603e72e6f0cfff0a72fc.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -77,5 +78,23 @@ Manufacturer source retained unchanged. Manufacturer source and first-page previ
 Image revision: As supplied in the original; match exact board revision
 
 SHA-256: `10e007d004efaa888ee524af118f184d6eab7b1b8faef53bd2847cacfc6766ef`
+
+## Core2 For AWS v1.3 — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![Core2 For AWS v1.3 reference preview](../../../../library/thumbs/f50fc37ceac17125dd2af1c990f861d18d5b4e8f9d05603e72e6f0cfff0a72fc.webp)](../../../../library/media/f50fc37ceac17125dd2af1c990f861d18d5b4e8f9d05603e72e6f0cfff0a72fc.pdf)
+
+[Open original reference](../../../../library/media/f50fc37ceac17125dd2af1c990f861d18d5b4e8f9d05603e72e6f0cfff0a72fc.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/core/Core2_For_AWS_v1.3.pdf) · [Source 2](https://docs.m5stack.com/en/core/Core2_For_AWS_v1.3)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `f50fc37ceac17125dd2af1c990f861d18d5b4e8f9d05603e72e6f0cfff0a72fc`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

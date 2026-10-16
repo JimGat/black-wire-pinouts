@@ -4,7 +4,7 @@
 
 Revision: Not identified
 
-Coverage: Manufacturer references reviewed by scope; independent electrical and all-connector review pending
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=waveshare-esp32-esp32-s3-touch-lcd-7c-box)
 
@@ -12,10 +12,11 @@ Coverage: Manufacturer references reviewed by scope; independent electrical and 
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer hardware documentation](https://docs.waveshare.com/ESP32-S3-Touch-LCD-7C-BOX)
+[Manufacturer model documentation](https://docs.waveshare.com/ESP32-S3-Touch-LCD-7C-BOX/Resources-And-Documents)
 
 - **schematic / recorded-source**: [ESP32-S3-Touch-LCD-7C Schematic (GitHub)](https://github.com/waveshareteam/ESP32-S3-Touch-LCD-7C/raw/main/schematic/ESP32-S3-Touch-LCD-7C-schematic.pdf) · [saved document](../../../../library/media/a5caef3d99b952662e8e1cf57f5c90f429085507e0d595a8a6d1e1c3f0cd17fb.pdf)
 - **hardware-guide / board**: [Manufacturer pin and hardware documentation](https://docs.waveshare.com/ESP32-S3-Touch-LCD-7C-BOX) · online
+- **schematic / board**: [ESP32-S3-Touch-LCD-7C-BOX 2D Drawing (GitHub) — schematic](https://github.com/waveshareteam/ESP32-S3-Touch-LCD-7C/raw/main/schematic/ESP32-S3-Touch-LCD-7C-BOX-2D.pdf) · [saved document](../../../../library/media/4e1ad2f194e20f8a6835de812c0168229f7113c2c78cd9cd9793f9cc08fe9e46.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -74,5 +75,23 @@ Manufacturer source retained unchanged. Source identity and visual scope inspect
 Image revision: As supplied in the original; match exact board revision
 
 SHA-256: `a5caef3d99b952662e8e1cf57f5c90f429085507e0d595a8a6d1e1c3f0cd17fb`
+
+## ESP32-S3-Touch-LCD-7C-BOX 2D Drawing (GitHub) — schematic
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![ESP32-S3-Touch-LCD-7C-BOX reference preview](../../../../library/thumbs/4e1ad2f194e20f8a6835de812c0168229f7113c2c78cd9cd9793f9cc08fe9e46.webp)](../../../../library/media/4e1ad2f194e20f8a6835de812c0168229f7113c2c78cd9cd9793f9cc08fe9e46.pdf)
+
+[Open original reference](../../../../library/media/4e1ad2f194e20f8a6835de812c0168229f7113c2c78cd9cd9793f9cc08fe9e46.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: Waveshare.
+
+[Source 1](https://github.com/waveshareteam/ESP32-S3-Touch-LCD-7C/raw/main/schematic/ESP32-S3-Touch-LCD-7C-BOX-2D.pdf) · [Source 2](https://docs.waveshare.com/ESP32-S3-Touch-LCD-7C-BOX/Resources-And-Documents)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a circuit schematic, not a physical board pinout.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `4e1ad2f194e20f8a6835de812c0168229f7113c2c78cd9cd9793f9cc08fe9e46`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

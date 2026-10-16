@@ -814,462 +814,470 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 
 | Board / device | Processor / family | References | Pinout images |
 |---|---|---:|---:|
-| [1.27-Socket Kit for Stamp-S3](boards/m5stack/source-collection/1.27-socket-kit-for-stamp-s3--69cefbc5/README.md) | Source collection | 1 | 0 |
-| [485T](boards/m5stack/source-collection/485t--6d98d0d8/README.md) | Source collection | 1 | 0 |
+| [1.27-Socket Kit for Stamp-S3](boards/m5stack/source-collection/1.27-socket-kit-for-stamp-s3--69cefbc5/README.md) | Source collection | 2 | 0 |
+| [485T](boards/m5stack/source-collection/485t--6d98d0d8/README.md) | Source collection | 2 | 0 |
 | [6060-Push](boards/m5stack/source-collection/6060-push--dc291493/README.md) | Source collection | 1 | 0 |
-| [AddOn Display In For PoE-P4](boards/m5stack/expansion/addon-display-in-for-poe-p4--0924c673/README.md) | Expansion | 2 | 1 |
-| [AddOn Display Out For PoE-P4](boards/m5stack/expansion/addon-display-out-for-poe-p4--fcfd668b/README.md) | Expansion | 3 | 1 |
+| [AddOn Display In For PoE-P4](boards/m5stack/expansion/addon-display-in-for-poe-p4--0924c673/README.md) | Expansion | 4 | 1 |
+| [AddOn Display Out For PoE-P4](boards/m5stack/expansion/addon-display-out-for-poe-p4--fcfd668b/README.md) | Expansion | 4 | 1 |
 | [AI Pyramid](boards/m5stack/source-collection/ai-pyramid--50032434/README.md) | Source collection | 4 | 0 |
 | [AI Pyramid-Pro](boards/m5stack/axera-ax8850/ai-pyramid-pro--aab92513/README.md) | Axera AX8850 | 3 | 0 |
-| [Air Quality](boards/m5stack/source-collection/air-quality--4627b9b1/README.md) | Source collection | 1 | 0 |
+| [Air Quality](boards/m5stack/source-collection/air-quality--4627b9b1/README.md) | Source collection | 3 | 0 |
 | [Air Quality v1.1](boards/m5stack/source-collection/air-quality-v1.1--36d8b87e/README.md) | Source collection | 1 | 0 |
 | [Aluminium Extrusions](boards/m5stack/source-collection/aluminium-extrusions--6350d450/README.md) | Source collection | 5 | 0 |
-| [Arduino Nesso N1](boards/m5stack/source-collection/arduino-nesso-n1--f7c37620/README.md) | Source collection | 3 | 0 |
-| [Atom Display](boards/m5stack/source-collection/atom-display--50021de6/README.md) | Source collection | 1 | 0 |
-| [Atom DTU LoRaWAN-CN470](boards/m5stack/source-collection/atom-dtu-lorawan-cn470--91a6f9ad/README.md) | Source collection | 1 | 0 |
-| [Atom DTU NBIoT2](boards/m5stack/source-collection/atom-dtu-nbiot2--2c98e202/README.md) | Source collection | 1 | 0 |
-| [Atom DTU NBIoT2 v1.1](boards/m5stack/source-collection/atom-dtu-nbiot2-v1.1--90daea37/README.md) | Source collection | 2 | 0 |
+| [Arduino Nesso N1](boards/m5stack/source-collection/arduino-nesso-n1--f7c37620/README.md) | Source collection | 8 | 3 |
+| [Atom Display](boards/m5stack/source-collection/atom-display--50021de6/README.md) | Source collection | 3 | 0 |
+| [Atom DTU LoRaWAN-CN470](boards/m5stack/source-collection/atom-dtu-lorawan-cn470--91a6f9ad/README.md) | Source collection | 2 | 0 |
+| [Atom DTU NBIoT2](boards/m5stack/source-collection/atom-dtu-nbiot2--2c98e202/README.md) | Source collection | 3 | 0 |
+| [Atom DTU NBIoT2 v1.1](boards/m5stack/source-collection/atom-dtu-nbiot2-v1.1--90daea37/README.md) | Source collection | 3 | 0 |
 | [Atom Hub Proto](boards/m5stack/source-collection/atom-hub-proto--c0a82a47/README.md) | Source collection | 1 | 0 |
 | [Atom JoyStick](boards/m5stack/source-collection/atom-joystick--98bf203b/README.md) | Source collection | 1 | 0 |
 | [Atom JoyStick v1.1](boards/m5stack/source-collection/atom-joystick-v1.1--96a823e3/README.md) | Source collection | 2 | 0 |
-| [ATOM Lite ESP32 IoT](boards/m5stack/esp32-original/atom-lite-esp32-iot--60a1b810/README.md) | ESP32 original | 1 | 1 |
-| [Atom Mate](boards/m5stack/source-collection/atom-mate--9ce2ae76/README.md) | Source collection | 1 | 0 |
+| [ATOM Lite ESP32 IoT](boards/m5stack/esp32-original/atom-lite-esp32-iot--60a1b810/README.md) | ESP32 original | 2 | 1 |
+| [Atom Mate](boards/m5stack/source-collection/atom-mate--9ce2ae76/README.md) | Source collection | 2 | 0 |
 | [ATOM Matrix ESP32](boards/m5stack/esp32-original/atom-matrix-esp32--9c80ed51/README.md) | ESP32 original | 1 | 1 |
 | [Atom Printer](boards/m5stack/gpio-device/atom-printer--5e9e6aa8/README.md) | GPIO device | 1 | 0 |
-| [Atom QRCode v1.1](boards/m5stack/source-collection/atom-qrcode-v1.1--4f85b1c8/README.md) | Source collection | 1 | 0 |
+| [Atom QRCode v1.1](boards/m5stack/source-collection/atom-qrcode-v1.1--4f85b1c8/README.md) | Source collection | 2 | 0 |
 | [Atom Socket](boards/m5stack/source-collection/atom-socket--492597e4/README.md) | Source collection | 1 | 0 |
-| [Atom Switch](boards/m5stack/source-collection/atom-switch--2082c441/README.md) | Source collection | 1 | 0 |
+| [Atom Switch](boards/m5stack/source-collection/atom-switch--2082c441/README.md) | Source collection | 2 | 0 |
 | [Atom TFCard](boards/m5stack/source-collection/atom-tfcard--6ce87675/README.md) | Source collection | 1 | 0 |
 | [Atom Voice](boards/m5stack/source-collection/atom-voice--90a026fd/README.md) | Source collection | 1 | 0 |
-| [Atom VoiceS3R](boards/m5stack/source-collection/atom-voices3r--b21f9edd/README.md) | Source collection | 1 | 0 |
-| [Atom-Lite](boards/m5stack/source-collection/atom-lite--d4513ac7/README.md) | Source collection | 1 | 0 |
-| [Atom-Matrix](boards/m5stack/source-collection/atom-matrix--0aad1a75/README.md) | Source collection | 1 | 0 |
-| [Atom-Matrix v1.1](boards/m5stack/esp32-original/atom-matrix-v1.1--62c5695c/README.md) | ESP32 original | 1 | 1 |
+| [Atom VoiceS3R](boards/m5stack/source-collection/atom-voices3r--b21f9edd/README.md) | Source collection | 4 | 0 |
+| [Atom-Lite](boards/m5stack/source-collection/atom-lite--d4513ac7/README.md) | Source collection | 3 | 1 |
+| [Atom-Matrix](boards/m5stack/source-collection/atom-matrix--0aad1a75/README.md) | Source collection | 2 | 0 |
+| [Atom-Matrix v1.1](boards/m5stack/esp32-original/atom-matrix-v1.1--62c5695c/README.md) | ESP32 original | 3 | 1 |
 | [Atomic](boards/m5stack/source-collection/atomic--18909e56/README.md) | Source collection | 1 | 0 |
 | [Atomic Audio-3.5 Base](boards/m5stack/source-collection/atomic-audio-3.5-base--28c751d2/README.md) | Source collection | 1 | 0 |
-| [Atomic Battery Base](boards/m5stack/source-collection/atomic-battery-base--66ed689c/README.md) | Source collection | 1 | 0 |
-| [Atomic CAN Base](boards/m5stack/source-collection/atomic-can-base--3864bf5a/README.md) | Source collection | 1 | 0 |
-| [Atomic Display Base](boards/m5stack/source-collection/atomic-display-base--20fcd7cc/README.md) | Source collection | 1 | 0 |
-| [Atomic GPS Base](boards/m5stack/source-collection/atomic-gps-base--50ac30a1/README.md) | Source collection | 1 | 0 |
-| [Atomic GPS Base v2.0](boards/m5stack/source-collection/atomic-gps-base-v2.0--eb658755/README.md) | Source collection | 1 | 0 |
+| [Atomic Battery Base](boards/m5stack/source-collection/atomic-battery-base--66ed689c/README.md) | Source collection | 2 | 0 |
+| [Atomic CAN Base](boards/m5stack/source-collection/atomic-can-base--3864bf5a/README.md) | Source collection | 2 | 0 |
+| [Atomic Display Base](boards/m5stack/source-collection/atomic-display-base--20fcd7cc/README.md) | Source collection | 3 | 0 |
+| [Atomic GPS Base](boards/m5stack/source-collection/atomic-gps-base--50ac30a1/README.md) | Source collection | 2 | 0 |
+| [Atomic GPS Base v2.0](boards/m5stack/source-collection/atomic-gps-base-v2.0--eb658755/README.md) | Source collection | 3 | 0 |
 | [Atomic Motion Base](boards/m5stack/source-collection/atomic-motion-base--6183f6c7/README.md) | Source collection | 1 | 0 |
-| [Atomic PoE Base](boards/m5stack/source-collection/atomic-poe-base--8d9eb2f3/README.md) | Source collection | 1 | 0 |
+| [Atomic PoE Base](boards/m5stack/source-collection/atomic-poe-base--8d9eb2f3/README.md) | Source collection | 2 | 0 |
 | [Atomic Port ABC Base](boards/m5stack/expansion/atomic-port-abc-base--73dc0ddf/README.md) | Expansion | 2 | 1 |
-| [Atomic QRCode2 Base](boards/m5stack/source-collection/atomic-qrcode2-base--1ed4204e/README.md) | Source collection | 1 | 0 |
-| [Atomic SPK Base](boards/m5stack/source-collection/atomic-spk-base--cd092f52/README.md) | Source collection | 1 | 0 |
+| [Atomic QRCode2 Base](boards/m5stack/source-collection/atomic-qrcode2-base--1ed4204e/README.md) | Source collection | 3 | 0 |
+| [Atomic SPK Base](boards/m5stack/source-collection/atomic-spk-base--cd092f52/README.md) | Source collection | 2 | 0 |
 | [Atomic Stepmotor Base](boards/m5stack/source-collection/atomic-stepmotor-base--b7725769/README.md) | Source collection | 1 | 0 |
-| [Atomic ToChain Base](boards/m5stack/source-collection/atomic-tochain-base--073adae5/README.md) | Source collection | 1 | 0 |
-| [Atomic ToUnit Base](boards/m5stack/source-collection/atomic-tounit-base--08d633cb/README.md) | Source collection | 1 | 0 |
-| [Atomic Voice Base](boards/m5stack/source-collection/atomic-voice-base--3383a8ef/README.md) | Source collection | 1 | 0 |
+| [Atomic ToChain Base](boards/m5stack/source-collection/atomic-tochain-base--073adae5/README.md) | Source collection | 3 | 0 |
+| [Atomic ToUnit Base](boards/m5stack/source-collection/atomic-tounit-base--08d633cb/README.md) | Source collection | 2 | 0 |
+| [Atomic Voice Base](boards/m5stack/source-collection/atomic-voice-base--3383a8ef/README.md) | Source collection | 3 | 0 |
 | [AtomS3](boards/m5stack/source-collection/atoms3--7a9309fa/README.md) | Source collection | 1 | 0 |
 | [AtomS3 Dev Kit w/ 0.85-inch Screen](boards/m5stack/esp32-s3/atoms3-dev-kit-w-0.85-inch-screen--473300c4/README.md) | ESP32-S3 | 1 | 1 |
-| [AtomS3 Lite ESP32S3 Dev Kit](boards/m5stack/esp32-s3/atoms3-lite-esp32s3-dev-kit--3dbd4798/README.md) | ESP32-S3 | 1 | 1 |
+| [AtomS3 Lite ESP32S3 Dev Kit](boards/m5stack/esp32-s3/atoms3-lite-esp32s3-dev-kit--3dbd4798/README.md) | ESP32-S3 | 3 | 1 |
 | [AtomS3R](boards/m5stack/esp32-s3/atoms3r--c2a8bea8/README.md) | ESP32-S3 | 1 | 1 |
-| [AtomS3R-CAM](boards/m5stack/esp32-s3/atoms3r-cam--d82f4c24/README.md) | ESP32-S3 | 2 | 1 |
-| [AtomS3R-CAM AI Chatbot](boards/m5stack/esp32-s3/atoms3r-cam-ai-chatbot--8305f722/README.md) | ESP32-S3 | 1 | 1 |
-| [AtomS3R-Ext](boards/m5stack/esp32-s3/atoms3r-ext--ee5b2e49/README.md) | ESP32-S3 | 2 | 1 |
-| [AtomS3R-M12](boards/m5stack/esp32-s3/atoms3r-m12--6bfae22f/README.md) | ESP32-S3 | 2 | 1 |
-| [AtomS3R-M12 Volcengine Kit](boards/m5stack/esp32-s3/atoms3r-m12-volcengine-kit--4938b284/README.md) | ESP32-S3 | 1 | 1 |
-| [AtomS3U](boards/m5stack/esp32-s3/atoms3u--f7bbe3a8/README.md) | ESP32-S3 | 2 | 1 |
-| [AtomU](boards/m5stack/esp32-original/atomu--45dd178f/README.md) | ESP32 original | 1 | 1 |
-| [Bala](boards/m5stack/gpio-device/bala--cd67d443/README.md) | GPIO device | 1 | 0 |
-| [Base AAA](boards/m5stack/source-collection/base-aaa--d01939e9/README.md) | Source collection | 1 | 0 |
+| [AtomS3R-CAM](boards/m5stack/esp32-s3/atoms3r-cam--d82f4c24/README.md) | ESP32-S3 | 5 | 1 |
+| [AtomS3R-CAM AI Chatbot](boards/m5stack/esp32-s3/atoms3r-cam-ai-chatbot--8305f722/README.md) | ESP32-S3 | 3 | 1 |
+| [AtomS3R-Ext](boards/m5stack/esp32-s3/atoms3r-ext--ee5b2e49/README.md) | ESP32-S3 | 4 | 1 |
+| [AtomS3R-M12](boards/m5stack/esp32-s3/atoms3r-m12--6bfae22f/README.md) | ESP32-S3 | 5 | 1 |
+| [AtomS3R-M12 Volcengine Kit](boards/m5stack/esp32-s3/atoms3r-m12-volcengine-kit--4938b284/README.md) | ESP32-S3 | 3 | 1 |
+| [AtomS3U](boards/m5stack/esp32-s3/atoms3u--f7bbe3a8/README.md) | ESP32-S3 | 3 | 1 |
+| [AtomU](boards/m5stack/esp32-original/atomu--45dd178f/README.md) | ESP32 original | 2 | 1 |
+| [Bala](boards/m5stack/gpio-device/bala--cd67d443/README.md) | GPIO device | 2 | 0 |
+| [Base AAA](boards/m5stack/source-collection/base-aaa--d01939e9/README.md) | Source collection | 2 | 0 |
 | [Base AC Power](boards/m5stack/source-collection/base-ac-power--ea82d27d/README.md) | Source collection | 1 | 0 |
-| [Base Bottom](boards/m5stack/expansion/base-bottom--2af6b20d/README.md) | Expansion | 1 | 1 |
-| [Base Bottom v1.1](boards/m5stack/source-collection/base-bottom-v1.1--6494a76e/README.md) | Source collection | 1 | 0 |
-| [Base BTC](boards/m5stack/source-collection/base-btc--395d5501/README.md) | Source collection | 1 | 0 |
-| [Base DIN](boards/m5stack/source-collection/base-din--a69c4a0c/README.md) | Source collection | 1 | 0 |
-| [Base DMX](boards/m5stack/source-collection/base-dmx--4fea61e8/README.md) | Source collection | 1 | 0 |
-| [Base Dual 16340](boards/m5stack/source-collection/base-dual-16340--f4ba7773/README.md) | Source collection | 2 | 0 |
-| [Base LAN](boards/m5stack/source-collection/base-lan--d57827ef/README.md) | Source collection | 1 | 0 |
+| [Base Bottom](boards/m5stack/expansion/base-bottom--2af6b20d/README.md) | Expansion | 2 | 1 |
+| [Base Bottom v1.1](boards/m5stack/source-collection/base-bottom-v1.1--6494a76e/README.md) | Source collection | 3 | 0 |
+| [Base BTC](boards/m5stack/source-collection/base-btc--395d5501/README.md) | Source collection | 3 | 0 |
+| [Base DIN](boards/m5stack/source-collection/base-din--a69c4a0c/README.md) | Source collection | 2 | 0 |
+| [Base DMX](boards/m5stack/source-collection/base-dmx--4fea61e8/README.md) | Source collection | 4 | 0 |
+| [Base Dual 16340](boards/m5stack/source-collection/base-dual-16340--f4ba7773/README.md) | Source collection | 3 | 0 |
+| [Base LAN](boards/m5stack/source-collection/base-lan--d57827ef/README.md) | Source collection | 3 | 0 |
 | [Base LAN PoE v1.2](boards/m5stack/source-collection/base-lan-poe-v1.2--29f9a8a9/README.md) | Source collection | 1 | 0 |
-| [Base M5GO Bottom](boards/m5stack/source-collection/base-m5go-bottom--eaa6a71d/README.md) | Source collection | 1 | 0 |
-| [Base M5GO Bottom2 v1.3](boards/m5stack/source-collection/base-m5go-bottom2-v1.3--d8bec61f/README.md) | Source collection | 2 | 0 |
-| [Base M5GO Charger](boards/m5stack/source-collection/base-m5go-charger--0e2ca801/README.md) | Source collection | 1 | 0 |
-| [Base PLC-M12](boards/m5stack/source-collection/base-plc-m12--c315344d/README.md) | Source collection | 1 | 0 |
+| [Base M5GO Bottom](boards/m5stack/source-collection/base-m5go-bottom--eaa6a71d/README.md) | Source collection | 3 | 0 |
+| [Base M5GO Bottom2 v1.3](boards/m5stack/source-collection/base-m5go-bottom2-v1.3--d8bec61f/README.md) | Source collection | 3 | 0 |
+| [Base M5GO Charger](boards/m5stack/source-collection/base-m5go-charger--0e2ca801/README.md) | Source collection | 2 | 0 |
+| [Base PLC-M12](boards/m5stack/source-collection/base-plc-m12--c315344d/README.md) | Source collection | 2 | 0 |
 | [Base PLC-M12 v1.1](boards/m5stack/expansion-module/base-plc-m12-v1-1--c3da5d6c/README.md) | Expansion module | 2 | 0 |
-| [Base X](boards/m5stack/source-collection/base-x--2870935e/README.md) | Source collection | 1 | 0 |
-| [Base15](boards/m5stack/source-collection/base15--29693613/README.md) | Source collection | 1 | 0 |
+| [Base X](boards/m5stack/source-collection/base-x--2870935e/README.md) | Source collection | 2 | 0 |
+| [Base15](boards/m5stack/source-collection/base15--29693613/README.md) | Source collection | 3 | 0 |
 | [Base26](boards/m5stack/source-collection/base26--ef065695/README.md) | Source collection | 1 | 0 |
 | [Basic](boards/m5stack/source-collection/basic--7fa515d0/README.md) | Source collection | 1 | 0 |
-| [BAVG to Socket](boards/m5stack/source-collection/bavg-to-socket--dbc2e226/README.md) | Source collection | 1 | 0 |
-| [BugC2](boards/m5stack/source-collection/bugc2--d6aa5f8e/README.md) | Source collection | 1 | 0 |
-| [Bus Socket SMD 13.2](boards/m5stack/source-collection/bus-socket-smd-13.2--23f35935/README.md) | Source collection | 1 | 0 |
+| [BAVG to Socket](boards/m5stack/source-collection/bavg-to-socket--dbc2e226/README.md) | Source collection | 2 | 0 |
+| [BugC2](boards/m5stack/source-collection/bugc2--d6aa5f8e/README.md) | Source collection | 3 | 0 |
+| [Bus Socket SMD 13.2](boards/m5stack/source-collection/bus-socket-smd-13.2--23f35935/README.md) | Source collection | 2 | 0 |
 | [Butterfly Launcher](boards/m5stack/expansion/butterfly-launcher--d83e1f9d/README.md) | Expansion | 1 | 0 |
-| [CamModule SC850SL](boards/m5stack/source-collection/cammodule-sc850sl--2b00fee9/README.md) | Source collection | 1 | 0 |
-| [Cap CC1101](boards/m5stack/source-collection/cap-cc1101--0dc7f571/README.md) | Source collection | 2 | 0 |
-| [Cap LoRa-1262](boards/m5stack/source-collection/cap-lora-1262--cf7400c3/README.md) | Source collection | 2 | 0 |
-| [Cap LoRa868](boards/m5stack/source-collection/cap-lora868--853e9c01/README.md) | Source collection | 1 | 0 |
-| [Capsule](boards/m5stack/esp32-s3/capsule--8cbfd0c9/README.md) | ESP32-S3 | 2 | 1 |
-| [Capsule Proto](boards/m5stack/source-collection/capsule-proto--53fb5f97/README.md) | Source collection | 1 | 0 |
-| [Capsule v1.1](boards/m5stack/esp32-s3/capsule-v1.1--c1a8b803/README.md) | ESP32-S3 | 4 | 1 |
-| [Cardputer](boards/m5stack/source-collection/cardputer--dc0288bf/README.md) | Source collection | 1 | 0 |
-| [Cardputer Accessory Kit](boards/m5stack/source-collection/cardputer-accessory-kit--b728559a/README.md) | Source collection | 1 | 0 |
+| [CamModule SC850SL](boards/m5stack/source-collection/cammodule-sc850sl--2b00fee9/README.md) | Source collection | 2 | 0 |
+| [Cap CC1101](boards/m5stack/source-collection/cap-cc1101--0dc7f571/README.md) | Source collection | 3 | 0 |
+| [Cap LoRa-1262](boards/m5stack/source-collection/cap-lora-1262--cf7400c3/README.md) | Source collection | 3 | 0 |
+| [Cap LoRa868](boards/m5stack/source-collection/cap-lora868--853e9c01/README.md) | Source collection | 2 | 0 |
+| [Capsule](boards/m5stack/esp32-s3/capsule--8cbfd0c9/README.md) | ESP32-S3 | 3 | 1 |
+| [Capsule Proto](boards/m5stack/source-collection/capsule-proto--53fb5f97/README.md) | Source collection | 2 | 0 |
+| [Capsule v1.1](boards/m5stack/esp32-s3/capsule-v1.1--c1a8b803/README.md) | ESP32-S3 | 5 | 1 |
+| [Cardputer](boards/m5stack/source-collection/cardputer--dc0288bf/README.md) | Source collection | 3 | 0 |
+| [Cardputer Accessory Kit](boards/m5stack/source-collection/cardputer-accessory-kit--b728559a/README.md) | Source collection | 2 | 0 |
 | [Cardputer Mesh Kit](boards/m5stack/source-collection/cardputer-mesh-kit--411284d3/README.md) | Source collection | 4 | 0 |
 | [Cardputer-Adv](boards/m5stack/esp32-s3/cardputer-adv--52772803/README.md) | ESP32-S3 | 4 | 1 |
 | [CardputerZero](boards/m5stack/raspberry-pi-cm0/cardputerzero--f53c0029/README.md) | Raspberry Pi CM0 | 3 | 2 |
-| [Chain Angle](boards/m5stack/source-collection/chain-angle--2a4b1a5d/README.md) | Source collection | 1 | 0 |
-| [Chain Blank](boards/m5stack/source-collection/chain-blank--cf70fbde/README.md) | Source collection | 1 | 0 |
-| [Chain Bridge](boards/m5stack/source-collection/chain-bridge--4120c793/README.md) | Source collection | 1 | 0 |
-| [Chain Buzzer](boards/m5stack/source-collection/chain-buzzer--140ef1bf/README.md) | Source collection | 2 | 0 |
-| [Chain DualKey](boards/m5stack/source-collection/chain-dualkey--1b422833/README.md) | Source collection | 1 | 0 |
+| [Chain Angle](boards/m5stack/source-collection/chain-angle--2a4b1a5d/README.md) | Source collection | 2 | 0 |
+| [Chain Blank](boards/m5stack/source-collection/chain-blank--cf70fbde/README.md) | Source collection | 2 | 0 |
+| [Chain Bridge](boards/m5stack/source-collection/chain-bridge--4120c793/README.md) | Source collection | 3 | 0 |
+| [Chain Buzzer](boards/m5stack/source-collection/chain-buzzer--140ef1bf/README.md) | Source collection | 3 | 0 |
+| [Chain DualKey](boards/m5stack/source-collection/chain-dualkey--1b422833/README.md) | Source collection | 3 | 0 |
 | [Chain Encoder](boards/m5stack/source-collection/chain-encoder--f2b0a69a/README.md) | Source collection | 1 | 0 |
-| [Chain Joystick](boards/m5stack/source-collection/chain-joystick--fe3a54d5/README.md) | Source collection | 1 | 0 |
+| [Chain Joystick](boards/m5stack/source-collection/chain-joystick--fe3a54d5/README.md) | Source collection | 3 | 0 |
 | [Chain Key](boards/m5stack/source-collection/chain-key--755967eb/README.md) | Source collection | 1 | 0 |
-| [Chain MIC](boards/m5stack/stm32g031g8u6/chain-mic--7c407238/README.md) | STM32G031G8U6 | 1 | 0 |
+| [Chain MIC](boards/m5stack/stm32g031g8u6/chain-mic--7c407238/README.md) | STM32G031G8U6 | 2 | 0 |
 | [Chain Mono](boards/m5stack/source-collection/chain-mono--0a91dd2f/README.md) | Source collection | 2 | 0 |
 | [Chain Mount](boards/m5stack/source-collection/chain-mount--c321cf89/README.md) | Source collection | 1 | 0 |
-| [Chain PIR](boards/m5stack/source-collection/chain-pir--ec1ef1bf/README.md) | Source collection | 1 | 0 |
+| [Chain PIR](boards/m5stack/source-collection/chain-pir--ec1ef1bf/README.md) | Source collection | 2 | 0 |
 | [Chain Return](boards/m5stack/source-collection/chain-return--f0369dbb/README.md) | Source collection | 1 | 0 |
-| [Chain RGB](boards/m5stack/stm32g031g8u6/chain-rgb--27e97649/README.md) | STM32G031G8U6 | 1 | 0 |
+| [Chain RGB](boards/m5stack/stm32g031g8u6/chain-rgb--27e97649/README.md) | STM32G031G8U6 | 2 | 0 |
 | [Chain Switch](boards/m5stack/stm32g031g8u6/chain-switch--d718d350/README.md) | STM32G031G8U6 | 1 | 0 |
-| [Chain ToF](boards/m5stack/source-collection/chain-tof--6e076c99/README.md) | Source collection | 2 | 0 |
-| [CLIP-A](boards/m5stack/source-collection/clip-a--a1243de4/README.md) | Source collection | 4 | 0 |
-| [CLIP-B](boards/m5stack/source-collection/clip-b--f3d3eaeb/README.md) | Source collection | 3 | 0 |
-| [CM4Stack](boards/m5stack/other-sbc/cm4stack--f3066c35/README.md) | Other SBC | 2 | 0 |
-| [Connector](boards/m5stack/source-collection/connector--7739064e/README.md) | Source collection | 11 | 0 |
+| [Chain ToF](boards/m5stack/source-collection/chain-tof--6e076c99/README.md) | Source collection | 3 | 0 |
+| [CLIP-A](boards/m5stack/source-collection/clip-a--a1243de4/README.md) | Source collection | 5 | 0 |
+| [CLIP-B](boards/m5stack/source-collection/clip-b--f3d3eaeb/README.md) | Source collection | 4 | 0 |
+| [CM4Stack](boards/m5stack/other-sbc/cm4stack--f3066c35/README.md) | Other SBC | 4 | 0 |
+| [Connector](boards/m5stack/source-collection/connector--7739064e/README.md) | Source collection | 12 | 0 |
 | [Core Metal](boards/m5stack/source-collection/core-metal--6ccc39c0/README.md) | Source collection | 1 | 0 |
-| [Core2](boards/m5stack/esp32-original/core2--0a447d1b/README.md) | ESP32 original | 2 | 0 |
+| [Core2](boards/m5stack/esp32-original/core2--0a447d1b/README.md) | ESP32 original | 4 | 0 |
+| [Core2 ESP32 IoT](boards/m5stack/esp32-original/core2-esp32-iot--1bca0fea/README.md) | ESP32 original | 2 | 0 |
 | [Core2 For AWS](boards/m5stack/source-collection/core2-for-aws--a6876e4a/README.md) | Source collection | 1 | 0 |
-| [Core2 For AWS v1.3](boards/m5stack/source-collection/core2-for-aws-v1.3--013215c0/README.md) | Source collection | 3 | 0 |
+| [Core2 For AWS v1.3](boards/m5stack/source-collection/core2-for-aws-v1.3--013215c0/README.md) | Source collection | 4 | 0 |
 | [Core2 v1.1](boards/m5stack/esp32-original/core2-v1.1--64a2cd79/README.md) | ESP32 original | 1 | 0 |
 | [Core2 v1.3](boards/m5stack/source-collection/core2-v1.3--cbce64b8/README.md) | Source collection | 3 | 0 |
 | [CoreInk](boards/m5stack/source-collection/coreink--bfc56923/README.md) | Source collection | 1 | 0 |
 | [CoreInk Proto Base](boards/m5stack/source-collection/coreink-proto-base--9ed9f9d0/README.md) | Source collection | 1 | 0 |
-| [CoreMP135](boards/m5stack/other-sbc/coremp135--b9433749/README.md) | Other SBC | 2 | 0 |
-| [CoreS3](boards/m5stack/esp32-s3/cores3--0f73cee2/README.md) | ESP32-S3 | 2 | 0 |
+| [CoreMP135](boards/m5stack/other-sbc/coremp135--b9433749/README.md) | Other SBC | 4 | 0 |
+| [CoreS3](boards/m5stack/esp32-s3/cores3--0f73cee2/README.md) | ESP32-S3 | 5 | 0 |
+| [CoreS3 ESP32 IoT](boards/m5stack/esp32-s3/cores3-esp32-iot--d3e976ce/README.md) | ESP32-S3 | 3 | 0 |
 | [CoreS3 Thread BR](boards/m5stack/source-collection/cores3-thread-br--b0305370/README.md) | Source collection | 1 | 0 |
 | [CoreS3-Lite](boards/m5stack/esp32-s3/cores3-lite--22c50451/README.md) | ESP32-S3 | 2 | 0 |
 | [CoreS3-SE](boards/m5stack/esp32-s3/cores3-se--da913d60/README.md) | ESP32-S3 | 1 | 0 |
-| [Corner](boards/m5stack/source-collection/corner--e95db1f2/README.md) | Source collection | 2 | 0 |
-| [Demo Board](boards/m5stack/source-collection/demo-board--a56ce74e/README.md) | Source collection | 1 | 0 |
+| [Corner](boards/m5stack/source-collection/corner--e95db1f2/README.md) | Source collection | 3 | 0 |
+| [Demo Board](boards/m5stack/source-collection/demo-board--a56ce74e/README.md) | Source collection | 2 | 0 |
 | [Demo Board-SHT30](boards/m5stack/source-collection/demo-board-sht30--60c8c260/README.md) | Source collection | 1 | 0 |
-| [Dial v1.1](boards/m5stack/source-collection/dial-v1.1--51f32751/README.md) | Source collection | 1 | 0 |
-| [DinMeter](boards/m5stack/source-collection/dinmeter--99b12b29/README.md) | Source collection | 1 | 0 |
+| [Dial - Smart Rotary Knob with Touch Screen](boards/m5stack/esp32-s3/dial-smart-rotary-knob-with-touch-screen--7c5dad04/README.md) | ESP32-S3 | 1 | 0 |
+| [Dial v1.1](boards/m5stack/source-collection/dial-v1.1--51f32751/README.md) | Source collection | 3 | 0 |
+| [DinMeter](boards/m5stack/source-collection/dinmeter--99b12b29/README.md) | Source collection | 3 | 0 |
 | [DinMeter v1.1](boards/m5stack/esp32-s3fn8/dinmeter-v1-1--d619c2e2/README.md) | ESP32-S3FN8 | 1 | 0 |
-| [Display 1.14 For StickS3](boards/m5stack/expansion/display-1.14-for-sticks3--3057bd8c/README.md) | Expansion | 2 | 1 |
+| [Display 1.14 For StickS3](boards/m5stack/expansion/display-1.14-for-sticks3--3057bd8c/README.md) | Expansion | 3 | 1 |
 | [Display 1.14 Inch](boards/m5stack/source-collection/display-1.14-inch--4fcfe976/README.md) | Source collection | 1 | 0 |
-| [ESP32-CAM PSRAM](boards/m5stack/esp32/esp32-cam-psram--cb895c83/README.md) | ESP32 | 1 | 0 |
+| [ESP32-CAM PSRAM](boards/m5stack/esp32/esp32-cam-psram--cb895c83/README.md) | ESP32 | 2 | 0 |
 | [Faces Bottom3](boards/m5stack/source-collection/faces-bottom3--43dddeac/README.md) | Source collection | 3 | 0 |
 | [Faces Calculator](boards/m5stack/expansion/faces-calculator--8aab9420/README.md) | Expansion | 1 | 0 |
-| [Faces Calculator3](boards/m5stack/source-collection/faces-calculator3--21efcc3c/README.md) | Source collection | 2 | 0 |
-| [Faces Encoder](boards/m5stack/expansion/faces-encoder--9edf61f4/README.md) | Expansion | 1 | 0 |
+| [Faces Calculator3](boards/m5stack/source-collection/faces-calculator3--21efcc3c/README.md) | Source collection | 3 | 0 |
+| [Faces Encoder](boards/m5stack/expansion/faces-encoder--9edf61f4/README.md) | Expansion | 2 | 0 |
 | [Faces Gamepad](boards/m5stack/expansion/faces-gamepad--3315b4ea/README.md) | Expansion | 1 | 0 |
-| [Faces Gamepad3](boards/m5stack/source-collection/faces-gamepad3--c613f5ed/README.md) | Source collection | 2 | 0 |
-| [Faces Joystick](boards/m5stack/expansion/faces-joystick--e16a44b0/README.md) | Expansion | 1 | 0 |
-| [Faces Keyboard3](boards/m5stack/source-collection/faces-keyboard3--3e641f27/README.md) | Source collection | 2 | 0 |
+| [Faces Gamepad3](boards/m5stack/source-collection/faces-gamepad3--c613f5ed/README.md) | Source collection | 3 | 0 |
+| [Faces Joystick](boards/m5stack/expansion/faces-joystick--e16a44b0/README.md) | Expansion | 2 | 0 |
+| [Faces Keyboard3](boards/m5stack/source-collection/faces-keyboard3--3e641f27/README.md) | Source collection | 3 | 0 |
 | [Faces Kit](boards/m5stack/esp32-original/faces-kit--48163c96/README.md) | ESP32 original | 1 | 0 |
-| [Faces QWERTY](boards/m5stack/expansion/faces-qwerty--f0daefca/README.md) | Expansion | 1 | 0 |
+| [Faces QWERTY](boards/m5stack/expansion/faces-qwerty--f0daefca/README.md) | Expansion | 2 | 0 |
 | [Fire](boards/m5stack/source-collection/fire--5f2df3bb/README.md) | Source collection | 2 | 0 |
 | [Frame](boards/m5stack/source-collection/frame--a7814bc7/README.md) | Source collection | 1 | 0 |
-| [Grove Converter](boards/m5stack/source-collection/grove-converter--f451a7b4/README.md) | Source collection | 1 | 0 |
+| [Grove Converter](boards/m5stack/source-collection/grove-converter--f451a7b4/README.md) | Source collection | 2 | 0 |
 | [Grove T](boards/m5stack/source-collection/grove-t--a8efc59d/README.md) | Source collection | 1 | 0 |
-| [Grove to 4P](boards/m5stack/source-collection/grove-to-4p--2d75ce31/README.md) | Source collection | 1 | 0 |
-| [Grove to Grove](boards/m5stack/source-collection/grove-to-grove--251f8e95/README.md) | Source collection | 1 | 0 |
+| [Grove to 4P](boards/m5stack/source-collection/grove-to-4p--2d75ce31/README.md) | Source collection | 2 | 0 |
+| [Grove to Grove](boards/m5stack/source-collection/grove-to-grove--251f8e95/README.md) | Source collection | 2 | 0 |
 | [Grove to PIN](boards/m5stack/source-collection/grove-to-pin--7c237b8f/README.md) | Source collection | 1 | 0 |
 | [Grove to Servo](boards/m5stack/source-collection/grove-to-servo--109ae6cd/README.md) | Source collection | 1 | 0 |
-| [Grove to USBC](boards/m5stack/source-collection/grove-to-usbc--85523dee/README.md) | Source collection | 1 | 0 |
+| [Grove to USBC](boards/m5stack/source-collection/grove-to-usbc--85523dee/README.md) | Source collection | 3 | 0 |
 | [Guide Rail](boards/m5stack/source-collection/guide-rail--5694cda4/README.md) | Source collection | 1 | 0 |
-| [Hat 18650C](boards/m5stack/source-collection/hat-18650c--c5e2a4c2/README.md) | Source collection | 1 | 0 |
+| [Hat 18650C](boards/m5stack/source-collection/hat-18650c--c5e2a4c2/README.md) | Source collection | 3 | 0 |
 | [Hat 8Servos](boards/m5stack/expansion/hat-8servos--140f5c75/README.md) | Expansion | 1 | 1 |
-| [Hat 8Servos v1.1](boards/m5stack/source-collection/hat-8servos-v1.1--fcd79906/README.md) | Source collection | 1 | 0 |
-| [Hat ADC](boards/m5stack/source-collection/hat-adc--4fc9fd81/README.md) | Source collection | 1 | 0 |
-| [Hat CardKB](boards/m5stack/expansion/hat-cardkb--1fba1e41/README.md) | Expansion | 1 | 0 |
+| [Hat 8Servos v1.1](boards/m5stack/source-collection/hat-8servos-v1.1--fcd79906/README.md) | Source collection | 3 | 0 |
+| [Hat ADC](boards/m5stack/source-collection/hat-adc--4fc9fd81/README.md) | Source collection | 3 | 0 |
+| [Hat CardKB](boards/m5stack/expansion/hat-cardkb--1fba1e41/README.md) | Expansion | 2 | 0 |
 | [Hat CBack Driver](boards/m5stack/source-collection/hat-cback-driver--4822eb9b/README.md) | Source collection | 1 | 0 |
-| [Hat CBack NBIoT](boards/m5stack/source-collection/hat-cback-nbiot--08fb5a3c/README.md) | Source collection | 1 | 0 |
-| [Hat DAC2](boards/m5stack/source-collection/hat-dac2--3d42a79b/README.md) | Source collection | 1 | 0 |
-| [Hat DLight](boards/m5stack/source-collection/hat-dlight--2ce4c7a0/README.md) | Source collection | 1 | 0 |
-| [Hat ENV-III](boards/m5stack/source-collection/hat-env-iii--748cac35/README.md) | Source collection | 1 | 0 |
-| [Hat Finger](boards/m5stack/source-collection/hat-finger--154bcb13/README.md) | Source collection | 1 | 0 |
-| [Hat JoyC](boards/m5stack/source-collection/hat-joyc--e0c5cc08/README.md) | Source collection | 1 | 0 |
-| [Hat Joystick](boards/m5stack/source-collection/hat-joystick--3377413f/README.md) | Source collection | 1 | 0 |
-| [Hat Mini EncoderC](boards/m5stack/source-collection/hat-mini-encoderc--c63876fc/README.md) | Source collection | 1 | 0 |
-| [Hat Mini JoyC](boards/m5stack/source-collection/hat-mini-joyc--534be68b/README.md) | Source collection | 1 | 0 |
-| [Hat NCIR](boards/m5stack/source-collection/hat-ncir--8cb2e51b/README.md) | Source collection | 1 | 0 |
-| [Hat PIR](boards/m5stack/source-collection/hat-pir--07b24e89/README.md) | Source collection | 1 | 0 |
-| [Hat Proto](boards/m5stack/source-collection/hat-proto--718443f6/README.md) | Source collection | 1 | 0 |
-| [Hat RS485](boards/m5stack/source-collection/hat-rs485--7369b82e/README.md) | Source collection | 1 | 0 |
-| [Hat Servo](boards/m5stack/source-collection/hat-servo--6ed11cb8/README.md) | Source collection | 1 | 0 |
-| [Hat SPK](boards/m5stack/source-collection/hat-spk--a85cf5ae/README.md) | Source collection | 1 | 0 |
-| [Hat Thermal](boards/m5stack/source-collection/hat-thermal--6816d162/README.md) | Source collection | 1 | 0 |
-| [Hat ToF](boards/m5stack/source-collection/hat-tof--6bc7fd31/README.md) | Source collection | 1 | 0 |
-| [Hat Vibrator](boards/m5stack/source-collection/hat-vibrator--3047c4d4/README.md) | Source collection | 1 | 0 |
+| [Hat CBack NBIoT](boards/m5stack/source-collection/hat-cback-nbiot--08fb5a3c/README.md) | Source collection | 2 | 0 |
+| [Hat DAC2](boards/m5stack/source-collection/hat-dac2--3d42a79b/README.md) | Source collection | 2 | 0 |
+| [Hat DLight](boards/m5stack/source-collection/hat-dlight--2ce4c7a0/README.md) | Source collection | 2 | 0 |
+| [Hat ENV-III](boards/m5stack/source-collection/hat-env-iii--748cac35/README.md) | Source collection | 2 | 0 |
+| [Hat Finger](boards/m5stack/source-collection/hat-finger--154bcb13/README.md) | Source collection | 2 | 0 |
+| [Hat JoyC](boards/m5stack/source-collection/hat-joyc--e0c5cc08/README.md) | Source collection | 2 | 0 |
+| [Hat Joystick](boards/m5stack/source-collection/hat-joystick--3377413f/README.md) | Source collection | 2 | 0 |
+| [Hat Mini EncoderC](boards/m5stack/source-collection/hat-mini-encoderc--c63876fc/README.md) | Source collection | 2 | 0 |
+| [Hat Mini JoyC](boards/m5stack/source-collection/hat-mini-joyc--534be68b/README.md) | Source collection | 2 | 0 |
+| [Hat NCIR](boards/m5stack/source-collection/hat-ncir--8cb2e51b/README.md) | Source collection | 2 | 0 |
+| [Hat PIR](boards/m5stack/source-collection/hat-pir--07b24e89/README.md) | Source collection | 2 | 0 |
+| [Hat Proto](boards/m5stack/source-collection/hat-proto--718443f6/README.md) | Source collection | 2 | 0 |
+| [Hat RS485](boards/m5stack/source-collection/hat-rs485--7369b82e/README.md) | Source collection | 2 | 0 |
+| [Hat Servo](boards/m5stack/source-collection/hat-servo--6ed11cb8/README.md) | Source collection | 2 | 0 |
+| [Hat SPK](boards/m5stack/source-collection/hat-spk--a85cf5ae/README.md) | Source collection | 2 | 0 |
+| [Hat Thermal](boards/m5stack/source-collection/hat-thermal--6816d162/README.md) | Source collection | 2 | 0 |
+| [Hat ToF](boards/m5stack/source-collection/hat-tof--6bc7fd31/README.md) | Source collection | 2 | 0 |
+| [Hat Vibrator](boards/m5stack/source-collection/hat-vibrator--3047c4d4/README.md) | Source collection | 3 | 0 |
 | [HY2.0-4P SMD](boards/m5stack/source-collection/hy2.0-4p-smd--49ee0c1b/README.md) | Source collection | 1 | 0 |
-| [IoT Base CatM](boards/m5stack/source-collection/iot-base-catm--4f708403/README.md) | Source collection | 1 | 0 |
-| [IoT Base NBIoT-CN](boards/m5stack/source-collection/iot-base-nbiot-cn--b922f26b/README.md) | Source collection | 1 | 0 |
+| [IoT Base CatM](boards/m5stack/source-collection/iot-base-catm--4f708403/README.md) | Source collection | 2 | 0 |
+| [IoT Base NBIoT-CN](boards/m5stack/source-collection/iot-base-nbiot-cn--b922f26b/README.md) | Source collection | 2 | 0 |
 | [IoT Base Thermal Online CatM](boards/m5stack/source-collection/iot-base-thermal-online-catm--066aedd4/README.md) | Source collection | 1 | 0 |
 | [KeyCap](boards/m5stack/source-collection/keycap--4a64beb9/README.md) | Source collection | 1 | 0 |
 | [LidarBot](boards/m5stack/source-collection/lidarbot--29c5a837/README.md) | Source collection | 1 | 0 |
 | [LLM-8850 Card](boards/m5stack/source-collection/llm-8850-card--d42babdc/README.md) | Source collection | 1 | 0 |
 | [LLM-8850 Kit](boards/m5stack/source-collection/llm-8850-kit--a52f1387/README.md) | Source collection | 1 | 0 |
-| [LLM630 Compute Kit](boards/m5stack/other-sbc/llm630-compute-kit--ed1fe5e7/README.md) | Other SBC | 2 | 0 |
-| [M5Camera](boards/m5stack/esp32-original/m5camera--d6433470/README.md) | ESP32 original | 1 | 0 |
-| [M5Camera-X](boards/m5stack/source-collection/m5camera-x--99d2e3ac/README.md) | Source collection | 1 | 0 |
+| [LLM630 Compute Kit](boards/m5stack/other-sbc/llm630-compute-kit--ed1fe5e7/README.md) | Other SBC | 4 | 0 |
+| [M5Camera](boards/m5stack/esp32-original/m5camera--d6433470/README.md) | ESP32 original | 2 | 0 |
+| [M5Camera-X](boards/m5stack/source-collection/m5camera-x--99d2e3ac/README.md) | Source collection | 2 | 0 |
 | [M5GO-Lite](boards/m5stack/esp32-original/m5go-lite--30b49007/README.md) | ESP32 original | 1 | 0 |
-| [M5Stack Tab5 IoT Development Kit](boards/m5stack/esp32-p4/m5stack-tab5-iot-development-kit--afd4122f/README.md) | ESP32-P4 | 1 | 1 |
-| [M5Stamp C3](boards/m5stack/esp32-c3/m5stamp-c3--d1af5d77/README.md) | ESP32-C3 | 1 | 1 |
-| [Magnet Nut](boards/m5stack/source-collection/magnet-nut--99e42be2/README.md) | Source collection | 1 | 0 |
-| [Magnetic Type-C Cable](boards/m5stack/source-collection/magnetic-type-c-cable--4b2eb1fa/README.md) | Source collection | 1 | 0 |
-| [Module 4EncoderMotor](boards/m5stack/source-collection/module-4encodermotor--83e7ecef/README.md) | Source collection | 1 | 0 |
-| [Module 4EncoderMotor v1.1](boards/m5stack/source-collection/module-4encodermotor-v1.1--91fe1ece/README.md) | Source collection | 1 | 0 |
+| [M5Paper ESP32 Dev Kit](boards/m5stack/esp32-original/m5paper-esp32-dev-kit--ebf85768/README.md) | ESP32 original | 1 | 0 |
+| [M5Stack CardPuter - M5StampS3 powered mini computer](boards/m5stack/esp32-s3/m5stack-cardputer-m5stamps3-powered-mini-computer--72476bc2/README.md) | ESP32-S3 | 2 | 0 |
+| [M5Stack CardPuter - M5StampS3 powered mini computer (MicroROS)](boards/m5stack/esp32-s3/m5stack-cardputer-m5stamps3-powered-mini-computer-microros--52fedaa4/README.md) | ESP32-S3 | 2 | 0 |
+| [M5Stack Din Meter w/ M5StampS3](boards/m5stack/esp32-s3/m5stack-din-meter-w-m5stamps3--267e0ce2/README.md) | ESP32-S3 | 2 | 0 |
+| [M5Stack FIRE IoT](boards/m5stack/esp32-original/m5stack-fire-iot--48c32837/README.md) | ESP32 original | 2 | 0 |
+| [M5Stack Tab5 IoT Development Kit](boards/m5stack/esp32-p4/m5stack-tab5-iot-development-kit--afd4122f/README.md) | ESP32-P4 | 2 | 1 |
+| [M5Stamp C3](boards/m5stack/esp32-c3/m5stamp-c3--d1af5d77/README.md) | ESP32-C3 | 2 | 1 |
+| [Magnet Nut](boards/m5stack/source-collection/magnet-nut--99e42be2/README.md) | Source collection | 2 | 0 |
+| [Magnetic Type-C Cable](boards/m5stack/source-collection/magnetic-type-c-cable--4b2eb1fa/README.md) | Source collection | 2 | 0 |
+| [Module 4EncoderMotor](boards/m5stack/source-collection/module-4encodermotor--83e7ecef/README.md) | Source collection | 2 | 0 |
+| [Module 4EncoderMotor v1.1](boards/m5stack/source-collection/module-4encodermotor-v1.1--91fe1ece/README.md) | Source collection | 2 | 0 |
 | [Module Air Quality](boards/m5stack/source-collection/module-air-quality--3c94f508/README.md) | Source collection | 1 | 0 |
-| [Module ASR](boards/m5stack/source-collection/module-asr--ae328a98/README.md) | Source collection | 1 | 0 |
-| [Module Audio](boards/m5stack/expansion/module-audio--eb7b139c/README.md) | Expansion | 2 | 1 |
-| [Module Battery](boards/m5stack/source-collection/module-battery--bb034a0b/README.md) | Source collection | 1 | 0 |
-| [Module Bus](boards/m5stack/source-collection/module-bus--4950a31e/README.md) | Source collection | 1 | 0 |
-| [Module CC1101](boards/m5stack/source-collection/module-cc1101--e7d06f49/README.md) | Source collection | 1 | 0 |
-| [Module COMMU](boards/m5stack/source-collection/module-commu--25965cbf/README.md) | Source collection | 1 | 0 |
-| [Module COMX Cat1](boards/m5stack/source-collection/module-comx-cat1--33ab70fd/README.md) | Source collection | 1 | 0 |
+| [Module ASR](boards/m5stack/source-collection/module-asr--ae328a98/README.md) | Source collection | 3 | 0 |
+| [Module Audio](boards/m5stack/expansion/module-audio--eb7b139c/README.md) | Expansion | 4 | 1 |
+| [Module Battery](boards/m5stack/source-collection/module-battery--bb034a0b/README.md) | Source collection | 2 | 0 |
+| [Module Bus](boards/m5stack/source-collection/module-bus--4950a31e/README.md) | Source collection | 2 | 0 |
+| [Module CC1101](boards/m5stack/source-collection/module-cc1101--e7d06f49/README.md) | Source collection | 2 | 0 |
+| [Module COMMU](boards/m5stack/source-collection/module-commu--25965cbf/README.md) | Source collection | 2 | 0 |
+| [Module COMX Cat1](boards/m5stack/source-collection/module-comx-cat1--33ab70fd/README.md) | Source collection | 2 | 0 |
 | [Module DCMotor](boards/m5stack/expansion/module-dcmotor--c4c6cd2f/README.md) | Expansion | 2 | 0 |
-| [Module ExtPort For Core2](boards/m5stack/source-collection/module-extport-for-core2--f30d7d51/README.md) | Source collection | 2 | 0 |
-| [Module Fan v1.1](boards/m5stack/source-collection/module-fan-v1.1--02a36515/README.md) | Source collection | 1 | 0 |
+| [Module ExtPort For Core2](boards/m5stack/source-collection/module-extport-for-core2--f30d7d51/README.md) | Source collection | 4 | 0 |
+| [Module Fan v1.1](boards/m5stack/source-collection/module-fan-v1.1--02a36515/README.md) | Source collection | 3 | 0 |
 | [Module Gateway H2](boards/m5stack/source-collection/module-gateway-h2--e46c999f/README.md) | Source collection | 1 | 0 |
-| [Module GoPlus](boards/m5stack/expansion/module-goplus--6bd0d9c6/README.md) | Expansion | 1 | 0 |
-| [Module GPS v2.0](boards/m5stack/expansion/module-gps-v2.0--11fbe19b/README.md) | Expansion | 2 | 1 |
-| [Module GPS v2.1](boards/m5stack/source-collection/module-gps-v2.1--27d971b2/README.md) | Source collection | 1 | 0 |
-| [Module HMI](boards/m5stack/source-collection/module-hmi--1668b9d0/README.md) | Source collection | 1 | 0 |
-| [Module LLM](boards/m5stack/expansion/module-llm--f653213d/README.md) | Expansion | 2 | 1 |
-| [Module LLM Kit](boards/m5stack/expansion/module-llm-kit--934f8147/README.md) | Expansion | 2 | 1 |
-| [Module LoRa433 v1.1](boards/m5stack/source-collection/module-lora433-v1.1--4a948a94/README.md) | Source collection | 1 | 0 |
+| [Module GoPlus](boards/m5stack/expansion/module-goplus--6bd0d9c6/README.md) | Expansion | 2 | 0 |
+| [Module GPS v2.0](boards/m5stack/expansion/module-gps-v2.0--11fbe19b/README.md) | Expansion | 3 | 1 |
+| [Module GPS v2.1](boards/m5stack/source-collection/module-gps-v2.1--27d971b2/README.md) | Source collection | 2 | 0 |
+| [Module HMI](boards/m5stack/source-collection/module-hmi--1668b9d0/README.md) | Source collection | 2 | 0 |
+| [Module LLM](boards/m5stack/expansion/module-llm--f653213d/README.md) | Expansion | 3 | 1 |
+| [Module LLM Kit](boards/m5stack/expansion/module-llm-kit--934f8147/README.md) | Expansion | 3 | 1 |
+| [Module LoRa433 v1.1](boards/m5stack/source-collection/module-lora433-v1.1--4a948a94/README.md) | Source collection | 2 | 0 |
 | [Module LoRaWAN-EU868](boards/m5stack/source-collection/module-lorawan-eu868--03689812/README.md) | Source collection | 1 | 0 |
-| [Module Plus](boards/m5stack/expansion/module-plus--417fe116/README.md) | Expansion | 1 | 0 |
-| [Module Proto](boards/m5stack/source-collection/module-proto--93cfe075/README.md) | Source collection | 1 | 0 |
+| [Module Plus](boards/m5stack/expansion/module-plus--417fe116/README.md) | Expansion | 2 | 0 |
+| [Module Proto](boards/m5stack/source-collection/module-proto--93cfe075/README.md) | Source collection | 2 | 0 |
 | [Module Proto Frame](boards/m5stack/source-collection/module-proto-frame--051aef01/README.md) | Source collection | 1 | 0 |
 | [Module Servo](boards/m5stack/expansion/module-servo--59358f38/README.md) | Expansion | 1 | 0 |
-| [Module Stepmotor](boards/m5stack/expansion/module-stepmotor--58f93674/README.md) | Expansion | 1 | 0 |
-| [Module USB v1.2](boards/m5stack/expansion/module-usb-v1.2--17e719b3/README.md) | Expansion | 2 | 0 |
-| [Module13.2 2Relay](boards/m5stack/source-collection/module13.2-2relay--4da0ba87/README.md) | Source collection | 1 | 0 |
-| [Module13.2 4In8Out](boards/m5stack/source-collection/module13.2-4in8out--c555bd77/README.md) | Source collection | 1 | 0 |
-| [Module13.2 4Relay v1.1](boards/m5stack/source-collection/module13.2-4relay-v1.1--43d8547a/README.md) | Source collection | 1 | 0 |
-| [Module13.2 AIN4-20mA](boards/m5stack/source-collection/module13.2-ain4-20ma--80c3b2fd/README.md) | Source collection | 1 | 0 |
-| [Module13.2 Battery](boards/m5stack/source-collection/module13.2-battery--e90d93e0/README.md) | Source collection | 1 | 0 |
-| [Module13.2 BLDC Drvier](boards/m5stack/source-collection/module13.2-bldc-drvier--ee8de49a/README.md) | Source collection | 1 | 0 |
-| [Module13.2 Display](boards/m5stack/source-collection/module13.2-display--4ec30738/README.md) | Source collection | 1 | 0 |
-| [Module13.2 Dual Kmeter](boards/m5stack/source-collection/module13.2-dual-kmeter--bf4d5df4/README.md) | Source collection | 1 | 0 |
-| [Module13.2 ECG](boards/m5stack/source-collection/module13.2-ecg--8dfb12c1/README.md) | Source collection | 1 | 0 |
+| [Module Stepmotor](boards/m5stack/expansion/module-stepmotor--58f93674/README.md) | Expansion | 2 | 0 |
+| [Module USB v1.2](boards/m5stack/expansion/module-usb-v1.2--17e719b3/README.md) | Expansion | 3 | 0 |
+| [Module13.2 2Relay](boards/m5stack/source-collection/module13.2-2relay--4da0ba87/README.md) | Source collection | 3 | 0 |
+| [Module13.2 4In8Out](boards/m5stack/source-collection/module13.2-4in8out--c555bd77/README.md) | Source collection | 3 | 0 |
+| [Module13.2 4Relay v1.1](boards/m5stack/source-collection/module13.2-4relay-v1.1--43d8547a/README.md) | Source collection | 3 | 0 |
+| [Module13.2 AIN4-20mA](boards/m5stack/source-collection/module13.2-ain4-20ma--80c3b2fd/README.md) | Source collection | 3 | 0 |
+| [Module13.2 Battery](boards/m5stack/source-collection/module13.2-battery--e90d93e0/README.md) | Source collection | 2 | 0 |
+| [Module13.2 BLDC Drvier](boards/m5stack/source-collection/module13.2-bldc-drvier--ee8de49a/README.md) | Source collection | 2 | 0 |
+| [Module13.2 Display](boards/m5stack/source-collection/module13.2-display--4ec30738/README.md) | Source collection | 3 | 0 |
+| [Module13.2 Dual Kmeter](boards/m5stack/source-collection/module13.2-dual-kmeter--bf4d5df4/README.md) | Source collection | 2 | 0 |
+| [Module13.2 ECG](boards/m5stack/source-collection/module13.2-ecg--8dfb12c1/README.md) | Source collection | 2 | 0 |
 | [Module13.2 GoPlus2](boards/m5stack/source-collection/module13.2-goplus2--9107347b/README.md) | Source collection | 1 | 0 |
-| [Module13.2 GRBL](boards/m5stack/source-collection/module13.2-grbl--1655ceaf/README.md) | Source collection | 1 | 0 |
-| [Module13.2 LAN](boards/m5stack/expansion/module13.2-lan--1fdefcc2/README.md) | Expansion | 2 | 1 |
-| [Module13.2 LoRa-1262](boards/m5stack/expansion/module13.2-lora-1262--0ab68350/README.md) | Expansion | 3 | 1 |
-| [Module13.2 PPS](boards/m5stack/source-collection/module13.2-pps--ef6deb9f/README.md) | Source collection | 1 | 0 |
-| [Module13.2 Proto](boards/m5stack/source-collection/module13.2-proto--c571ab0a/README.md) | Source collection | 1 | 0 |
-| [Module13.2 Proto-Meas](boards/m5stack/source-collection/module13.2-proto-meas--ac36c9ca/README.md) | Source collection | 1 | 0 |
-| [Module13.2 PwrCAN](boards/m5stack/expansion/module13.2-pwrcan--c4f185a8/README.md) | Expansion | 2 | 1 |
-| [Module13.2 QRCode](boards/m5stack/source-collection/module13.2-qrcode--319a57c7/README.md) | Source collection | 1 | 0 |
-| [Module13.2 RCA](boards/m5stack/source-collection/module13.2-rca--17046b3a/README.md) | Source collection | 1 | 0 |
-| [Module13.2 RS232F](boards/m5stack/source-collection/module13.2-rs232f--897efd5c/README.md) | Source collection | 1 | 0 |
-| [Module13.2 Servo2](boards/m5stack/source-collection/module13.2-servo2--4a8979f5/README.md) | Source collection | 1 | 0 |
+| [Module13.2 GRBL](boards/m5stack/source-collection/module13.2-grbl--1655ceaf/README.md) | Source collection | 3 | 0 |
+| [Module13.2 LAN](boards/m5stack/expansion/module13.2-lan--1fdefcc2/README.md) | Expansion | 4 | 1 |
+| [Module13.2 LoRa-1262](boards/m5stack/expansion/module13.2-lora-1262--0ab68350/README.md) | Expansion | 4 | 1 |
+| [Module13.2 PPS](boards/m5stack/source-collection/module13.2-pps--ef6deb9f/README.md) | Source collection | 2 | 0 |
+| [Module13.2 Proto](boards/m5stack/source-collection/module13.2-proto--c571ab0a/README.md) | Source collection | 2 | 0 |
+| [Module13.2 Proto-Meas](boards/m5stack/source-collection/module13.2-proto-meas--ac36c9ca/README.md) | Source collection | 2 | 0 |
+| [Module13.2 PwrCAN](boards/m5stack/expansion/module13.2-pwrcan--c4f185a8/README.md) | Expansion | 4 | 1 |
+| [Module13.2 QRCode](boards/m5stack/source-collection/module13.2-qrcode--319a57c7/README.md) | Source collection | 2 | 0 |
+| [Module13.2 RCA](boards/m5stack/source-collection/module13.2-rca--17046b3a/README.md) | Source collection | 2 | 0 |
+| [Module13.2 RS232F](boards/m5stack/source-collection/module13.2-rs232f--897efd5c/README.md) | Source collection | 3 | 0 |
+| [Module13.2 Servo2](boards/m5stack/source-collection/module13.2-servo2--4a8979f5/README.md) | Source collection | 3 | 0 |
 | [Module13.2 Stepmotor Driver v1.1](boards/m5stack/expansion/module13.2-stepmotor-driver-v1.1--dce2be1a/README.md) | Expansion | 2 | 1 |
 | [NanoC6](boards/m5stack/source-collection/nanoc6--2c53d67b/README.md) | Source collection | 1 | 0 |
 | [Nut](boards/m5stack/source-collection/nut--128754ee/README.md) | Source collection | 1 | 0 |
 | [Panel Frame](boards/m5stack/source-collection/panel-frame--b138ec90/README.md) | Source collection | 1 | 0 |
-| [Paper](boards/m5stack/source-collection/paper--8258c917/README.md) | Source collection | 1 | 0 |
+| [Paper](boards/m5stack/source-collection/paper--8258c917/README.md) | Source collection | 2 | 0 |
 | [PaperColor](boards/m5stack/source-collection/papercolor--deae4834/README.md) | Source collection | 2 | 0 |
-| [PaperMono](boards/m5stack/source-collection/papermono--4e2a3be2/README.md) | Source collection | 2 | 0 |
-| [PaperMono-Lite](boards/m5stack/esp32-s3r8/papermono-lite--aa91cb06/README.md) | ESP32-S3R8 | 1 | 0 |
+| [PaperMono](boards/m5stack/source-collection/papermono--4e2a3be2/README.md) | Source collection | 3 | 0 |
+| [PaperMono-Lite](boards/m5stack/esp32-s3r8/papermono-lite--aa91cb06/README.md) | ESP32-S3R8 | 2 | 0 |
 | [PaperS3](boards/m5stack/source-collection/papers3--adfc71d1/README.md) | Source collection | 1 | 0 |
-| [PM2.5 Air Quality Kit-SHT30](boards/m5stack/source-collection/pm2.5-air-quality-kit-sht30--0c814a03/README.md) | Source collection | 1 | 0 |
-| [PowerHub](boards/m5stack/source-collection/powerhub--d28796f7/README.md) | Source collection | 1 | 0 |
+| [PM2.5 Air Quality Kit-SHT30](boards/m5stack/source-collection/pm2.5-air-quality-kit-sht30--0c814a03/README.md) | Source collection | 4 | 0 |
+| [PowerHub](boards/m5stack/source-collection/powerhub--d28796f7/README.md) | Source collection | 4 | 0 |
 | [Proto Board](boards/m5stack/source-collection/proto-board--d78170dd/README.md) | Source collection | 1 | 0 |
-| [SandwichC](boards/m5stack/source-collection/sandwichc--233e1327/README.md) | Source collection | 1 | 0 |
+| [SandwichC](boards/m5stack/source-collection/sandwichc--233e1327/README.md) | Source collection | 2 | 0 |
 | [Scales Kit](boards/m5stack/source-collection/scales-kit--8884770a/README.md) | Source collection | 1 | 0 |
-| [Servo Kit 180°](boards/m5stack/source-collection/servo-kit-180--b56dba84/README.md) | Source collection | 1 | 0 |
+| [Servo Kit 180°](boards/m5stack/source-collection/servo-kit-180--b56dba84/README.md) | Source collection | 2 | 0 |
 | [StackChan](boards/m5stack/source-collection/stackchan--3e6b0ed9/README.md) | Source collection | 2 | 0 |
-| [StackChan Body](boards/m5stack/source-collection/stackchan-body--7c913482/README.md) | Source collection | 5 | 0 |
+| [StackChan Body](boards/m5stack/source-collection/stackchan-body--7c913482/README.md) | Source collection | 6 | 0 |
 | [StackChan Core](boards/m5stack/esp32-s3/stackchan-core--417d7268/README.md) | ESP32-S3 | 1 | 0 |
-| [Stamp C6LoRa](boards/m5stack/esp32-c6/stamp-c6lora--dd3c9e5c/README.md) | ESP32-C6 | 3 | 1 |
-| [Stamp Cat1](boards/m5stack/source-collection/stamp-cat1--02971278/README.md) | Source collection | 1 | 0 |
-| [Stamp IO](boards/m5stack/source-collection/stamp-io--f759ca2a/README.md) | Source collection | 1 | 0 |
-| [Stamp ISP](boards/m5stack/source-collection/stamp-isp--469076c8/README.md) | Source collection | 1 | 0 |
+| [Stamp C6LoRa](boards/m5stack/esp32-c6/stamp-c6lora--dd3c9e5c/README.md) | ESP32-C6 | 4 | 1 |
+| [Stamp Cat1](boards/m5stack/source-collection/stamp-cat1--02971278/README.md) | Source collection | 3 | 0 |
+| [Stamp IO](boards/m5stack/source-collection/stamp-io--f759ca2a/README.md) | Source collection | 2 | 0 |
+| [Stamp ISP](boards/m5stack/source-collection/stamp-isp--469076c8/README.md) | Source collection | 2 | 0 |
 | [Stamp LoRa-1262](boards/m5stack/expansion/stamp-lora-1262--f494a95f/README.md) | Expansion | 7 | 3 |
 | [Stamp LoRa-1262 I](boards/m5stack/expansion/stamp-lora-1262-i--f7ce58e1/README.md) | Expansion | 1 | 1 |
 | [Stamp LoRa-1262 IF](boards/m5stack/expansion/stamp-lora-1262-if--7c9aa2c3/README.md) | Expansion | 1 | 1 |
-| [Stamp PWR485](boards/m5stack/source-collection/stamp-pwr485--18074507/README.md) | Source collection | 1 | 0 |
-| [Stamp Timer Power](boards/m5stack/source-collection/stamp-timer-power--ea8df782/README.md) | Source collection | 1 | 0 |
-| [Stamp UWB](boards/m5stack/expansion/stamp-uwb--ad26f54f/README.md) | Expansion | 3 | 1 |
+| [Stamp PWR485](boards/m5stack/source-collection/stamp-pwr485--18074507/README.md) | Source collection | 2 | 0 |
+| [Stamp Timer Power](boards/m5stack/source-collection/stamp-timer-power--ea8df782/README.md) | Source collection | 3 | 0 |
+| [Stamp UWB](boards/m5stack/expansion/stamp-uwb--ad26f54f/README.md) | Expansion | 4 | 1 |
 | [Stamp UWB F](boards/m5stack/expansion/stamp-uwb-f--7f31436c/README.md) | Expansion | 3 | 1 |
-| [Stamp-AddOn C6 For P4](boards/m5stack/esp32-c6/stamp-addon-c6-for-p4--eb96a163/README.md) | ESP32-C6 | 3 | 1 |
+| [Stamp-AddOn C6 For P4](boards/m5stack/esp32-c6/stamp-addon-c6-for-p4--eb96a163/README.md) | ESP32-C6 | 4 | 1 |
 | [Stamp-AddOn Cam0308](boards/m5stack/expansion/stamp-addon-cam0308--c7b86a14/README.md) | Expansion | 3 | 1 |
 | [Stamp-AddOn Cam3660](boards/m5stack/expansion/stamp-addon-cam3660--cdd12c99/README.md) | Expansion | 1 | 1 |
-| [Stamp-C3](boards/m5stack/source-collection/stamp-c3--05a67d20/README.md) | Source collection | 1 | 0 |
+| [Stamp-C3](boards/m5stack/source-collection/stamp-c3--05a67d20/README.md) | Source collection | 2 | 0 |
 | [Stamp-C3 Mate](boards/m5stack/esp32-c3/stamp-c3-mate--f6f55b6b/README.md) | ESP32-C3 | 1 | 1 |
 | [Stamp-C3U](boards/m5stack/esp32-c3/stamp-c3u--686edf2d/README.md) | ESP32-C3 | 1 | 1 |
 | [Stamp-C3U Mate](boards/m5stack/esp32-c3/stamp-c3u-mate--cd43ab20/README.md) | ESP32-C3 | 1 | 1 |
-| [Stamp-C5](boards/m5stack/esp32-c5/stamp-c5--bd8acec6/README.md) | ESP32-C5 | 3 | 1 |
+| [Stamp-C5](boards/m5stack/esp32-c5/stamp-c5--bd8acec6/README.md) | ESP32-C5 | 4 | 1 |
 | [Stamp-C5 DIP](boards/m5stack/esp32-c5/stamp-c5-dip--9793180a/README.md) | ESP32-C5 | 3 | 1 |
 | [Stamp-P4](boards/m5stack/esp32-p4/stamp-p4--027bc971/README.md) | ESP32-P4 | 3 | 1 |
-| [Stamp-Pico](boards/m5stack/esp32-original/stamp-pico--72a0203a/README.md) | ESP32 original | 3 | 1 |
+| [Stamp-Pico](boards/m5stack/esp32-original/stamp-pico--72a0203a/README.md) | ESP32 original | 4 | 1 |
 | [Stamp-Pico DIY Kit](boards/m5stack/esp32-original/stamp-pico-diy-kit--8b0e9330/README.md) | ESP32 original | 1 | 1 |
 | [Stamp-Pico Mate](boards/m5stack/esp32-original/stamp-pico-mate--7ae19829/README.md) | ESP32 original | 1 | 1 |
 | [Stamp-S3](boards/m5stack/esp32-s3/stamp-s3--98d81433/README.md) | ESP32-S3 | 2 | 1 |
-| [Stamp-S3 BreakOut](boards/m5stack/source-collection/stamp-s3-breakout--379e162f/README.md) | Source collection | 1 | 0 |
-| [Stamp-S3 GroveBreakOut](boards/m5stack/source-collection/stamp-s3-grovebreakout--9bdd20d5/README.md) | Source collection | 1 | 0 |
+| [Stamp-S3 BreakOut](boards/m5stack/source-collection/stamp-s3-breakout--379e162f/README.md) | Source collection | 2 | 0 |
+| [Stamp-S3 GroveBreakOut](boards/m5stack/source-collection/stamp-s3-grovebreakout--9bdd20d5/README.md) | Source collection | 3 | 0 |
 | [Stamp-S3 PIN1.27](boards/m5stack/esp32-s3/stamp-s3-pin1.27--43530682/README.md) | ESP32-S3 | 2 | 2 |
-| [Stamp-S3 PIN2.54](boards/m5stack/esp32-s3/stamp-s3-pin2.54--1d07636e/README.md) | ESP32-S3 | 2 | 2 |
-| [Stamp-S3A](boards/m5stack/esp32-s3/stamp-s3a--d5dbf56a/README.md) | ESP32-S3 | 1 | 1 |
-| [Stamp-S3A PIN1.27](boards/m5stack/source-collection/stamp-s3a-pin1.27--a754be6f/README.md) | Source collection | 1 | 0 |
-| [Stamp-S3A PIN2.54](boards/m5stack/source-collection/stamp-s3a-pin2.54--4bc5cccb/README.md) | Source collection | 1 | 0 |
-| [Stamp-S3Bat](boards/m5stack/esp32-s3/stamp-s3bat--48bc7976/README.md) | ESP32-S3 | 2 | 1 |
+| [Stamp-S3 PIN2.54](boards/m5stack/esp32-s3/stamp-s3-pin2.54--1d07636e/README.md) | ESP32-S3 | 3 | 2 |
+| [Stamp-S3A](boards/m5stack/esp32-s3/stamp-s3a--d5dbf56a/README.md) | ESP32-S3 | 3 | 1 |
+| [Stamp-S3A PIN1.27](boards/m5stack/source-collection/stamp-s3a-pin1.27--a754be6f/README.md) | Source collection | 4 | 1 |
+| [Stamp-S3A PIN2.54](boards/m5stack/source-collection/stamp-s3a-pin2.54--4bc5cccb/README.md) | Source collection | 4 | 1 |
+| [Stamp-S3Bat](boards/m5stack/esp32-s3/stamp-s3bat--48bc7976/README.md) | ESP32-S3 | 3 | 1 |
 | [Stamp-S3Bat DIP](boards/m5stack/esp32-s3/stamp-s3bat-dip--1b5b7ba1/README.md) | ESP32-S3 | 3 | 1 |
 | [StampFly](boards/m5stack/source-collection/stampfly--3f2649c6/README.md) | Source collection | 1 | 0 |
-| [StampFly v1.1](boards/m5stack/source-collection/stampfly-v1.1--9dfc1cc3/README.md) | Source collection | 4 | 0 |
+| [StampFly v1.1](boards/m5stack/source-collection/stampfly-v1.1--9dfc1cc3/README.md) | Source collection | 5 | 0 |
 | [StamPLC](boards/m5stack/source-collection/stamplc--32fadc5c/README.md) | Source collection | 1 | 0 |
 | [StamPLC AC](boards/m5stack/source-collection/stamplc-ac--bff7a789/README.md) | Source collection | 1 | 0 |
-| [StamPLC IO](boards/m5stack/source-collection/stamplc-io--6de1e2d1/README.md) | Source collection | 1 | 0 |
-| [StamPLC PoE](boards/m5stack/source-collection/stamplc-poe--c54ee433/README.md) | Source collection | 2 | 0 |
-| [Station-485](boards/m5stack/esp32-original/station-485--089eaecf/README.md) | ESP32 original | 2 | 1 |
-| [Station-Bat](boards/m5stack/esp32-original/station-bat--7aa23e61/README.md) | ESP32 original | 2 | 1 |
-| [Stick Watch Accessory Kit](boards/m5stack/source-collection/stick-watch-accessory-kit--734c1c50/README.md) | Source collection | 3 | 0 |
+| [StamPLC IO](boards/m5stack/source-collection/stamplc-io--6de1e2d1/README.md) | Source collection | 2 | 0 |
+| [StamPLC PoE](boards/m5stack/source-collection/stamplc-poe--c54ee433/README.md) | Source collection | 3 | 0 |
+| [Station-485](boards/m5stack/esp32-original/station-485--089eaecf/README.md) | ESP32 original | 4 | 1 |
+| [Station-Bat](boards/m5stack/esp32-original/station-bat--7aa23e61/README.md) | ESP32 original | 3 | 1 |
+| [Stick Watch Accessory Kit](boards/m5stack/source-collection/stick-watch-accessory-kit--734c1c50/README.md) | Source collection | 4 | 0 |
 | [StickC-Plus](boards/m5stack/esp32-original/stickc-plus--ab7c68a6/README.md) | ESP32 original | 2 | 2 |
-| [StickC-Plus SE](boards/m5stack/source-collection/stickc-plus-se--2e2ee474/README.md) | Source collection | 2 | 0 |
+| [StickC-Plus SE](boards/m5stack/source-collection/stickc-plus-se--2e2ee474/README.md) | Source collection | 3 | 0 |
 | [StickC-Plus2 Watch Kit](boards/m5stack/source-collection/stickc-plus2-watch-kit--934703df/README.md) | Source collection | 1 | 0 |
-| [StickS3](boards/m5stack/source-collection/sticks3--dfd8c6ca/README.md) | Source collection | 2 | 0 |
+| [StickS3](boards/m5stack/source-collection/sticks3--dfd8c6ca/README.md) | Source collection | 3 | 0 |
 | [StickT2](boards/m5stack/source-collection/stickt2--ec1f5dc9/README.md) | Source collection | 1 | 0 |
 | [StopWatch](boards/m5stack/source-collection/stopwatch--963feef8/README.md) | Source collection | 2 | 0 |
-| [SwitchC6](boards/m5stack/source-collection/switchc6--d064d41f/README.md) | Source collection | 1 | 0 |
-| [T-Lite](boards/m5stack/source-collection/t-lite--a7008fb9/README.md) | Source collection | 1 | 0 |
-| [Tab5](boards/m5stack/source-collection/tab5--96db330c/README.md) | Source collection | 3 | 0 |
-| [Tab5 Keyboard](boards/m5stack/source-collection/tab5-keyboard--bd40d6da/README.md) | Source collection | 1 | 0 |
-| [Tail Bat](boards/m5stack/source-collection/tail-bat--ff1c2bfe/README.md) | Source collection | 1 | 0 |
+| [SwitchC6](boards/m5stack/source-collection/switchc6--d064d41f/README.md) | Source collection | 2 | 0 |
+| [T-Lite](boards/m5stack/source-collection/t-lite--a7008fb9/README.md) | Source collection | 2 | 0 |
+| [Tab5](boards/m5stack/source-collection/tab5--96db330c/README.md) | Source collection | 4 | 0 |
+| [Tab5 Keyboard](boards/m5stack/source-collection/tab5-keyboard--bd40d6da/README.md) | Source collection | 2 | 0 |
+| [Tail Bat](boards/m5stack/source-collection/tail-bat--ff1c2bfe/README.md) | Source collection | 2 | 0 |
 | [Tail RS485](boards/m5stack/source-collection/tail-rs485--5b2c2e9e/README.md) | Source collection | 1 | 0 |
-| [TimerCamera-F](boards/m5stack/source-collection/timercamera-f--37a4e98a/README.md) | Source collection | 1 | 0 |
-| [Tough](boards/m5stack/source-collection/tough--3692b841/README.md) | Source collection | 1 | 0 |
-| [ToughC5](boards/m5stack/esp32-c5hr8/toughc5--b3b41daf/README.md) | ESP32-C5HR8 | 2 | 0 |
-| [Unit 2Relay](boards/m5stack/source-collection/unit-2relay--4837c730/README.md) | Source collection | 1 | 0 |
-| [Unit 3.96](boards/m5stack/source-collection/unit-3.96--97462562/README.md) | Source collection | 1 | 0 |
-| [Unit 4Relay](boards/m5stack/source-collection/unit-4relay--d4fee14f/README.md) | Source collection | 1 | 0 |
-| [Unit 8Angle](boards/m5stack/source-collection/unit-8angle--21752937/README.md) | Source collection | 1 | 0 |
-| [Unit 8Encoder](boards/m5stack/source-collection/unit-8encoder--02a62c2e/README.md) | Source collection | 1 | 0 |
-| [Unit 8Servos](boards/m5stack/source-collection/unit-8servos--be2fa9fe/README.md) | Source collection | 1 | 0 |
+| [TimerCamera-F](boards/m5stack/source-collection/timercamera-f--37a4e98a/README.md) | Source collection | 2 | 0 |
+| [Tough](boards/m5stack/source-collection/tough--3692b841/README.md) | Source collection | 2 | 0 |
+| [ToughC5](boards/m5stack/esp32-c5hr8/toughc5--b3b41daf/README.md) | ESP32-C5HR8 | 6 | 0 |
+| [Unit 2Relay](boards/m5stack/source-collection/unit-2relay--4837c730/README.md) | Source collection | 2 | 0 |
+| [Unit 3.96](boards/m5stack/source-collection/unit-3.96--97462562/README.md) | Source collection | 2 | 0 |
+| [Unit 4Relay](boards/m5stack/source-collection/unit-4relay--d4fee14f/README.md) | Source collection | 2 | 0 |
+| [Unit 8Angle](boards/m5stack/source-collection/unit-8angle--21752937/README.md) | Source collection | 3 | 0 |
+| [Unit 8Encoder](boards/m5stack/source-collection/unit-8encoder--02a62c2e/README.md) | Source collection | 3 | 0 |
+| [Unit 8Servos](boards/m5stack/source-collection/unit-8servos--be2fa9fe/README.md) | Source collection | 3 | 0 |
 | [Unit 8Servos2-Chain](boards/m5stack/source-collection/unit-8servos2-chain--66163395/README.md) | Source collection | 2 | 0 |
-| [Unit 8Servos2-I2C](boards/m5stack/expansion/unit-8servos2-i2c--194af06b/README.md) | Expansion | 3 | 1 |
-| [Unit AC Measure](boards/m5stack/expansion/unit-ac-measure--f8659975/README.md) | Expansion | 2 | 0 |
-| [Unit Accel](boards/m5stack/source-collection/unit-accel--9f090672/README.md) | Source collection | 1 | 0 |
+| [Unit 8Servos2-I2C](boards/m5stack/expansion/unit-8servos2-i2c--194af06b/README.md) | Expansion | 4 | 1 |
+| [Unit AC Measure](boards/m5stack/expansion/unit-ac-measure--f8659975/README.md) | Expansion | 3 | 0 |
+| [Unit Accel](boards/m5stack/source-collection/unit-accel--9f090672/README.md) | Source collection | 2 | 0 |
 | [Unit ACSSR](boards/m5stack/source-collection/unit-acssr--a0b523a7/README.md) | Source collection | 1 | 0 |
-| [Unit ADC](boards/m5stack/source-collection/unit-adc--5c52ad60/README.md) | Source collection | 1 | 0 |
-| [Unit AIN4-20mA](boards/m5stack/source-collection/unit-ain4-20ma--a69cd351/README.md) | Source collection | 1 | 0 |
-| [Unit AMeter](boards/m5stack/source-collection/unit-ameter--55cc721a/README.md) | Source collection | 1 | 0 |
-| [Unit Angle](boards/m5stack/source-collection/unit-angle--f882d3ad/README.md) | Source collection | 1 | 0 |
-| [Unit ASR](boards/m5stack/source-collection/unit-asr--20e6e1b6/README.md) | Source collection | 1 | 0 |
-| [Unit AudioPlayer](boards/m5stack/source-collection/unit-audioplayer--a0e5eb4e/README.md) | Source collection | 1 | 0 |
-| [Unit BLDC Driver](boards/m5stack/source-collection/unit-bldc-driver--020b8f5a/README.md) | Source collection | 1 | 0 |
-| [Unit Button](boards/m5stack/source-collection/unit-button--0267d8f9/README.md) | Source collection | 1 | 0 |
+| [Unit ADC](boards/m5stack/source-collection/unit-adc--5c52ad60/README.md) | Source collection | 2 | 0 |
+| [Unit AIN4-20mA](boards/m5stack/source-collection/unit-ain4-20ma--a69cd351/README.md) | Source collection | 3 | 0 |
+| [Unit AMeter](boards/m5stack/source-collection/unit-ameter--55cc721a/README.md) | Source collection | 2 | 0 |
+| [Unit Angle](boards/m5stack/source-collection/unit-angle--f882d3ad/README.md) | Source collection | 2 | 0 |
+| [Unit ASR](boards/m5stack/source-collection/unit-asr--20e6e1b6/README.md) | Source collection | 2 | 0 |
+| [Unit AudioPlayer](boards/m5stack/source-collection/unit-audioplayer--a0e5eb4e/README.md) | Source collection | 3 | 0 |
+| [Unit BLDC Driver](boards/m5stack/source-collection/unit-bldc-driver--020b8f5a/README.md) | Source collection | 3 | 0 |
+| [Unit Button](boards/m5stack/source-collection/unit-button--0267d8f9/README.md) | Source collection | 3 | 0 |
 | [Unit Buzzer](boards/m5stack/source-collection/unit-buzzer--5b74714b/README.md) | Source collection | 1 | 0 |
-| [Unit ByteButton](boards/m5stack/source-collection/unit-bytebutton--db1296ff/README.md) | Source collection | 1 | 0 |
-| [Unit ByteSwitch](boards/m5stack/source-collection/unit-byteswitch--a1d516fd/README.md) | Source collection | 1 | 0 |
-| [Unit C6L](boards/m5stack/source-collection/unit-c6l--e1b63892/README.md) | Source collection | 1 | 0 |
+| [Unit ByteButton](boards/m5stack/source-collection/unit-bytebutton--db1296ff/README.md) | Source collection | 3 | 0 |
+| [Unit ByteSwitch](boards/m5stack/source-collection/unit-byteswitch--a1d516fd/README.md) | Source collection | 3 | 0 |
+| [Unit C6L](boards/m5stack/source-collection/unit-c6l--e1b63892/README.md) | Source collection | 3 | 0 |
 | [Unit Camera](boards/m5stack/source-collection/unit-camera--cc271499/README.md) | Source collection | 1 | 0 |
-| [Unit CamS3](boards/m5stack/source-collection/unit-cams3--1043def3/README.md) | Source collection | 1 | 0 |
+| [Unit CamS3](boards/m5stack/source-collection/unit-cams3--1043def3/README.md) | Source collection | 2 | 0 |
 | [Unit CardKB](boards/m5stack/expansion/unit-cardkb--60f45e76/README.md) | Expansion | 1 | 0 |
-| [Unit CardKB v1.1](boards/m5stack/expansion/unit-cardkb-v1.1--81b2fff0/README.md) | Expansion | 2 | 0 |
-| [Unit CardKB2](boards/m5stack/source-collection/unit-cardkb2--b953d2dc/README.md) | Source collection | 2 | 0 |
-| [Unit Cat1-CN](boards/m5stack/source-collection/unit-cat1-cn--7da2f2de/README.md) | Source collection | 1 | 0 |
-| [Unit Catch](boards/m5stack/source-collection/unit-catch--dcb7e64d/README.md) | Source collection | 1 | 0 |
-| [Unit CatM GNSS](boards/m5stack/source-collection/unit-catm-gnss--578e1b73/README.md) | Source collection | 1 | 0 |
-| [Unit ChainBus](boards/m5stack/source-collection/unit-chainbus--784fef24/README.md) | Source collection | 1 | 0 |
-| [Unit CO2](boards/m5stack/source-collection/unit-co2--78e61bd8/README.md) | Source collection | 1 | 0 |
-| [Unit CO2L](boards/m5stack/source-collection/unit-co2l--bad3bd36/README.md) | Source collection | 1 | 0 |
+| [Unit CardKB v1.1](boards/m5stack/expansion/unit-cardkb-v1.1--81b2fff0/README.md) | Expansion | 3 | 0 |
+| [Unit CardKB2](boards/m5stack/source-collection/unit-cardkb2--b953d2dc/README.md) | Source collection | 3 | 0 |
+| [Unit Cat1-CN](boards/m5stack/source-collection/unit-cat1-cn--7da2f2de/README.md) | Source collection | 3 | 0 |
+| [Unit Catch](boards/m5stack/source-collection/unit-catch--dcb7e64d/README.md) | Source collection | 2 | 0 |
+| [Unit CatM GNSS](boards/m5stack/source-collection/unit-catm-gnss--578e1b73/README.md) | Source collection | 2 | 0 |
+| [Unit ChainBus](boards/m5stack/source-collection/unit-chainbus--784fef24/README.md) | Source collection | 2 | 0 |
+| [Unit CO2](boards/m5stack/source-collection/unit-co2--78e61bd8/README.md) | Source collection | 3 | 0 |
+| [Unit CO2L](boards/m5stack/source-collection/unit-co2l--bad3bd36/README.md) | Source collection | 2 | 0 |
 | [Unit Color](boards/m5stack/source-collection/unit-color--90341249/README.md) | Source collection | 1 | 0 |
 | [Unit DAC](boards/m5stack/source-collection/unit-dac--da2c93de/README.md) | Source collection | 1 | 0 |
-| [Unit DAC2](boards/m5stack/source-collection/unit-dac2--540442bb/README.md) | Source collection | 1 | 0 |
-| [Unit DDS](boards/m5stack/source-collection/unit-dds--48e138f7/README.md) | Source collection | 1 | 0 |
+| [Unit DAC2](boards/m5stack/source-collection/unit-dac2--540442bb/README.md) | Source collection | 2 | 0 |
+| [Unit DDS](boards/m5stack/source-collection/unit-dds--48e138f7/README.md) | Source collection | 2 | 0 |
 | [Unit DLight](boards/m5stack/source-collection/unit-dlight--1cc28fca/README.md) | Source collection | 1 | 0 |
-| [Unit DMX](boards/m5stack/source-collection/unit-dmx--130a85df/README.md) | Source collection | 1 | 0 |
-| [Unit Dual Button](boards/m5stack/source-collection/unit-dual-button--076280f2/README.md) | Source collection | 1 | 0 |
+| [Unit DMX](boards/m5stack/source-collection/unit-dmx--130a85df/README.md) | Source collection | 2 | 0 |
+| [Unit Dual Button](boards/m5stack/source-collection/unit-dual-button--076280f2/README.md) | Source collection | 3 | 0 |
 | [Unit Earth](boards/m5stack/source-collection/unit-earth--966cc766/README.md) | Source collection | 1 | 0 |
-| [Unit Encoder](boards/m5stack/source-collection/unit-encoder--c6abd83e/README.md) | Source collection | 1 | 0 |
-| [Unit ENV-III](boards/m5stack/source-collection/unit-env-iii--01ebbc4d/README.md) | Source collection | 1 | 0 |
+| [Unit Encoder](boards/m5stack/source-collection/unit-encoder--c6abd83e/README.md) | Source collection | 2 | 0 |
+| [Unit ENV-III](boards/m5stack/source-collection/unit-env-iii--01ebbc4d/README.md) | Source collection | 2 | 0 |
 | [Unit EXT.IO](boards/m5stack/source-collection/unit-ext.io--1013a544/README.md) | Source collection | 1 | 0 |
-| [Unit ExtEncoder](boards/m5stack/source-collection/unit-extencoder--d57ac1b6/README.md) | Source collection | 2 | 0 |
-| [Unit Fader](boards/m5stack/source-collection/unit-fader--2b0a81ac/README.md) | Source collection | 1 | 0 |
-| [Unit Fan](boards/m5stack/source-collection/unit-fan--22233b57/README.md) | Source collection | 1 | 0 |
-| [Unit Finger](boards/m5stack/source-collection/unit-finger--8b53e7c4/README.md) | Source collection | 1 | 0 |
-| [Unit Fingerprint2](boards/m5stack/source-collection/unit-fingerprint2--8d236501/README.md) | Source collection | 1 | 0 |
-| [Unit FlashLight](boards/m5stack/source-collection/unit-flashlight--158893b8/README.md) | Source collection | 1 | 0 |
-| [Unit Gateway H2](boards/m5stack/source-collection/unit-gateway-h2--470cf578/README.md) | Source collection | 1 | 0 |
-| [Unit Gesture](boards/m5stack/source-collection/unit-gesture--d547dda7/README.md) | Source collection | 1 | 0 |
-| [Unit Glass](boards/m5stack/source-collection/unit-glass--2a15b32b/README.md) | Source collection | 1 | 0 |
-| [Unit Glass2](boards/m5stack/source-collection/unit-glass2--fae43a4d/README.md) | Source collection | 1 | 0 |
+| [Unit ExtEncoder](boards/m5stack/source-collection/unit-extencoder--d57ac1b6/README.md) | Source collection | 4 | 0 |
+| [Unit Fader](boards/m5stack/source-collection/unit-fader--2b0a81ac/README.md) | Source collection | 2 | 0 |
+| [Unit Fan](boards/m5stack/source-collection/unit-fan--22233b57/README.md) | Source collection | 2 | 0 |
+| [Unit Finger](boards/m5stack/source-collection/unit-finger--8b53e7c4/README.md) | Source collection | 3 | 0 |
+| [Unit Fingerprint2](boards/m5stack/source-collection/unit-fingerprint2--8d236501/README.md) | Source collection | 3 | 0 |
+| [Unit FlashLight](boards/m5stack/source-collection/unit-flashlight--158893b8/README.md) | Source collection | 3 | 0 |
+| [Unit Gateway H2](boards/m5stack/source-collection/unit-gateway-h2--470cf578/README.md) | Source collection | 3 | 0 |
+| [Unit Gesture](boards/m5stack/source-collection/unit-gesture--d547dda7/README.md) | Source collection | 2 | 0 |
+| [Unit Glass](boards/m5stack/source-collection/unit-glass--2a15b32b/README.md) | Source collection | 3 | 0 |
+| [Unit Glass2](boards/m5stack/source-collection/unit-glass2--fae43a4d/README.md) | Source collection | 2 | 0 |
 | [Unit GPS](boards/m5stack/source-collection/unit-gps--7e74a3c1/README.md) | Source collection | 1 | 0 |
-| [Unit Grove to Grove](boards/m5stack/source-collection/unit-grove-to-grove--cd2b325a/README.md) | Source collection | 1 | 0 |
-| [Unit Heart](boards/m5stack/source-collection/unit-heart--a94b799a/README.md) | Source collection | 1 | 0 |
-| [Unit HEX](boards/m5stack/source-collection/unit-hex--7ab8bbdd/README.md) | Source collection | 1 | 0 |
+| [Unit Grove to Grove](boards/m5stack/source-collection/unit-grove-to-grove--cd2b325a/README.md) | Source collection | 3 | 0 |
+| [Unit Heart](boards/m5stack/source-collection/unit-heart--a94b799a/README.md) | Source collection | 2 | 0 |
+| [Unit HEX](boards/m5stack/source-collection/unit-hex--7ab8bbdd/README.md) | Source collection | 2 | 0 |
 | [Unit Hub](boards/m5stack/source-collection/unit-hub--11b9bed2/README.md) | Source collection | 1 | 0 |
-| [Unit ID](boards/m5stack/source-collection/unit-id--8ac3dff8/README.md) | Source collection | 1 | 0 |
+| [Unit ID](boards/m5stack/source-collection/unit-id--8ac3dff8/README.md) | Source collection | 2 | 0 |
 | [Unit IR](boards/m5stack/source-collection/unit-ir--3de8e630/README.md) | Source collection | 1 | 0 |
-| [Unit Joystick v1.1](boards/m5stack/source-collection/unit-joystick-v1.1--efce755c/README.md) | Source collection | 1 | 0 |
-| [Unit Joystick2](boards/m5stack/source-collection/unit-joystick2--390dccae/README.md) | Source collection | 1 | 0 |
-| [Unit Key](boards/m5stack/source-collection/unit-key--3dc45a2a/README.md) | Source collection | 1 | 0 |
-| [Unit KMeter-ISO](boards/m5stack/source-collection/unit-kmeter-iso--e3d906fb/README.md) | Source collection | 1 | 0 |
-| [Unit Laser RX](boards/m5stack/source-collection/unit-laser-rx--e70ec477/README.md) | Source collection | 1 | 0 |
-| [Unit LCD](boards/m5stack/source-collection/unit-lcd--eccc2abd/README.md) | Source collection | 1 | 0 |
-| [Unit Light](boards/m5stack/source-collection/unit-light--cdd86664/README.md) | Source collection | 1 | 0 |
-| [Unit Limit](boards/m5stack/source-collection/unit-limit--3d16fab4/README.md) | Source collection | 1 | 0 |
-| [Unit LoRaE220-433](boards/m5stack/source-collection/unit-lorae220-433--d5e47257/README.md) | Source collection | 1 | 0 |
-| [Unit MIDI](boards/m5stack/source-collection/unit-midi--d242e814/README.md) | Source collection | 1 | 0 |
-| [Unit Mini BPS v1.1](boards/m5stack/source-collection/unit-mini-bps-v1.1--f0f2b520/README.md) | Source collection | 1 | 0 |
-| [Unit Mini CAN](boards/m5stack/source-collection/unit-mini-can--09af24d4/README.md) | Source collection | 1 | 0 |
-| [Unit Mini IMU-Pro](boards/m5stack/source-collection/unit-mini-imu-pro--b7f2a60e/README.md) | Source collection | 1 | 0 |
-| [Unit Mini OLED](boards/m5stack/source-collection/unit-mini-oled--b9cf1510/README.md) | Source collection | 1 | 0 |
-| [Unit Mini PDM](boards/m5stack/source-collection/unit-mini-pdm--23eef7c7/README.md) | Source collection | 1 | 0 |
-| [Unit Mini Proto](boards/m5stack/source-collection/unit-mini-proto--35b9f495/README.md) | Source collection | 1 | 0 |
-| [Unit Mini Scales](boards/m5stack/source-collection/unit-mini-scales--178977e1/README.md) | Source collection | 1 | 0 |
-| [Unit Mini ToF-90°](boards/m5stack/source-collection/unit-mini-tof-90--85257bf8/README.md) | Source collection | 1 | 0 |
-| [Unit MQ](boards/m5stack/source-collection/unit-mq--abf994ad/README.md) | Source collection | 1 | 0 |
-| [Unit MQTT](boards/m5stack/source-collection/unit-mqtt--9287feb9/README.md) | Source collection | 1 | 0 |
-| [Unit NBIoT2](boards/m5stack/source-collection/unit-nbiot2--5f49c374/README.md) | Source collection | 1 | 0 |
-| [Unit NCIR](boards/m5stack/source-collection/unit-ncir--15b2b495/README.md) | Source collection | 1 | 0 |
-| [Unit NCIR2](boards/m5stack/source-collection/unit-ncir2--47307584/README.md) | Source collection | 1 | 0 |
-| [Unit Neco](boards/m5stack/source-collection/unit-neco--0adc358e/README.md) | Source collection | 1 | 0 |
+| [Unit Joystick v1.1](boards/m5stack/source-collection/unit-joystick-v1.1--efce755c/README.md) | Source collection | 2 | 0 |
+| [Unit Joystick2](boards/m5stack/source-collection/unit-joystick2--390dccae/README.md) | Source collection | 2 | 0 |
+| [Unit Key](boards/m5stack/source-collection/unit-key--3dc45a2a/README.md) | Source collection | 3 | 0 |
+| [Unit KMeter-ISO](boards/m5stack/source-collection/unit-kmeter-iso--e3d906fb/README.md) | Source collection | 3 | 0 |
+| [Unit Laser RX](boards/m5stack/source-collection/unit-laser-rx--e70ec477/README.md) | Source collection | 2 | 0 |
+| [Unit LCD](boards/m5stack/source-collection/unit-lcd--eccc2abd/README.md) | Source collection | 2 | 0 |
+| [Unit Light](boards/m5stack/source-collection/unit-light--cdd86664/README.md) | Source collection | 2 | 0 |
+| [Unit Limit](boards/m5stack/source-collection/unit-limit--3d16fab4/README.md) | Source collection | 3 | 0 |
+| [Unit LoRaE220-433](boards/m5stack/source-collection/unit-lorae220-433--d5e47257/README.md) | Source collection | 2 | 0 |
+| [Unit MIDI](boards/m5stack/source-collection/unit-midi--d242e814/README.md) | Source collection | 3 | 0 |
+| [Unit Mini BPS v1.1](boards/m5stack/source-collection/unit-mini-bps-v1.1--f0f2b520/README.md) | Source collection | 2 | 0 |
+| [Unit Mini CAN](boards/m5stack/source-collection/unit-mini-can--09af24d4/README.md) | Source collection | 3 | 0 |
+| [Unit Mini IMU-Pro](boards/m5stack/source-collection/unit-mini-imu-pro--b7f2a60e/README.md) | Source collection | 2 | 0 |
+| [Unit Mini OLED](boards/m5stack/source-collection/unit-mini-oled--b9cf1510/README.md) | Source collection | 3 | 0 |
+| [Unit Mini PDM](boards/m5stack/source-collection/unit-mini-pdm--23eef7c7/README.md) | Source collection | 2 | 0 |
+| [Unit Mini Proto](boards/m5stack/source-collection/unit-mini-proto--35b9f495/README.md) | Source collection | 3 | 0 |
+| [Unit Mini Scales](boards/m5stack/source-collection/unit-mini-scales--178977e1/README.md) | Source collection | 2 | 0 |
+| [Unit Mini ToF-90°](boards/m5stack/source-collection/unit-mini-tof-90--85257bf8/README.md) | Source collection | 3 | 0 |
+| [Unit MQ](boards/m5stack/source-collection/unit-mq--abf994ad/README.md) | Source collection | 3 | 0 |
+| [Unit MQTT](boards/m5stack/source-collection/unit-mqtt--9287feb9/README.md) | Source collection | 2 | 0 |
+| [Unit NBIoT2](boards/m5stack/source-collection/unit-nbiot2--5f49c374/README.md) | Source collection | 3 | 0 |
+| [Unit NCIR](boards/m5stack/source-collection/unit-ncir--15b2b495/README.md) | Source collection | 2 | 0 |
+| [Unit NCIR2](boards/m5stack/source-collection/unit-ncir2--47307584/README.md) | Source collection | 3 | 0 |
+| [Unit Neco](boards/m5stack/source-collection/unit-neco--0adc358e/README.md) | Source collection | 3 | 0 |
 | [Unit NeoHEX](boards/m5stack/source-collection/unit-neohex--11267989/README.md) | Source collection | 1 | 0 |
-| [Unit NFC](boards/m5stack/source-collection/unit-nfc--efd937cf/README.md) | Source collection | 1 | 0 |
-| [Unit OLED](boards/m5stack/source-collection/unit-oled--f54bc470/README.md) | Source collection | 1 | 0 |
-| [Unit OP180](boards/m5stack/source-collection/unit-op180--32d28db3/README.md) | Source collection | 1 | 0 |
-| [Unit OP90](boards/m5stack/source-collection/unit-op90--13fdab48/README.md) | Source collection | 1 | 0 |
-| [Unit PaHub](boards/m5stack/source-collection/unit-pahub--3ff6f456/README.md) | Source collection | 1 | 0 |
+| [Unit NFC](boards/m5stack/source-collection/unit-nfc--efd937cf/README.md) | Source collection | 3 | 0 |
+| [Unit OLED](boards/m5stack/source-collection/unit-oled--f54bc470/README.md) | Source collection | 2 | 0 |
+| [Unit OP180](boards/m5stack/source-collection/unit-op180--32d28db3/README.md) | Source collection | 2 | 0 |
+| [Unit OP90](boards/m5stack/source-collection/unit-op90--13fdab48/README.md) | Source collection | 2 | 0 |
+| [Unit PaHub](boards/m5stack/source-collection/unit-pahub--3ff6f456/README.md) | Source collection | 2 | 0 |
 | [Unit PaHub v2.1](boards/m5stack/source-collection/unit-pahub-v2.1--880b4b70/README.md) | Source collection | 1 | 0 |
-| [Unit PbHub](boards/m5stack/expansion/unit-pbhub--d45d3738/README.md) | Expansion | 1 | 0 |
-| [Unit PIR](boards/m5stack/source-collection/unit-pir--02dd6cf6/README.md) | Source collection | 1 | 0 |
-| [Unit PoE CAM-W](boards/m5stack/source-collection/unit-poe-cam-w--adcbb254/README.md) | Source collection | 1 | 0 |
-| [Unit PoE CAM-W v1.1](boards/m5stack/source-collection/unit-poe-cam-w-v1.1--893bee64/README.md) | Source collection | 1 | 0 |
-| [Unit PoE-P4](boards/m5stack/esp32-p4/unit-poe-p4--287ba2ba/README.md) | ESP32-P4 | 5 | 1 |
-| [Unit Proto](boards/m5stack/source-collection/unit-proto--90fc806a/README.md) | Source collection | 1 | 0 |
-| [Unit Proto Case](boards/m5stack/source-collection/unit-proto-case--d863e26c/README.md) | Source collection | 1 | 0 |
-| [Unit Puzzle](boards/m5stack/source-collection/unit-puzzle--081ec28d/README.md) | Source collection | 1 | 0 |
-| [Unit QRCode](boards/m5stack/source-collection/unit-qrcode--1f5e81a9/README.md) | Source collection | 1 | 0 |
-| [Unit RCA](boards/m5stack/source-collection/unit-rca--b47e34a9/README.md) | Source collection | 1 | 0 |
-| [Unit Reflective IR](boards/m5stack/source-collection/unit-reflective-ir--d997f5b4/README.md) | Source collection | 1 | 0 |
-| [Unit Relay](boards/m5stack/source-collection/unit-relay--856b9007/README.md) | Source collection | 1 | 0 |
-| [Unit RGB](boards/m5stack/source-collection/unit-rgb--540a2ef9/README.md) | Source collection | 1 | 0 |
-| [Unit Roller485](boards/m5stack/source-collection/unit-roller485--3c14b4c8/README.md) | Source collection | 4 | 0 |
-| [Unit Scales](boards/m5stack/source-collection/unit-scales--2edd65de/README.md) | Source collection | 1 | 0 |
-| [Unit Scroll](boards/m5stack/source-collection/unit-scroll--46de8b9b/README.md) | Source collection | 1 | 0 |
-| [Unit SSR](boards/m5stack/source-collection/unit-ssr--35fd83ce/README.md) | Source collection | 1 | 0 |
-| [Unit Step16](boards/m5stack/source-collection/unit-step16--318ea7f2/README.md) | Source collection | 1 | 0 |
-| [Unit Thermal2](boards/m5stack/source-collection/unit-thermal2--1d6881f8/README.md) | Source collection | 1 | 0 |
-| [Unit TimerPWR](boards/m5stack/source-collection/unit-timerpwr--7b985b45/README.md) | Source collection | 1 | 0 |
-| [Unit TMOS PIR](boards/m5stack/source-collection/unit-tmos-pir--41114b81/README.md) | Source collection | 1 | 0 |
-| [Unit ToF](boards/m5stack/source-collection/unit-tof--4442def7/README.md) | Source collection | 1 | 0 |
-| [Unit ToF4M](boards/m5stack/source-collection/unit-tof4m--d1ba2e12/README.md) | Source collection | 1 | 0 |
-| [Unit Trace](boards/m5stack/expansion/unit-trace--0819830e/README.md) | Expansion | 1 | 0 |
-| [Unit Tube Pressure](boards/m5stack/source-collection/unit-tube-pressure--34c55b95/README.md) | Source collection | 1 | 0 |
-| [Unit TypeC to Grove](boards/m5stack/expansion/unit-typec-to-grove--45c9a829/README.md) | Expansion | 2 | 1 |
+| [Unit PbHub](boards/m5stack/expansion/unit-pbhub--d45d3738/README.md) | Expansion | 2 | 0 |
+| [Unit PIR](boards/m5stack/source-collection/unit-pir--02dd6cf6/README.md) | Source collection | 2 | 0 |
+| [Unit PoE CAM-W](boards/m5stack/source-collection/unit-poe-cam-w--adcbb254/README.md) | Source collection | 2 | 0 |
+| [Unit PoE CAM-W v1.1](boards/m5stack/source-collection/unit-poe-cam-w-v1.1--893bee64/README.md) | Source collection | 3 | 0 |
+| [Unit PoE-P4](boards/m5stack/esp32-p4/unit-poe-p4--287ba2ba/README.md) | ESP32-P4 | 6 | 1 |
+| [Unit Proto](boards/m5stack/source-collection/unit-proto--90fc806a/README.md) | Source collection | 3 | 0 |
+| [Unit Proto Case](boards/m5stack/source-collection/unit-proto-case--d863e26c/README.md) | Source collection | 2 | 0 |
+| [Unit Puzzle](boards/m5stack/source-collection/unit-puzzle--081ec28d/README.md) | Source collection | 2 | 0 |
+| [Unit QRCode](boards/m5stack/source-collection/unit-qrcode--1f5e81a9/README.md) | Source collection | 3 | 0 |
+| [Unit RCA](boards/m5stack/source-collection/unit-rca--b47e34a9/README.md) | Source collection | 2 | 0 |
+| [Unit Reflective IR](boards/m5stack/source-collection/unit-reflective-ir--d997f5b4/README.md) | Source collection | 3 | 0 |
+| [Unit Relay](boards/m5stack/source-collection/unit-relay--856b9007/README.md) | Source collection | 2 | 0 |
+| [Unit RGB](boards/m5stack/source-collection/unit-rgb--540a2ef9/README.md) | Source collection | 2 | 0 |
+| [Unit Roller485](boards/m5stack/source-collection/unit-roller485--3c14b4c8/README.md) | Source collection | 6 | 0 |
+| [Unit Scales](boards/m5stack/source-collection/unit-scales--2edd65de/README.md) | Source collection | 3 | 0 |
+| [Unit Scroll](boards/m5stack/source-collection/unit-scroll--46de8b9b/README.md) | Source collection | 3 | 0 |
+| [Unit SSR](boards/m5stack/source-collection/unit-ssr--35fd83ce/README.md) | Source collection | 2 | 0 |
+| [Unit Step16](boards/m5stack/source-collection/unit-step16--318ea7f2/README.md) | Source collection | 3 | 0 |
+| [Unit Thermal2](boards/m5stack/source-collection/unit-thermal2--1d6881f8/README.md) | Source collection | 2 | 0 |
+| [Unit TimerPWR](boards/m5stack/source-collection/unit-timerpwr--7b985b45/README.md) | Source collection | 3 | 0 |
+| [Unit TMOS PIR](boards/m5stack/source-collection/unit-tmos-pir--41114b81/README.md) | Source collection | 2 | 0 |
+| [Unit ToF](boards/m5stack/source-collection/unit-tof--4442def7/README.md) | Source collection | 2 | 0 |
+| [Unit ToF4M](boards/m5stack/source-collection/unit-tof4m--d1ba2e12/README.md) | Source collection | 3 | 0 |
+| [Unit Trace](boards/m5stack/expansion/unit-trace--0819830e/README.md) | Expansion | 2 | 0 |
+| [Unit Tube Pressure](boards/m5stack/source-collection/unit-tube-pressure--34c55b95/README.md) | Source collection | 2 | 0 |
+| [Unit TypeC to Grove](boards/m5stack/expansion/unit-typec-to-grove--45c9a829/README.md) | Expansion | 4 | 1 |
 | [Unit UHF-RFID](boards/m5stack/source-collection/unit-uhf-rfid--4c2e3d25/README.md) | Source collection | 1 | 0 |
-| [Unit Ultrasonic](boards/m5stack/source-collection/unit-ultrasonic--84000e44/README.md) | Source collection | 1 | 0 |
+| [Unit Ultrasonic](boards/m5stack/source-collection/unit-ultrasonic--84000e44/README.md) | Source collection | 2 | 0 |
 | [Unit Ultrasonic-I2C](boards/m5stack/source-collection/unit-ultrasonic-i2c--e839641c/README.md) | Source collection | 1 | 0 |
-| [Unit UWB](boards/m5stack/source-collection/unit-uwb--8b386d14/README.md) | Source collection | 1 | 0 |
+| [Unit UWB](boards/m5stack/source-collection/unit-uwb--8b386d14/README.md) | Source collection | 2 | 0 |
 | [Unit Vibrator](boards/m5stack/source-collection/unit-vibrator--d83f8c56/README.md) | Source collection | 1 | 0 |
-| [Unit Watering](boards/m5stack/source-collection/unit-watering--bbd89bad/README.md) | Source collection | 1 | 0 |
-| [Unit Weight](boards/m5stack/source-collection/unit-weight--1cb0109d/README.md) | Source collection | 1 | 0 |
-| [Unit Weight-I2C](boards/m5stack/source-collection/unit-weight-i2c--62ff1864/README.md) | Source collection | 1 | 0 |
-| [UnitV-M12](boards/m5stack/source-collection/unitv-m12--64c9f00c/README.md) | Source collection | 1 | 0 |
-| [UnitV-OV2640](boards/m5stack/gpio-device/unitv-ov2640--31f9f70a/README.md) | GPIO device | 2 | 1 |
-| [UnitV-OV7740](boards/m5stack/gpio-device/unitv-ov7740--f72a5472/README.md) | GPIO device | 2 | 1 |
+| [Unit Watering](boards/m5stack/source-collection/unit-watering--bbd89bad/README.md) | Source collection | 3 | 0 |
+| [Unit Weight](boards/m5stack/source-collection/unit-weight--1cb0109d/README.md) | Source collection | 3 | 0 |
+| [Unit Weight-I2C](boards/m5stack/source-collection/unit-weight-i2c--62ff1864/README.md) | Source collection | 2 | 0 |
+| [UnitV-M12](boards/m5stack/source-collection/unitv-m12--64c9f00c/README.md) | Source collection | 2 | 0 |
+| [UnitV-OV2640](boards/m5stack/gpio-device/unitv-ov2640--31f9f70a/README.md) | GPIO device | 3 | 1 |
+| [UnitV-OV7740](boards/m5stack/gpio-device/unitv-ov7740--f72a5472/README.md) | GPIO device | 3 | 1 |
 | [UnitV2](boards/m5stack/source-collection/unitv2--6dd22f8a/README.md) | Source collection | 3 | 0 |
 | [UnitV2-M12](boards/m5stack/source-collection/unitv2-m12--1dcbfca4/README.md) | Source collection | 1 | 0 |
 | [UnitV2-USB](boards/m5stack/source-collection/unitv2-usb--fa9108e3/README.md) | Source collection | 1 | 0 |
-| [VAMeter](boards/m5stack/source-collection/vameter--0ae32103/README.md) | Source collection | 1 | 0 |
-| [Voice Pyramid](boards/m5stack/source-collection/voice-pyramid--3e056348/README.md) | Source collection | 1 | 0 |
+| [VAMeter](boards/m5stack/source-collection/vameter--0ae32103/README.md) | Source collection | 3 | 0 |
+| [Voice Pyramid](boards/m5stack/source-collection/voice-pyramid--3e056348/README.md) | Source collection | 2 | 0 |
 | [Watch Dev Kit v1.1](boards/m5stack/source-collection/watch-dev-kit-v1.1--8165d031/README.md) | Source collection | 1 | 0 |
 | [Xiaozhi Card Kit](boards/m5stack/esp32-s3/xiaozhi-card-kit--da4a6d59/README.md) | ESP32-S3 | 3 | 1 |
 
@@ -1319,8 +1327,8 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 
 | Board / device | Processor / family | References | Pinout images |
 |---|---|---:|---:|
-| [NodeMCU DevKit 0.9](boards/nodemcu/esp8266/nodemcu-devkit-0.9--02f5bd53/README.md) | ESP8266 | 2 | 1 |
-| [NodeMCU DevKit 1.0](boards/nodemcu/esp8266/nodemcu-devkit-1.0--63d1072f/README.md) | ESP8266 | 2 | 1 |
+| [NodeMCU DevKit 0.9](boards/nodemcu/esp8266/nodemcu-devkit-0.9--02f5bd53/README.md) | ESP8266 | 3 | 1 |
+| [NodeMCU DevKit 1.0](boards/nodemcu/esp8266/nodemcu-devkit-1.0--63d1072f/README.md) | ESP8266 | 3 | 1 |
 
 ## Nologo
 
@@ -2157,9 +2165,10 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | Board / device | Processor / family | References | Pinout images |
 |---|---|---:|---:|
 | [8.8-DSI-TOUCH-A](boards/waveshare/expansion/8.8-dsi-touch-a--3c22dfa7/README.md) | Expansion | 1 | 1 |
-| [Core2350B](boards/waveshare/rp2350/core2350b--738486fd/README.md) | RP2350 | 1 | 1 |
+| [Core103R](boards/waveshare/other/core103r--26e11b1b/README.md) | Other | 1 | 0 |
+| [Core2350B](boards/waveshare/rp2350/core2350b--738486fd/README.md) | RP2350 | 3 | 1 |
 | [Core51822](boards/waveshare/other/core51822--303c319c/README.md) | Other | 1 | 1 |
-| [Core51822 (B)](boards/waveshare/other/core51822-b--2335a30d/README.md) | Other | 1 | 1 |
+| [Core51822 (B)](boards/waveshare/other/core51822-b--2335a30d/README.md) | Other | 2 | 1 |
 | [Core52840](boards/waveshare/other/core52840--abd842d7/README.md) | Other | 1 | 1 |
 | [DDSM210](boards/waveshare/expansion/ddsm210--01d12b68/README.md) | Expansion | 1 | 1 |
 | [DDSM315](boards/waveshare/expansion/ddsm315--ba5bdc14/README.md) | Expansion | 1 | 1 |
@@ -2170,12 +2179,12 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | [ESP32-C3-Zero](boards/waveshare/esp32-c3/esp32-c3-zero--90c5417a/README.md) | ESP32-C3 | 3 | 3 |
 | [ESP32-C5-LCD-1.47](boards/waveshare/esp32-c5/esp32-c5-lcd-1.47--59510a8f/README.md) | ESP32-C5 | 1 | 1 |
 | [ESP32-C5-LCD-2.73](boards/waveshare/esp32-c5/esp32-c5-lcd-2-73--9ff94a97/README.md) | ESP32-C5 | 1 | 0 |
-| [ESP32-C5-MINI-KIT](boards/waveshare/esp32-c5/esp32-c5-mini-kit--a980d2b9/README.md) | ESP32-C5 | 3 | 2 |
-| [ESP32-C5-Pico](boards/waveshare/esp32-c5/esp32-c5-pico--277b134c/README.md) | ESP32-C5 | 3 | 2 |
+| [ESP32-C5-MINI-KIT](boards/waveshare/esp32-c5/esp32-c5-mini-kit--a980d2b9/README.md) | ESP32-C5 | 4 | 2 |
+| [ESP32-C5-Pico](boards/waveshare/esp32-c5/esp32-c5-pico--277b134c/README.md) | ESP32-C5 | 4 | 2 |
 | [ESP32-C5-Touch-LCD-1.69](boards/waveshare/esp32-c5/esp32-c5-touch-lcd-1.69--01a0d0c0/README.md) | ESP32-C5 | 2 | 2 |
-| [ESP32-C5-Touch-LCD-2.8](boards/waveshare/esp32-c5/esp32-c5-touch-lcd-2.8--c2a0ab2b/README.md) | ESP32-C5 | 2 | 2 |
+| [ESP32-C5-Touch-LCD-2.8](boards/waveshare/esp32-c5/esp32-c5-touch-lcd-2.8--c2a0ab2b/README.md) | ESP32-C5 | 3 | 2 |
 | [ESP32-C5-Touch-LCD-3.5](boards/waveshare/esp32-c5/esp32-c5-touch-lcd-3-5--ea6f9bfd/README.md) | ESP32-C5 | 3 | 0 |
-| [ESP32-C5-WIFI6-KIT](boards/waveshare/esp32-c5/esp32-c5-wifi6-kit--e082a949/README.md) | ESP32-C5 | 3 | 3 |
+| [ESP32-C5-WIFI6-KIT](boards/waveshare/esp32-c5/esp32-c5-wifi6-kit--e082a949/README.md) | ESP32-C5 | 4 | 3 |
 | [ESP32-C5-Zero](boards/waveshare/esp32-c5/esp32-c5-zero--aa5824f4/README.md) | ESP32-C5 | 2 | 2 |
 | [ESP32-C6 1.47inch Display Development Board](boards/waveshare/esp32-c6/esp32-c6-1-47inch-display-development-board--0a56bbd8/README.md) | ESP32-C6 | 3 | 1 |
 | [ESP32-C6-DEV-KIT-N8](boards/waveshare/esp32-c6/esp32-c6-dev-kit-n8--e6f8c8c2/README.md) | ESP32-C6 | 3 | 3 |
@@ -2189,23 +2198,23 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | [ESP32-C6-LCD-1.9](boards/waveshare/esp32-c6/esp32-c6-lcd-1.9--34731d6c/README.md) | ESP32-C6 | 1 | 1 |
 | [ESP32-C6-LCD-2.73](boards/waveshare/esp32-c6/esp32-c6-lcd-2-73--0fba665c/README.md) | ESP32-C6 | 1 | 0 |
 | [ESP32-C6-Pico](boards/waveshare/esp32-c6/esp32-c6-pico--9e0ccc1b/README.md) | ESP32-C6 | 2 | 2 |
-| [ESP32-C6-Touch-AMOLED-1.32](boards/waveshare/esp32-c6/esp32-c6-touch-amoled-1.32--902063ab/README.md) | ESP32-C6 | 1 | 1 |
+| [ESP32-C6-Touch-AMOLED-1.32](boards/waveshare/esp32-c6/esp32-c6-touch-amoled-1.32--902063ab/README.md) | ESP32-C6 | 2 | 1 |
 | [ESP32-C6-Touch-AMOLED-1.64](boards/waveshare/esp32-c6/esp32-c6-touch-amoled-1.64--9c2673da/README.md) | ESP32-C6 | 1 | 1 |
 | [ESP32-C6-Touch-AMOLED-1.8](boards/waveshare/esp32-c6/esp32-c6-touch-amoled-1.8--7ea50386/README.md) | ESP32-C6 | 2 | 2 |
-| [ESP32-C6-Touch-AMOLED-2.06](boards/waveshare/esp32-c6/esp32-c6-touch-amoled-2.06--b4a9e559/README.md) | ESP32-C6 | 1 | 0 |
+| [ESP32-C6-Touch-AMOLED-2.06](boards/waveshare/esp32-c6/esp32-c6-touch-amoled-2.06--b4a9e559/README.md) | ESP32-C6 | 2 | 0 |
 | [ESP32-C6-Touch-AMOLED-2.16](boards/waveshare/esp32-c6/esp32-c6-touch-amoled-2-16--0bd3ecc6/README.md) | ESP32-C6 | 3 | 0 |
 | [ESP32-C6-Touch-LCD-1.28](boards/waveshare/esp32-c6/esp32-c6-touch-lcd-1.28--c6a3f499/README.md) | ESP32-C6 | 2 | 2 |
-| [ESP32-C6-Touch-LCD-1.47](boards/waveshare/esp32-c6/esp32-c6-touch-lcd-1.47--d441984f/README.md) | ESP32-C6 | 3 | 3 |
+| [ESP32-C6-Touch-LCD-1.47](boards/waveshare/esp32-c6/esp32-c6-touch-lcd-1.47--d441984f/README.md) | ESP32-C6 | 4 | 3 |
 | [ESP32-C6-Touch-LCD-1.54](boards/waveshare/esp32-c6/esp32-c6-touch-lcd-1-54--1fcdb802/README.md) | ESP32-C6 | 1 | 0 |
 | [ESP32-C6-Touch-LCD-1.69](boards/waveshare/esp32-c6/esp32-c6-touch-lcd-1.69--fdc12fa4/README.md) | ESP32-C6 | 3 | 3 |
-| [ESP32-C6-Touch-LCD-1.83](boards/waveshare/esp32-c6/esp32-c6-touch-lcd-1.83--34902c58/README.md) | ESP32-C6 | 1 | 0 |
-| [ESP32-C6-Touch-LCD-2.8](boards/waveshare/esp32-c6/esp32-c6-touch-lcd-2.8--ba459302/README.md) | ESP32-C6 | 2 | 2 |
+| [ESP32-C6-Touch-LCD-1.83](boards/waveshare/esp32-c6/esp32-c6-touch-lcd-1.83--34902c58/README.md) | ESP32-C6 | 3 | 0 |
+| [ESP32-C6-Touch-LCD-2.8](boards/waveshare/esp32-c6/esp32-c6-touch-lcd-2.8--ba459302/README.md) | ESP32-C6 | 3 | 2 |
 | [ESP32-C6-Zero](boards/waveshare/esp32-c6/esp32-c6-zero--7072bc68/README.md) | ESP32-C6 | 3 | 3 |
 | [ESP32-C6-Zero-B](boards/waveshare/esp32-c6/esp32-c6-zero-b--f05bebaf/README.md) | ESP32-C6 | 2 | 2 |
 | [ESP32-CAM](boards/waveshare/esp32-original/esp32-cam--63c9f632/README.md) | ESP32 original | 1 | 1 |
 | [ESP32-DEV-KIT-XX](boards/waveshare/esp32-original/esp32-dev-kit-xx--a18994d7/README.md) | ESP32 original | 2 | 2 |
 | [ESP32-H2-DEV-KIT-N4](boards/waveshare/esp32-h2/esp32-h2-dev-kit-n4--bdf2ee98/README.md) | ESP32-H2 | 3 | 3 |
-| [ESP32-H2-Zero](boards/waveshare/esp32-h2/esp32-h2-zero--2552b49f/README.md) | ESP32-H2 | 3 | 3 |
+| [ESP32-H2-Zero](boards/waveshare/esp32-h2/esp32-h2-zero--2552b49f/README.md) | ESP32-H2 | 4 | 3 |
 | [ESP32-P4-86-Panel-ETH-2RO](boards/waveshare/esp32-p4/esp32-p4-86-panel-eth-2ro--1257a39d/README.md) | ESP32-P4 | 4 | 0 |
 | [ESP32-P4-Core-DEV-KIT](boards/waveshare/esp32-p4/esp32-p4-core-dev-kit--dd958b72/README.md) | ESP32-P4 | 2 | 2 |
 | [ESP32-P4-ETH](boards/waveshare/esp32-p4/esp32-p4-eth--b5ef1924/README.md) | ESP32-P4 | 3 | 3 |
@@ -2213,7 +2222,7 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | [ESP32-P4-Module-DEV-KIT](boards/waveshare/esp32-p4/esp32-p4-module-dev-kit--d04aa234/README.md) | ESP32-P4 | 4 | 2 |
 | [ESP32-P4-NANO](boards/waveshare/esp32-p4/esp32-p4-nano--15b98e86/README.md) | ESP32-P4 | 2 | 2 |
 | [ESP32-P4-NANO-WIFI6-DB](boards/waveshare/esp32-p4/esp32-p4-nano-wifi6-db--2057da6f/README.md) | ESP32-P4 | 2 | 2 |
-| [ESP32-P4-Pico](boards/waveshare/esp32-p4/esp32-p4-pico--837cb588/README.md) | ESP32-P4 | 2 | 2 |
+| [ESP32-P4-Pico](boards/waveshare/esp32-p4/esp32-p4-pico--837cb588/README.md) | ESP32-P4 | 3 | 2 |
 | [ESP32-P4-WIFI6](boards/waveshare/esp32-p4/esp32-p4-wifi6--eccd35f4/README.md) | ESP32-P4 | 2 | 2 |
 | [ESP32-P4-WIFI6-DB](boards/waveshare/esp32-p4/esp32-p4-wifi6-db--0a7399c2/README.md) | ESP32-P4 | 4 | 2 |
 | [ESP32-P4-WIFI6-DEV-KIT](boards/waveshare/esp32-p4/esp32-p4-wifi6-dev-kit--73a4b17c/README.md) | ESP32-P4 | 3 | 3 |
@@ -2233,97 +2242,100 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | [ESP32-S2-Pico with LCD](boards/waveshare/esp32-s2/esp32-s2-pico-with-lcd--12f41aa4/README.md) | ESP32-S2 | 2 | 1 |
 | [ESP32-S3 ETH Development Board](boards/waveshare/esp32-s3/esp32-s3-eth-development-board--fd81f9b4/README.md) | ESP32-S3 | 3 | 1 |
 | [ESP32-S3-A7670E-4G](boards/waveshare/esp32-s3/esp32-s3-a7670e-4g--3e296168/README.md) | ESP32-S3 | 1 | 1 |
-| [ESP32-S3-AMOLED-1.91](boards/waveshare/esp32-s3/esp32-s3-amoled-1.91--1eae46bc/README.md) | ESP32-S3 | 2 | 2 |
-| [ESP32-S3-AUDIO-Board](boards/waveshare/esp32-s3/esp32-s3-audio-board--e5db5407/README.md) | ESP32-S3 | 3 | 3 |
-| [ESP32-S3-CAM-OVxxxx](boards/waveshare/esp32-s3/esp32-s3-cam-ovxxxx--a56621cb/README.md) | ESP32-S3 | 1 | 1 |
-| [ESP32-S3-CAN-2CH](boards/waveshare/esp32-s3/esp32-s3-can-2ch--d7e3c753/README.md) | ESP32-S3 | 2 | 2 |
-| [ESP32-S3-DEV-KIT-N8R8](boards/waveshare/esp32-s3/esp32-s3-dev-kit-n8r8--1f481299/README.md) | ESP32-S3 | 3 | 3 |
+| [ESP32-S3-AMOLED-1.91](boards/waveshare/esp32-s3/esp32-s3-amoled-1.91--1eae46bc/README.md) | ESP32-S3 | 3 | 2 |
+| [ESP32-S3-AUDIO-Board](boards/waveshare/esp32-s3/esp32-s3-audio-board--e5db5407/README.md) | ESP32-S3 | 4 | 3 |
+| [ESP32-S3-CAM-OVxxxx](boards/waveshare/esp32-s3/esp32-s3-cam-ovxxxx--a56621cb/README.md) | ESP32-S3 | 3 | 1 |
+| [ESP32-S3-CAN-2CH](boards/waveshare/esp32-s3/esp32-s3-can-2ch--d7e3c753/README.md) | ESP32-S3 | 3 | 2 |
+| [ESP32-S3-DEV-KIT-N8R8](boards/waveshare/esp32-s3/esp32-s3-dev-kit-n8r8--1f481299/README.md) | ESP32-S3 | 4 | 3 |
 | [ESP32-S3-DualEye-LCD-1.28](boards/waveshare/esp32-s3/esp32-s3-dualeye-lcd-1-28--b2cd8ef6/README.md) | ESP32-S3 | 2 | 0 |
-| [ESP32-S3-DualEye-Touch-LCD-1.28](boards/waveshare/esp32-s3/esp32-s3-dualeye-touch-lcd-1-28--79fd98a0/README.md) | ESP32-S3 | 2 | 0 |
-| [ESP32-S3-ePaper-1.54G](boards/waveshare/esp32-s3/esp32-s3-epaper-1.54g--c28cc766/README.md) | ESP32-S3 | 1 | 1 |
-| [ESP32-S3-ePaper-13.3E6](boards/waveshare/esp32-s3/esp32-s3-epaper-13.3e6--ee209bbf/README.md) | ESP32-S3 | 1 | 0 |
+| [ESP32-S3-DualEye-Touch-LCD-1.28](boards/waveshare/esp32-s3/esp32-s3-dualeye-touch-lcd-1-28--79fd98a0/README.md) | ESP32-S3 | 3 | 0 |
+| [ESP32-S3-ePaper-1.54](boards/waveshare/esp32-s3/esp32-s3-epaper-1-54--9da84a5d/README.md) | ESP32-S3 | 1 | 0 |
+| [ESP32-S3-ePaper-1.54G](boards/waveshare/esp32-s3/esp32-s3-epaper-1.54g--c28cc766/README.md) | ESP32-S3 | 2 | 1 |
+| [ESP32-S3-ePaper-13.3E6](boards/waveshare/esp32-s3/esp32-s3-epaper-13.3e6--ee209bbf/README.md) | ESP32-S3 | 2 | 0 |
 | [ESP32-S3-ePaper-3.97](boards/waveshare/esp32-s3/esp32-s3-epaper-3-97--ac73e06d/README.md) | ESP32-S3 | 2 | 0 |
 | [ESP32-S3-ETH](boards/waveshare/esp32-s3/esp32-s3-eth--4914df64/README.md) | ESP32-S3 | 5 | 3 |
 | [ESP32-S3-ETH-8DI-8RO](boards/waveshare/esp32-s3/esp32-s3-eth-8di-8ro--4623282c/README.md) | ESP32-S3 | 1 | 1 |
 | [ESP32-S3-ETH-8DI-8RO-C](boards/waveshare/esp32-s3/esp32-s3-eth-8di-8ro-c--1f33f477/README.md) | ESP32-S3 | 1 | 1 |
-| [ESP32-S3-GEEK](boards/waveshare/esp32-s3/esp32-s3-geek--eedaddbd/README.md) | ESP32-S3 | 2 | 2 |
+| [ESP32-S3-GEEK](boards/waveshare/esp32-s3/esp32-s3-geek--eedaddbd/README.md) | ESP32-S3 | 3 | 2 |
 | [ESP32-S3-Knob-Touch-LCD-1.8](boards/waveshare/esp32-s3/esp32-s3-knob-touch-lcd-1-8--67c622b0/README.md) | ESP32-S3 | 2 | 0 |
-| [ESP32-S3-LCD-0.85](boards/waveshare/esp32-s3/esp32-s3-lcd-0.85--64699aca/README.md) | ESP32-S3 | 1 | 0 |
-| [ESP32-S3-LCD-1.28](boards/waveshare/esp32-s3/esp32-s3-lcd-1.28--05f1c55f/README.md) | ESP32-S3 | 4 | 4 |
-| [ESP32-S3-LCD-1.3](boards/waveshare/esp32-s3/esp32-s3-lcd-1.3--dd6f54a8/README.md) | ESP32-S3 | 1 | 1 |
+| [ESP32-S3-LCD-0.85](boards/waveshare/esp32-s3/esp32-s3-lcd-0.85--64699aca/README.md) | ESP32-S3 | 2 | 0 |
+| [ESP32-S3-LCD-1.28](boards/waveshare/esp32-s3/esp32-s3-lcd-1.28--05f1c55f/README.md) | ESP32-S3 | 5 | 4 |
+| [ESP32-S3-LCD-1.3](boards/waveshare/esp32-s3/esp32-s3-lcd-1.3--dd6f54a8/README.md) | ESP32-S3 | 2 | 1 |
 | [ESP32-S3-LCD-1.47](boards/waveshare/esp32-s3/esp32-s3-lcd-1.47--b9d0d814/README.md) | ESP32-S3 | 1 | 1 |
 | [ESP32-S3-LCD-1.47B](boards/waveshare/esp32-s3/esp32-s3-lcd-1.47b--a94999cd/README.md) | ESP32-S3 | 1 | 1 |
 | [ESP32-S3-LCD-1.69](boards/waveshare/esp32-s3/esp32-s3-lcd-1.69--880965f9/README.md) | ESP32-S3 | 2 | 2 |
-| [ESP32-S3-LCD-1.85](boards/waveshare/esp32-s3/esp32-s3-lcd-1.85--415c899d/README.md) | ESP32-S3 | 1 | 1 |
-| [ESP32-S3-LCD-1.9](boards/waveshare/esp32-s3/esp32-s3-lcd-1.9--4b9a7b51/README.md) | ESP32-S3 | 1 | 1 |
-| [ESP32-S3-LCD-2](boards/waveshare/esp32-s3/esp32-s3-lcd-2--79264587/README.md) | ESP32-S3 | 3 | 3 |
-| [ESP32-S3-LCD-2.8](boards/waveshare/esp32-s3/esp32-s3-lcd-2.8--3181eb2c/README.md) | ESP32-S3 | 4 | 2 |
-| [ESP32-S3-LCD-2.8B](boards/waveshare/esp32-s3/esp32-s3-lcd-2.8b--ef0c4c51/README.md) | ESP32-S3 | 1 | 1 |
-| [ESP32-S3-LCD-2.8C](boards/waveshare/esp32-s3/esp32-s3-lcd-2.8c--533d97cc/README.md) | ESP32-S3 | 1 | 1 |
+| [ESP32-S3-LCD-1.85](boards/waveshare/esp32-s3/esp32-s3-lcd-1.85--415c899d/README.md) | ESP32-S3 | 2 | 1 |
+| [ESP32-S3-LCD-1.9](boards/waveshare/esp32-s3/esp32-s3-lcd-1.9--4b9a7b51/README.md) | ESP32-S3 | 3 | 1 |
+| [ESP32-S3-LCD-2](boards/waveshare/esp32-s3/esp32-s3-lcd-2--79264587/README.md) | ESP32-S3 | 4 | 3 |
+| [ESP32-S3-LCD-2.8](boards/waveshare/esp32-s3/esp32-s3-lcd-2.8--3181eb2c/README.md) | ESP32-S3 | 5 | 2 |
+| [ESP32-S3-LCD-2.8B](boards/waveshare/esp32-s3/esp32-s3-lcd-2.8b--ef0c4c51/README.md) | ESP32-S3 | 2 | 1 |
+| [ESP32-S3-LCD-2.8C](boards/waveshare/esp32-s3/esp32-s3-lcd-2.8c--533d97cc/README.md) | ESP32-S3 | 2 | 1 |
 | [ESP32-S3-LCD-3.16](boards/waveshare/esp32-s3/esp32-s3-lcd-3-16--f87f0cbc/README.md) | ESP32-S3 | 4 | 0 |
-| [ESP32-S3-LCD-Driver-Board](boards/waveshare/esp32-s3/esp32-s3-lcd-driver-board--54dca759/README.md) | ESP32-S3 | 2 | 2 |
+| [ESP32-S3-LCD-Driver-Board](boards/waveshare/esp32-s3/esp32-s3-lcd-driver-board--54dca759/README.md) | ESP32-S3 | 3 | 2 |
 | [ESP32-S3-LR1121-OLED-1.54](boards/waveshare/esp32-s3/esp32-s3-lr1121-oled-1-54--f8aec5f5/README.md) | ESP32-S3 | 2 | 1 |
-| [ESP32-S3-LR1121-XF](boards/waveshare/esp32-s3/esp32-s3-lr1121-xf--8f36f633/README.md) | ESP32-S3 | 1 | 1 |
+| [ESP32-S3-LR1121-XF](boards/waveshare/esp32-s3/esp32-s3-lr1121-xf--8f36f633/README.md) | ESP32-S3 | 3 | 1 |
 | [ESP32-S3-Matrix](boards/waveshare/esp32-s3/esp32-s3-matrix--33bdcbc7/README.md) | ESP32-S3 | 5 | 3 |
 | [ESP32-S3-Matrix Development Board](boards/waveshare/esp32-s3/esp32-s3-matrix-development-board--34c230ee/README.md) | ESP32-S3 | 3 | 1 |
-| [ESP32-S3-Nano](boards/waveshare/esp32-s3/esp32-s3-nano--66ff419f/README.md) | ESP32-S3 | 2 | 2 |
+| [ESP32-S3-Nano](boards/waveshare/esp32-s3/esp32-s3-nano--66ff419f/README.md) | ESP32-S3 | 3 | 2 |
 | [ESP32-S3-PhotoPainter](boards/waveshare/esp32-s3/esp32-s3-photopainter--12404873/README.md) | ESP32-S3 | 1 | 0 |
-| [ESP32-S3-Pico](boards/waveshare/esp32-s3/esp32-s3-pico--313d507a/README.md) | ESP32-S3 | 2 | 2 |
+| [ESP32-S3-Pico](boards/waveshare/esp32-s3/esp32-s3-pico--313d507a/README.md) | ESP32-S3 | 3 | 2 |
 | [ESP32-S3-Relay-1CH](boards/waveshare/esp32-s3/esp32-s3-relay-1ch--1f176dbb/README.md) | ESP32-S3 | 2 | 2 |
-| [ESP32-S3-Relay-6CH](boards/waveshare/esp32-s3/esp32-s3-relay-6ch--8c91e5b3/README.md) | ESP32-S3 | 2 | 2 |
+| [ESP32-S3-Relay-6CH](boards/waveshare/esp32-s3/esp32-s3-relay-6ch--8c91e5b3/README.md) | ESP32-S3 | 3 | 2 |
 | [ESP32-S3-RGB-Matrix](boards/waveshare/esp32-s3/esp32-s3-rgb-matrix--5e60f951/README.md) | ESP32-S3 | 2 | 0 |
-| [ESP32-S3-RLCD-4.2](boards/waveshare/esp32-s3/esp32-s3-rlcd-4.2--12f882f1/README.md) | ESP32-S3 | 1 | 1 |
+| [ESP32-S3-RLCD-4.2](boards/waveshare/esp32-s3/esp32-s3-rlcd-4.2--12f882f1/README.md) | ESP32-S3 | 2 | 1 |
 | [ESP32-S3-RS485-CAN](boards/waveshare/esp32-s3/esp32-s3-rs485-can--b644fce3/README.md) | ESP32-S3 | 2 | 2 |
 | [ESP32-S3-RS485-WLED](boards/waveshare/esp32-s3/esp32-s3-rs485-wled--f1890b69/README.md) | ESP32-S3 | 1 | 0 |
 | [ESP32-S3-SIM7670G-4G](boards/waveshare/esp32-s3/esp32-s3-sim7670g-4g--366e08f2/README.md) | ESP32-S3 | 1 | 1 |
-| [ESP32-S3-Tiny](boards/waveshare/esp32-s3/esp32-s3-tiny--15af01ea/README.md) | ESP32-S3 | 3 | 3 |
-| [ESP32-S3-Touch-AMOLED-1.32](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-1.32--13995164/README.md) | ESP32-S3 | 1 | 1 |
-| [ESP32-S3-Touch-AMOLED-1.43](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-1.43--c3284db2/README.md) | ESP32-S3 | 1 | 1 |
+| [ESP32-S3-Tiny](boards/waveshare/esp32-s3/esp32-s3-tiny--15af01ea/README.md) | ESP32-S3 | 5 | 3 |
+| [ESP32-S3-Touch-AMOLED-1.32](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-1.32--13995164/README.md) | ESP32-S3 | 2 | 1 |
+| [ESP32-S3-Touch-AMOLED-1.43](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-1.43--c3284db2/README.md) | ESP32-S3 | 2 | 1 |
 | [ESP32-S3-Touch-AMOLED-1.43C](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-1-43c--80bced17/README.md) | ESP32-S3 | 3 | 0 |
-| [ESP32-S3-Touch-AMOLED-1.64](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-1.64--7ac3ed7d/README.md) | ESP32-S3 | 1 | 1 |
+| [ESP32-S3-Touch-AMOLED-1.64](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-1.64--7ac3ed7d/README.md) | ESP32-S3 | 3 | 1 |
 | [ESP32-S3-Touch-AMOLED-1.75](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-1-75--d69422ff/README.md) | ESP32-S3 | 2 | 0 |
 | [ESP32-S3-Touch-AMOLED-1.75C](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-1-75c--13fc74f3/README.md) | ESP32-S3 | 2 | 0 |
-| [ESP32-S3-Touch-AMOLED-1.8](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-1.8--c831c280/README.md) | ESP32-S3 | 3 | 3 |
-| [ESP32-S3-Touch-AMOLED-2.06](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-2.06--0f26a14e/README.md) | ESP32-S3 | 1 | 0 |
+| [ESP32-S3-Touch-AMOLED-1.8](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-1.8--c831c280/README.md) | ESP32-S3 | 4 | 3 |
+| [ESP32-S3-Touch-AMOLED-2.06](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-2.06--0f26a14e/README.md) | ESP32-S3 | 2 | 0 |
 | [ESP32-S3-Touch-AMOLED-2.16](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-2-16--8e9109c4/README.md) | ESP32-S3 | 2 | 0 |
-| [ESP32-S3-Touch-AMOLED-2.41](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-2.41--645afd59/README.md) | ESP32-S3 | 1 | 1 |
-| [ESP32-S3-Touch-LCD-1.28](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.28--989d0c53/README.md) | ESP32-S3 | 3 | 3 |
-| [ESP32-S3-Touch-LCD-1.46](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.46--90091a3c/README.md) | ESP32-S3 | 1 | 1 |
-| [ESP32-S3-Touch-LCD-1.46B](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.46b--7b772c9a/README.md) | ESP32-S3 | 2 | 2 |
-| [ESP32-S3-Touch-LCD-1.47](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.47--657fa1bc/README.md) | ESP32-S3 | 3 | 3 |
-| [ESP32-S3-Touch-LCD-1.54](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.54--eed61182/README.md) | ESP32-S3 | 1 | 0 |
-| [ESP32-S3-Touch-LCD-1.69](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.69--9c2d0579/README.md) | ESP32-S3 | 3 | 3 |
-| [ESP32-S3-Touch-LCD-1.83](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.83--8fed6136/README.md) | ESP32-S3 | 1 | 1 |
-| [ESP32-S3-Touch-LCD-1.85](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.85--fc84fd27/README.md) | ESP32-S3 | 2 | 2 |
+| [ESP32-S3-Touch-AMOLED-2.41](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-2.41--645afd59/README.md) | ESP32-S3 | 2 | 1 |
+| [ESP32-S3-Touch-LCD-1.28](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.28--989d0c53/README.md) | ESP32-S3 | 5 | 3 |
+| [ESP32-S3-Touch-LCD-1.46](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.46--90091a3c/README.md) | ESP32-S3 | 2 | 1 |
+| [ESP32-S3-Touch-LCD-1.46B](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.46b--7b772c9a/README.md) | ESP32-S3 | 3 | 2 |
+| [ESP32-S3-Touch-LCD-1.47](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.47--657fa1bc/README.md) | ESP32-S3 | 4 | 3 |
+| [ESP32-S3-Touch-LCD-1.54](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.54--eed61182/README.md) | ESP32-S3 | 2 | 0 |
+| [ESP32-S3-Touch-LCD-1.69](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.69--9c2d0579/README.md) | ESP32-S3 | 4 | 3 |
+| [ESP32-S3-Touch-LCD-1.83](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.83--8fed6136/README.md) | ESP32-S3 | 2 | 1 |
+| [ESP32-S3-Touch-LCD-1.85](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.85--fc84fd27/README.md) | ESP32-S3 | 5 | 2 |
 | [ESP32-S3-Touch-LCD-1.85B](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1-85b--c98cf855/README.md) | ESP32-S3 | 1 | 0 |
-| [ESP32-S3-Touch-LCD-1.85C](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.85c--5c3ba70e/README.md) | ESP32-S3 | 2 | 2 |
-| [ESP32-S3-Touch-LCD-2](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-2--d5962cf6/README.md) | ESP32-S3 | 3 | 3 |
-| [ESP32-S3-Touch-LCD-2.1](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-2.1--e7cb68b1/README.md) | ESP32-S3 | 3 | 3 |
+| [ESP32-S3-Touch-LCD-1.85C](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-1.85c--5c3ba70e/README.md) | ESP32-S3 | 4 | 2 |
+| [ESP32-S3-Touch-LCD-2](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-2--d5962cf6/README.md) | ESP32-S3 | 4 | 3 |
+| [ESP32-S3-Touch-LCD-2.1](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-2.1--e7cb68b1/README.md) | ESP32-S3 | 4 | 3 |
 | [ESP32-S3-Touch-LCD-2.8](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-2-8--3bae40b1/README.md) | ESP32-S3 | 3 | 1 |
-| [ESP32-S3-Touch-LCD-2.8B](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-2.8b--a9422963/README.md) | ESP32-S3 | 2 | 2 |
-| [ESP32-S3-Touch-LCD-2.8C](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-2.8c--1f0fcfc1/README.md) | ESP32-S3 | 1 | 1 |
-| [ESP32-S3-Touch-LCD-3.49](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-3-49--0679f281/README.md) | ESP32-S3 | 2 | 0 |
-| [ESP32-S3-Touch-LCD-3.5](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-3.5--9e1a661d/README.md) | ESP32-S3 | 3 | 3 |
-| [ESP32-S3-Touch-LCD-3.5B](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-3.5b--2daf303f/README.md) | ESP32-S3 | 3 | 3 |
+| [ESP32-S3-Touch-LCD-2.8B](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-2.8b--a9422963/README.md) | ESP32-S3 | 3 | 2 |
+| [ESP32-S3-Touch-LCD-2.8C](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-2.8c--1f0fcfc1/README.md) | ESP32-S3 | 2 | 1 |
+| [ESP32-S3-Touch-LCD-3.49](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-3-49--0679f281/README.md) | ESP32-S3 | 3 | 0 |
+| [ESP32-S3-Touch-LCD-3.5](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-3.5--9e1a661d/README.md) | ESP32-S3 | 5 | 3 |
+| [ESP32-S3-Touch-LCD-3.5B](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-3.5b--2daf303f/README.md) | ESP32-S3 | 5 | 3 |
 | [ESP32-S3-Touch-LCD-4](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-4--1657d45f/README.md) | ESP32-S3 | 6 | 0 |
 | [ESP32-S3-Touch-LCD-4.3](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-4-3--a0ac8c92/README.md) | ESP32-S3 | 2 | 0 |
-| [ESP32-S3-Touch-LCD-4.3B](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-4.3b--fd32630b/README.md) | ESP32-S3 | 2 | 2 |
-| [ESP32-S3-Touch-LCD-4.3C](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-4.3c--db91e81b/README.md) | ESP32-S3 | 1 | 1 |
+| [ESP32-S3-Touch-LCD-4.3B](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-4.3b--fd32630b/README.md) | ESP32-S3 | 3 | 2 |
+| [ESP32-S3-Touch-LCD-4.3C](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-4.3c--db91e81b/README.md) | ESP32-S3 | 2 | 1 |
 | [ESP32-S3-Touch-LCD-4B](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-4b--6a996cec/README.md) | ESP32-S3 | 2 | 0 |
-| [ESP32-S3-Touch-LCD-5](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-5--a2fd2ffe/README.md) | ESP32-S3 | 3 | 3 |
+| [ESP32-S3-Touch-LCD-5](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-5--a2fd2ffe/README.md) | ESP32-S3 | 4 | 3 |
 | [ESP32-S3-Touch-LCD-7](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-7--4245d95c/README.md) | ESP32-S3 | 2 | 0 |
 | [ESP32-S3-Touch-LCD-7B](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-7b--3e269e0f/README.md) | ESP32-S3 | 2 | 0 |
-| [ESP32-S3-Touch-LCD-7C-BOX](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-7c-box--81b1716d/README.md) | ESP32-S3 | 3 | 0 |
-| [ESP32-S3-Zero](boards/waveshare/esp32-s3/esp32-s3-zero--1ec2c1a4/README.md) | ESP32-S3 | 4 | 4 |
+| [ESP32-S3-Touch-LCD-7C-BOX](boards/waveshare/esp32-s3/esp32-s3-touch-lcd-7c-box--81b1716d/README.md) | ESP32-S3 | 4 | 0 |
+| [ESP32-S3-Zero](boards/waveshare/esp32-s3/esp32-s3-zero--1ec2c1a4/README.md) | ESP32-S3 | 5 | 4 |
 | [ESP32-Touch-LCD-3.5](boards/waveshare/esp32-original/esp32-touch-lcd-3.5--22979f6b/README.md) | ESP32 original | 3 | 3 |
+| [ESP32S3-TOUCH-LCD-2](boards/waveshare/esp32-s3/esp32s3-touch-lcd-2--7e518958/README.md) | ESP32-S3 | 1 | 1 |
 | [IMX415 8MP USB Camera (B)](boards/waveshare/expansion/imx415-8mp-usb-camera-b--3956aed7/README.md) | Expansion | 1 | 1 |
 | [Micro-bit V2](boards/waveshare/source-collection/micro-bit-v2--9bfe43c1/README.md) | Source collection | 1 | 0 |
+| [NRF52840 Eval Kit](boards/waveshare/other/nrf52840-eval-kit--50fbe575/README.md) | Other | 2 | 1 |
 | [OS05A20 5MP USB Camera (B)](boards/waveshare/expansion/os05a20-5mp-usb-camera-b--39f305e5/README.md) | Expansion | 1 | 1 |
 | [OS05A20 5MP USB Camera (C)](boards/waveshare/expansion/os05a20-5mp-usb-camera-c--8391470a/README.md) | Expansion | 1 | 1 |
 | [PCIe TO MiniPCIe GbE USB3.2 HAT Plus](boards/waveshare/expansion/pcie-to-minipcie-gbe-usb3.2-hat-plus--07829872/README.md) | Expansion | 1 | 1 |
 | [R3 PLUS](boards/waveshare/other/r3-plus--a0e00bc9/README.md) | Other | 1 | 1 |
 | [RP2040-BLE](boards/waveshare/rp2040/rp2040-ble--4f94e486/README.md) | RP2040 | 2 | 2 |
-| [RP2040-ETH](boards/waveshare/rp2040/rp2040-eth--9c3a21e0/README.md) | RP2040 | 1 | 1 |
+| [RP2040-ETH](boards/waveshare/rp2040/rp2040-eth--9c3a21e0/README.md) | RP2040 | 3 | 1 |
 | [RP2040-GEEK](boards/waveshare/rp2040/rp2040-geek--1a10fd85/README.md) | RP2040 | 1 | 0 |
 | [RP2040-Keyboard-3](boards/waveshare/rp2040/rp2040-keyboard-3--5506d5a1/README.md) | RP2040 | 1 | 0 |
 | [RP2040-LCD-0.96](boards/waveshare/rp2040/rp2040-lcd-0.96--f97f7e59/README.md) | RP2040 | 2 | 2 |
@@ -2334,15 +2346,15 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | [RP2040-One](boards/waveshare/rp2040/rp2040-one--9b71d803/README.md) | RP2040 | 1 | 1 |
 | [RP2040-PiZero](boards/waveshare/rp2040/rp2040-pizero--537c1d29/README.md) | RP2040 | 1 | 0 |
 | [RP2040-Plus](boards/waveshare/rp2040/rp2040-plus--d7fcd44f/README.md) | RP2040 | 3 | 3 |
-| [RP2040-Tiny](boards/waveshare/rp2040/rp2040-tiny--80499cb6/README.md) | RP2040 | 2 | 2 |
+| [RP2040-Tiny](boards/waveshare/rp2040/rp2040-tiny--80499cb6/README.md) | RP2040 | 5 | 2 |
 | [RP2040-Touch-LCD-1.28](boards/waveshare/rp2040/rp2040-touch-lcd-1.28--4e898fd8/README.md) | RP2040 | 1 | 1 |
 | [RP2040-Touch-LCD-1.69](boards/waveshare/rp2040/rp2040-touch-lcd-1.69--8c02eb6b/README.md) | RP2040 | 2 | 2 |
 | [RP2040-Zero](boards/waveshare/rp2040/rp2040-zero--8d328f20/README.md) | RP2040 | 3 | 3 |
-| [RP2350-CAN](boards/waveshare/rp2350/rp2350-can--dd83af46/README.md) | RP2350 | 2 | 2 |
+| [RP2350-CAN](boards/waveshare/rp2350/rp2350-can--dd83af46/README.md) | RP2350 | 4 | 2 |
 | [RP2350-ETH](boards/waveshare/rp2350/rp2350-eth--a6f82049/README.md) | RP2350 | 2 | 2 |
 | [RP2350-ETH-8DI-8RO](boards/waveshare/rp2350/rp2350-eth-8di-8ro--2a05a787/README.md) | RP2350 | 2 | 2 |
 | [RP2350-GEEK](boards/waveshare/rp2350/rp2350-geek--bb80ac73/README.md) | RP2350 | 1 | 0 |
-| [RP2350-LCD-0.85](boards/waveshare/rp2350/rp2350-lcd-0-85--8f57f26a/README.md) | RP2350 | 3 | 0 |
+| [RP2350-LCD-0.85](boards/waveshare/rp2350/rp2350-lcd-0-85--8f57f26a/README.md) | RP2350 | 4 | 0 |
 | [RP2350-LCD-0.96](boards/waveshare/rp2350/rp2350-lcd-0.96--e7db4dbb/README.md) | RP2350 | 1 | 1 |
 | [RP2350-LCD-1.28](boards/waveshare/rp2350/rp2350-lcd-1.28--9b994bc2/README.md) | RP2350 | 2 | 2 |
 | [RP2350-LCD-1.47-A](boards/waveshare/rp2350/rp2350-lcd-1.47-a--9ada4446/README.md) | RP2350 | 2 | 2 |
@@ -2355,21 +2367,21 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | [RP2350-Relay-6CH](boards/waveshare/rp2350/rp2350-relay-6ch--0c7b4116/README.md) | RP2350 | 2 | 2 |
 | [RP2350-Tiny](boards/waveshare/rp2350/rp2350-tiny--bc80a20e/README.md) | RP2350 | 1 | 1 |
 | [RP2350-Touch-AMOLED-1.43](boards/waveshare/rp2350/rp2350-touch-amoled-1.43--67b4879c/README.md) | RP2350 | 2 | 2 |
-| [RP2350-Touch-AMOLED-1.64](boards/waveshare/rp2350/rp2350-touch-amoled-1.64--2dbdbc4a/README.md) | RP2350 | 3 | 2 |
+| [RP2350-Touch-AMOLED-1.64](boards/waveshare/rp2350/rp2350-touch-amoled-1.64--2dbdbc4a/README.md) | RP2350 | 5 | 2 |
 | [RP2350-Touch-AMOLED-1.75](boards/waveshare/rp2350/rp2350-touch-amoled-1.75--407261df/README.md) | RP2350 | 1 | 0 |
 | [RP2350-Touch-AMOLED-1.8](boards/waveshare/rp2350/rp2350-touch-amoled-1.8--7c02d8f8/README.md) | RP2350 | 2 | 2 |
 | [RP2350-Touch-AMOLED-2.41](boards/waveshare/rp2350/rp2350-touch-amoled-2.41--13725328/README.md) | RP2350 | 3 | 2 |
-| [RP2350-Touch-ePaper-1.54](boards/waveshare/rp2350/rp2350-touch-epaper-1-54--3de86c21/README.md) | RP2350 | 3 | 0 |
+| [RP2350-Touch-ePaper-1.54](boards/waveshare/rp2350/rp2350-touch-epaper-1-54--3de86c21/README.md) | RP2350 | 4 | 0 |
 | [RP2350-Touch-LCD-1.28](boards/waveshare/rp2350/rp2350-touch-lcd-1.28--165faaf5/README.md) | RP2350 | 2 | 2 |
 | [RP2350-Touch-LCD-1.46](boards/waveshare/rp2350/rp2350-touch-lcd-1.46--c49fe9c8/README.md) | RP2350 | 2 | 2 |
-| [RP2350-Touch-LCD-1.54](boards/waveshare/rp2350/rp2350-touch-lcd-1-54--91bd0e66/README.md) | RP2350 | 3 | 0 |
-| [RP2350-Touch-LCD-1.69](boards/waveshare/rp2350/rp2350-touch-lcd-1.69--19bf110e/README.md) | RP2350 | 2 | 2 |
+| [RP2350-Touch-LCD-1.54](boards/waveshare/rp2350/rp2350-touch-lcd-1-54--91bd0e66/README.md) | RP2350 | 4 | 0 |
+| [RP2350-Touch-LCD-1.69](boards/waveshare/rp2350/rp2350-touch-lcd-1.69--19bf110e/README.md) | RP2350 | 4 | 2 |
 | [RP2350-Touch-LCD-1.85C](boards/waveshare/rp2350/rp2350-touch-lcd-1.85c--943bccc9/README.md) | RP2350 | 2 | 2 |
 | [RP2350-Touch-LCD-2](boards/waveshare/rp2350/rp2350-touch-lcd-2--2ec45a95/README.md) | RP2350 | 2 | 2 |
 | [RP2350-Touch-LCD-2.1](boards/waveshare/rp2350/rp2350-touch-lcd-2.1--a409fa41/README.md) | RP2350 | 2 | 2 |
 | [RP2350-Touch-LCD-2.8](boards/waveshare/rp2350/rp2350-touch-lcd-2.8--28db0233/README.md) | RP2350 | 2 | 2 |
 | [RP2350-Touch-LCD-2.8C](boards/waveshare/rp2350/rp2350-touch-lcd-2.8c--b4935a89/README.md) | RP2350 | 2 | 2 |
-| [RP2350-Touch-LCD-3.49](boards/waveshare/rp2350/rp2350-touch-lcd-3.49--ca692342/README.md) | RP2350 | 2 | 2 |
+| [RP2350-Touch-LCD-3.49](boards/waveshare/rp2350/rp2350-touch-lcd-3.49--ca692342/README.md) | RP2350 | 4 | 2 |
 | [RP2350-Touch-LCD-3.5](boards/waveshare/rp2350/rp2350-touch-lcd-3.5--5a7a3f71/README.md) | RP2350 | 2 | 2 |
 | [RP2350-Touch-LCD-4](boards/waveshare/rp2350/rp2350-touch-lcd-4--ab61d9eb/README.md) | RP2350 | 1 | 0 |
 | [RP2350-Touch-LCD-4.3B](boards/waveshare/rp2350/rp2350-touch-lcd-4.3b--cafc9f33/README.md) | RP2350 | 1 | 1 |
@@ -2381,6 +2393,7 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | [RP2350B-Plus-W](boards/waveshare/rp2350/rp2350b-plus-w--279c5d0d/README.md) | RP2350 | 3 | 3 |
 | [Servo Driver with ESP32](boards/waveshare/esp32/servo-driver-with-esp32--176b6c42/README.md) | ESP32 | 2 | 0 |
 | [UPS Power Module (C)](boards/waveshare/expansion/ups-power-module-c--8b8ee5cd/README.md) | Expansion | 1 | 1 |
+| [Waveshare ESP32-S3-Tiny-N8R8](boards/waveshare/esp32-s3/waveshare-esp32-s3-tiny-n8r8--b89e1662/README.md) | ESP32-S3 | 1 | 1 |
 | [XNUCLEO-F030R8](boards/waveshare/other/xnucleo-f030r8--57ace6ea/README.md) | Other | 1 | 1 |
 | [XNUCLEO-F103RB](boards/waveshare/other/xnucleo-f103rb--f666a328/README.md) | Other | 1 | 1 |
 | [XNUCLEO-F401RE](boards/waveshare/other/xnucleo-f401re--9ba18564/README.md) | Other | 1 | 1 |

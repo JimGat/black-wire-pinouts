@@ -4,7 +4,7 @@
 
 Revision: Not identified
 
-Coverage: Manufacturer references reviewed by scope; independent electrical and all-connector review pending
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=waveshare-esp32-esp32-s3-touch-lcd-3-49)
 
@@ -12,9 +12,10 @@ Coverage: Manufacturer references reviewed by scope; independent electrical and 
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer hardware documentation](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-3.49)
+[Manufacturer model documentation](https://docs.waveshare.com/ESP32-S3-Touch-LCD-3.49/Resources-And-Documents)
 
 - **hardware-guide / board**: [Manufacturer pin and hardware documentation](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-3.49) · online
+- **schematic / board**: [ESP32-S3-Touch-LCD-3.49 V1 Schematic — schematic](https://files.waveshare.com/wiki/ESP32-S3-Touch-LCD-3.49/ESP32-S3-Touch-LCD-3.49-Schematic.pdf) · [saved document](../../../../library/media/2bc315a0bb3e3d3654d502c9d6ce84da18ad875511c77e73a198e8e2cd204a10.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -55,5 +56,23 @@ Manufacturer source retained unchanged. Source identity and visual scope inspect
 Image revision: As supplied in the original; match exact board revision
 
 SHA-256: `d0c36ed7b0814c49f0c5285cb0868e51a01afe44b7e1a98953b286c48ccdb00e`
+
+## ESP32-S3-Touch-LCD-3.49 V1 Schematic — schematic
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![ESP32-S3-Touch-LCD-3.49 reference preview](../../../../library/thumbs/2bc315a0bb3e3d3654d502c9d6ce84da18ad875511c77e73a198e8e2cd204a10.webp)](../../../../library/media/2bc315a0bb3e3d3654d502c9d6ce84da18ad875511c77e73a198e8e2cd204a10.pdf)
+
+[Open original reference](../../../../library/media/2bc315a0bb3e3d3654d502c9d6ce84da18ad875511c77e73a198e8e2cd204a10.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: Waveshare.
+
+[Source 1](https://files.waveshare.com/wiki/ESP32-S3-Touch-LCD-3.49/ESP32-S3-Touch-LCD-3.49-Schematic.pdf) · [Source 2](https://docs.waveshare.com/ESP32-S3-Touch-LCD-3.49/Resources-And-Documents)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a circuit schematic, not a physical board pinout.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `2bc315a0bb3e3d3654d502c9d6ce84da18ad875511c77e73a198e8e2cd204a10`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

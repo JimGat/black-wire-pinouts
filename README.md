@@ -16,7 +16,11 @@
 
 Board and device references for **ESP32, Arduino, Raspberry Pi, RP2040/RP2350**, displays, sensors, buttons, interfaces and power modules. Find physical pinout sources, supporting photos, pin-purpose tables and manufacturer documentation, with revision and coverage notes. Generic modules and documentation gaps remain visible.
 
-The companion app **0.14.0** adds a single Windows installer, Linux packages and in-app updates that retain downloaded references and saved workbench data. Search and previews are included; download original files inside the app for complete offline access. [Install and update](https://valleytech-black-wire-guide.pages.dev/wiki/desktop-updates/). The hardware collection is snapshot **2026.10.3**, First Edition / 2026. [How to read a pinout](https://valleytech-black-wire-guide.pages.dev/wiki/reading-pinouts/) · [Contribute or report a correction](CONTRIBUTING.md).
+The companion app provides a single Windows installer, Linux packages and in-app updates that retain downloaded references and saved workbench data. Search and previews are included; download original files inside the app for complete offline access. [Install and update](https://valleytech-black-wire-guide.pages.dev/wiki/desktop-updates/). The hardware collection is snapshot **2026.10.4**, First Edition / 2026. [How to read a pinout](https://valleytech-black-wire-guide.pages.dev/wiki/reading-pinouts/) · [Contribute or report a correction](CONTRIBUTING.md).
+
+## Documentation recovery / snapshot 2026.10.4
+
+**416 existing listings enriched · 571 reference attachments · 527 distinct files.** Manufacturer manuals and schematics are saved with exact source links, plus nine partial physical-pinout entries. [Coverage, source corrections and remaining gaps](docs/EXPANSION-2026.10.4.md).
 
 ## Waveshare, M5Stack and NodeMCU / snapshot 2026.10.3
 

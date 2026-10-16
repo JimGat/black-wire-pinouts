@@ -4,7 +4,7 @@
 
 Revision: Not identified
 
-Coverage: Manufacturer references reviewed by scope; independent electrical and all-connector review pending
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=m5stack-gpio-device-unit-poe-p4)
 
@@ -14,12 +14,13 @@ Device category: **Controllers & instruments**
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer hardware documentation](https://docs.m5stack.com/en/unit/Unit_PoE-P4)
+[Manufacturer model documentation](https://docs.m5stack.com/en/unit/Unit_PoE-P4)
 
 - **schematic / board**: [Unit PoE-P4 Mainboard Schematics PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1217/SCH_StickPoE_SCH_Main_V0.2_20250829_2026_02_02_17_17_04.pdf) · [saved document](../../../../library/media/8752b415bceb61bc8f1f53d487bed0e67ce0125e06ded5350f1b8016dc8d0692.pdf)
 - **schematic / board**: [Unit PoE-P4 Power Board Schematics PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1217/SCH_StickPoE_SCH_POWER_V0.2_20250731_2026_02_02_17_17_39.pdf) · [saved document](../../../../library/media/20df3deef133f05ec4ed8d83fb7ca534219c2113fa7acf521032a9ab95e7c471.pdf)
 - **schematic / board**: [Unit PoE-P4 HAT Expansion Interface Schematics PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1217/SCH_StickPoE_SCH_Hat_V0.2_20250801_2026_02_02_17_16_35.pdf) · [saved document](../../../../library/media/ad513ecaf80b025a34b7c718bb29a475fcd3ac4064f705b77093c90155db314e.pdf)
 - **hardware-guide / board**: [Manufacturer pin and hardware documentation](https://docs.m5stack.com/en/unit/Unit_PoE-P4) · online
+- **hardware-guide / board**: [Unit PoE-P4 — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/unit/Unit_PoE-P4.pdf) · [saved document](../../../../library/media/c28aa82eb3957ea3bfe3fcc929567fe89e8197846eca2be2b3c22b5d6d59254b.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -114,5 +115,23 @@ Manufacturer source retained unchanged. Manufacturer source and first-page previ
 Image revision: As supplied in the original; match exact board revision
 
 SHA-256: `ad513ecaf80b025a34b7c718bb29a475fcd3ac4064f705b77093c90155db314e`
+
+## Unit PoE-P4 — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![Unit PoE-P4 reference preview](../../../../library/thumbs/c28aa82eb3957ea3bfe3fcc929567fe89e8197846eca2be2b3c22b5d6d59254b.webp)](../../../../library/media/c28aa82eb3957ea3bfe3fcc929567fe89e8197846eca2be2b3c22b5d6d59254b.pdf)
+
+[Open original reference](../../../../library/media/c28aa82eb3957ea3bfe3fcc929567fe89e8197846eca2be2b3c22b5d6d59254b.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/unit/Unit_PoE-P4.pdf) · [Source 2](https://docs.m5stack.com/en/unit/Unit_PoE-P4)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `c28aa82eb3957ea3bfe3fcc929567fe89e8197846eca2be2b3c22b5d6d59254b`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

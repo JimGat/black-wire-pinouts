@@ -4,7 +4,7 @@
 
 Revision: Not identified
 
-Coverage: Pinout image collected
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=m5stack-expansion-addon-display-in-for-poe-p4)
 
@@ -12,8 +12,10 @@ Coverage: Pinout image collected
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://docs.m5stack.com/en/addon/AddOn_Display_In_For_PoE-P4)
+[Manufacturer model documentation](https://docs.m5stack.com/en/addon/AddOn_Display_In_For_PoE-P4)
 
+- **hardware-guide / board**: [AddOn Display In For PoE-P4 — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/addon/AddOn_Display_In_For_PoE-P4.pdf) · [saved document](../../../../library/media/9fcdbcb7c886ad32a65c16d524377779a7b5415c447fc8ee0daf6a3969ecb51d.pdf)
+- **schematic / board**: [AddOn Display In For PoE-P4 Schematics PDF — schematic](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1265/SCH_UnitPoEP4_display_in_V0.3_SCH_PDF_20260326_2026_03_26_16_04_18.pdf) · [saved document](../../../../library/media/3bf94123f22f333210240564d83dd291facc36de42c3886918dd6b8b68a1ddad.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -54,5 +56,41 @@ Original source index: Dimensions. This file is searchable but has not been prom
 Image revision: Not identified
 
 SHA-256: `86d409fd87b3dcb3c75fd4ab438ee6f14282795b7df5cc607a4c87a9f9821e63`
+
+## AddOn Display In For PoE-P4 — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![AddOn Display In For PoE-P4 reference preview](../../../../library/thumbs/9fcdbcb7c886ad32a65c16d524377779a7b5415c447fc8ee0daf6a3969ecb51d.webp)](../../../../library/media/9fcdbcb7c886ad32a65c16d524377779a7b5415c447fc8ee0daf6a3969ecb51d.pdf)
+
+[Open original reference](../../../../library/media/9fcdbcb7c886ad32a65c16d524377779a7b5415c447fc8ee0daf6a3969ecb51d.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/addon/AddOn_Display_In_For_PoE-P4.pdf) · [Source 2](https://docs.m5stack.com/en/addon/AddOn_Display_In_For_PoE-P4)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `9fcdbcb7c886ad32a65c16d524377779a7b5415c447fc8ee0daf6a3969ecb51d`
+
+## AddOn Display In For PoE-P4 Schematics PDF — schematic
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![AddOn Display In For PoE-P4 reference preview](../../../../library/thumbs/3bf94123f22f333210240564d83dd291facc36de42c3886918dd6b8b68a1ddad.webp)](../../../../library/media/3bf94123f22f333210240564d83dd291facc36de42c3886918dd6b8b68a1ddad.pdf)
+
+[Open original reference](../../../../library/media/3bf94123f22f333210240564d83dd291facc36de42c3886918dd6b8b68a1ddad.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1265/SCH_UnitPoEP4_display_in_V0.3_SCH_PDF_20260326_2026_03_26_16_04_18.pdf) · [Source 2](https://docs.m5stack.com/en/addon/AddOn_Display_In_For_PoE-P4)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a circuit schematic, not a physical board pinout.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `3bf94123f22f333210240564d83dd291facc36de42c3886918dd6b8b68a1ddad`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

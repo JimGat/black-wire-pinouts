@@ -4,7 +4,7 @@
 
 Revision: Not identified
 
-Coverage: Manufacturer references reviewed by scope; independent electrical and all-connector review pending
+Coverage: Manufacturer references available; physical pinout and complete connector review are tracked separately
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=m5stack-expansion-stamp-addon-c6-for-p4)
 
@@ -12,10 +12,11 @@ Coverage: Manufacturer references reviewed by scope; independent electrical and 
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer hardware documentation](https://docs.m5stack.com/en/stamp/Stamp-AddOn_C6_For_P4)
+[Manufacturer model documentation](https://docs.m5stack.com/en/stamp/Stamp-AddOn_C6_For_P4)
 
 - **schematic / board**: [Stamp-AddOn C6 For P4 Schematics PDF](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1220/SCH_C6_Add-on_Stamp-P4_2026_03_16_15_10_59.pdf) · [saved document](../../../../library/media/bcb1e4156259fe2f648c7eabda1870552fdbcb1e46b02461b6e6337d05033ef8.pdf)
 - **hardware-guide / board**: [Manufacturer pin and hardware documentation](https://docs.m5stack.com/en/stamp/Stamp-AddOn_C6_For_P4) · online
+- **hardware-guide / board**: [Stamp-AddOn C6 For P4 — manufacturer hardware guide](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/stamp/Stamp-AddOn_C6_For_P4.pdf) · [saved document](../../../../library/media/27eb3d07829209a58deddc5dd496947bf36659e2cc94a857a31f207769e9d152.pdf)
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -74,5 +75,23 @@ Manufacturer source retained unchanged. Manufacturer source and first-page previ
 Image revision: As supplied in the original; match exact board revision
 
 SHA-256: `bcb1e4156259fe2f648c7eabda1870552fdbcb1e46b02461b6e6337d05033ef8`
+
+## Stamp-AddOn C6 For P4 — manufacturer hardware guide
+
+**reference PDF** · Source model/link and PDF signature/title checked; individual pin assignments and electrical validation pending · PDF
+
+[![Stamp-AddOn C6 For P4 reference preview](../../../../library/thumbs/27eb3d07829209a58deddc5dd496947bf36659e2cc94a857a31f207769e9d152.webp)](../../../../library/media/27eb3d07829209a58deddc5dd496947bf36659e2cc94a857a31f207769e9d152.pdf)
+
+[Open original reference](../../../../library/media/27eb3d07829209a58deddc5dd496947bf36659e2cc94a857a31f207769e9d152.pdf)
+
+**Credit and rights:** Original publisher/manufacturer artwork; redistribution and print rights not established. Attribution is not a license grant.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/stamp/Stamp-AddOn_C6_For_P4.pdf) · [Source 2](https://docs.m5stack.com/en/stamp/Stamp-AddOn_C6_For_P4)
+
+Original document linked from this model’s manufacturer page. Preserve the document’s exact revision and named subassembly scope; a linked accessory schematic is not a whole-device pinout. This is a hardware manual, not a separately classified board datasheet.
+
+Image revision: Use the revision printed in the original document; do not assume all hardware revisions are interchangeable
+
+SHA-256: `27eb3d07829209a58deddc5dd496947bf36659e2cc94a857a31f207769e9d152`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.
