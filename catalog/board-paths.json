@@ -2086,5 +2086,7 @@
   "waveshare-esp32-esp32s3-touch-lcd-2": "boards/waveshare/esp32-s3/esp32s3-touch-lcd-2--7e518958/README.md",
   "waveshare-esp32-esp32-s3-tiny-n8r8": "boards/waveshare/esp32-s3/waveshare-esp32-s3-tiny-n8r8--b89e1662/README.md",
   "waveshare-other-core103r": "boards/waveshare/other/core103r--26e11b1b/README.md",
-  "waveshare-other-nrf52840-eval-kit": "boards/waveshare/other/nrf52840-eval-kit--50fbe575/README.md"
+  "waveshare-other-nrf52840-eval-kit": "boards/waveshare/other/nrf52840-eval-kit--50fbe575/README.md",
+  "rockbase-nmtech-nm-cyd-c5": "boards/rockbase-iot-nmtech/esp32-c5/nm-cyd-c5--45822b76/README.md",
+  "rockbase-nmtech-nm-rf-hat": "boards/rockbase-iot-nmtech/host-controlled-rf-accessory/nm-rf-hat--2c0a9aa7/README.md"
 }

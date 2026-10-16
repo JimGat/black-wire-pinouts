@@ -2,7 +2,7 @@
 
 [Search devices in the browser guide](https://valleytech-black-wire-guide.pages.dev/?tab=devices) · [All boards](BROWSE.md) · [First Edition](EDITION.md)
 
-**341 device records with references.** Includes handhelds, radio nodes, wearables, cameras, displays and controllers. Counts include unreviewed source records and supporting references; not every record has a full physical pinout.
+**343 device records with saved files or linked hardware documentation.** Includes handhelds, radio nodes, wearables, cameras, displays and controllers. Counts include unreviewed source records and supporting references; not every record has a full physical pinout.
 
 Original manufacturer images remain unchanged. Revision and partial-map notes live on each device page.
 
@@ -234,6 +234,7 @@ Original manufacturer images remain unchanged. Revision and partial-map notes li
 | M5Stack | [M5Stack Tab5 IoT Development Kit](boards/m5stack/esp32-p4/m5stack-tab5-iot-development-kit--afd4122f/README.md) | ESP32-P4 | 1 | 2 |
 | QDtech | [E32R28T ESP32-32E 2.8-inch resistive display](boards/qdtech/esp32-wroom-32e/e32r28t-esp32-32e-2-8-inch-resistive-display--3576badc/README.md) | ESP32-WROOM-32E | 0 | 4 |
 | QDtech | [E32R35T ESP32-32E 3.5-inch resistive display](boards/qdtech/esp32-wroom-32e/e32r35t-esp32-32e-3-5-inch-resistive-display--f0304b2d/README.md) | ESP32-WROOM-32E | 0 | 4 |
+| RockBase IoT / NMTech | [NM-CYD-C5](boards/rockbase-iot-nmtech/esp32-c5/nm-cyd-c5--45822b76/README.md) | ESP32-C5 | 0 | 0 |
 | Seeed Studio | [SenseCAP Indicator](boards/seeed-studio/esp32-s3/sensecap-indicator--fc7a36c2/README.md) | ESP32-S3 | 1 | 3 |
 | Seeed Studio | [SenseCAP Indicator D1](boards/seeed-studio/esp32-s3/sensecap-indicator-d1--0cd6ba93/README.md) | ESP32-S3 | 1 | 3 |
 | Seeed Studio | [SenseCAP Indicator D1L](boards/seeed-studio/esp32-s3/sensecap-indicator-d1l--bd53d87c/README.md) | ESP32-S3 | 1 | 1 |
@@ -255,6 +256,12 @@ Original manufacturer images remain unchanged. Revision and partial-map notes li
 | Sunton | [ESP32-2432S028R](boards/sunton/esp32/esp32-2432s028r--c76387e5/README.md) | ESP32 | 3 | 8 |
 | Sunton | [ESP32-2432S032C-I](boards/sunton/esp32/esp32-2432s032c-i--f56511ce/README.md) | ESP32 | 0 | 1 |
 | Sunton | [ESP32-3248S035R](boards/sunton/esp32/esp32-3248s035r--0706e456/README.md) | ESP32 | 1 | 2 |
+
+## Expansion & IO
+
+| Manufacturer | Device | Processor | Pinout images | References |
+|---|---|---|---:|---:|
+| RockBase IoT / NMTech | [NM-RF-HAT](boards/rockbase-iot-nmtech/host-controlled-rf-accessory/nm-rf-hat--2c0a9aa7/README.md) | Host-controlled RF accessory | 0 | 0 |
 
 ## Handhelds & pocket tools
 

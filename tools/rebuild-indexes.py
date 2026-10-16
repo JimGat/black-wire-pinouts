@@ -5,6 +5,15 @@ electrically verify references. Use --boards FILE for a JSON array of board IDs
 whose pages need refreshing; otherwise refresh new pages and device pages.
 """
 import argparse, collections, csv, datetime, hashlib, json, pathlib, re
+from urllib.parse import urlsplit
+
+def has_reference(b):
+    def valid(r):
+        try:
+            u=urlsplit(r.get('url',''))
+            return r.get('kind') in ['hardware-guide','schematic','connector-reference','design-files'] and r.get('scope') in ['board','connector','accessory','assembly'] and u.scheme in ['https','http'] and bool(u.hostname) and not u.username and not u.password
+        except (ValueError,TypeError):return False
+    return bool(b.get('assets')) or any(valid(r) for r in b.get('documentation',{}).get('resources',[]))
 
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 LIB=ROOT/'library'
@@ -18,6 +27,7 @@ def main():
     paths=json.loads((ROOT/'catalog/board-paths.json').read_text(encoding='utf-8'))
     refresh=set(json.loads(args.boards.read_text(encoding='utf-8'))) if args.boards else {b['id'] for b in c['boards'] if b.get('device')}
     boards=[b for b in c['boards'] if b['assets']];assets=[a for b in boards for a in b['assets']]
+    documented=[b for b in c['boards'] if has_reference(b) and (not args.boards or b['id'] in paths or b['id'] in refresh)]
     assert len({b['id'] for b in c['boards']})==len(c['boards']),'Duplicate board IDs'
     assert len({a['id'] for a in assets})==len(assets),'Duplicate asset IDs'
     media={a['file']:a['bytes'] for a in assets}
@@ -25,7 +35,7 @@ def main():
         if a.get('vector'):media[a['vector']]=(LIB/a['vector']).stat().st_size
     c['stats'].update(boardsWithFiles=len(boards),trackedBoards=len(c['boards']),referenceEntries=len(assets),physicalPinouts=sum(a['type']=='pinout image' for a in assets),brands=len({b['brand'] for b in boards}),uniqueMedia=len(media),libraryBytes=sum(media.values()),devicesWithFiles=sum(bool(b.get('device')) for b in boards),devicePinouts=sum(a['type']=='pinout image' for b in boards if b.get('device') for a in b['assets']))
     c['generatedAt']=datetime.datetime.now(datetime.timezone.utc).isoformat()
-    for b in boards:
+    for b in documented:
         if b['id'] not in paths:
             paths[b['id']]=f"boards/{slug(b['brand'])}/{slug(b['processor'] or b['family'])}/{slug(b['name'])}--{hashlib.sha256(b['id'].encode()).hexdigest()[:8]}/README.md"
             refresh.add(b['id'])
@@ -49,6 +59,11 @@ def main():
             lines.extend(['## Specifications and hardware documentation',''])
             lines.extend([f"- [{s.get('label','Hardware documentation')}]({s['url']})" for s in b['specifications']])
             lines.append('')
+        for ref in b.get('pinReferences',[]):
+            lines.extend(['## '+ref['connector'],'',ref['scope'],'',ref.get('orientation',''),'', '| Board label / source position | Purpose | Connection notes |','|---|---|---|'])
+            def cell(value):return str(value).replace('|','&#124;').replace(chr(10),' ')
+            for pin in ref['pins']:lines.append('| '+ ' | '.join(cell(x) for x in [pin['label']+(' / '+str(pin['position']) if pin.get('position') else ''),pin['purpose'],pin.get('notes','')])+' |')
+            lines.extend(['',f"[Source evidence]({ref['source']['url']}) · {ref['source'].get('locator','')} · {ref['review']}",''])
         for a in b['assets']:
             lines.extend([f"## {a['label']}",'',f"**{a['type']}** · {a['review']} · {a['extension'].upper()}",''])
             if a.get('thumb'):lines.extend([f"[![{b['name']} reference preview]({prefix}library/{a['thumb']})]({prefix}library/{a['file']})",''])
@@ -69,14 +84,14 @@ def main():
         writer=csv.DictWriter(f,fieldnames=list(attribution[0]));writer.writeheader();writer.writerows(attribution)
     browse=['# Browse the reference collection','','[Documentation audit](DOCUMENTATION.md) · [Devices & IoT](DEVICES.md) · [Wiring & protocols](WIRING.md) · [First Edition policy](EDITION.md) · [Search the website](https://valleytechsolutions.tech/pages/bwm-technical-reference-guide)','','Board diagrams, GPIO references and additional source documents are labeled separately.','']
     grouped=collections.defaultdict(list)
-    for b in boards:grouped[b['brand']].append(b)
+    for b in documented:grouped[b['brand']].append(b)
     for brand in sorted(grouped):
         browse.extend(['## '+brand,'','| Board / device | Processor / family | References | Pinout images |','|---|---|---:|---:|'])
         for b in sorted(grouped[brand],key=lambda b:b['name'].lower()):browse.append(f"| [{b['name']}]({paths[b['id']]}) | {b['processor'] or b['family']} | {len(b['assets'])} | {b['pinouts']} |")
         browse.append('')
     (ROOT/'BROWSE.md').write_text('\n'.join(browse),encoding='utf-8')
-    devices=[b for b in boards if b.get('device')]
-    lines=['# Devices & IoT','','[Search devices in the browser guide](https://valleytech-black-wire-guide.pages.dev/?tab=devices) · [All boards](BROWSE.md) · [First Edition](EDITION.md)','',f"**{len(devices)} device records with references.** Includes handhelds, radio nodes, wearables, cameras, displays and controllers. Counts include unreviewed source records and supporting references; not every record has a full physical pinout.",'','Original manufacturer images remain unchanged. Revision and partial-map notes live on each device page.','']
+    devices=[b for b in documented if b.get('device')]
+    lines=['# Devices & IoT','','[Search devices in the browser guide](https://valleytech-black-wire-guide.pages.dev/?tab=devices) · [All boards](BROWSE.md) · [First Edition](EDITION.md)','',f"**{len(devices)} device records with saved files or linked hardware documentation.** Includes handhelds, radio nodes, wearables, cameras, displays and controllers. Counts include unreviewed source records and supporting references; not every record has a full physical pinout.",'','Original manufacturer images remain unchanged. Revision and partial-map notes live on each device page.','']
     for category in sorted({b['device']['category'] for b in devices}):
         lines.extend(['## '+category,'','| Manufacturer | Device | Processor | Pinout images | References |','|---|---|---|---:|---:|'])
         for b in sorted((b for b in devices if b['device']['category']==category),key=lambda b:(b['brand'],b['name'])):

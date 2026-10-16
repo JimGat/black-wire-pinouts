@@ -1,6 +1,6 @@
 {
   "checked": "2026-10-16",
-  "listingCount": 3291,
+  "listingCount": 3293,
   "countsAreListingsNotUniqueHardware": true,
   "completeDeviceApprovals": 0,
   "summary": {
@@ -8,7 +8,7 @@
       "pinout-source": 1069,
       "reference-only": 982,
       "missing": 627,
-      "functions-only": 38
+      "functions-only": 40
     },
     "maker": {
       "pinout-source": 176,
@@ -58005,6 +58005,42 @@
       "purposeRows": 0,
       "completeDeviceApproved": false,
       "scope": "Pin functions documented; use the matching source image to locate the connector. Physical order is not established by a function table.",
+      "missing": [
+        "Physical connector map",
+        "Independent all-connector completeness review",
+        "Revision match and electrical limits"
+      ]
+    },
+    {
+      "id": "rockbase-nmtech-nm-cyd-c5",
+      "name": "NM-CYD-C5",
+      "brand": "RockBase IoT / NMTech",
+      "kind": "board",
+      "status": "functions-only",
+      "physicalCount": 0,
+      "functionTableCount": 5,
+      "functionSheetCount": 0,
+      "purposeRows": 33,
+      "completeDeviceApproved": false,
+      "scope": "Source-linked logical reference only; no physical pinout map, verified FPC orientation or bench test. ",
+      "missing": [
+        "Physical connector map",
+        "Independent all-connector completeness review",
+        "Revision match and electrical limits"
+      ]
+    },
+    {
+      "id": "rockbase-nmtech-nm-rf-hat",
+      "name": "NM-RF-HAT",
+      "brand": "RockBase IoT / NMTech",
+      "kind": "board",
+      "status": "functions-only",
+      "physicalCount": 0,
+      "functionTableCount": 3,
+      "functionSheetCount": 0,
+      "purposeRows": 20,
+      "completeDeviceApproved": false,
+      "scope": "Source-linked logical reference only; no physical pinout map, verified FPC orientation or bench test. ",
       "missing": [
         "Physical connector map",
         "Independent all-connector completeness review",

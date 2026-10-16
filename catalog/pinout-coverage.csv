@@ -3290,3 +3290,5 @@ elechouse-st25r3916b,ST25R3916B NFC Module,Elechouse,maker,pinout-source,1,0,1,7
 elechouse-simplevr,SimpleVR speaker-independent Voice Recognition Module,Elechouse,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 elechouse-voice-recognition-v3,"Speak Recognition, Voice Recognition Module V3",Elechouse,maker,functions-only,0,1,1,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 elechouse-pn532-v3,PN532 NFC RFID module V3,Elechouse,maker,functions-only,0,1,1,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+rockbase-nmtech-nm-cyd-c5,NM-CYD-C5,RockBase IoT / NMTech,board,functions-only,0,0,5,33,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+rockbase-nmtech-nm-rf-hat,NM-RF-HAT,RockBase IoT / NMTech,board,functions-only,0,0,3,20,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
