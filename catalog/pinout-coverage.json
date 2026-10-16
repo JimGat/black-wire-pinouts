@@ -5,10 +5,10 @@
   "completeDeviceApprovals": 0,
   "summary": {
     "board": {
-      "pinout-source": 1069,
+      "pinout-source": 1071,
       "reference-only": 982,
       "missing": 627,
-      "functions-only": 40
+      "functions-only": 38
     },
     "maker": {
       "pinout-source": 176,
@@ -58016,15 +58016,14 @@
       "name": "NM-CYD-C5",
       "brand": "RockBase IoT / NMTech",
       "kind": "board",
-      "status": "functions-only",
-      "physicalCount": 0,
+      "status": "pinout-source",
+      "physicalCount": 1,
       "functionTableCount": 5,
       "functionSheetCount": 0,
       "purposeRows": 33,
       "completeDeviceApproved": false,
-      "scope": "Source-linked logical reference only; no physical pinout map, verified FPC orientation or bench test. ",
+      "scope": "Manufacturer-labeled board pinout available; match exact hardware revision. FPC mating face, cable orientation, host mapping and independent all-connector electrical correctness remain unverified.",
       "missing": [
-        "Physical connector map",
         "Independent all-connector completeness review",
         "Revision match and electrical limits"
       ]
@@ -58034,15 +58033,14 @@
       "name": "NM-RF-HAT",
       "brand": "RockBase IoT / NMTech",
       "kind": "board",
-      "status": "functions-only",
-      "physicalCount": 0,
+      "status": "pinout-source",
+      "physicalCount": 1,
       "functionTableCount": 3,
       "functionSheetCount": 0,
       "purposeRows": 20,
       "completeDeviceApproved": false,
-      "scope": "Source-linked logical reference only; no physical pinout map, verified FPC orientation or bench test. ",
+      "scope": "Manufacturer-labeled board pinout available; match exact hardware revision. FPC mating face, cable orientation, host mapping and independent all-connector electrical correctness remain unverified.",
       "missing": [
-        "Physical connector map",
         "Independent all-connector completeness review",
         "Revision match and electrical limits"
       ]

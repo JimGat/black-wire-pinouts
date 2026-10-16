@@ -234,7 +234,7 @@ Original manufacturer images remain unchanged. Revision and partial-map notes li
 | M5Stack | [M5Stack Tab5 IoT Development Kit](boards/m5stack/esp32-p4/m5stack-tab5-iot-development-kit--afd4122f/README.md) | ESP32-P4 | 1 | 2 |
 | QDtech | [E32R28T ESP32-32E 2.8-inch resistive display](boards/qdtech/esp32-wroom-32e/e32r28t-esp32-32e-2-8-inch-resistive-display--3576badc/README.md) | ESP32-WROOM-32E | 0 | 4 |
 | QDtech | [E32R35T ESP32-32E 3.5-inch resistive display](boards/qdtech/esp32-wroom-32e/e32r35t-esp32-32e-3-5-inch-resistive-display--f0304b2d/README.md) | ESP32-WROOM-32E | 0 | 4 |
-| RockBase IoT / NMTech | [NM-CYD-C5](boards/rockbase-iot-nmtech/esp32-c5/nm-cyd-c5--45822b76/README.md) | ESP32-C5 | 0 | 0 |
+| RockBase IoT / NMTech | [NM-CYD-C5](boards/rockbase-iot-nmtech/esp32-c5/nm-cyd-c5--45822b76/README.md) | ESP32-C5 | 1 | 4 |
 | Seeed Studio | [SenseCAP Indicator](boards/seeed-studio/esp32-s3/sensecap-indicator--fc7a36c2/README.md) | ESP32-S3 | 1 | 3 |
 | Seeed Studio | [SenseCAP Indicator D1](boards/seeed-studio/esp32-s3/sensecap-indicator-d1--0cd6ba93/README.md) | ESP32-S3 | 1 | 3 |
 | Seeed Studio | [SenseCAP Indicator D1L](boards/seeed-studio/esp32-s3/sensecap-indicator-d1l--bd53d87c/README.md) | ESP32-S3 | 1 | 1 |
@@ -261,7 +261,7 @@ Original manufacturer images remain unchanged. Revision and partial-map notes li
 
 | Manufacturer | Device | Processor | Pinout images | References |
 |---|---|---|---:|---:|
-| RockBase IoT / NMTech | [NM-RF-HAT](boards/rockbase-iot-nmtech/host-controlled-rf-accessory/nm-rf-hat--2c0a9aa7/README.md) | Host-controlled RF accessory | 0 | 0 |
+| RockBase IoT / NMTech | [NM-RF-HAT](boards/rockbase-iot-nmtech/host-controlled-rf-accessory/nm-rf-hat--2c0a9aa7/README.md) | Host-controlled RF accessory | 1 | 4 |
 
 ## Handhelds & pocket tools
 

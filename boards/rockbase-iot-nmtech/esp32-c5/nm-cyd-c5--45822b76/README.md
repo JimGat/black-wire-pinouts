@@ -4,7 +4,7 @@
 
 Revision: Physical PCB revision not identified; v1.0 is the linked schematic document label, not a verified specimen revision.
 
-Coverage: Source-linked 2.8-inch ESP32-C5 host: shared display/touch/SD SPI, extension connectors, LP-UART/GPS and FPC signal purposes. Physical map needed.
+Coverage: Manufacturer pinout, labeled board views and photographs plus source-backed 2.8-inch ESP32-C5 host: shared display/touch/SD SPI, extension connectors, LP-UART/GPS and FPC signal purposes. Exact specimen revision, FPC cable orientation and electrical qualification remain unverified.
 
 [Browse all manufacturers](../../../../BROWSE.md) · [Devices & IoT](../../../../DEVICES.md) · [Open in the browser guide](https://valleytech-black-wire-guide.pages.dev/?board=rockbase-nmtech-nm-cyd-c5)
 
@@ -16,7 +16,7 @@ Architecture: **RISC-V**
 
 ## Datasheets and original documentation
 
-Board datasheet: **not yet recorded**. Visual reference: **still needed**.
+Board datasheet: **not yet recorded**. Visual reference: **available**.
 
 [Manufacturer model documentation](https://wiki.rockbaseiot.com/docs/products/nm-cyd-c5/)
 
@@ -29,7 +29,7 @@ Board datasheet: **not yet recorded**. Visual reference: **still needed**.
 - **hardware-guide / assembly**: [Manufacturer combined quick-start — separate C5 versus Classic CYD assembly](https://wiki.rockbaseiot.com/docs/products/nm-rf-hat-quick-start/) · online
 - **hardware-guide / assembly**: [Manufacturer assembly photographs and troubleshooting article](https://rockbase.shop/en/blogs/tech-news/nm-rf-hat-quick-start) · online
 
-NM-CYD-C5 assembly: direct expansion FPC plus an additional UART connection; NOT the Classic CYD SD-slot SPI shim. Classic ESP32-2432S028/CYD assembly: SD-slot/TF SPI shim plus the model-specific signal/UART leads. These are different host arrangements: do not follow the combined quick-start TF steps blindly on the C5. Exact FPC mating face, cable orientation, UART endpoints and power routing remain unqualified for a physical specimen. Manufacturer description: ESP32-C5-WROOM-1, 2.8-inch 240×320 ST7789 display, resistive XPT2046 in the pinned README/schematic, shared SPI with touch and microSD, dual USB-C (native USB and CH340 UART), RGB LED, 16 MB flash and 8 MB PSRAM. These are manufacturer specifications, not acceptance-tested specimen measurements. Variants: standard, Colorful and Colorful-Ant; the external-antenna variant is manufacturer-described with IPEX 1 and dual-band antenna, not a qualified replacement-connector recommendation. GPS is an external UART module, not built-in GNSS; the manufacturer gives NM-ATGM336H as an example. IO8/IO9 have R32/R33 pull-ups and appear on multiple interfaces. USB/FPC signals are not generic free GPIO. Source caveats: display FPC1 versus expansion FPC2; 12 listed FPC signals versus a schematic symbol with 14 positions; wiki capacitive-touch versus pinned resistive XPT2046; unsupported Bluetooth Classic wording omitted. No supply-current, battery/charger, backfeed or simultaneous-source limits have been validated. Contributor: JimGat (@jimgat), original summaries and evidence-scoped function tables. Hardware and source-document attribution remains RockBase IoT / NMTech. Link-only manufacturer resources: public availability is not a redistribution, Creative Commons or print license; no manufacturer PDFs, photographs or artwork are bundled.
+NM-CYD-C5 assembly: direct expansion FPC plus an additional UART connection; NOT the Classic CYD SD-slot SPI shim. Classic ESP32-2432S028/CYD assembly: SD-slot/TF SPI shim plus the model-specific signal/UART leads. These are different host arrangements: do not follow the combined quick-start TF steps blindly on the C5. Exact FPC mating face, cable orientation, UART endpoints and power routing remain unqualified for a physical specimen. Manufacturer description: ESP32-C5-WROOM-1, 2.8-inch 240×320 ST7789 display, resistive XPT2046 in the pinned README/schematic, shared SPI with touch and microSD, dual USB-C (native USB and CH340 UART), RGB LED, 16 MB flash and 8 MB PSRAM. These are manufacturer specifications, not acceptance-tested specimen measurements. Variants: standard, Colorful and Colorful-Ant; the external-antenna variant is manufacturer-described with IPEX 1 and dual-band antenna, not a qualified replacement-connector recommendation. GPS is an external UART module, not built-in GNSS; the manufacturer gives NM-ATGM336H as an example. IO8/IO9 have R32/R33 pull-ups and appear on multiple interfaces. USB/FPC signals are not generic free GPIO. Source caveats: display FPC1 versus expansion FPC2; 12 listed FPC signals versus a schematic symbol with 14 positions; wiki capacitive-touch versus pinned resistive XPT2046; unsupported Bluetooth Classic wording omitted. No supply-current, battery/charger, backfeed or simultaneous-source limits have been validated. Contributor: JimGat (@jimgat), original summaries and evidence-scoped function tables. Hardware and source-document attribution remains RockBase IoT / NMTech. RockBase IoT / NMTech manufacturer artwork, retained unchanged with source credit. Reuse, redistribution and print rights not established; local review inclusion does not relicense the original. Public submission requires a permissions review. Manufacturer PDFs remain external links. Thumbnails and screen previews are convenience derivatives; original downloaded image bytes and hashes are retained.
 
 [Documentation coverage and remaining gaps](../../../../DOCUMENTATION.md)
 
@@ -120,5 +120,77 @@ Source labels/positions only. PCB revision, mating-face numbering, cable contact
 | GND / 12 | Signal ground | The source lists 12 positions; schematic shows 14. Resolve hardware before connection. |
 
 [Source evidence](https://github.com/RockBase-iot/NM-CYD-C5/blob/a1366c3d63363019371dac476a03a01b821ec5de/README.md) · NM Extend IO: 12-Pin FPC Interface (FPC2) · Source-backed transcription and schematic deduction; no continuity or functional test claimed. Contributor: JimGat (@jimgat).
+
+## Manufacturer board pinout — standard NM-CYD-C5
+
+**pinout image** · Manufacturer source identity and visual scope inspected; no independent electrical, transcription or all-connector completeness approval · JPG
+
+[![NM-CYD-C5 reference preview](../../../../library/thumbs/c201d6dca6b7c4a46d112fec1a002c1772ea5bb896affa77a232f67669724105.webp)](../../../../library/media/c201d6dca6b7c4a46d112fec1a002c1772ea5bb896affa77a232f67669724105.jpg)
+
+[Open original reference](../../../../library/media/c201d6dca6b7c4a46d112fec1a002c1772ea5bb896affa77a232f67669724105.jpg)
+
+**Credit and rights:** RockBase IoT / NMTech manufacturer artwork, retained unchanged with source credit. Reuse, redistribution and print rights not established; local review inclusion does not relicense the original. Public submission requires a permissions review.. Source/manufacturer: RockBase IoT / NMTech.
+
+[Source 1](https://raw.githubusercontent.com/RockBase-iot/NM-CYD-C5/a1366c3d63363019371dac476a03a01b821ec5de/Documention/pics/nm-cyd-c5-pinout.jpg) · [Source 2](https://github.com/RockBase-iot/NM-CYD-C5/blob/a1366c3d63363019371dac476a03a01b821ec5de/README.md) · [Source 3](https://github.com/RockBase-iot/NM-CYD-C5)
+
+Manufacturer-labeled physical board diagram. Source contact labels are preserved, not independently transcribed or electrically verified. Match the pictured revision; FPC mating face and cable orientation remain unqualified. NM-CYD-C5 assembly: direct expansion FPC plus an additional UART connection; NOT the Classic CYD SD-slot SPI shim. Classic ESP32-2432S028/CYD assembly: SD-slot/TF SPI shim plus the model-specific signal/UART leads. These are different host arrangements: do not follow the combined quick-start TF steps blindly on the C5. Exact FPC mating face, cable orientation, UART endpoints and power routing remain unqualified for a physical specimen.
+
+Image revision: Source photograph/diagram revision only; physical specimen PCB revision not established
+
+SHA-256: `c201d6dca6b7c4a46d112fec1a002c1772ea5bb896affa77a232f67669724105`
+
+## Standard NM-CYD-C5 — labeled board overview
+
+**board labeling image** · Manufacturer source identity and visual scope inspected; no independent electrical, transcription or all-connector completeness approval · JPG
+
+[![NM-CYD-C5 reference preview](../../../../library/thumbs/e60171f7486005cf313a79b364461767fbe1f301fd853cdfd349f3771a07a394.webp)](../../../../library/media/e60171f7486005cf313a79b364461767fbe1f301fd853cdfd349f3771a07a394.jpg)
+
+[Open original reference](../../../../library/media/e60171f7486005cf313a79b364461767fbe1f301fd853cdfd349f3771a07a394.jpg)
+
+**Credit and rights:** RockBase IoT / NMTech manufacturer artwork, retained unchanged with source credit. Reuse, redistribution and print rights not established; local review inclusion does not relicense the original. Public submission requires a permissions review.. Source/manufacturer: RockBase IoT / NMTech.
+
+[Source 1](https://raw.githubusercontent.com/RockBase-iot/NM-CYD-C5/a1366c3d63363019371dac476a03a01b821ec5de/Documention/pics/nm-cyd-c5-detail.jpg) · [Source 2](https://github.com/RockBase-iot/NM-CYD-C5/blob/a1366c3d63363019371dac476a03a01b821ec5de/README.md) · [Source 3](https://github.com/RockBase-iot/NM-CYD-C5)
+
+Manufacturer component and connector labels on the standard board. This component overview is not an independently approved all-pin wiring map. NM-CYD-C5 assembly: direct expansion FPC plus an additional UART connection; NOT the Classic CYD SD-slot SPI shim. Classic ESP32-2432S028/CYD assembly: SD-slot/TF SPI shim plus the model-specific signal/UART leads. These are different host arrangements: do not follow the combined quick-start TF steps blindly on the C5. Exact FPC mating face, cable orientation, UART endpoints and power routing remain unqualified for a physical specimen.
+
+Image revision: Source photograph/diagram revision only; physical specimen PCB revision not established
+
+SHA-256: `e60171f7486005cf313a79b364461767fbe1f301fd853cdfd349f3771a07a394`
+
+## Colorful Special Edition — display-side photograph
+
+**board photograph** · Manufacturer source identity and visual scope inspected; no independent electrical, transcription or all-connector completeness approval · JPG
+
+[![NM-CYD-C5 reference preview](../../../../library/thumbs/698c2a92740b58f67235f98d733f00f60f89dc4da18683b2621a88279de8d3c1.webp)](../../../../library/media/698c2a92740b58f67235f98d733f00f60f89dc4da18683b2621a88279de8d3c1.jpg)
+
+[Open original reference](../../../../library/media/698c2a92740b58f67235f98d733f00f60f89dc4da18683b2621a88279de8d3c1.jpg)
+
+**Credit and rights:** RockBase IoT / NMTech manufacturer artwork, retained unchanged with source credit. Reuse, redistribution and print rights not established; local review inclusion does not relicense the original. Public submission requires a permissions review.. Source/manufacturer: RockBase IoT / NMTech.
+
+[Source 1](https://raw.githubusercontent.com/RockBase-iot/NM-CYD-C5/a1366c3d63363019371dac476a03a01b821ec5de/Documention/pics/nm-cyd-c5-color.jpg) · [Source 2](https://github.com/RockBase-iot/NM-CYD-C5/blob/a1366c3d63363019371dac476a03a01b821ec5de/README.md) · [Source 3](https://github.com/RockBase-iot/NM-CYD-C5)
+
+Colorful Special Edition as identified by the pinned manufacturer README. Variant illustration, not proof of a specimen PCB revision or current availability. NM-CYD-C5 assembly: direct expansion FPC plus an additional UART connection; NOT the Classic CYD SD-slot SPI shim. Classic ESP32-2432S028/CYD assembly: SD-slot/TF SPI shim plus the model-specific signal/UART leads. These are different host arrangements: do not follow the combined quick-start TF steps blindly on the C5. Exact FPC mating face, cable orientation, UART endpoints and power routing remain unqualified for a physical specimen.
+
+Image revision: Source photograph/diagram revision only; physical specimen PCB revision not established
+
+SHA-256: `698c2a92740b58f67235f98d733f00f60f89dc4da18683b2621a88279de8d3c1`
+
+## Colorful Special Edition — rear-board photograph
+
+**board photograph** · Manufacturer source identity and visual scope inspected; no independent electrical, transcription or all-connector completeness approval · PNG
+
+[![NM-CYD-C5 reference preview](../../../../library/thumbs/5d90e695750a28b0fedf7053e17b68f9063699856d4137c4893eb64da19cb7e8.webp)](../../../../library/media/5d90e695750a28b0fedf7053e17b68f9063699856d4137c4893eb64da19cb7e8.png)
+
+[Open original reference](../../../../library/media/5d90e695750a28b0fedf7053e17b68f9063699856d4137c4893eb64da19cb7e8.png)
+
+**Credit and rights:** RockBase IoT / NMTech manufacturer artwork, retained unchanged with source credit. Reuse, redistribution and print rights not established; local review inclusion does not relicense the original. Public submission requires a permissions review.. Source/manufacturer: RockBase IoT / NMTech.
+
+[Source 1](https://raw.githubusercontent.com/RockBase-iot/NM-CYD-C5/a1366c3d63363019371dac476a03a01b821ec5de/Documention/pics/nm-cyd-c5-colorful.png) · [Source 2](https://github.com/RockBase-iot/NM-CYD-C5/blob/a1366c3d63363019371dac476a03a01b821ec5de/README.md) · [Source 3](https://github.com/RockBase-iot/NM-CYD-C5)
+
+Colorful Special Edition as identified by the pinned manufacturer README. Do not confuse this host variant with the separate NM-RF-HAT accessory. NM-CYD-C5 assembly: direct expansion FPC plus an additional UART connection; NOT the Classic CYD SD-slot SPI shim. Classic ESP32-2432S028/CYD assembly: SD-slot/TF SPI shim plus the model-specific signal/UART leads. These are different host arrangements: do not follow the combined quick-start TF steps blindly on the C5. Exact FPC mating face, cable orientation, UART endpoints and power routing remain unqualified for a physical specimen.
+
+Image revision: Source photograph/diagram revision only; physical specimen PCB revision not established
+
+SHA-256: `5d90e695750a28b0fedf7053e17b68f9063699856d4137c4893eb64da19cb7e8`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.
