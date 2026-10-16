@@ -763,7 +763,7 @@ m5stack-expansion-stamp-uwb-f,Stamp UWB F,M5Stack,board,pinout-source,1,0,0,0,Fa
 m5stack-expansion-stamp-addon-c6-for-p4,Stamp-AddOn C6 For P4,M5Stack,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 m5stack-expansion-stamp-addon-cam0308,Stamp-AddOn Cam0308,M5Stack,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 m5stack-expansion-stamp-addon-cam3660,Stamp-AddOn Cam3660,M5Stack,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
-m5stack-expansion-unit-8servos2-i2c,Unit 8Servos2-I2C,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+m5stack-expansion-unit-8servos2-i2c,Unit 8Servos2-I2C,M5Stack,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 m5stack-expansion-unit-ac-measure,Unit AC Measure,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-expansion-unit-cardkb,Unit CardKB,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 m5stack-expansion-unit-cardkb-v1-1,Unit CardKB v1.1,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
@@ -2712,6 +2712,9 @@ m5stack-dinmeter-v1-1,DinMeter v1.1,M5Stack,board,reference-only,0,0,0,0,False,P
 m5stack-ai-pyramid-pro,AI Pyramid-Pro,M5Stack,board,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 arduino-uno-breakout-carrier,UNO Breakout Carrier,Arduino,board,pinout-source,2,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 renesas-ek-ra8p1-v1,EK-RA8P1 v1,Renesas,board,pinout-source,1,5,5,0,False,Independent all-connector completeness review; Revision match and electrical limits
+waveshare-esp32-s3-lr1121-oled-1-54,ESP32-S3-LR1121-OLED-1.54,Waveshare,board,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
+waveshare-esp32-s3-rs485-wled,ESP32-S3-RS485-WLED,Waveshare,board,functions-only,0,0,1,10,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+m5stack-base-plc-m12-v1-1,Base PLC-M12 v1.1,M5Stack,board,functions-only,0,1,1,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 maker-adafruit-ca3cc11716cc,Adafruit MAX98357 I2S Class-D Amps - Stereo and Mono,Adafruit,maker,pinout-source,1,0,1,9,False,Independent all-connector completeness review; Revision match and electrical limits
 maker-existing-m5stack-expansion-module-gps-v2-0,Module GPS v2.0,M5Stack,maker,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 maker-existing-source-board-44364c1110885a327e,Module GPS v2.1,M5Stack,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
@@ -3102,7 +3105,7 @@ maker-existing-source-board-65eb2a314dd301abcc,Unit 2Relay,M5Stack,maker,referen
 maker-existing-source-board-7a1c360932c2af5e64,Unit 4Relay,M5Stack,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 maker-existing-source-board-aac83aba13e5a6ef0c,Unit 8Servos,M5Stack,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 maker-existing-source-board-1236d859c33d2398ca,Unit 8Servos2-Chain,M5Stack,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
-maker-existing-m5stack-expansion-unit-8servos2-i2c,Unit 8Servos2-I2C,M5Stack,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
+maker-existing-m5stack-expansion-unit-8servos2-i2c,Unit 8Servos2-I2C,M5Stack,maker,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits
 maker-existing-source-board-801de8099af0a1c5c4,Unit Buzzer,M5Stack,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 maker-existing-source-board-d68745531c69f4b7db,Unit Relay,M5Stack,maker,reference-only,0,0,0,0,False,Physical connector map; Independent all-connector completeness review; Revision match and electrical limits
 maker-pololu-c9f3c19279b1,A4988 Stepper Motor Driver Carrier,Pololu,maker,pinout-source,1,0,0,0,False,Independent all-connector completeness review; Revision match and electrical limits

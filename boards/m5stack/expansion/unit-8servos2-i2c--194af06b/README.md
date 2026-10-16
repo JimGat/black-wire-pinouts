@@ -57,4 +57,22 @@ Image revision: As supplied in the original; match exact board revision
 
 SHA-256: `0bfcb87adeba6984e559a2376f8738234ade66b67d156a67bacdedcc751a71eb`
 
+## Unit 8Servos2-I2C rear connector labels
+
+**pinout image** · Visually reviewed for identity and reference scope; independent electrical and all-connector review pending · JPG
+
+[![Unit 8Servos2-I2C reference preview](../../../../library/thumbs/84d430985335855a5649227ddb886e49170c82c58dbef2c828de94ff7aab5c4a.webp)](../../../../library/media/84d430985335855a5649227ddb886e49170c82c58dbef2c828de94ff7aab5c4a.jpg)
+
+[Open original reference](../../../../library/media/84d430985335855a5649227ddb886e49170c82c58dbef2c828de94ff7aab5c4a.jpg)
+
+**Credit and rights:** Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1281/U222_Unit_8Servos2-I2C_main_pictures_07.jpg) · [Source 2](https://docs.m5stack.com/en/unit/Unit_8Servos2-I2C)
+
+Partial source pinout: rear I2C connector labels and servo-channel legend. Match front/back orientation, exact I2C model and revision; not the Chain variant.
+
+Image revision: Not identified
+
+SHA-256: `84d430985335855a5649227ddb886e49170c82c58dbef2c828de94ff7aab5c4a`
+
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

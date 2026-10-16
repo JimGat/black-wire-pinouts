@@ -4167,6 +4167,18 @@
         "GPIO"
       ],
       "note": "Manufacturer documentation recorded; confirm the exact hardware revision before use."
+    },
+    {
+      "boardId": "waveshare-esp32-s3-lr1121-oled-1-54",
+      "category": "Radio nodes & LoRa",
+      "phase": "documented",
+      "checked": "2026-10-15",
+      "tags": [
+        "LoRa",
+        "LR1121",
+        "ESP32-S3"
+      ],
+      "note": "HF (850–930 MHz) and LF (410–510 MHz), with EN and non-EN product variants. Verify the exact radio SKU and revision; the diagram covers only the two exposed pin headers."
     }
   ],
   "watchlist": [

@@ -1,18 +1,18 @@
 {
-  "checked": "2026-10-09",
-  "listingCount": 3288,
+  "checked": "2026-10-15",
+  "listingCount": 3291,
   "countsAreListingsNotUniqueHardware": true,
   "completeDeviceApprovals": 0,
   "summary": {
     "board": {
-      "pinout-source": 1060,
-      "reference-only": 978,
+      "pinout-source": 1062,
+      "reference-only": 977,
       "missing": 640,
-      "functions-only": 35
+      "functions-only": 37
     },
     "maker": {
-      "pinout-source": 175,
-      "reference-only": 338,
+      "pinout-source": 176,
+      "reference-only": 337,
       "functions-only": 40,
       "missing": 22
     }
@@ -13363,15 +13363,14 @@
       "name": "Unit 8Servos2-I2C",
       "brand": "M5Stack",
       "kind": "board",
-      "status": "reference-only",
-      "physicalCount": 0,
+      "status": "pinout-source",
+      "physicalCount": 1,
       "functionTableCount": 0,
       "functionSheetCount": 0,
       "purposeRows": 0,
       "completeDeviceApproved": false,
-      "scope": "A physical pinout and per-pin purpose reference are still needed. Photos and other supporting documents do not establish pin order.",
+      "scope": "Source pinout available; check its connector scope and revision. All-pin completeness has not been independently approved.",
       "missing": [
-        "Physical connector map",
         "Independent all-connector completeness review",
         "Revision match and electrical limits"
       ]
@@ -47793,6 +47792,59 @@
       ]
     },
     {
+      "id": "waveshare-esp32-s3-lr1121-oled-1-54",
+      "name": "ESP32-S3-LR1121-OLED-1.54",
+      "brand": "Waveshare",
+      "kind": "board",
+      "status": "pinout-source",
+      "physicalCount": 1,
+      "functionTableCount": 0,
+      "functionSheetCount": 0,
+      "purposeRows": 0,
+      "completeDeviceApproved": false,
+      "scope": "Source pinout available; check its connector scope and revision. All-pin completeness has not been independently approved.",
+      "missing": [
+        "Independent all-connector completeness review",
+        "Revision match and electrical limits"
+      ]
+    },
+    {
+      "id": "waveshare-esp32-s3-rs485-wled",
+      "name": "ESP32-S3-RS485-WLED",
+      "brand": "Waveshare",
+      "kind": "board",
+      "status": "functions-only",
+      "physicalCount": 0,
+      "functionTableCount": 1,
+      "functionSheetCount": 0,
+      "purposeRows": 10,
+      "completeDeviceApproved": false,
+      "scope": "Pin functions documented; use the matching source image to locate the connector. Physical order is not established by a function table.",
+      "missing": [
+        "Physical connector map",
+        "Independent all-connector completeness review",
+        "Revision match and electrical limits"
+      ]
+    },
+    {
+      "id": "m5stack-base-plc-m12-v1-1",
+      "name": "Base PLC-M12 v1.1",
+      "brand": "M5Stack",
+      "kind": "board",
+      "status": "functions-only",
+      "physicalCount": 0,
+      "functionTableCount": 1,
+      "functionSheetCount": 1,
+      "purposeRows": 0,
+      "completeDeviceApproved": false,
+      "scope": "Pin functions documented; use the matching source image to locate the connector. Physical order is not established by a function table.",
+      "missing": [
+        "Physical connector map",
+        "Independent all-connector completeness review",
+        "Revision match and electrical limits"
+      ]
+    },
+    {
       "id": "maker-adafruit-ca3cc11716cc",
       "name": "Adafruit MAX98357 I2S Class-D Amps - Stereo and Mono",
       "brand": "Adafruit",
@@ -54720,15 +54772,14 @@
       "name": "Unit 8Servos2-I2C",
       "brand": "M5Stack",
       "kind": "maker",
-      "status": "reference-only",
-      "physicalCount": 0,
+      "status": "pinout-source",
+      "physicalCount": 1,
       "functionTableCount": 0,
       "functionSheetCount": 0,
       "purposeRows": 0,
       "completeDeviceApproved": false,
-      "scope": "A physical pinout and per-pin purpose reference are still needed. Photos and other supporting documents do not establish pin order.",
+      "scope": "Source pinout available; check its connector scope and revision. All-pin completeness has not been independently approved.",
       "missing": [
-        "Physical connector map",
         "Independent all-connector completeness review",
         "Revision match and electrical limits"
       ]

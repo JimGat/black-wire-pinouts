@@ -43,4 +43,22 @@ Image revision: As supplied in the original; match exact board revision
 
 SHA-256: `c01592b61b0f4bec13957c23589536b1140e42666c42379324087d0e8fa0b37b`
 
+## ToughC5 hardware and interface overview
+
+**board labeling image** · Visually reviewed for identity and reference scope; independent electrical and all-connector review pending · WEBP
+
+[![ToughC5 reference preview](../../../../library/thumbs/28c1a816f19893433f87e13d91ca7a1c75aca348e7b3e3fab8537d3e3037a328.webp)](../../../../library/media/28c1a816f19893433f87e13d91ca7a1c75aca348e7b3e3fab8537d3e3037a328.webp)
+
+[Open original reference](../../../../library/media/28c1a816f19893433f87e13d91ca7a1c75aca348e7b3e3fab8537d3e3037a328.webp)
+
+**Credit and rights:** Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.. Source/manufacturer: M5Stack.
+
+[Source 1](https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1275/K162_ToughC5_main_pictures_01.webp) · [Source 2](https://docs.m5stack.com/en/core/ToughC5)
+
+Labeled interface overview only; not a physical pinout. Use the existing source connector tables and schematic for assignments.
+
+Image revision: Match revision in each original source
+
+SHA-256: `28c1a816f19893433f87e13d91ca7a1c75aca348e7b3e3fab8537d3e3037a328`
+
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

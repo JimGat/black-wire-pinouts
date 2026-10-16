@@ -12,10 +12,12 @@ Coverage: Pinout image collected
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://www.waveshare.com/esp32-c5-mini-kit.htm)
+[Manufacturer hardware documentation](https://docs.waveshare.com/ESP32-C5-MINI-KIT)
 
+- **schematic / board**: [ESP32-C5-MINI-KIT schematic](https://raw.githubusercontent.com/waveshareteam/ESP32-C5-MINI-KIT/9eb18f4282e2e464b34b911ed6ba63cf28f22c9f/schematic/ESP32-C5-MINI-KIT.pdf) · [saved document](../../../../library/media/4e35ae74ae22f2cee2cb22f399d63d49bc2362b772e6a74d2b7fd7b9c3e2ca90.pdf)
+- **hardware-guide / board**: [Manufacturer specifications and hardware documentation](https://docs.waveshare.com/ESP32-C5-MINI-KIT) · online
 
-A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
+Manufacturer lists onboard/external-antenna and soldered-header variants together. Match antenna/header variant and PCB revision. Board schematics and component datasheets have different scopes.
 
 [Documentation coverage and remaining gaps](../../../../DOCUMENTATION.md)
 
@@ -54,5 +56,23 @@ SHA-256: `2aca193a406c1f53cf8df507c4610040db0117199793ab3544b7d20fe07a4d79`
 Image revision: Not identified
 
 SHA-256: `408f5f8285d35d617de18edf194bfd10c32b36a060b30a4cd3b0e61a80eca747`
+
+## ESP32-C5-MINI-KIT schematic
+
+**reference PDF** · Visually reviewed for identity and reference scope; independent electrical and all-connector review pending · PDF
+
+[![ESP32-C5-MINI-KIT reference preview](../../../../library/thumbs/4e35ae74ae22f2cee2cb22f399d63d49bc2362b772e6a74d2b7fd7b9c3e2ca90.webp)](../../../../library/media/4e35ae74ae22f2cee2cb22f399d63d49bc2362b772e6a74d2b7fd7b9c3e2ca90.pdf)
+
+[Open original reference](../../../../library/media/4e35ae74ae22f2cee2cb22f399d63d49bc2362b772e6a74d2b7fd7b9c3e2ca90.pdf)
+
+**Credit and rights:** Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.. Source/manufacturer: Waveshare.
+
+[Source 1](https://raw.githubusercontent.com/waveshareteam/ESP32-C5-MINI-KIT/9eb18f4282e2e464b34b911ed6ba63cf28f22c9f/schematic/ESP32-C5-MINI-KIT.pdf) · [Source 2](https://docs.waveshare.com/ESP32-C5-MINI-KIT)
+
+Original single-page board schematic, pinned to manufacturer repository commit.
+
+Image revision: Not identified
+
+SHA-256: `4e35ae74ae22f2cee2cb22f399d63d49bc2362b772e6a74d2b7fd7b9c3e2ca90`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

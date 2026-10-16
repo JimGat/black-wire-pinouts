@@ -16701,5 +16701,80 @@
         }
       ]
     }
+  ],
+  "waveshare-esp32-s3-rs485-wled": [
+    {
+      "connector": "External terminals (signal labels only)",
+      "scope": "Only named external terminals; physical order is not inferred.",
+      "orientation": "Use the manufacturer hardware overview, terminal silkscreen and exact board revision.",
+      "source": {
+        "url": "https://docs.waveshare.com/ESP32-S3-RS485-WLED",
+        "sha256": "d2735d3cd0073d2c757af46d66e8ccbb3d4663a7383cc5d0b64f62e56184037b",
+        "locator": "Interface Quick Reference; WLED and LED Strip Output; Precautions"
+      },
+      "review": "Transcribed manufacturer signal labels; independent electrical validation pending",
+      "pins": [
+        {
+          "label": "GPIO2'",
+          "position": "GPIO2'",
+          "purpose": "LED channel 1; level-shifted 5 V output",
+          "notes": "GPIO2 prime and GPIO16 prime are 5 V outputs; GPIO3/GPIO4 are 3.3 V. Confirm supply polarity, shared power paths, wire rating and heat dissipation in the source."
+        },
+        {
+          "label": "GPIO16'",
+          "position": "GPIO16'",
+          "purpose": "LED channel 2; level-shifted 5 V output",
+          "notes": "GPIO2 prime and GPIO16 prime are 5 V outputs; GPIO3/GPIO4 are 3.3 V. Confirm supply polarity, shared power paths, wire rating and heat dissipation in the source."
+        },
+        {
+          "label": "GPIO3",
+          "position": "GPIO3",
+          "purpose": "Expansion GPIO; 3.3 V logic",
+          "notes": "GPIO2 prime and GPIO16 prime are 5 V outputs; GPIO3/GPIO4 are 3.3 V. Confirm supply polarity, shared power paths, wire rating and heat dissipation in the source."
+        },
+        {
+          "label": "GPIO4",
+          "position": "GPIO4",
+          "purpose": "Expansion GPIO; 3.3 V logic",
+          "notes": "GPIO2 prime and GPIO16 prime are 5 V outputs; GPIO3/GPIO4 are 3.3 V. Confirm supply polarity, shared power paths, wire rating and heat dissipation in the source."
+        },
+        {
+          "label": "3V3",
+          "position": "3V3",
+          "purpose": "3.3 V power rail",
+          "notes": "GPIO2 prime and GPIO16 prime are 5 V outputs; GPIO3/GPIO4 are 3.3 V. Confirm supply polarity, shared power paths, wire rating and heat dissipation in the source."
+        },
+        {
+          "label": "GND",
+          "position": "GND",
+          "purpose": "Ground reference",
+          "notes": "GPIO2 prime and GPIO16 prime are 5 V outputs; GPIO3/GPIO4 are 3.3 V. Confirm supply polarity, shared power paths, wire rating and heat dissipation in the source."
+        },
+        {
+          "label": "A+",
+          "position": "A+",
+          "purpose": "Isolated RS485 differential bus A",
+          "notes": "GPIO2 prime and GPIO16 prime are 5 V outputs; GPIO3/GPIO4 are 3.3 V. Confirm supply polarity, shared power paths, wire rating and heat dissipation in the source."
+        },
+        {
+          "label": "B-",
+          "position": "B-",
+          "purpose": "Isolated RS485 differential bus B",
+          "notes": "GPIO2 prime and GPIO16 prime are 5 V outputs; GPIO3/GPIO4 are 3.3 V. Confirm supply polarity, shared power paths, wire rating and heat dissipation in the source."
+        },
+        {
+          "label": "VIN+",
+          "position": "VIN+",
+          "purpose": "5–24 V terminal input; match the connected LED strip voltage",
+          "notes": "GPIO2 prime and GPIO16 prime are 5 V outputs; GPIO3/GPIO4 are 3.3 V. Confirm supply polarity, shared power paths, wire rating and heat dissipation in the source."
+        },
+        {
+          "label": "VOUT+ / VOUT-",
+          "position": "VOUT+ / VOUT-",
+          "purpose": "LED power output follows the external input voltage; not regulated to 5 V",
+          "notes": "GPIO2 prime and GPIO16 prime are 5 V outputs; GPIO3/GPIO4 are 3.3 V. Confirm supply polarity, shared power paths, wire rating and heat dissipation in the source."
+        }
+      ]
+    }
   ]
 }

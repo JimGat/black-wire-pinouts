@@ -12,8 +12,10 @@ Coverage: Pinout image collected
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-Original manufacturer website still needs identification.
+[Manufacturer hardware documentation](https://github.com/nodemcu/nodemcu-devkit/tree/b0f19d6d1c49b6db4aef56ddba789a7f92f6ecce)
 
+- **hardware-guide / board**: [NodeMCU DevKit 0.9 instructions and pin definitions](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit/b0f19d6d1c49b6db4aef56ddba789a7f92f6ecce/Documents/NODEMCU-DEVKIT-INSTRUCTION-EN.pdf) · [saved document](../../../../library/media/b64df237bef0b121524ead592d13650bec1bc8c4350671e4fd6e1264847af382.pdf)
+- **hardware-guide / board**: [Manufacturer specifications and hardware documentation](https://github.com/nodemcu/nodemcu-devkit/tree/b0f19d6d1c49b6db4aef56ddba789a7f92f6ecce) · online
 
 A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
 
@@ -36,5 +38,23 @@ A chip datasheet, schematic and board datasheet have different scopes. Match the
 Image revision: Not identified
 
 SHA-256: `f728c7e66ab0e445d8accec88f0839cd7834b81874323e86f09552996d1ca248`
+
+## NodeMCU DevKit 0.9 instructions and pin definitions
+
+**reference PDF** · Visually reviewed for identity and reference scope; independent electrical and all-connector review pending · PDF
+
+[![NodeMCU DevKit 0.9 reference preview](../../../../library/thumbs/b64df237bef0b121524ead592d13650bec1bc8c4350671e4fd6e1264847af382.webp)](../../../../library/media/b64df237bef0b121524ead592d13650bec1bc8c4350671e4fd6e1264847af382.pdf)
+
+[Open original reference](../../../../library/media/b64df237bef0b121524ead592d13650bec1bc8c4350671e4fd6e1264847af382.pdf)
+
+**Credit and rights:** NodeMCU Team; the original document states MIT open license. Preserve the original attribution and applicable license notices.. Source/manufacturer: NodeMCU.
+
+[Source 1](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit/b0f19d6d1c49b6db4aef56ddba789a7f92f6ecce/Documents/NODEMCU-DEVKIT-INSTRUCTION-EN.pdf) · [Source 2](https://github.com/nodemcu/nodemcu-devkit/tree/b0f19d6d1c49b6db4aef56ddba789a7f92f6ecce)
+
+Two-page original instruction sheet with board pin definitions. DevKit 0.9 / ESP8266; not the 1.0 hardware.
+
+Image revision: Not identified
+
+SHA-256: `b64df237bef0b121524ead592d13650bec1bc8c4350671e4fd6e1264847af382`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

@@ -2070,5 +2070,8 @@
   "m5stack-dinmeter-v1-1": "boards/m5stack/esp32-s3fn8/dinmeter-v1-1--d619c2e2/README.md",
   "m5stack-ai-pyramid-pro": "boards/m5stack/axera-ax8850/ai-pyramid-pro--aab92513/README.md",
   "arduino-uno-breakout-carrier": "boards/arduino/passive-uno-q-carrier-mcu-and-mpu-signals-have-different-logic-voltages/uno-breakout-carrier--56dc4a81/README.md",
-  "renesas-ek-ra8p1-v1": "boards/renesas/ra8p1/ek-ra8p1-v1--3fcdf426/README.md"
+  "renesas-ek-ra8p1-v1": "boards/renesas/ra8p1/ek-ra8p1-v1--3fcdf426/README.md",
+  "waveshare-esp32-s3-lr1121-oled-1-54": "boards/waveshare/esp32-s3/esp32-s3-lr1121-oled-1-54--f8aec5f5/README.md",
+  "waveshare-esp32-s3-rs485-wled": "boards/waveshare/esp32-s3/esp32-s3-rs485-wled--f1890b69/README.md",
+  "m5stack-base-plc-m12-v1-1": "boards/m5stack/expansion-module/base-plc-m12-v1-1--c3da5d6c/README.md"
 }

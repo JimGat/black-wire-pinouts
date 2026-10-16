@@ -2,7 +2,7 @@
 
 [Search devices in the browser guide](https://valleytech-black-wire-guide.pages.dev/?tab=devices) · [All boards](BROWSE.md) · [First Edition](EDITION.md)
 
-**337 device records with references.** Includes handhelds, radio nodes, wearables, cameras, displays and controllers. Counts include unreviewed source records and supporting references; not every record has a full physical pinout.
+**338 device records with references.** Includes handhelds, radio nodes, wearables, cameras, displays and controllers. Counts include unreviewed source records and supporting references; not every record has a full physical pinout.
 
 Original manufacturer images remain unchanged. Revision and partial-map notes live on each device page.
 
@@ -167,7 +167,7 @@ Original manufacturer images remain unchanged. Revision and partial-map notes li
 | M5Stack | [StickS3](boards/m5stack/source-collection/sticks3--dfd8c6ca/README.md) | Not recorded | 0 | 2 |
 | M5Stack | [StickT2](boards/m5stack/source-collection/stickt2--ec1f5dc9/README.md) | Not recorded | 0 | 1 |
 | M5Stack | [Tough](boards/m5stack/source-collection/tough--3692b841/README.md) | Not recorded | 0 | 1 |
-| M5Stack | [ToughC5](boards/m5stack/esp32-c5hr8/toughc5--b3b41daf/README.md) | ESP32-C5HR8 | 0 | 1 |
+| M5Stack | [ToughC5](boards/m5stack/esp32-c5hr8/toughc5--b3b41daf/README.md) | ESP32-C5HR8 | 0 | 2 |
 | M5Stack | [Unit PoE-P4](boards/m5stack/esp32-p4/unit-poe-p4--287ba2ba/README.md) | ESP32-P4 | 1 | 5 |
 | Seeed Studio | [SenseCAP M2 Multi-Platform Gateway](boards/seeed-studio/source-collection/sensecap-m2-multi-platform-gateway--1dfbbd2c/README.md) | Not recorded | 0 | 2 |
 | SparkFun | [BlueSMiRF v2](boards/sparkfun/esp32/bluesmirf-v2--9287d8aa/README.md) | ESP32 | 4 | 4 |
@@ -276,6 +276,12 @@ Original manufacturer images remain unchanged. Revision and partial-map notes li
 | M5Stack | [CardputerZero](boards/m5stack/raspberry-pi-cm0/cardputerzero--f53c0029/README.md) · pre-release documentation | Raspberry Pi CM0 | 2 | 3 |
 | OpenSourceSDRLab | [PortaPack H4M](boards/opensourcesdrlab/gpio-device/portapack-h4m--aaba0987/README.md) | Not recorded | 1 | 1 |
 | WiPhone | [WiPhone Bus Pirate Daughter Board V1.1](boards/wiphone/pic24fj64ga002/wiphone-bus-pirate-daughter-board-v1-1--2bc59329/README.md) | PIC24FJ64GA002 | 3 | 4 |
+
+## Radio nodes & LoRa
+
+| Manufacturer | Device | Processor | Pinout images | References |
+|---|---|---|---:|---:|
+| Waveshare | [ESP32-S3-LR1121-OLED-1.54](boards/waveshare/esp32-s3/esp32-s3-lr1121-oled-1-54--f8aec5f5/README.md) | ESP32-S3 | 1 | 2 |
 
 ## Radios & GNSS
 

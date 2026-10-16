@@ -12,10 +12,12 @@ Coverage: Pinout image collected
 
 Board datasheet: **not yet recorded**. Visual reference: **available**.
 
-[Manufacturer source (recorded link)](https://www.waveshare.com/esp32-c5-pico.htm)
+[Manufacturer hardware documentation](https://docs.waveshare.com/ESP32-C5-Pico)
 
+- **schematic / board**: [ESP32-C5-Pico schematic](https://raw.githubusercontent.com/waveshareteam/ESP32-C5-Pico/cd413f3b76723516c8c264034f462381fe0ac0ac/schematic/ESP32-C5-Pico.pdf) · [saved document](../../../../library/media/5116f3b2cf824efc4f6bebc5577cd0ba961c312c1e7ff4261012783b57e4e077.pdf)
+- **hardware-guide / board**: [Manufacturer specifications and hardware documentation](https://docs.waveshare.com/ESP32-C5-Pico) · online
 
-A chip datasheet, schematic and board datasheet have different scopes. Match the exact hardware revision.
+Manufacturer lists onboard/external-antenna and soldered-header variants together. Match antenna/header variant and PCB revision. Board schematics and component datasheets have different scopes.
 
 [Documentation coverage and remaining gaps](../../../../DOCUMENTATION.md)
 
@@ -54,5 +56,23 @@ SHA-256: `695a488243b2ffb0f377be85c08ad206b56d98fbc34b5918896b07fa26135c30`
 Image revision: Not identified
 
 SHA-256: `cea8ba576630f80bf097ad749d3b4c9407ab0446baa52e5de7492a188b20fc5b`
+
+## ESP32-C5-Pico schematic
+
+**reference PDF** · Visually reviewed for identity and reference scope; independent electrical and all-connector review pending · PDF
+
+[![ESP32-C5-Pico reference preview](../../../../library/thumbs/5116f3b2cf824efc4f6bebc5577cd0ba961c312c1e7ff4261012783b57e4e077.webp)](../../../../library/media/5116f3b2cf824efc4f6bebc5577cd0ba961c312c1e7ff4261012783b57e4e077.pdf)
+
+[Open original reference](../../../../library/media/5116f3b2cf824efc4f6bebc5577cd0ba961c312c1e7ff4261012783b57e4e077.pdf)
+
+**Credit and rights:** Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.. Source/manufacturer: Waveshare.
+
+[Source 1](https://raw.githubusercontent.com/waveshareteam/ESP32-C5-Pico/cd413f3b76723516c8c264034f462381fe0ac0ac/schematic/ESP32-C5-Pico.pdf) · [Source 2](https://docs.waveshare.com/ESP32-C5-Pico)
+
+Original single-page board schematic, pinned to manufacturer repository commit.
+
+Image revision: Not identified
+
+SHA-256: `5116f3b2cf824efc4f6bebc5577cd0ba961c312c1e7ff4261012783b57e4e077`
 
 Pin assignments have not been independently electrically verified. Check board revision before wiring.

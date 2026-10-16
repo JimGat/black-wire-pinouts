@@ -458,11 +458,11 @@ M5Stack · Source review pending
 
 [Open full gallery](https://valleytech-black-wire-guide.pages.dev/?tab=makers&part=maker-existing-m5stack-expansion-unit-8servos2-i2c)
 
-[![Unit 8Servos2-I2C / board labeling image](../../library/thumbs/f7dba6934728bb290f982c32f9fc61550434f63955358763469650e115266ab8.webp)](../../library/media/f7dba6934728bb290f982c32f9fc61550434f63955358763469650e115266ab8.png)
+[![Unit 8Servos2-I2C / pinout image](../../library/thumbs/84d430985335855a5649227ddb886e49170c82c58dbef2c828de94ff7aab5c4a.webp)](../../library/media/84d430985335855a5649227ddb886e49170c82c58dbef2c828de94ff7aab5c4a.jpg)
 
-**board labeling image** · Reviewed source
+**pinout image** · Visually reviewed for identity and reference scope; independent electrical and all-connector review pending
 
-Not established; source attribution retained
+Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.
 
 ## Unit Buzzer
 

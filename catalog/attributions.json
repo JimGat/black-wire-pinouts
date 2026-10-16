@@ -5174,6 +5174,19 @@
     "original_collection_paths": "Pinouts and Reference Sheets/03 ESP32 and ESP8266/ESP8266/NodeMCU/NodeMCU DevKit 0.9/Pinout Images/NodeMCU DevKit 0.9 - Original board pinout - DEV-028.png"
   },
   {
+    "asset_id": "vendor-d3d53a81e27fcca60601",
+    "board": "NodeMCU DevKit 0.9",
+    "manufacturer": "NodeMCU",
+    "processor": "ESP8266",
+    "reference_type": "reference PDF",
+    "review": "Visually reviewed for identity and reference scope; independent electrical and all-connector review pending",
+    "file": "media/b64df237bef0b121524ead592d13650bec1bc8c4350671e4fd6e1264847af382.pdf",
+    "sha256": "b64df237bef0b121524ead592d13650bec1bc8c4350671e4fd6e1264847af382",
+    "source_urls": "https://raw.githubusercontent.com/nodemcu/nodemcu-devkit/b0f19d6d1c49b6db4aef56ddba789a7f92f6ecce/Documents/NODEMCU-DEVKIT-INSTRUCTION-EN.pdf | https://github.com/nodemcu/nodemcu-devkit/tree/b0f19d6d1c49b6db4aef56ddba789a7f92f6ecce",
+    "rights_status": "NodeMCU Team; the original document states MIT open license. Preserve the original attribution and applicable license notices.",
+    "original_collection_paths": ""
+  },
+  {
     "asset_id": "DEV-027",
     "board": "NodeMCU DevKit 1.0",
     "manufacturer": "NodeMCU",
@@ -5185,6 +5198,19 @@
     "source_urls": "https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/7cb0a330a25fad85e701c768ef46064c17d54446/Documents/NODEMCU_DEVKIT_V1.0_PINMAP.png | https://github.com/nodemcu/nodemcu-devkit-v1.0/blob/7cb0a330a25fad85e701c768ef46064c17d54446/Documents/NODEMCU_DEVKIT_V1.0_PINMAP.png",
     "rights_status": "Not established; source attribution retained",
     "original_collection_paths": "Pinouts and Reference Sheets/03 ESP32 and ESP8266/ESP8266/NodeMCU/NodeMCU DevKit 1.0/Pinout Images/NodeMCU DevKit 1.0 - Original board pinout - DEV-027.png"
+  },
+  {
+    "asset_id": "vendor-e7d9412b125493ecbbbd",
+    "board": "NodeMCU DevKit 1.0",
+    "manufacturer": "NodeMCU",
+    "processor": "ESP8266",
+    "reference_type": "reference PDF",
+    "review": "Visually reviewed for identity and reference scope; independent electrical and all-connector review pending",
+    "file": "media/3a3eef92e329f8c6680356b63839b95cc766abe78d330e4e1808aa57c2bd9364.pdf",
+    "sha256": "3a3eef92e329f8c6680356b63839b95cc766abe78d330e4e1808aa57c2bd9364",
+    "source_urls": "https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/7cb0a330a25fad85e701c768ef46064c17d54446/Documents/NODEMCU-DEVKIT-V1.0-INSTRUCTION-EN.pdf | https://github.com/nodemcu/nodemcu-devkit-v1.0/tree/7cb0a330a25fad85e701c768ef46064c17d54446",
+    "rights_status": "NodeMCU Team; the original document states MIT open license. Preserve the original attribution and applicable license notices.",
+    "original_collection_paths": ""
   },
   {
     "asset_id": "compact-nologo-2a1414851d13",
@@ -6409,6 +6435,19 @@
     "original_collection_paths": "Pinouts and Reference Sheets/03 ESP32 and ESP8266/ESP32-C5/Waveshare/ESP32-C5-MINI-KIT/Pinout Images/ESP32-C5-MINI-KIT - Pinout - WS-3.webp | Waveshare Board Reference/01 ESP32 and ESP8266/ESP32-C5/ESP32-C5-MINI-KIT/Additional Source Versions/ESP32-C5-MINI-KIT - Pinout - Source 0003.webp"
   },
   {
+    "asset_id": "vendor-da43d2bdb93c44a69483",
+    "board": "ESP32-C5-MINI-KIT",
+    "manufacturer": "Waveshare",
+    "processor": "ESP32-C5",
+    "reference_type": "reference PDF",
+    "review": "Visually reviewed for identity and reference scope; independent electrical and all-connector review pending",
+    "file": "media/4e35ae74ae22f2cee2cb22f399d63d49bc2362b772e6a74d2b7fd7b9c3e2ca90.pdf",
+    "sha256": "4e35ae74ae22f2cee2cb22f399d63d49bc2362b772e6a74d2b7fd7b9c3e2ca90",
+    "source_urls": "https://raw.githubusercontent.com/waveshareteam/ESP32-C5-MINI-KIT/9eb18f4282e2e464b34b911ed6ba63cf28f22c9f/schematic/ESP32-C5-MINI-KIT.pdf | https://docs.waveshare.com/ESP32-C5-MINI-KIT",
+    "rights_status": "Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.",
+    "original_collection_paths": ""
+  },
+  {
     "asset_id": "WS-340",
     "board": "ESP32-C5-Pico",
     "manufacturer": "Waveshare",
@@ -6433,6 +6472,19 @@
     "source_urls": "https://docs.waveshare.com/assets/images/ESP32-C5-Pico-GPIO-9e303b827787a1a6ea8d67a996662f44.webp | https://docs.waveshare.com/ESP32-C5-Pico",
     "rights_status": "Not recorded; retain original attribution",
     "original_collection_paths": "Pinouts and Reference Sheets/03 ESP32 and ESP8266/ESP32-C5/Waveshare/ESP32-C5-Pico/Pinout Images/ESP32-C5-Pico - Pinout - WS-4.webp | Waveshare Board Reference/01 ESP32 and ESP8266/ESP32-C5/ESP32-C5-Pico/Additional Source Versions/ESP32-C5-Pico - Pinout - Source 0004.webp"
+  },
+  {
+    "asset_id": "vendor-912a625909c1b303f0de",
+    "board": "ESP32-C5-Pico",
+    "manufacturer": "Waveshare",
+    "processor": "ESP32-C5",
+    "reference_type": "reference PDF",
+    "review": "Visually reviewed for identity and reference scope; independent electrical and all-connector review pending",
+    "file": "media/5116f3b2cf824efc4f6bebc5577cd0ba961c312c1e7ff4261012783b57e4e077.pdf",
+    "sha256": "5116f3b2cf824efc4f6bebc5577cd0ba961c312c1e7ff4261012783b57e4e077",
+    "source_urls": "https://raw.githubusercontent.com/waveshareteam/ESP32-C5-Pico/cd413f3b76723516c8c264034f462381fe0ac0ac/schematic/ESP32-C5-Pico.pdf | https://docs.waveshare.com/ESP32-C5-Pico",
+    "rights_status": "Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.",
+    "original_collection_paths": ""
   },
   {
     "asset_id": "WS-339",
@@ -11579,6 +11631,19 @@
     "file": "media/0bfcb87adeba6984e559a2376f8738234ade66b67d156a67bacdedcc751a71eb.pdf",
     "sha256": "0bfcb87adeba6984e559a2376f8738234ade66b67d156a67bacdedcc751a71eb",
     "source_urls": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1281/SCH_Unit_8Servos2-I2C_V0.4_SCH_PDF_20260526_2026_05_26_11_47_47.pdf | https://docs.m5stack.com/en/unit/Unit_8Servos2-I2C",
+    "rights_status": "Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.",
+    "original_collection_paths": ""
+  },
+  {
+    "asset_id": "vendor-9c866639eeed69b1a0b5",
+    "board": "Unit 8Servos2-I2C",
+    "manufacturer": "M5Stack",
+    "processor": "",
+    "reference_type": "pinout image",
+    "review": "Visually reviewed for identity and reference scope; independent electrical and all-connector review pending",
+    "file": "media/84d430985335855a5649227ddb886e49170c82c58dbef2c828de94ff7aab5c4a.jpg",
+    "sha256": "84d430985335855a5649227ddb886e49170c82c58dbef2c828de94ff7aab5c4a",
+    "source_urls": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1281/U222_Unit_8Servos2-I2C_main_pictures_07.jpg | https://docs.m5stack.com/en/unit/Unit_8Servos2-I2C",
     "rights_status": "Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.",
     "original_collection_paths": ""
   },
@@ -50141,6 +50206,19 @@
     "original_collection_paths": ""
   },
   {
+    "asset_id": "vendor-765802a99a450cc3bc6d",
+    "board": "ToughC5",
+    "manufacturer": "M5Stack",
+    "processor": "ESP32-C5HR8",
+    "reference_type": "board labeling image",
+    "review": "Visually reviewed for identity and reference scope; independent electrical and all-connector review pending",
+    "file": "media/28c1a816f19893433f87e13d91ca7a1c75aca348e7b3e3fab8537d3e3037a328.webp",
+    "sha256": "28c1a816f19893433f87e13d91ca7a1c75aca348e7b3e3fab8537d3e3037a328",
+    "source_urls": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1275/K162_ToughC5_main_pictures_01.webp | https://docs.m5stack.com/en/core/ToughC5",
+    "rights_status": "Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.",
+    "original_collection_paths": ""
+  },
+  {
     "asset_id": "vendor-9ac2970f818f54ada3ff",
     "board": "PaperMono-Lite",
     "manufacturer": "M5Stack",
@@ -50371,6 +50449,71 @@
     "file": "media/eaa47d0428e916cf6f6c4e674f5a202daf0060fe5cdea95204d9cc317d3a60af.png",
     "sha256": "eaa47d0428e916cf6f6c4e674f5a202daf0060fe5cdea95204d9cc317d3a60af",
     "source_urls": "https://www.renesas.com/en/document/mat/ek-ra8p1-v1-users-manual | https://www.renesas.com/en/design-resources/boards-kits/ek-ra8p1",
+    "rights_status": "Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.",
+    "original_collection_paths": ""
+  },
+  {
+    "asset_id": "vendor-0f2e90876e9be9c319cb",
+    "board": "ESP32-S3-LR1121-OLED-1.54",
+    "manufacturer": "Waveshare",
+    "processor": "ESP32-S3",
+    "reference_type": "pinout image",
+    "review": "Visually reviewed for identity and reference scope; independent electrical and all-connector review pending",
+    "file": "media/e575b4314134681525cd904cf52b2cddf35e726966203dbce972e2046924ed73.webp",
+    "sha256": "e575b4314134681525cd904cf52b2cddf35e726966203dbce972e2046924ed73",
+    "source_urls": "https://docs.waveshare.com/assets/images/ESP32-S3-LR1121-OLED-1.54-HW-0f03f534c8d76303e5fc55b861de373d.webp | https://docs.waveshare.com/ESP32-S3-LR1121-OLED-1.54",
+    "rights_status": "Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.",
+    "original_collection_paths": ""
+  },
+  {
+    "asset_id": "vendor-bc1446266b7c4d76e0c0",
+    "board": "ESP32-S3-LR1121-OLED-1.54",
+    "manufacturer": "Waveshare",
+    "processor": "ESP32-S3",
+    "reference_type": "reference PDF",
+    "review": "Visually reviewed for identity and reference scope; independent electrical and all-connector review pending",
+    "file": "media/6d351a8893c71686602c1b53ddbcee1ea32d2ea7760d35855ae09bf03664eb19.pdf",
+    "sha256": "6d351a8893c71686602c1b53ddbcee1ea32d2ea7760d35855ae09bf03664eb19",
+    "source_urls": "https://raw.githubusercontent.com/waveshareteam/esp32-s3-lr1121-oled-1.54/de469df0b7157b0b02bd9048d8e80b7abc07f5dc/hardware/schematics/esp32-s3-lr1121-oled-1_54_schematics.pdf | https://docs.waveshare.com/ESP32-S3-LR1121-OLED-1.54",
+    "rights_status": "Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.",
+    "original_collection_paths": ""
+  },
+  {
+    "asset_id": "vendor-a0ce90b26d06f2ce14d5",
+    "board": "ESP32-S3-RS485-WLED",
+    "manufacturer": "Waveshare",
+    "processor": "ESP32-S3",
+    "reference_type": "board labeling image",
+    "review": "Visually reviewed for identity and reference scope; independent electrical and all-connector review pending",
+    "file": "media/0ce75fa2bf525e202152241dfab213e579226b9ba1e5c98db2b86a009c560b0a.webp",
+    "sha256": "0ce75fa2bf525e202152241dfab213e579226b9ba1e5c98db2b86a009c560b0a",
+    "source_urls": "https://docs.waveshare.com/assets/images/ESP32-S3-RS485-WLED-details-intro-dde34fb81e801d1913533588e6b695f5.webp | https://docs.waveshare.com/ESP32-S3-RS485-WLED",
+    "rights_status": "Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.",
+    "original_collection_paths": ""
+  },
+  {
+    "asset_id": "vendor-314a1726a4a9b1b5ae9f",
+    "board": "Base PLC-M12 v1.1",
+    "manufacturer": "M5Stack",
+    "processor": "",
+    "reference_type": "reference PDF",
+    "review": "Visually reviewed for identity and reference scope; independent electrical and all-connector review pending",
+    "file": "media/514a83dd82d104b64d5a94fb1ffdf9210dc95095fdd7d44825fdbd0b2afe3ce3.pdf",
+    "sha256": "514a83dd82d104b64d5a94fb1ffdf9210dc95095fdd7d44825fdbd0b2afe3ce3",
+    "source_urls": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/base/Base_PLC-M12_v1.1.pdf | https://docs.m5stack.com/en/base/Base_PLC-M12_v1.1",
+    "rights_status": "Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.",
+    "original_collection_paths": ""
+  },
+  {
+    "asset_id": "vendor-plc-m12-v11-page-4",
+    "board": "Base PLC-M12 v1.1",
+    "manufacturer": "M5Stack",
+    "processor": "",
+    "reference_type": "pin function reference",
+    "review": "Visually reviewed for identity and reference scope; independent electrical and all-connector review pending",
+    "file": "media/e4daea1cafeed7aefaa3e7025769032013eb0337a685490def11977b53bc947b.png",
+    "sha256": "e4daea1cafeed7aefaa3e7025769032013eb0337a685490def11977b53bc947b",
+    "source_urls": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/base/Base_PLC-M12_v1.1.pdf | https://docs.m5stack.com/en/base/Base_PLC-M12_v1.1",
     "rights_status": "Manufacturer artwork; reuse and print rights not established. Inclusion does not relicense the original.",
     "original_collection_paths": ""
   }

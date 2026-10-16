@@ -887,6 +887,7 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | [Base M5GO Bottom2 v1.3](boards/m5stack/source-collection/base-m5go-bottom2-v1.3--d8bec61f/README.md) | Source collection | 2 | 0 |
 | [Base M5GO Charger](boards/m5stack/source-collection/base-m5go-charger--0e2ca801/README.md) | Source collection | 1 | 0 |
 | [Base PLC-M12](boards/m5stack/source-collection/base-plc-m12--c315344d/README.md) | Source collection | 1 | 0 |
+| [Base PLC-M12 v1.1](boards/m5stack/expansion-module/base-plc-m12-v1-1--c3da5d6c/README.md) | Expansion module | 2 | 0 |
 | [Base X](boards/m5stack/source-collection/base-x--2870935e/README.md) | Source collection | 1 | 0 |
 | [Base15](boards/m5stack/source-collection/base15--29693613/README.md) | Source collection | 1 | 0 |
 | [Base26](boards/m5stack/source-collection/base26--ef065695/README.md) | Source collection | 1 | 0 |
@@ -1133,7 +1134,7 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | [Tail RS485](boards/m5stack/source-collection/tail-rs485--5b2c2e9e/README.md) | Source collection | 1 | 0 |
 | [TimerCamera-F](boards/m5stack/source-collection/timercamera-f--37a4e98a/README.md) | Source collection | 1 | 0 |
 | [Tough](boards/m5stack/source-collection/tough--3692b841/README.md) | Source collection | 1 | 0 |
-| [ToughC5](boards/m5stack/esp32-c5hr8/toughc5--b3b41daf/README.md) | ESP32-C5HR8 | 1 | 0 |
+| [ToughC5](boards/m5stack/esp32-c5hr8/toughc5--b3b41daf/README.md) | ESP32-C5HR8 | 2 | 0 |
 | [Unit 2Relay](boards/m5stack/source-collection/unit-2relay--4837c730/README.md) | Source collection | 1 | 0 |
 | [Unit 3.96](boards/m5stack/source-collection/unit-3.96--97462562/README.md) | Source collection | 1 | 0 |
 | [Unit 4Relay](boards/m5stack/source-collection/unit-4relay--d4fee14f/README.md) | Source collection | 1 | 0 |
@@ -1141,7 +1142,7 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | [Unit 8Encoder](boards/m5stack/source-collection/unit-8encoder--02a62c2e/README.md) | Source collection | 1 | 0 |
 | [Unit 8Servos](boards/m5stack/source-collection/unit-8servos--be2fa9fe/README.md) | Source collection | 1 | 0 |
 | [Unit 8Servos2-Chain](boards/m5stack/source-collection/unit-8servos2-chain--66163395/README.md) | Source collection | 2 | 0 |
-| [Unit 8Servos2-I2C](boards/m5stack/expansion/unit-8servos2-i2c--194af06b/README.md) | Expansion | 2 | 0 |
+| [Unit 8Servos2-I2C](boards/m5stack/expansion/unit-8servos2-i2c--194af06b/README.md) | Expansion | 3 | 1 |
 | [Unit AC Measure](boards/m5stack/expansion/unit-ac-measure--f8659975/README.md) | Expansion | 2 | 0 |
 | [Unit Accel](boards/m5stack/source-collection/unit-accel--9f090672/README.md) | Source collection | 1 | 0 |
 | [Unit ACSSR](boards/m5stack/source-collection/unit-acssr--a0b523a7/README.md) | Source collection | 1 | 0 |
@@ -1318,8 +1319,8 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 
 | Board / device | Processor / family | References | Pinout images |
 |---|---|---:|---:|
-| [NodeMCU DevKit 0.9](boards/nodemcu/esp8266/nodemcu-devkit-0.9--02f5bd53/README.md) | ESP8266 | 1 | 1 |
-| [NodeMCU DevKit 1.0](boards/nodemcu/esp8266/nodemcu-devkit-1.0--63d1072f/README.md) | ESP8266 | 1 | 1 |
+| [NodeMCU DevKit 0.9](boards/nodemcu/esp8266/nodemcu-devkit-0.9--02f5bd53/README.md) | ESP8266 | 2 | 1 |
+| [NodeMCU DevKit 1.0](boards/nodemcu/esp8266/nodemcu-devkit-1.0--63d1072f/README.md) | ESP8266 | 2 | 1 |
 
 ## Nologo
 
@@ -2169,8 +2170,8 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | [ESP32-C3-Zero](boards/waveshare/esp32-c3/esp32-c3-zero--90c5417a/README.md) | ESP32-C3 | 3 | 3 |
 | [ESP32-C5-LCD-1.47](boards/waveshare/esp32-c5/esp32-c5-lcd-1.47--59510a8f/README.md) | ESP32-C5 | 1 | 1 |
 | [ESP32-C5-LCD-2.73](boards/waveshare/esp32-c5/esp32-c5-lcd-2-73--9ff94a97/README.md) | ESP32-C5 | 1 | 0 |
-| [ESP32-C5-MINI-KIT](boards/waveshare/esp32-c5/esp32-c5-mini-kit--a980d2b9/README.md) | ESP32-C5 | 2 | 2 |
-| [ESP32-C5-Pico](boards/waveshare/esp32-c5/esp32-c5-pico--277b134c/README.md) | ESP32-C5 | 2 | 2 |
+| [ESP32-C5-MINI-KIT](boards/waveshare/esp32-c5/esp32-c5-mini-kit--a980d2b9/README.md) | ESP32-C5 | 3 | 2 |
+| [ESP32-C5-Pico](boards/waveshare/esp32-c5/esp32-c5-pico--277b134c/README.md) | ESP32-C5 | 3 | 2 |
 | [ESP32-C5-Touch-LCD-1.69](boards/waveshare/esp32-c5/esp32-c5-touch-lcd-1.69--01a0d0c0/README.md) | ESP32-C5 | 2 | 2 |
 | [ESP32-C5-Touch-LCD-2.8](boards/waveshare/esp32-c5/esp32-c5-touch-lcd-2.8--c2a0ab2b/README.md) | ESP32-C5 | 2 | 2 |
 | [ESP32-C5-Touch-LCD-3.5](boards/waveshare/esp32-c5/esp32-c5-touch-lcd-3-5--ea6f9bfd/README.md) | ESP32-C5 | 3 | 0 |
@@ -2261,6 +2262,7 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | [ESP32-S3-LCD-2.8C](boards/waveshare/esp32-s3/esp32-s3-lcd-2.8c--533d97cc/README.md) | ESP32-S3 | 1 | 1 |
 | [ESP32-S3-LCD-3.16](boards/waveshare/esp32-s3/esp32-s3-lcd-3-16--f87f0cbc/README.md) | ESP32-S3 | 4 | 0 |
 | [ESP32-S3-LCD-Driver-Board](boards/waveshare/esp32-s3/esp32-s3-lcd-driver-board--54dca759/README.md) | ESP32-S3 | 2 | 2 |
+| [ESP32-S3-LR1121-OLED-1.54](boards/waveshare/esp32-s3/esp32-s3-lr1121-oled-1-54--f8aec5f5/README.md) | ESP32-S3 | 2 | 1 |
 | [ESP32-S3-LR1121-XF](boards/waveshare/esp32-s3/esp32-s3-lr1121-xf--8f36f633/README.md) | ESP32-S3 | 1 | 1 |
 | [ESP32-S3-Matrix](boards/waveshare/esp32-s3/esp32-s3-matrix--33bdcbc7/README.md) | ESP32-S3 | 5 | 3 |
 | [ESP32-S3-Matrix Development Board](boards/waveshare/esp32-s3/esp32-s3-matrix-development-board--34c230ee/README.md) | ESP32-S3 | 3 | 1 |
@@ -2272,6 +2274,7 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | [ESP32-S3-RGB-Matrix](boards/waveshare/esp32-s3/esp32-s3-rgb-matrix--5e60f951/README.md) | ESP32-S3 | 2 | 0 |
 | [ESP32-S3-RLCD-4.2](boards/waveshare/esp32-s3/esp32-s3-rlcd-4.2--12f882f1/README.md) | ESP32-S3 | 1 | 1 |
 | [ESP32-S3-RS485-CAN](boards/waveshare/esp32-s3/esp32-s3-rs485-can--b644fce3/README.md) | ESP32-S3 | 2 | 2 |
+| [ESP32-S3-RS485-WLED](boards/waveshare/esp32-s3/esp32-s3-rs485-wled--f1890b69/README.md) | ESP32-S3 | 1 | 0 |
 | [ESP32-S3-SIM7670G-4G](boards/waveshare/esp32-s3/esp32-s3-sim7670g-4g--366e08f2/README.md) | ESP32-S3 | 1 | 1 |
 | [ESP32-S3-Tiny](boards/waveshare/esp32-s3/esp32-s3-tiny--15af01ea/README.md) | ESP32-S3 | 3 | 3 |
 | [ESP32-S3-Touch-AMOLED-1.32](boards/waveshare/esp32-s3/esp32-s3-touch-amoled-1.32--13995164/README.md) | ESP32-S3 | 1 | 1 |

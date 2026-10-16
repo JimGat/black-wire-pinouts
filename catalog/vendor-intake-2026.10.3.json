@@ -1,0 +1,364 @@
+{
+  "snapshot": "2026.10.3",
+  "checked": "2026-10-15",
+  "edition": "First Edition / 2026",
+  "newBoards": [
+    "waveshare-esp32-s3-lr1121-oled-1-54",
+    "waveshare-esp32-s3-rs485-wled",
+    "m5stack-base-plc-m12-v1-1"
+  ],
+  "changedBoards": [
+    "m5stack-base-plc-m12-v1-1",
+    "m5stack-expansion-unit-8servos2-i2c",
+    "m5stack-toughc5",
+    "nodemcu-esp32-devkit-0-9",
+    "nodemcu-esp32-devkit-1-0",
+    "waveshare-esp32-esp32-c5-mini-kit",
+    "waveshare-esp32-esp32-c5-pico",
+    "waveshare-esp32-s3-lr1121-oled-1-54",
+    "waveshare-esp32-s3-rs485-wled"
+  ],
+  "addedReferences": 11,
+  "addedTypes": {
+    "pinout image": 2,
+    "board labeling image": 2,
+    "reference PDF": 6,
+    "pin function reference": 1
+  },
+  "records": [
+    {
+      "boardId": "waveshare-esp32-s3-lr1121-oled-1-54",
+      "assetId": "vendor-0f2e90876e9be9c319cb",
+      "type": "pinout image",
+      "file": "media/e575b4314134681525cd904cf52b2cddf35e726966203dbce972e2046924ed73.webp",
+      "sha256": "e575b4314134681525cd904cf52b2cddf35e726966203dbce972e2046924ed73",
+      "source": "https://docs.waveshare.com/assets/images/ESP32-S3-LR1121-OLED-1.54-HW-0f03f534c8d76303e5fc55b861de373d.webp"
+    },
+    {
+      "boardId": "waveshare-esp32-s3-rs485-wled",
+      "assetId": "vendor-a0ce90b26d06f2ce14d5",
+      "type": "board labeling image",
+      "file": "media/0ce75fa2bf525e202152241dfab213e579226b9ba1e5c98db2b86a009c560b0a.webp",
+      "sha256": "0ce75fa2bf525e202152241dfab213e579226b9ba1e5c98db2b86a009c560b0a",
+      "source": "https://docs.waveshare.com/assets/images/ESP32-S3-RS485-WLED-details-intro-dde34fb81e801d1913533588e6b695f5.webp"
+    },
+    {
+      "boardId": "m5stack-toughc5",
+      "assetId": "vendor-765802a99a450cc3bc6d",
+      "type": "board labeling image",
+      "file": "media/28c1a816f19893433f87e13d91ca7a1c75aca348e7b3e3fab8537d3e3037a328.webp",
+      "sha256": "28c1a816f19893433f87e13d91ca7a1c75aca348e7b3e3fab8537d3e3037a328",
+      "source": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1275/K162_ToughC5_main_pictures_01.webp"
+    },
+    {
+      "boardId": "m5stack-expansion-unit-8servos2-i2c",
+      "assetId": "vendor-9c866639eeed69b1a0b5",
+      "type": "pinout image",
+      "file": "media/84d430985335855a5649227ddb886e49170c82c58dbef2c828de94ff7aab5c4a.jpg",
+      "sha256": "84d430985335855a5649227ddb886e49170c82c58dbef2c828de94ff7aab5c4a",
+      "source": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1281/U222_Unit_8Servos2-I2C_main_pictures_07.jpg"
+    },
+    {
+      "boardId": "m5stack-base-plc-m12-v1-1",
+      "assetId": "vendor-314a1726a4a9b1b5ae9f",
+      "type": "reference PDF",
+      "file": "media/514a83dd82d104b64d5a94fb1ffdf9210dc95095fdd7d44825fdbd0b2afe3ce3.pdf",
+      "sha256": "514a83dd82d104b64d5a94fb1ffdf9210dc95095fdd7d44825fdbd0b2afe3ce3",
+      "source": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/base/Base_PLC-M12_v1.1.pdf"
+    },
+    {
+      "boardId": "nodemcu-esp32-devkit-0-9",
+      "assetId": "vendor-d3d53a81e27fcca60601",
+      "type": "reference PDF",
+      "file": "media/b64df237bef0b121524ead592d13650bec1bc8c4350671e4fd6e1264847af382.pdf",
+      "sha256": "b64df237bef0b121524ead592d13650bec1bc8c4350671e4fd6e1264847af382",
+      "source": "https://raw.githubusercontent.com/nodemcu/nodemcu-devkit/b0f19d6d1c49b6db4aef56ddba789a7f92f6ecce/Documents/NODEMCU-DEVKIT-INSTRUCTION-EN.pdf"
+    },
+    {
+      "boardId": "nodemcu-esp32-devkit-1-0",
+      "assetId": "vendor-e7d9412b125493ecbbbd",
+      "type": "reference PDF",
+      "file": "media/3a3eef92e329f8c6680356b63839b95cc766abe78d330e4e1808aa57c2bd9364.pdf",
+      "sha256": "3a3eef92e329f8c6680356b63839b95cc766abe78d330e4e1808aa57c2bd9364",
+      "source": "https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/7cb0a330a25fad85e701c768ef46064c17d54446/Documents/NODEMCU-DEVKIT-V1.0-INSTRUCTION-EN.pdf"
+    },
+    {
+      "boardId": "waveshare-esp32-esp32-c5-pico",
+      "assetId": "vendor-912a625909c1b303f0de",
+      "type": "reference PDF",
+      "file": "media/5116f3b2cf824efc4f6bebc5577cd0ba961c312c1e7ff4261012783b57e4e077.pdf",
+      "sha256": "5116f3b2cf824efc4f6bebc5577cd0ba961c312c1e7ff4261012783b57e4e077",
+      "source": "https://raw.githubusercontent.com/waveshareteam/ESP32-C5-Pico/cd413f3b76723516c8c264034f462381fe0ac0ac/schematic/ESP32-C5-Pico.pdf"
+    },
+    {
+      "boardId": "waveshare-esp32-esp32-c5-mini-kit",
+      "assetId": "vendor-da43d2bdb93c44a69483",
+      "type": "reference PDF",
+      "file": "media/4e35ae74ae22f2cee2cb22f399d63d49bc2362b772e6a74d2b7fd7b9c3e2ca90.pdf",
+      "sha256": "4e35ae74ae22f2cee2cb22f399d63d49bc2362b772e6a74d2b7fd7b9c3e2ca90",
+      "source": "https://raw.githubusercontent.com/waveshareteam/ESP32-C5-MINI-KIT/9eb18f4282e2e464b34b911ed6ba63cf28f22c9f/schematic/ESP32-C5-MINI-KIT.pdf"
+    },
+    {
+      "boardId": "waveshare-esp32-s3-lr1121-oled-1-54",
+      "assetId": "vendor-bc1446266b7c4d76e0c0",
+      "type": "reference PDF",
+      "file": "media/6d351a8893c71686602c1b53ddbcee1ea32d2ea7760d35855ae09bf03664eb19.pdf",
+      "sha256": "6d351a8893c71686602c1b53ddbcee1ea32d2ea7760d35855ae09bf03664eb19",
+      "source": "https://raw.githubusercontent.com/waveshareteam/esp32-s3-lr1121-oled-1.54/de469df0b7157b0b02bd9048d8e80b7abc07f5dc/hardware/schematics/esp32-s3-lr1121-oled-1_54_schematics.pdf"
+    },
+    {
+      "boardId": "m5stack-base-plc-m12-v1-1",
+      "assetId": "vendor-plc-m12-v11-page-4",
+      "type": "pin function reference",
+      "file": "media/e4daea1cafeed7aefaa3e7025769032013eb0337a685490def11977b53bc947b.png",
+      "sha256": "e4daea1cafeed7aefaa3e7025769032013eb0337a685490def11977b53bc947b",
+      "source": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/base/Base_PLC-M12_v1.1.pdf"
+    }
+  ],
+  "recheckedPinouts": [
+    {
+      "boardId": "waveshare-esp32-esp32-c5-mini-kit",
+      "source": "https://docs.waveshare.com/assets/images/ESP32-C5-MINI-KIT-size-7f310511b392c2224568de3e279d5849.webp",
+      "sha256": "408f5f8285d35d617de18edf194bfd10c32b36a060b30a4cd3b0e61a80eca747",
+      "unchanged": true
+    },
+    {
+      "boardId": "waveshare-esp32-esp32-c5-pico",
+      "source": "https://docs.waveshare.com/assets/images/ESP32-C5-Pico-GPIO-9e303b827787a1a6ea8d67a996662f44.webp",
+      "sha256": "cea8ba576630f80bf097ad749d3b4c9407ab0446baa52e5de7492a188b20fc5b",
+      "unchanged": true
+    }
+  ],
+  "externalPurposeRows": 10,
+  "scope": "Targeted Waveshare ESP32/RP2040/RP2350 documentation, M5Stack release/product index and official NodeMCU hardware review. Not a complete worldwide or manufacturer inventory.",
+  "excluded": [
+    {
+      "url": "https://raw.githubusercontent.com/waveshareteam/esp32-s3-lr1121-oled-1.54/de469df0b7157b0b02bd9048d8e80b7abc07f5dc/libraries/ESP32-audioI2S-master/examples/ESP32_TTGO-TAudio/schematic.pdf",
+      "reason": "Unrelated TTGO-TAudio example schematic bundled in a software dependency; not this Waveshare board."
+    },
+    {
+      "url": "https://docs.m5stack.com/en/core/TriviaPOD",
+      "reason": "Manufacturer comparison reports no expansion interface; not added as a GPIO device."
+    }
+  ],
+  "pendingDownloads": [
+    {
+      "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1275/K162_ToughC5_main_pictures_03.webp",
+      "source": "https://docs.m5stack.com/en/core/ToughC5",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1275/K162_ToughC5_main_pictures_04.webp",
+      "source": "https://docs.m5stack.com/en/core/ToughC5",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1275/K162_ToughC5_main_pictures_05.webp",
+      "source": "https://docs.m5stack.com/en/core/ToughC5",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1275/K162_ToughC5_main_pictures_07.webp",
+      "source": "https://docs.m5stack.com/en/core/ToughC5",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1275/K162_ToughC5_main_pictures_10.webp",
+      "source": "https://docs.m5stack.com/en/core/ToughC5",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1275/K162_ToughC5_main_pictures_14.webp",
+      "source": "https://docs.m5stack.com/en/core/ToughC5",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/core/ToughC5.pdf",
+      "source": "https://docs.m5stack.com/en/core/ToughC5",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1281/U222_Unit_8Servos2-I2C_main_pictures_01.jpg",
+      "source": "https://docs.m5stack.com/en/unit/Unit_8Servos2-I2C",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1281/U222_Unit_8Servos2-I2C_main_pictures_04.jpg",
+      "source": "https://docs.m5stack.com/en/unit/Unit_8Servos2-I2C",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1281/U222_Unit_8Servos2-I2C_main_pictures_05.jpg",
+      "source": "https://docs.m5stack.com/en/unit/Unit_8Servos2-I2C",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1281/U222_Unit_8Servos2-I2C_main_pictures_06.jpg",
+      "source": "https://docs.m5stack.com/en/unit/Unit_8Servos2-I2C",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1281/U222_Unit_8Servos2-I2C_main_pictures_08.jpg",
+      "source": "https://docs.m5stack.com/en/unit/Unit_8Servos2-I2C",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1281/U222_Unit_8Servos2-I2C_main_pictures_09.jpg",
+      "source": "https://docs.m5stack.com/en/unit/Unit_8Servos2-I2C",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1281/U222_Unit_8Servos2-I2C_main_pictures_10.jpg",
+      "source": "https://docs.m5stack.com/en/unit/Unit_8Servos2-I2C",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1281/U222_Unit_8Servos2-I2C_main_pictures_11.jpg",
+      "source": "https://docs.m5stack.com/en/unit/Unit_8Servos2-I2C",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    },
+    {
+      "url": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/static/pdf/static/en/unit/Unit_8Servos2-I2C.pdf",
+      "source": "https://docs.m5stack.com/en/unit/Unit_8Servos2-I2C",
+      "reason": "Manufacturer endpoint timed out during this pass; not saved."
+    }
+  ],
+  "discoveryLeads": [
+    {
+      "url": "https://docs.m5stack.com/en/core/M5GO_IoT_Kit_v2.7",
+      "label": "M5GO IoT Kit v2.7"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/core/Dial",
+      "label": "Dial"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/core/TriviaPOD",
+      "label": "TriviaPOD"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/unit/Unit_DigiClock",
+      "label": "Unit DigiClock"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/unit/Unit_RGB_LED_Strip",
+      "label": "Unit RGB LED Strip"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/unit/Unit_RGB_LED",
+      "label": "Unit RGB LED"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/unit/TimerCamera",
+      "label": "TimerCamera"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/M5Camera-Battery",
+      "label": "M5Camera-Battery"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/unit/Unit_CatM",
+      "label": "Unit CatM"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/unit/Unit_NBIoT-CN",
+      "label": "Unit NBIoT-CN"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/unit/Unit_ZigBee",
+      "label": "Unit ZigBee"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/unit/Unit_Power",
+      "label": "Unit Power"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/base/Base_LAN_v1.2",
+      "label": "Base LAN v1.2"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/base/Base26_v1.1",
+      "label": "Base26 v1.1"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/base/Base15_v1.1",
+      "label": "Base15 v1.1"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/base/Base_PLC-M12_v1.1",
+      "label": "Base PLC-M12 v1.1"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/StackChan_Repair_Kit",
+      "label": "StackChan Repair Kit"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/StackChan_GoCarry_Clip",
+      "label": "StackChan GoCarry Clip"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/hat/RoverC-Pro",
+      "label": "RoverC-Pro"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/cable/Grove_Cable",
+      "label": "Grove Cable"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/cable/Grove_Y_Cable",
+      "label": "Grove Y Cable"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/cable/Shielded_Twisted_Pair_Cable",
+      "label": "Shielded Twisted Pair Cable"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/PoE_Splitter",
+      "label": "PoE Splitter"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/PwrCAN_Cable",
+      "label": "PwrCAN Cable"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/unit/Catch",
+      "label": "Catch"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/SG90_Servo",
+      "label": "SG90 Servo"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/cable/Grove_to_Dupont",
+      "label": "Grove to Dupont"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/Bus_Socket",
+      "label": "Bus Socket"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/Bus_Socket_DIP_13.2",
+      "label": "Bus Socket DIP 13.2"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/RFID_Card_13.56MHz",
+      "label": "RFID Card 13.56MHz"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/M5Box",
+      "label": "M5Box"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/Screw",
+      "label": "Screw"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/ESP32_Downloader_Kit",
+      "label": "ESP32 Downloader Kit"
+    },
+    {
+      "url": "https://docs.m5stack.com/en/accessory/StampFly_Accessory_Kit",
+      "label": "StampFly Accessory Kit"
+    }
+  ]
+}
