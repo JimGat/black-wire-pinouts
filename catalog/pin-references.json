@@ -17175,5 +17175,394 @@
         }
       ]
     }
+  ],
+  "rockbase-nmtech-nm-cyd-c5": [
+    {
+      "connector": "Shared SPI, display and board controls",
+      "scope": "Manufacturer-source logical reference, not a physically verified connector map.",
+      "orientation": "Source labels/positions only. PCB revision, mating-face numbering, cable contact side and orientation have not been verified.",
+      "source": {
+        "url": "https://github.com/RockBase-iot/NM-CYD-C5/blob/a1366c3d63363019371dac476a03a01b821ec5de/Documention/2-sch/SCH_NM-CYD-C5-v1.0.pdf",
+        "locator": "Single-page schematic: TFT/TP/TF net assignments, TFT_BL and IO27_2812DIN; corroborating README Shared SPI and backlight tables",
+        "sha256": "9ddcc2d6870483d214911596b8428b053558d61ca48b3e1bc72e6aafe3528d32"
+      },
+      "review": "Source-backed transcription and schematic deduction; no continuity or functional test claimed. Contributor: JimGat (@jimgat).",
+      "pins": [
+        {
+          "label": "GPIO6",
+          "purpose": "Shared SPI SCK",
+          "notes": "ST7789 display, XPT2046 touch and microSD share this clock."
+        },
+        {
+          "label": "GPIO2",
+          "purpose": "Shared SPI MISO",
+          "notes": "Host receives display/touch/SD data; also appears on expansion FPC."
+        },
+        {
+          "label": "GPIO7",
+          "purpose": "Shared SPI MOSI",
+          "notes": "Host transmits on the shared bus; also appears on expansion FPC."
+        },
+        {
+          "label": "GPIO23",
+          "purpose": "Display chip select",
+          "notes": "Independent CS, not the Classic ESP32 CYD pin assignment."
+        },
+        {
+          "label": "GPIO1",
+          "purpose": "XPT2046 touch chip select",
+          "notes": "Pinned schematic/README describe resistive touch; wiki wording differs."
+        },
+        {
+          "label": "GPIO10",
+          "purpose": "microSD chip select",
+          "notes": "Shared bus requires each peripheral to release MISO when unselected."
+        },
+        {
+          "label": "GPIO24",
+          "purpose": "TFT D/C (TFT_RS)",
+          "notes": "Schematic deduction, not a physical-header contact."
+        },
+        {
+          "label": "GPIO3",
+          "purpose": "Touch interrupt (TP_IRQ)",
+          "notes": "Schematic net role; manufacturer README IRQ cell is unfilled."
+        },
+        {
+          "label": "GPIO25",
+          "purpose": "Display backlight control",
+          "notes": "Manufacturer function, not a safe external load-power output."
+        },
+        {
+          "label": "GPIO27",
+          "purpose": "WS2812 RGB LED data",
+          "notes": "Native board LED role; not an accessory-host compatibility ID."
+        }
+      ]
+    },
+    {
+      "connector": "P5 — LP-UART / optional GPS",
+      "scope": "Optional external GPS LP-UART function reference. This is not a qualification of the additional NM-RF-HAT UART cable.",
+      "orientation": "Source labels/positions only. PCB revision, mating-face numbering, cable contact side and orientation have not been verified.",
+      "source": {
+        "url": "https://github.com/RockBase-iot/NM-CYD-C5/blob/a1366c3d63363019371dac476a03a01b821ec5de/README.md",
+        "locator": "LP-UART (NM-CYD-C5:P5) for GPS Module"
+      },
+      "review": "Source-backed transcription and schematic deduction; no continuity or functional test claimed. Contributor: JimGat (@jimgat).",
+      "pins": [
+        {
+          "label": "GPIO4 / LP_UART_RXD",
+          "purpose": "ESP32-C5 UART receive",
+          "notes": "Manufacturer GPS table RX=4; GPS module TX feeds host RX, with common ground."
+        },
+        {
+          "label": "GPIO5 / LP_UART_TXD",
+          "purpose": "ESP32-C5 UART transmit",
+          "notes": "Manufacturer GPS table TX=5; module receive capability and wiring are module-specific."
+        },
+        {
+          "label": "Power / GND",
+          "purpose": "UART connector power reference",
+          "notes": "Contact order, voltage suitability and polarity require the exact board/module documentation; not inferred from the two GPIO entries."
+        }
+      ]
+    },
+    {
+      "connector": "CN1 — manufacturer I2C extension listing",
+      "scope": "Manufacturer CN1 position list, NOT a mating-face or wire-color map.",
+      "orientation": "Source labels/positions only. PCB revision, mating-face numbering, cable contact side and orientation have not been verified.",
+      "source": {
+        "url": "https://github.com/RockBase-iot/NM-CYD-C5/blob/a1366c3d63363019371dac476a03a01b821ec5de/README.md",
+        "locator": "Extend IO for I2C (CN1); schematic TEMP_SCL/TEMP_SDA and R32/R33"
+      },
+      "review": "Source-backed transcription and schematic deduction; no continuity or functional test claimed. Contributor: JimGat (@jimgat).",
+      "pins": [
+        {
+          "label": "3.3V",
+          "purpose": "Board 3.3 V rail",
+          "notes": "No available-current rating established.",
+          "position": "1"
+        },
+        {
+          "label": "IO9",
+          "purpose": "I2C SDA / TEMP_SDA",
+          "notes": "Schematic net and pull-up R33; shared with other interfaces.",
+          "position": "2"
+        },
+        {
+          "label": "IO8",
+          "purpose": "I2C SCL / TEMP_SCL",
+          "notes": "Schematic net and pull-up R32; shared with other interfaces.",
+          "position": "3"
+        },
+        {
+          "label": "GND",
+          "purpose": "Signal reference ground",
+          "notes": "Physical connector orientation unverified.",
+          "position": "4"
+        }
+      ]
+    },
+    {
+      "connector": "P1 — extension IO listing",
+      "scope": "Manufacturer P1 position list; no continuity-test claim.",
+      "orientation": "Source labels/positions only. PCB revision, mating-face numbering, cable contact side and orientation have not been verified.",
+      "source": {
+        "url": "https://github.com/RockBase-iot/NM-CYD-C5/blob/a1366c3d63363019371dac476a03a01b821ec5de/README.md",
+        "locator": "Extend IO (NM-CYD-C5:P1); schematic IO26/SPEAK_IN"
+      },
+      "review": "Source-backed transcription and schematic deduction; no continuity or functional test claimed. Contributor: JimGat (@jimgat).",
+      "pins": [
+        {
+          "label": "IO4",
+          "purpose": "Native GPIO / LP-UART RX role",
+          "notes": "Shared with P5/FPC; not an independent extra UART.",
+          "position": "1"
+        },
+        {
+          "label": "IO8",
+          "purpose": "Native GPIO / I2C SCL role",
+          "notes": "On-board pull-up; shared with CN1/FPC.",
+          "position": "2"
+        },
+        {
+          "label": "IO26",
+          "purpose": "Native GPIO / SPEAK_IN net",
+          "notes": "Audio-associated net on the pinned schematic; verify before repurposing.",
+          "position": "3"
+        },
+        {
+          "label": "GND",
+          "purpose": "Signal reference ground",
+          "notes": "Mating-face orientation unverified.",
+          "position": "4"
+        }
+      ]
+    },
+    {
+      "connector": "Expansion FPC — source FPC2 signal list, NOT a cable pinout",
+      "scope": "README positional transcription only: 12 listed signals versus 14-position schematic symbol. FPC1 labels the display in the schematic. Do not use this table as a physically verified contact-order or ribbon-orientation map.",
+      "orientation": "Source labels/positions only. PCB revision, mating-face numbering, cable contact side and orientation have not been verified.",
+      "source": {
+        "url": "https://github.com/RockBase-iot/NM-CYD-C5/blob/a1366c3d63363019371dac476a03a01b821ec5de/README.md",
+        "locator": "NM Extend IO: 12-Pin FPC Interface (FPC2)"
+      },
+      "review": "Source-backed transcription and schematic deduction; no continuity or functional test claimed. Contributor: JimGat (@jimgat).",
+      "pins": [
+        {
+          "label": "IO2",
+          "purpose": "Shared SPI MISO",
+          "notes": "Native host GPIO; not HAT GPIO19 by numeric identity.",
+          "position": "1"
+        },
+        {
+          "label": "IO6",
+          "purpose": "Shared SPI clock",
+          "notes": "Native host GPIO; endpoint numbering differs from Classic CYD.",
+          "position": "2"
+        },
+        {
+          "label": "IO7",
+          "purpose": "Shared SPI MOSI",
+          "notes": "Native host GPIO.",
+          "position": "3"
+        },
+        {
+          "label": "IO10",
+          "purpose": "microSD chip select / expansion signal",
+          "notes": "Bus ownership and firmware selection remain model-specific.",
+          "position": "4"
+        },
+        {
+          "label": "GND",
+          "purpose": "Signal ground",
+          "notes": "No power/current rating inferred.",
+          "position": "5"
+        },
+        {
+          "label": "IO4",
+          "purpose": "LP-UART RX / GPIO",
+          "notes": "Additional UART cable is a separate assembly connection; endpoints unqualified.",
+          "position": "6"
+        },
+        {
+          "label": "IO8",
+          "purpose": "I2C SCL / GPIO",
+          "notes": "On-board pull-up; shared uses.",
+          "position": "7"
+        },
+        {
+          "label": "IO5",
+          "purpose": "LP-UART TX / GPIO",
+          "notes": "Host signal role, not permission to join outputs.",
+          "position": "8"
+        },
+        {
+          "label": "IO9",
+          "purpose": "I2C SDA / GPIO",
+          "notes": "On-board pull-up; shared uses.",
+          "position": "9"
+        },
+        {
+          "label": "USB D−",
+          "purpose": "Native USB data negative",
+          "notes": "Differential USB signal, not a general-purpose supply pin.",
+          "position": "10"
+        },
+        {
+          "label": "USB D+",
+          "purpose": "Native USB data positive",
+          "notes": "Differential USB signal; no cable orientation inferred.",
+          "position": "11"
+        },
+        {
+          "label": "GND",
+          "purpose": "Signal ground",
+          "notes": "The source lists 12 positions; schematic shows 14. Resolve hardware before connection.",
+          "position": "12"
+        }
+      ]
+    }
+  ],
+  "rockbase-nmtech-nm-rf-hat": [
+    {
+      "connector": "Module signal purposes — not ESP32-C5 native GPIO numbers",
+      "scope": "Manufacturer-source logical reference, not a physically verified connector map.",
+      "orientation": "Source labels/positions only. PCB revision, mating-face numbering, cable contact side and orientation have not been verified.",
+      "source": {
+        "url": "https://github.com/RockBase-iot/NM-RF-HAT/blob/88e943a4b74b999d6a26156e8e8566949e18c646/Documentation/1-sch/SCH_NM-RF-HAT_v1.0.pdf",
+        "locator": "PDF pages 1–6: top-level, CC1101, NRF24, IR, 433 AM and PN532 net labels",
+        "sha256": "95bca334977bd91ae421834f1862dc0a0e3615f03a28bc8a2724b0fd824f92eb"
+      },
+      "review": "Source-backed transcription and schematic deduction; no continuity or functional test claimed. Contributor: JimGat (@jimgat).",
+      "pins": [
+        {
+          "label": "CC1101: SCK / MOSI / MISO / CSn",
+          "purpose": "Sub-1 GHz SPI interface",
+          "notes": "Shared host bus; CSn is active low. No RF transmission or functional detection test performed."
+        },
+        {
+          "label": "CC1101: GDO0",
+          "purpose": "Radio event/data signal",
+          "notes": "Do not assume a Classic-CYD GPIO number transfers to ESP32-C5."
+        },
+        {
+          "label": "nRF24: SCK / MOSI / MISO / CSN",
+          "purpose": "2.4 GHz SPI interface",
+          "notes": "CSN is independent from the CE radio-control signal."
+        },
+        {
+          "label": "nRF24: CE / CE-2",
+          "purpose": "Radio enable/control routing",
+          "notes": "Schematic carries CE and CE-2 nets; no external connector position inferred."
+        },
+        {
+          "label": "PN532: NSS/SCL / MISO / SCK",
+          "purpose": "NFC interface nets",
+          "notes": "Names are module nets; supported bus mode and host firmware must agree."
+        },
+        {
+          "label": "UART_RX_PN532 / UART_TX_PN532",
+          "purpose": "PN532 UART-side module nets",
+          "notes": "RX/TX direction is relative to the module; not a verified C5 cable contact map."
+        },
+        {
+          "label": "IR_DR / IR_DT",
+          "purpose": "Infrared receive / transmit control",
+          "notes": "Schematic IR receiver and emitter driver, not an RF antenna connector."
+        },
+        {
+          "label": "433_DR / 433_DT",
+          "purpose": "433 MHz ASK receive / transmit data",
+          "notes": "Separate RF433 paths, not the same device as CC1101."
+        }
+      ]
+    },
+    {
+      "connector": "Host connections and expansion — assembly roles",
+      "scope": "Source-backed connector roles plus contributor-scoped C5-versus-Classic assembly distinction; not a pin-to-pin wiring prescription.",
+      "orientation": "Source labels/positions only. PCB revision, mating-face numbering, cable contact side and orientation have not been verified.",
+      "source": {
+        "url": "https://github.com/RockBase-iot/NM-RF-HAT/blob/88e943a4b74b999d6a26156e8e8566949e18c646/Documentation/2-usermanual/NM-RF-HAT-UserMannual.pdf",
+        "locator": "PDF pages 2–8, with top-level schematic and manufacturer README GNSS/TF/battery notes",
+        "sha256": "9224993d7dee66c5216172c705001576e511190baaf8611c0ae7cc4cb1b7764a"
+      },
+      "review": "Source-backed transcription and schematic deduction; no continuity or functional test claimed. Contributor: JimGat (@jimgat).",
+      "pins": [
+        {
+          "label": "C5 expansion FPC + additional UART",
+          "purpose": "NM-CYD-C5 host arrangement",
+          "notes": "Direct expansion FPC is distinct from the display FPC. Additional UART endpoint/order remains unqualified."
+        },
+        {
+          "label": "Classic CYD TF/SD SPI shim + signal/UART leads",
+          "purpose": "ESP32-2432S028 host arrangement",
+          "notes": "Classic SD-slot adapter exposes the host SPI bus; not a universal C5 instruction."
+        },
+        {
+          "label": "HAT FPC2 / host IOxx nets",
+          "purpose": "Expansion interconnect on the HAT schematic",
+          "notes": "The HAT schematic uses legacy IO19/IO18/IO23/IO5 labels. These are not evidence of identically numbered ESP32-C5 GPIO."
+        },
+        {
+          "label": "TF1",
+          "purpose": "microSD storage interface",
+          "notes": "Schematic shared SPI/CS path. Storage presence does not make TF shim mandatory on the C5 host."
+        },
+        {
+          "label": "External GPS/GNSS connector",
+          "purpose": "Optional external receiver UART expansion",
+          "notes": "No GPS receiver or baud rate qualification is claimed here."
+        },
+        {
+          "label": "USB-C / BAT / module rails",
+          "purpose": "Input power, charging/boost and selectable module supply",
+          "notes": "Do not infer safe current, polarity, battery chemistry suitability or simultaneous-source behavior."
+        }
+      ]
+    },
+    {
+      "connector": "Module selection — label-based due to conflicting DIP numbering",
+      "scope": "Manufacturer-source disagreement is preserved explicitly. No numeric DIP configuration is recommended until actual board/revision is verified.",
+      "orientation": "Source labels/positions only. PCB revision, mating-face numbering, cable contact side and orientation have not been verified.",
+      "source": {
+        "url": "https://github.com/RockBase-iot/NM-RF-HAT/blob/88e943a4b74b999d6a26156e8e8566949e18c646/Documentation/2-usermanual/NM-RF-HAT-UserMannual.pdf",
+        "locator": "PDF pages 3–6 for module power; page 8 power precautions. Compare live wiki DIP Switch Basics.",
+        "sha256": "9224993d7dee66c5216172c705001576e511190baaf8611c0ae7cc4cb1b7764a"
+      },
+      "review": "Source-backed transcription and schematic deduction; no continuity or functional test claimed. Contributor: JimGat (@jimgat).",
+      "pins": [
+        {
+          "label": "nRF24",
+          "purpose": "Select only the nRF24 function",
+          "notes": "Pinned manual position 1; live wiki position 2. Verify actual silkscreen/revision."
+        },
+        {
+          "label": "CC1101",
+          "purpose": "Select only the CC1101 function",
+          "notes": "Pinned manual position 2; live wiki position 1. Verify actual silkscreen/revision."
+        },
+        {
+          "label": "RF433",
+          "purpose": "Select only the separate 433 MHz ASK function",
+          "notes": "Pinned manual position 3; live wiki position 5. Not the CC1101 path."
+        },
+        {
+          "label": "IR",
+          "purpose": "Select the infrared function",
+          "notes": "Both cited sources call it position 4; still not bench-verified."
+        },
+        {
+          "label": "PN532",
+          "purpose": "Select the NFC function",
+          "notes": "Pinned manual position 5; live wiki position 3. Verify actual silkscreen/revision."
+        },
+        {
+          "label": "Battery switch / sixth position",
+          "purpose": "Battery path selection per exact hardware",
+          "notes": "No safe charging, isolation or current-limit prescription is inferred."
+        }
+      ]
+    }
   ]
 }

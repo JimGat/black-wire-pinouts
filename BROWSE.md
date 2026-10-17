@@ -1521,6 +1521,13 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 |---|---|---:|---:|
 | [EK-RA8P1 v1](boards/renesas/ra8p1/ek-ra8p1-v1--3fcdf426/README.md) | RA8P1 | 7 | 1 |
 
+## RockBase IoT / NMTech
+
+| Board / device | Processor / family | References | Pinout images |
+|---|---|---:|---:|
+| [NM-CYD-C5](boards/rockbase-iot-nmtech/esp32-c5/nm-cyd-c5--45822b76/README.md) | ESP32-C5 | 4 | 1 |
+| [NM-RF-HAT](boards/rockbase-iot-nmtech/host-controlled-rf-accessory/nm-rf-hat--2c0a9aa7/README.md) | Host-controlled RF accessory | 6 | 1 |
+
 ## Seeed Studio
 
 | Board / device | Processor / family | References | Pinout images |

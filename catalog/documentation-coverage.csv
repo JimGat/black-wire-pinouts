@@ -3290,3 +3290,5 @@ elechouse-st25r3916b,ST25R3916B NFC Module,Elechouse,maker,1,1,1,0,2,checked-mod
 elechouse-simplevr,SimpleVR speaker-independent Voice Recognition Module,Elechouse,maker,0,0,0,0,1,checked-model-page,Board datasheet not yet recorded,https://www.elechouse.com/product/simplevr-speaker-independent-voice-recognition-module/
 elechouse-voice-recognition-v3,"Speak Recognition, Voice Recognition Module V3",Elechouse,maker,0,1,0,0,2,checked-model-page,Board datasheet not yet recorded,https://www.elechouse.com/product/speak-recognition-voice-recognition-module-v3/
 elechouse-pn532-v3,PN532 NFC RFID module V3,Elechouse,maker,0,1,0,0,2,checked-model-page,Board datasheet not yet recorded,https://www.elechouse.com/elechouse/images/product/PN532_module_V3/PN532_%20Manual_V3.pdf
+rockbase-nmtech-nm-cyd-c5,NM-CYD-C5,RockBase IoT / NMTech,board,0,3,1,1,4,checked-model-page,Board datasheet not yet recorded,https://wiki.rockbaseiot.com/docs/products/nm-cyd-c5/
+rockbase-nmtech-nm-rf-hat,NM-RF-HAT,RockBase IoT / NMTech,board,0,4,1,0,6,checked-model-page,Board datasheet not yet recorded,https://wiki.rockbaseiot.com/docs/products/nm-rf-hat-quick-start/

@@ -1,11 +1,11 @@
 {
   "checked": "2026-10-16",
-  "listingCount": 3291,
+  "listingCount": 3293,
   "countsAreListingsNotUniqueHardware": true,
   "completeDeviceApprovals": 0,
   "summary": {
     "board": {
-      "pinout-source": 1069,
+      "pinout-source": 1071,
       "reference-only": 982,
       "missing": 627,
       "functions-only": 38
@@ -58007,6 +58007,40 @@
       "scope": "Pin functions documented; use the matching source image to locate the connector. Physical order is not established by a function table.",
       "missing": [
         "Physical connector map",
+        "Independent all-connector completeness review",
+        "Revision match and electrical limits"
+      ]
+    },
+    {
+      "id": "rockbase-nmtech-nm-cyd-c5",
+      "name": "NM-CYD-C5",
+      "brand": "RockBase IoT / NMTech",
+      "kind": "board",
+      "status": "pinout-source",
+      "physicalCount": 1,
+      "functionTableCount": 5,
+      "functionSheetCount": 0,
+      "purposeRows": 33,
+      "completeDeviceApproved": false,
+      "scope": "C5 host: direct expansion FPC plus additional UART; Classic CYD: SD-slot SPI shim plus signal/UART leads. Manufacturer-labeled board pinout available; match exact hardware revision. FPC mating face, cable orientation, host mapping and independent all-connector electrical correctness remain unverified.",
+      "missing": [
+        "Independent all-connector completeness review",
+        "Revision match and electrical limits"
+      ]
+    },
+    {
+      "id": "rockbase-nmtech-nm-rf-hat",
+      "name": "NM-RF-HAT",
+      "brand": "RockBase IoT / NMTech",
+      "kind": "board",
+      "status": "pinout-source",
+      "physicalCount": 1,
+      "functionTableCount": 3,
+      "functionSheetCount": 0,
+      "purposeRows": 20,
+      "completeDeviceApproved": false,
+      "scope": "C5 host: direct expansion FPC plus additional UART; Classic CYD: SD-slot SPI shim plus signal/UART leads. Manufacturer-labeled board pinout available; match exact hardware revision. FPC mating face, cable orientation, host mapping and independent all-connector electrical correctness remain unverified.",
+      "missing": [
         "Independent all-connector completeness review",
         "Revision match and electrical limits"
       ]
