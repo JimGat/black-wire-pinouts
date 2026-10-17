@@ -261,7 +261,7 @@ Original manufacturer images remain unchanged. Revision and partial-map notes li
 
 | Manufacturer | Device | Processor | Pinout images | References |
 |---|---|---|---:|---:|
-| RockBase IoT / NMTech | [NM-RF-HAT](boards/rockbase-iot-nmtech/host-controlled-rf-accessory/nm-rf-hat--2c0a9aa7/README.md) | Host-controlled RF accessory | 1 | 4 |
+| RockBase IoT / NMTech | [NM-RF-HAT](boards/rockbase-iot-nmtech/host-controlled-rf-accessory/nm-rf-hat--2c0a9aa7/README.md) | Host-controlled RF accessory | 1 | 6 |
 
 ## Handhelds & pocket tools
 

@@ -58095,5 +58095,31 @@
     "source_urls": "https://raw.githubusercontent.com/RockBase-iot/NM-RF-HAT/88e943a4b74b999d6a26156e8e8566949e18c646/Documentation/pics/jst_interface.png | https://github.com/RockBase-iot/NM-RF-HAT/blob/88e943a4b74b999d6a26156e8e8566949e18c646/README.md | https://github.com/RockBase-iot/NM-RF-HAT",
     "rights_status": "RockBase IoT / NMTech manufacturer artwork, retained unchanged with source credit. Reuse, redistribution and print rights not established; local review inclusion does not relicense the original. Public submission requires a permissions review.",
     "original_collection_paths": ""
+  },
+  {
+    "asset_id": "jimgat-nm-cyd-c5-rf-hat-connection",
+    "board": "NM-RF-HAT",
+    "manufacturer": "RockBase IoT / NMTech",
+    "processor": "Host-controlled RF accessory",
+    "reference_type": "board photograph",
+    "review": "Assembly illustration and host identity reviewed; no new pin transcription, continuity or functional test",
+    "file": "media/6947148b05ed8a636acda0ee492c40bcd0502f4635c55b37677aa00b2f1c8106.jpg",
+    "sha256": "6947148b05ed8a636acda0ee492c40bcd0502f4635c55b37677aa00b2f1c8106",
+    "source_urls": "https://github.com/JimGat",
+    "rights_status": "Original photograph by JimGat (@jimgat); contributor authorized inclusion and metadata stripping/editing. No blanket Creative Commons or book-print permission is inferred; confirm intended licensing before public submission.",
+    "original_collection_paths": ""
+  },
+  {
+    "asset_id": "nmtech-classic-cyd-rf-hat-connection",
+    "board": "NM-RF-HAT",
+    "manufacturer": "RockBase IoT / NMTech",
+    "processor": "Host-controlled RF accessory",
+    "reference_type": "board labeling image",
+    "review": "Assembly illustration and host identity reviewed; no new pin transcription, continuity or functional test",
+    "file": "media/79cf43f8115e8639715bb3644f26b8c1fd2aac7bb0411883452f49758b78b367.png",
+    "sha256": "79cf43f8115e8639715bb3644f26b8c1fd2aac7bb0411883452f49758b78b367",
+    "source_urls": "https://www.nmminer.com/wp-content/uploads/2026/02/connection-1024x712.png | https://www.nmminer.com/",
+    "rights_status": "NMTech / NMminer manufacturer illustration; original downloaded bytes retained unchanged. Reuse, redistribution and print rights not established; public submission requires permissions review.",
+    "original_collection_paths": ""
   }
 ]

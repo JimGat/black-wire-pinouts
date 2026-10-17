@@ -1526,7 +1526,7 @@ Board diagrams, GPIO references and additional source documents are labeled sepa
 | Board / device | Processor / family | References | Pinout images |
 |---|---|---:|---:|
 | [NM-CYD-C5](boards/rockbase-iot-nmtech/esp32-c5/nm-cyd-c5--45822b76/README.md) | ESP32-C5 | 4 | 1 |
-| [NM-RF-HAT](boards/rockbase-iot-nmtech/host-controlled-rf-accessory/nm-rf-hat--2c0a9aa7/README.md) | Host-controlled RF accessory | 4 | 1 |
+| [NM-RF-HAT](boards/rockbase-iot-nmtech/host-controlled-rf-accessory/nm-rf-hat--2c0a9aa7/README.md) | Host-controlled RF accessory | 6 | 1 |
 
 ## Seeed Studio
 
